@@ -35,7 +35,7 @@ def create_alarm_graph(master_excel_file, selected_site):
 
 if __name__ == "__main__":
     # Specify the path for the master Excel file
-    master_excel_file_path = 'C:/Users/klongley/Documents/CMS/Master_Alarms.xlsx'
+    master_excel_file_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/Master_Alarms.xlsx'
     
     # Get the user input for the selected site
     selected_site = input('Enter the site name: ')

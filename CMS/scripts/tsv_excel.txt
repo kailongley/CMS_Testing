@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Specify the directory where your files are located
-directory_path = 'C:/Users/klongley/Documents/CMS/raw_exports'
+directory_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/raw_exports'
 
 # List all files in the directory
 files = os.listdir(directory_path)
@@ -30,7 +30,7 @@ if filtered_files:
     date_from_filename = most_recent_file[7:-4]
 
     # Specify the Excel file path with the datestamped filename
-    excel_file_path = f'C:/Users/klongley/Documents/CMS/excel_exports/alarms_{date_from_filename}.xlsx'
+    excel_file_path = f'C:/Users/klongley/Documents/CMS_Testing/CMS/excel_exports/alarms_{date_from_filename}.xlsx'
 
     # Write the DataFrame to an Excel file
     df.to_excel(excel_file_path, index=False)

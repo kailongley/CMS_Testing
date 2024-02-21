@@ -39,10 +39,10 @@ def generate_site_total_alarms(directory_path, output_file):
 
 if __name__ == "__main__":
     # Specify the path for the directory containing Excel files
-    excel_exports_directory = 'C:/Users/klongley/Documents/CMS/excel_exports/'
+    excel_exports_directory = 'C:/Users/klongley/Documents/CMS_Testing/CMS/excel_exports/'
 
     # Specify the output path for the new Excel file
-    output_excel_file = 'C:/Users/klongley/Documents/CMS/Site_Total_Alarms.xlsx'
+    output_excel_file = 'C:/Users/klongley/Documents/CMS_Testing/CMS/Site_Total_Alarms.xlsx'
 
     # Call the function to generate the total alarms per site in a new Excel file
     generate_site_total_alarms(excel_exports_directory, output_excel_file)
