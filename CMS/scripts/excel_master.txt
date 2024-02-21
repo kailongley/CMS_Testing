@@ -29,10 +29,10 @@ def append_to_master(master_excel_file, new_excel_file):
 
 if __name__ == "__main__":
     # Specify the path for the master Excel file
-    master_excel_file_path = 'C:/Users/klongley/Documents/CMS/Master_Alarms.xlsx'
+    master_excel_file_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/Master_Alarms.xlsx'
     
     # Find the most recent Excel file based on the alphanumeric order of filenames
-    directory_path = 'C:/Users/klongley/Documents/CMS/excel_exports/'
+    directory_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/excel_exports/'
     excel_files = [file for file in os.listdir(directory_path) if file.startswith('alarms_') and file.endswith('.xlsx')]
     
     if excel_files:
