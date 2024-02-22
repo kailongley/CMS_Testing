@@ -2,43 +2,40 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
-def create_alarm_graph(master_excel_file, selected_site):
-    # Read the master Excel file into a pandas DataFrame
-    master_df = pd.read_excel(master_excel_file)
+# Update the file path
+file_path = r'C:\Users\klongley\Documents\CMS_Testing\CMS\Site_Total_Alarms.xlsx'
 
-    # Filter the DataFrame based on the selected site
-    site_df = master_df[master_df['Location'] == selected_site]
+# Read the Excel sheet
+df = pd.read_excel(file_path, header=None)
 
-    # Convert the 'Alarm Raised' column to datetime format
-    site_df['Alarm Raised'] = pd.to_datetime(site_df['Alarm Raised'])
+# Convert the first column (column 0) to datetime format starting from row 1
+df.iloc[1:, 0] = pd.to_datetime(df.iloc[1:, 0], format='%Y%m%d')
 
-    # Extract the date from the 'Alarm Raised' column
-    site_df['Date'] = site_df['Alarm Raised'].dt.date
+# Set the first row as column names
+df.columns = df.iloc[0]
 
-    # Group by date and count the number of alarms
-    alarm_counts = site_df['Date'].value_counts().sort_index()
+# Set the first column (date column) as the index
+df.set_index(df.columns[0], inplace=True)
 
-    # Calculate the total number of alarms for the selected site
-    total_alarms = len(site_df)
+# Drop the first row after using it as column names
+df = df.iloc[1:]
 
-    # Plot the graph
-    plt.figure(figsize=(10, 6))
-    plt.plot(alarm_counts.index, alarm_counts.values, marker='o', label='Alarms per Day')
-    plt.axhline(y=total_alarms, color='r', linestyle='--', label='Total Alarms')
-    plt.title(f'Number of Alarms per Day for {selected_site}')
-    plt.xlabel('Date')
-    plt.ylabel('Number of Alarms')
-    plt.xticks(rotation=45)
-    plt.legend()
-    plt.grid(True)
-    plt.show()
+# Plot the graph with each site identified by column headers
+ax = df.plot(kind='line', marker='o', figsize=(12, 6), legend=True)
+ax.xaxis.set_major_formatter(plt.matplotlib.dates.DateFormatter('%Y-%m-%d'))  # Format date on x-axis
+plt.title('Total Alarms per Day for Each Site')
+plt.xlabel('Date')
+plt.ylabel('Total Alarms')
+plt.legend(title='Site', bbox_to_anchor=(1.05, 1), loc='upper left')
 
-if __name__ == "__main__":
-    # Specify the path for the master Excel file
-    master_excel_file_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/Master_Alarms.xlsx'
-    
-    # Get the user input for the selected site
-    selected_site = input('Enter the site name: ')
-    
-    # Call the function to create the alarm graph
-    create_alarm_graph(master_excel_file_path, selected_site)
+# Save the figure in the specified folder
+output_folder = r'C:\Users\klongley\Documents\CMS_Testing\CMS\graphs'
+output_filename = 'Daily_Site_Alarms.png'
+output_path = os.path.join(output_folder, output_filename)
+
+# Check if the file exists, and replace if it does
+if os.path.exists(output_path):
+    os.remove(output_path)
+
+plt.savefig(output_path)
+plt.show()
