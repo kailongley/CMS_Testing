@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Update the file path
-file_path = r'C:\Users\klongley\Documents\CMS_Testing\CMS\Site_Total_Alarms.xlsx'
+file_path = r'C:\Users\klongley\Documents\CMS_Testing\CMS\Pre_Site_Total_Alarms.xlsx'
 
 # Read the Excel sheet
 df = pd.read_excel(file_path, header=None)
@@ -30,7 +30,7 @@ plt.legend(title='Site', bbox_to_anchor=(1.05, 1), loc='upper left')
 
 # Save the figure in the specified folder
 output_folder = r'C:\Users\klongley\Documents\CMS_Testing\CMS\graphs'
-output_filename = 'Daily_Site_Alarms.png'
+output_filename = 'Pre_Daily_Site_Alarms.png'
 output_path = os.path.join(output_folder, output_filename)
 
 # Check if the file exists, and replace if it does

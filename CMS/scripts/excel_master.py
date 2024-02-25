@@ -32,8 +32,8 @@ if __name__ == "__main__":
     master_excel_file_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/Master_Alarms.xlsx'
     
     # Find the most recent Excel file based on the alphanumeric order of filenames
-    directory_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/excel_exports/'
-    excel_files = [file for file in os.listdir(directory_path) if file.startswith('alarms_') and file.endswith('.xlsx')]
+    directory_path = 'C:/Users/klongley/Documents/CMS_Testing/CMS/excel_exports/pre/'
+    excel_files = [file for file in os.listdir(directory_path) if file.startswith('pre_alarms_') and file.endswith('.xlsx')]
     
     if excel_files:
         most_recent_file = max(excel_files, key=lambda x: x[7:-5])

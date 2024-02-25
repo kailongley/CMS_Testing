@@ -1,0 +1,666 @@
+Severity	Alarm Raised	Asset ID	Asset Name	Alarm Description	Acknowledged	By	Cleared	Comments	Location
+CAME UNACK High	2024.02.23 12:42:46.904	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!				0	SDU
+CAME UNACK High	2024.02.23 12:42:46.904	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Smoke detected in shaft!				0	SDU
+CAME UNACK High	2024.02.22 18:08:09.583	AEN_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Arden - East End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.22 18:07:10.563	AEN_OFN_0101_02_DS	Over Track Exhaust Fan - West End - Duty Selection	Arden - West End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.22 18:07:08.569	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.22 15:19:51.630	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.21 11:32:02.576	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.02.21 11:32:02.576	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.02.21 04:39:53.628	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.21 04:22:05.629	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.18 14:26:53.229	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.02.18 14:26:12.232	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.02.18 14:25:31.230	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.02.12 09:46:37.945	DMA-W-PED-002	Anzac Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:46:37.928	DMA-E-PED-002	Anzac Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:42:58.358	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.01.15 14:33:03.316	_Driver2	MTSTL:_Driver2.	Driver overloaded				0	THL
+CAME UNACK Med	2024.02.26 08:15:26.505	_Conn_event_0_1_to_event_0_2	Anzac Server 1	Connection lost to Server 2 - Link 1				0	ARN
+CAME UNACK Med	2024.02.26 08:15:26.505	_Conn_event_0_1_to_event_0_2	Anzac Server 1	Connection lost to Server 2 - Link 0				0	ARN
+CAME UNACK Med	2024.02.26 08:15:16.945	_Conn_event_0_2_to_event_0_1	State Library Server 2	Connection lost to Server 2 - Link 0				0	STL
+CAME UNACK Med	2024.02.26 08:15:16.945	_Conn_event_0_2_to_event_0_1	State Library Server 2	Connection lost to Server 2 - Link 1				0	STL
+CAME UNACK Med	2024.02.26 08:15:16.945	_Conn_event_0_1_to_event_0_2	State Library Server 1	Connection lost to Server 2 - Link 0				0	THL
+CAME UNACK Med	2024.02.26 08:15:16.945	_Conn_event_0_1_to_event_0_2	State Library Server 1	Connection Connection lost to Server 2 - Link 1				0	THL
+CAME UNACK Med	2024.02.26 08:15:13.883	_Conn_event_0_2_to_event_0_1	MTPKV:_Conn_event_0_2_to_event_0_1.	Connection lost to Server 1 - Link 1				0	PKV
+CAME UNACK Med	2024.02.26 08:15:13.877	_Conn_event_0_1_to_event_0_2	MTPKV:_Conn_event_0_1_to_event_0_2.	Connection lost to Server 2 - Link 1				0	STL
+CAME UNACK Med	2024.02.26 08:15:13.877	_Conn_event_0_1_to_event_0_2	MTPKV:_Conn_event_0_1_to_event_0_2.	Connection lost to Server 2 - Link 0				0	STL
+CAME UNACK Med	2024.02.26 08:15:09.792	_Conn_event_0_2_to_event_0_1	Arden Server 2	Connection lost to Server 1 - Link 0				0	ARN
+CAME UNACK Med	2024.02.26 08:15:09.792	_Conn_event_0_2_to_event_0_1	Arden Server 2	Connection lost to Server 1 - Link 1				0	ARN
+CAME UNACK Med	2024.02.26 08:15:09.778	_Conn_event_0_1_to_event_0_2	Arden Server 1	Connection lost to Server 2 - Link 1				0	PKV
+CAME UNACK Med	2024.02.26 08:15:09.778	_Conn_event_0_1_to_event_0_2	Arden Server 1	Connection lost to Server 2 - Link 0				0	PKV
+CAME UNACK Med	2024.02.23 15:20:39.482	_Mod_Plc_2_2	MTARD:_Mod_Plc_2_2.	Communications Fault - Arden Server 2 to Arden FDS Gateway				0	PKV
+CAME UNACK Med	2024.02.23 15:20:39.482	_Mod_Plc_3_2	MTARD:_Mod_Plc_3_2.	Communications Fault - Arden Server 2 to Arden EWIS				0	PKV
+CAME UNACK Med	2024.02.23 15:20:39.482	_Mod_Plc_4_2	MTARD:_Mod_Plc_4_2.	Communications Fault - Arden Server 2 to Arden EWIS				0	PKV
+CAME UNACK Med	2024.02.23 15:20:03.304	AEN-S-STN	Arden Station PSD System	PSD lost connection to signalling system!				0	ARN
+CAME UNACK Med	2024.02.23 13:08:45.927	DMA-FIP-0006	Anzac Station SHCIE Panel 6	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.23 12:42:05.926	DMA-FIP-0002	Anzac Station SHCIE Panel 2	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.23 12:41:41.927	DMA-FIP-0005	Anzac Station SHCIE Panel 5	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.23 12:41:37.872	DMA-FIP-0004	Anzac Station SHCIE Panel 4	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.23 12:41:33.882	DMA-FIP-0003	Anzac Station SHCIE Panel 3	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.23 12:07:27.663	_Mod_Plc_1	Anzac Server 1	Communications Fault - Anzac Server 1 to Anzac PSD				0	AZC
+CAME UNACK Med	2024.02.23 07:07:53.800	_Mod_Plc_1_2	Anzac Server 2	Communications Fault - Anzac Server 2 to Anzac PSD				0	ARN
+CAME UNACK Med	2024.02.22 18:08:09.583	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Unavailable				0	SDU
+CAME UNACK Med	2024.02.22 15:19:51.630	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Unavailable				0	SDU
+CAME UNACK Med	2024.02.21 11:20:34.207	_Mod_Plc_3_2	MTPKV:_Mod_Plc_3_2.	Communications Fault - Parkville Server 2 to Parkville EWIS				0	STL
+CAME UNACK Med	2024.02.21 11:06:07.049	_Mod_Plc_2_2	MTPKV:_Mod_Plc_2_2.	Communications Fault - Parkville Server 2 to Parkville FDS Gateway				0	STL
+CAME UNACK Med	2024.02.21 10:02:22.715	SYP-PLC-0001	South Yarra PLC	TIAS PLC power supply fault				0	SDU
+CAME UNACK Med	2024.02.18 14:26:12.232	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.02.18 14:25:31.230	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK Med	2024.02.13 13:59:52.283	SYP-PLC-0001	South Yarra PLC	PLC system fault				0	SDU
+CAME UNACK Med	2024.02.12 10:56:29.417	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 1				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.416	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 0				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.414	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 1				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.412	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 0				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.361	_Conn_event_0_2_to_driver_1_2	Distributed Server 2	Connection lost				0	THL
+CAME UNACK Med	2024.02.12 09:39:14.042	DMA-S-STN	Anzac Station PSD System	PSD lost connection to signalling system!				0	AZC
+CAME UNACK Low	2024.02.26 08:15:26.446	_ReduManager_2	Anzac Server 2	Server 2 - Active due to split mode				0	ARN
+CAME UNACK Low	2024.02.26 08:15:16.922	_ReduManager_2	State Library Server 2	Server 2 - Active due to split mode				0	THL
+CAME UNACK Low	2024.02.26 08:15:13.834	_ReduManager_2	Parkville Server 2	Server 2 - Active due to split mode			2024.02.26 08:15:13.834	0	STL
+CAME UNACK Low	2024.02.26 08:15:09.730	_ReduManager_2	Arden Server 2	Server 2 - Active due to split mode				0	PKV
+CAME UNACK Low	2024.02.26 08:14:20.370	_Conn_event_0_1_to_event_0_2	Distributed Server 1	Connection lost to Server 2 - Link 0				0	THL
+CAME UNACK Low	2024.02.26 08:14:20.370	_Conn_event_0_1_to_event_0_2	Distributed Server 1	Connection lost to Server 2 - Link 1				0	THL
+CAME UNACK Low	2024.02.26 08:14:20.365	_Conn_event_0_2_to_event_0_1	Distributed Server 2	Connection lost to Server 1 - Link 1				0	ARN
+CAME UNACK Low	2024.02.26 08:14:20.365	_Conn_event_0_2_to_event_0_1	Distributed Server 2	Connection lost to Server 1 - Link 0				0	ARN
+CAME UNACK Low	2024.02.26 08:14:20.357	_ReduManager	Distributed Server 1	Server 1 - Active due to split mode				0	ARN
+CAME UNACK Low	2024.02.26 08:14:20.357	_ReduManager_2	Distributed Server 2	Server 2 - Active due to split mode				0	THL
+CAME UNACK Low	2024.02.26 07:38:22.078	AEN_DOR_L1_ESC_STAIRS_5_1	Security Door (L1 EAST) 	Door open too long				0	ARN
+CAME UNACK Low	2024.02.26 07:38:03.003	AEN_DOR_L1_ESC_STAIRS_5_1	Security Door (L1 EAST) 	Unauthorised access				0	ARN
+CAME UNACK Low	2024.02.26 07:37:30.035	AEN_DOR_GF_405-2_2	East Emergency Stairs - Ground Floor	Unauthorised access				0	ARN
+CAME UNACK Low	2024.02.26 07:34:32.069	AEN_DOR_GF_405-2_2	East Emergency Stairs - Ground Floor	Door open too long				0	ARN
+CAME UNACK Low	2024.02.25 21:41:36.097	AEN_LFT_0006	Lift 6 BOH (Platforms to Level 2)	Lift General Fault				0	ARN
+CAME UNACK Low	2024.02.24 13:16:06.644	AEN_DOR_B1_ESC_STAIRS_03_2	West Emergency Stairs - Concourse	Door open too long				0	ARN
+CAME UNACK Low	2024.02.24 12:58:39.147	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.02.24 12:58:39.147	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:07.571	DMA-SPE-0425	B2, DMA-SPE-0425 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:07.571	DMA-SPE-0426	B2, DMA-SPE-0426 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:07.571	DMA-SPE-0745	B2, DMA-SPE-0745 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.594	DMA-SPE-0452	B2, DMA-SPE-0452 BOH EGRESS CORRIDOR	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.594	DMA-SPE-0453	B2, DMA-SPE-0453 BOH EGRESS CORRIDOR	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.594	DMA-SPE-0456	B2, DMA-SPE-0456 BOH EGRESS CORRIDOR	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.594	DMA-SPE-0720	B2, DMA-SPE-0720 RNERV BATT ENCL 414-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0280	B2, DMA-SPE-0280 BOH CDOR 151-9	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0281	B2, DMA-SPE-0281 PLATFORM STORE 206-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0307	B2, DMA-SPE-0307 BOH CORRIDOR 151-8	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0350	B2, DMA-SPE-0350 BOH CORRIDOR 151-9	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0351	B2, DMA-SPE-0351 BOH CORRIDOR 151-9	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0413	B2, DMA-SPE-0413 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0414	B2, DMA-SPE-0414 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0415	B2, DMA-SPE-0415 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0416	B2, DMA-SPE-0416 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0417	B2, DMA-SPE-0417 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0418	B2, DMA-SPE-0418 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0419	B2, DMA-SPE-0419 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0420	B2, DMA-SPE-0420 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0421	B2, DMA-SPE-0421 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0422	B2, DMA-SPE-0422 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0423	B2, DMA-SPE-0423 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0424	B2, DMA-SPE-0424 PLATFORM AREA 104-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0438	B2, DMA-SPE-0438 HV RISER 620-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0439	B2, DMA-SPE-0439 HV RISER 620-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0440	B2, DMA-SPE-0440 LV RISER 660-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0441	B2, DMA-SPE-0441 LV RISER 660-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0442	B2, DMA-SPE-0442 COMM RISER 701-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0443	B2, DMA-SPE-0443 COMM RISER 701-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0537	B2, DMA-SPE-0537 GOODS LIFT LOBBY	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0562	B2, DMA-SPE-0562 LV SWITCHROOM B1 650-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0563	B2, DMA-SPE-0563 LV SWITCHROOM B1 650-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0660	B2, DMA-SPE-0660 OP.STF PLATFRM WC 225-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0665	B2, DMA-SPE-0665 GAS CYLINDER ROOM 409-4	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0748	B2, DMA-SPE-0748 RNERV ENCL 413-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0287	B2, DMA-SPE-0287 PLATFORM STORE 206-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0427	B2, DMA-SPE-0427 RISER	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.593	DMA-SPE-0451	B2, DMA-SPE-0451 BOH EGRESS CORRIDOR	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-HTD-0201	B2, DMA-HTD-0201 OP.STF PLATFRM WC 225-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0271	B2, DMA-SPE-0271 LV SWITCHROOM 4 650-4	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0272	B2, DMA-SPE-0272 LV SWITCHROOM 4 650-4	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0273	B2, DMA-SPE-0273 SUMP PUMP ROOM 893-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0274	B2, DMA-SPE-0274 RAIL LUB EQUIP.RM 241-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0276	B2, DMA-SPE-0276 BOH CORRIDOR 151-8	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0277	B2, DMA-SPE-0277 BOH CORRIDOR 151-8	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0278	B2, DMA-SPE-0278 BOH CORRIDOR 151-8	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:56:05.592	DMA-SPE-0279	B2, DMA-SPE-0279 FIRE LOBBY 406-7	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.24 10:54:39.773	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.02.24 10:54:39.773	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.02.24 06:29:17.105	AEN_DOR_B2_ESC_STAIRS_04_3	Security Door (B2 EAST) 	Unauthorised access				0	ARN
+CAME UNACK Low	2024.02.23 15:30:28.330	DMA_FCU_1123_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.23 15:30:28.330	DMA_FCU_1124_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.23 15:30:28.318	DMA_FCU_0110_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.23 15:30:28.318	DMA_FCU_0123_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.23 15:30:28.318	DMA_FCU_1101_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.23 15:30:28.318	DMA_FCU_1101_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.23 14:49:03.603	AEN_StationFunc	TVCS Operator Fire Emergency Section 02 - Arden Station	Station Fire Ventilation Mode Still On Without An Active Fire Alarm				0	SDU
+CAME UNACK Low	2024.02.23 14:48:54.883	AEN_LFT_0005	Lift 5 BOH (Platforms to Ground Floor)	Lift General Fault				0	ARN
+CAME UNACK Low	2024.02.23 14:02:26.331	WPZ-FIP-0001	Western Portal Station Fire Panel	Fire panels in the station have a power fault				0	SDU
+CAME UNACK Low	2024.02.23 12:43:23.723	DMA-SPE-0762	B1, DMA-SPE-0762 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.723	DMA-SPE-0760	B1, DMA-SPE-0760 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.723	DMA-SPE-0764	B1, DMA-SPE-0764 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.656	DMA-SPE-0329	B1, DMA-SPE-0329 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.656	DMA-SPE-0579	B1, DMA-SPE-0579 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.656	DMA-SPE-0625	B1, DMA-SPE-0625 RETAIL WC LOBBY 913-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.655	DMA-SPE-0322	B1, DMA-SPE-0322 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.655	DMA-SPE-0323	B1, DMA-SPE-0323 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.655	DMA-SPE-0324	B1, DMA-SPE-0324 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.655	DMA-SPE-0326	B1, DMA-SPE-0326 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.655	DMA-SPE-0328	B1, DMA-SPE-0328 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.655	DMA-SPE-0761	B1, DMA-SPE-0761 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.655	DMA-SPE-0763	B1, DMA-SPE-0763 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0320	B1, DMA-SPE-0320 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0321	B1, DMA-SPE-0321 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0331	B1, DMA-SPE-0331 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0332	B1, DMA-SPE-0332 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0333	B1, DMA-SPE-0333 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0335	B1, DMA-SPE-0335 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0336	B1, DMA-SPE-0336 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0337	B1, DMA-SPE-0337 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0338	B1, DMA-SPE-0338 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0339	B1, DMA-SPE-0339 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0340	B1, DMA-SPE-0340 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0341	B1, DMA-SPE-0341 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0342	B1, DMA-SPE-0342 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:43:23.654	DMA-SPE-0576	B1, DMA-SPE-0576 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.23 12:41:51.844	EPZ-FIP-0001	Eastern Portal Main Fire Panel	Fire panels in the station have a fault				0	SDU
+CAME UNACK Low	2024.02.23 12:17:54.456	PKV_ESC_0010	Escalator 10 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_CDB_0406_MFM_01	SECTION 1 - GENERAL POWER (B1 LEVEL BACK OF HOUSE) - 2HR Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_CDB_0406_MFM_02	SECTION 2 - GENERAL POWER (B1 LEVEL BACK OF HOUSE) - 8HR Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_CDB_0406_MFM_03	SECTION 3 - GENERAL POWER (B1 LEVEL BACK OF HOUSE) - 12HR Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_EDB_0401_MFM_03	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_EDB_0404_MFM_01	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_EDB_0404_MFM_02	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_EDB_0404_MFM_03	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_EDB_0404_MFM_04	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MCC_0401_MFM_07	PKV-TFN-0203-VSD-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MCC_0401_MFM_13	PKV-TFN-0202-VSD-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MCC_0402_MFM_01	PKV-TFN-0101-VSD-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MCC_0402_MFM_09	PKV-TFN-0103-VSD-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MCC_0402_MFM_15	PKV-OFN-0003  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MCC_0402_MFM_19	PKV-TFN-0102-VSD-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MCC_0402_MFM_22	PKV-SPF-0302  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0401_MFM_04	PKV-ESC-0012  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0401_MFM_09	PKV-LFT-0010  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0401_MFM_10	PKV-LFT-0011  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0401_MFM_20	PKV-ESC-0007  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_00	PKV-TRD-2212  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_02	PKV-MSS-0402  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_09	PKV-ESC-0006  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_10	PKV-ESC-0002  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_11	PKV-LFT-0002  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_13	PKV-TNP-0302-PCP-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_15	PKV-MCC-0401  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_16	PKV-ESC-0016  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_17	PKV-ESC-0011  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0402_MFM_18	PKV-ESC-0008  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0403_MFM_17	PKV-ESC-0009  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0404_MFM_18	PKV-ESC-0013  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_MSB_0404_MFM_19	PKV-CHD-0402  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_NDB_0401_MFM_01	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_NDB_0401_MFM_02	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_NDB_0401_MFM_03	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_NDB_0401_MFM_04	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:51:28.949	PKV_NDB_0401_MFM_05	TBA  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.23 11:42:25.039	DMA_FCU_0109_MCV_01	Fan Coil Unit - Chilled Water Valve	Analogue bad quality alarm 				0	AZC
+CAME UNACK Low	2024.02.23 10:25:23.565	PKV_ESC_0001	Escalator 1 Bank 1 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.22 12:11:49.982	DMA_LFT_0004	Lift 4 FOH (B1 Basement to GF Gound Floor)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.02.22 12:11:49.982	DMA_LFT_0004	Lift 4 FOH (B1 Basement to GF Gound Floor)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.02.21 23:38:57.244	SYP-PSU-1029	PLC 24V Power supply 1 alarm	PLC Power Supply fault				0	SDU
+CAME UNACK Low	2024.02.21 10:02:22.705	SYP-PSU-1028	PLC 24V Power supply redundancy alarm	PLC Power Supply fault				0	SDU
+CAME UNACK Low	2024.02.21 09:48:46.306	PKV_ESC_0002	Escalator 2 Bank 1 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.21 07:59:45.292	PKV-ASD-0003	B1, PKV-ASD-0003 UPS/BATT A 640-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:59:45.292	PKV-ASD-0004	B1, PKV-ASD-0004 UPS/BATT A 640-2 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:59:45.292	PKV-ASD-0005	B1, PKV-ASD-0005 TEL EQ.RM 706-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:59:45.207	PKV-SPE-0112	B1, PKV-SPE-0112 TELEPH EQUIP.RM 706-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:52:17.017	PKV_MCC_0401_MFM_01	PKV-TFN-0201-VSD-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:45:52.111	PKV-ASD-0016	B2, PKV-ASD-0016 Concourse - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:45:52.111	PKV-ASD-0018	B2, PKV-ASD-0018 Conc Skylight 1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0109_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.19 15:46:53.152	DMA_LFT_0004	Lift 4 FOH (B1 Basement to GF Gound Floor)	Lift Locked out by temperature alarm				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.373	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0055	B4U, PKV-ASD-0055 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0057	B4U, PKV-ASD-0057 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0058	B4U, PKV-ASD-0058 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0060	B4U, PKV-ASD-0060 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0061	B4U, PKV-ASD-0061 U/P CENTRE EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0068	B4U, PKV-ASD-0068 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0069	B4U, PKV-ASD-0069 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0045	B4U, PKV-ASD-0045 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0046	B4U, PKV-ASD-0046 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0048	B4U, PKV-ASD-0048 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0049	B4U, PKV-ASD-0049 U/P CENTRE EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0051	B4U, PKV-ASD-0051 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.464	PKV-ASD-0054	B4U, PKV-ASD-0054 U/P WEST 4 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.225	PKV-ASD-0053	B4U, PKV-ASD-0053 U/P WEST 3 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0041	B4U, PKV-ASD-0041 U/P WEST 1 - F1 	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0042	B4U, PKV-ASD-0042 U/P WEST 2 - F1 	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0043	B4U, PKV-ASD-0043 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0044	B4U, PKV-ASD-0044 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.325	PKV_ESC_0007	Escalator 7 Bank 4 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.325	PKV_ESC_0009	Escalator 9 Bank 4 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.314	PKV_ESC_0008	Escalator 8 Bank 4 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.300	PKV_ESC_0011	Escalator 11 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.290	PKV_ESC_0003	Escalator 3 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.290	PKV_ESC_0004	Escalator 4 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.290	PKV_ESC_0006	Escalator 6 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.279	PKV_ESC_0005	Escalator 5 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.15 09:10:55.256	DMA_ESC_0007	Escalator 7 Bank 5 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.15 09:10:55.243	DMA_ESC_0002	Escalator 2 Bank 2 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.12 10:56:29.368	_Conn_event_0_2_to_dist_1_2	Distributed Server 2	Connection lost - Event to Distribution Manager - Link 1				0	THL
+CAME UNACK Low	2024.02.12 10:56:29.356	_Conn_event_0_2_to_redu_1_2	Distributed Server 2	Connection lost - Event to Redundancy Manager - Link 1				0	THL
+CAME UNACK Low	2024.02.12 09:49:02.999	ESS-Section-09A	Traction Section Town Hall to Anzac	Section A Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.02.12 09:46:45.756	PKV-SPE-0111	B1, PKV-SPE-0111 TELEPH EQUIP.RM 706-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:45:04.966	PKV-FIP-0001	Parkville Station FDCIE Panel 	Fire panels in the station have a power fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:47.814	PKV-ASD-0067	B4U, PKV-ASD-0067 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:47.320	PKV-ASD-0065	B4U, PKV-ASD-0065 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:46.612	PKV-ASD-0062	B4U, PKV-ASD-0062 U/P CENTRE EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:45.911	PKV-ASD-0059	B4U, PKV-ASD-0059 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:45.209	PKV-ASD-0056	B4U, PKV-ASD-0056 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:44.293	PKV-ASD-0052	B4, PKV-ASD-0052 OHLE SWITCH 601-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:43.177	PKV-ASD-0047	B4U, PKV-ASD-0047 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:41.641	PKV-ASD-0030	B3, PKV-ASD-0030 TVS MCC B 652-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:38.425	PKV-ASD-0015	B2, PKV-ASD-0015 TVS MCC A 652-2 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:37.722	PKV-ASD-0011	B4, PKV-ASD-0011 TIE STATION 603-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:37.435	PKV-ASD-0010	B3, PKV-ASD-0010 RADIO EQUIP.RM 708-1 F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:37.147	PKV-ASD-0009	B3, PKV-ASD-0009 COMMS EQ.RM 704-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:36.647	PKV-ASD-0007	B2, PKV-ASD-0007 STATN EQ.RM 705-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:36.359	PKV-ASD-0006	B2, PKV-ASD-0006 SIGNAL EQ.RM 501-1- F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:35.286	PKV-ASD-0002	B1, PKV-ASD-0002 HV SUB 2 610-2 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:35.038	PKV-ASD-0001	B1, PKV-ASD-0001 HV SUB 1 610-1 - F1	Aspirating smoke detector fault				0	PKV
+WENT UNACK Med	2024.02.26 08:51:24.465	DMA_TEP_0303_04_FG	Tunnel Drainage Pump - Function Group	Tunnel drainage pit level not dropping!			2024.02.26 08:51:26.485	0	AZC
+WENT UNACK Med	2024.02.26 08:15:09.796	_Mod_Plc_2	MTARD:_Mod_Plc_2.	Communications Fault - Arden Server 1 to Arden FDS Gateway			2024.02.26 08:15:10.506	0	PKV
+WENT UNACK Med	2024.02.26 08:15:09.729	_Mod_Plc_4	MTARD:_Mod_Plc_4.	Communications Fault - Arden Server 1 to Arden EWIS			2024.02.26 08:15:09.934	0	ARN
+WENT UNACK Med	2024.02.26 08:15:09.729	_Mod_Plc_3	MTARD:_Mod_Plc_3.	Communications Fault - Arden Server 1 to Arden EWIS			2024.02.26 08:15:09.854	0	ARN
+WENT UNACK Low	2024.02.26 08:14:20.358	_Mod_Plc_1_2	Distributed Server 1	Communications Fault - Distributed Server 2 to RSG				0	THL
+ACK High	2024.02.25 08:45:20.247	TSC-E-PSD-016	Town Hall Platform 2 Zone 2 PSD 16	PSD Unscheduled Door Opening!	2024.02.26 08:48:27.390	kai_longley		0	THL
+ACK High	2024.02.25 08:45:20.247	TSC-W-PSD-019	Town Hall Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!	2024.02.26 08:50:31.251	kai_longley		0	THL
+ACK High	2024.02.24 00:01:03.363	DMA_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!	2024.02.26 08:08:29.280	kai_longley		0	AZC
+ACK High	2024.02.24 00:01:03.363	DMA_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!	2024.02.26 08:08:48.645	kai_longley		0	AZC
+ACK High	2024.02.23 23:54:09.802	PKV-E-PSD-027	Parkville Platform 2 Zone 3 PSD 27	PSD Unscheduled Door Opening!	2024.02.26 08:39:03.931	kai_longley		0	PKV
+ACK High	2024.02.23 16:39:10.719	TNC-W-EED-031	State Library Platform 1 Zone 3 EED 31	EED Unscheduled Door Opening!	2024.02.26 08:44:14.427	kai_longley		0	STL
+ACK High	2024.02.23 16:32:38.720	TNC-W-EED-029	State Library Platform 1 Zone 3 EED 29	EED Unscheduled Door Opening!	2024.02.26 08:44:09.744	kai_longley		0	STL
+ACK High	2024.02.23 16:31:30.724	TNC-W-EED-030	State Library Platform 1 Zone 3 EED 30	EED Unscheduled Door Opening!	2024.02.26 08:44:11.969	kai_longley		0	STL
+ACK High	2024.02.23 16:13:26.717	TNC-W-EED-001	State Library Platform 1 Zone 1 EED 01	EED Unscheduled Door Opening!	2024.02.26 08:42:54.408	kai_longley		0	STL
+ACK High	2024.02.23 16:07:36.724	TNC-W-EED-003	State Library Platform 1 Zone 1 EED 03	EED Unscheduled Door Opening!	2024.02.26 08:42:56.444	kai_longley		0	STL
+ACK High	2024.02.23 16:01:54.714	TNC-W-EED-005	State Library Platform 1 Zone 1 EED 05	EED Unscheduled Door Opening!	2024.02.26 08:43:00.793	kai_longley		0	STL
+ACK High	2024.02.23 15:58:54.718	TNC-W-EED-004	State Library Platform 1 Zone 1 EED 04	EED Unscheduled Door Opening!	2024.02.26 08:42:58.600	kai_longley		0	STL
+ACK High	2024.02.23 15:56:44.723	TNC-W-EED-006	State Library Platform 1 Zone 1 EED 06	EED Unscheduled Door Opening!	2024.02.26 08:43:03.012	kai_longley		0	STL
+ACK High	2024.02.23 15:54:20.717	TNC-W-EED-007	State Library Platform 1 Zone 1 EED 07	EED Unscheduled Door Opening!	2024.02.26 08:43:05.026	kai_longley		0	STL
+ACK High	2024.02.23 15:50:20.717	TNC-W-EED-008	State Library Platform 1 Zone 1 EED 08	EED Unscheduled Door Opening!	2024.02.26 08:43:07.159	kai_longley		0	STL
+ACK High	2024.02.23 15:49:24.715	TNC-W-EED-010	State Library Platform 1 Zone 1 EED 10	EED Unscheduled Door Opening!	2024.02.26 08:43:11.920	kai_longley		0	STL
+ACK High	2024.02.23 15:46:56.715	TNC-W-EED-009	State Library Platform 1 Zone 1 EED 09	EED Unscheduled Door Opening!	2024.02.26 08:43:09.169	kai_longley		0	STL
+ACK High	2024.02.23 15:43:10.718	TNC-W-EED-012	State Library Platform 1 Zone 1 EED 12	EED Unscheduled Door Opening!	2024.02.26 08:43:16.276	kai_longley		0	STL
+ACK High	2024.02.23 15:42:00.721	TNC-W-EED-011	State Library Platform 1 Zone 1 EED 11	EED Unscheduled Door Opening!	2024.02.26 08:43:14.174	kai_longley		0	STL
+ACK High	2024.02.23 15:39:40.717	TNC-W-EED-013	State Library Platform 1 Zone 1 EED 13	EED Unscheduled Door Opening!	2024.02.26 08:43:18.938	kai_longley		0	STL
+ACK High	2024.02.23 15:38:52.724	TNC-W-EED-014	State Library Platform 1 Zone 1 EED 14	EED Unscheduled Door Opening!	2024.02.26 08:43:21.362	kai_longley		0	STL
+ACK High	2024.02.23 15:33:32.721	TNC-W-DDX-001	State Library Platform 1 Zone 2 DD 01	Driver Door Unscheduled Door Opening!	2024.02.26 08:43:40.345	kai_longley		0	STL
+ACK High	2024.02.23 15:33:24.724	TNC-W-EED-020	State Library Platform 1 Zone 2 EED 20	EED Unscheduled Door Opening!	2024.02.26 08:43:42.304	kai_longley		0	STL
+ACK High	2024.02.23 15:31:52.724	TNC-W-EED-019	State Library Platform 1 Zone 1 EED 19	EED Unscheduled Door Opening!	2024.02.26 08:43:35.962	kai_longley		0	STL
+ACK High	2024.02.23 15:29:00.722	TNC-W-EED-018	State Library Platform 1 Zone 1 EED 18	EED Unscheduled Door Opening!	2024.02.26 08:43:32.493	kai_longley		0	STL
+ACK High	2024.02.23 15:28:26.724	TNC-W-EED-016	State Library Platform 1 Zone 1 EED 16	EED Unscheduled Door Opening!	2024.02.26 08:43:26.659	kai_longley		0	STL
+ACK High	2024.02.23 15:26:28.716	TNC-W-EED-017	State Library Platform 1 Zone 1 EED 17	EED Unscheduled Door Opening!	2024.02.26 08:43:29.189	kai_longley		0	STL
+ACK High	2024.02.23 15:04:01.874	TNC-W-EED-015	State Library Platform 1 Zone 1 EED 15	EED Unscheduled Door Opening!	2024.02.26 08:43:23.658	kai_longley		0	STL
+ACK High	2024.02.23 14:52:11.721	TNC-W-EED-021	State Library Platform 1 Zone 2 EED 21	EED Unscheduled Door Opening!	2024.02.26 08:43:44.471	kai_longley		0	STL
+ACK High	2024.02.23 14:51:51.727	TNC-W-DDX-002	State Library Platform 1 Zone 2 DD 02	Driver Door Unscheduled Door Opening!	2024.02.26 08:43:46.670	kai_longley		0	STL
+ACK High	2024.02.23 14:15:37.709	SDU_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!	2024.02.26 08:03:36.996	kai_longley		0	SDU
+ACK High	2024.02.23 13:46:49.882	TNC-W-EED-022	State Library Platform 1 Zone 3 EED 22	EED Unscheduled Door Opening!	2024.02.26 08:43:51.437	kai_longley		0	STL
+ACK High	2024.02.23 13:46:39.876	TNC-W-EED-023	State Library Platform 1 Zone 3 EED 23	EED Unscheduled Door Opening!	2024.02.26 08:43:53.461	kai_longley		0	STL
+ACK High	2024.02.23 13:36:07.882	TNC-W-EED-024	State Library Platform 1 Zone 3 EED 24	EED Unscheduled Door Opening!	2024.02.26 08:43:55.662	kai_longley		0	STL
+ACK High	2024.02.23 13:35:29.873	TNC-W-EED-025	State Library Platform 1 Zone 3 EED 25	EED Unscheduled Door Opening!	2024.02.26 08:43:57.859	kai_longley		0	STL
+ACK High	2024.02.23 13:32:11.877	TNC-W-EED-026	State Library Platform 1 Zone 3 EED 26	EED Unscheduled Door Opening!	2024.02.26 08:44:00.185	kai_longley		0	STL
+ACK High	2024.02.23 13:28:17.882	TNC-W-EED-027	State Library Platform 1 Zone 3 EED 27	EED Unscheduled Door Opening!	2024.02.26 08:44:02.497	kai_longley		0	STL
+ACK High	2024.02.23 13:25:15.883	TNC-W-EED-028	State Library Platform 1 Zone 3 EED 28	EED Unscheduled Door Opening!	2024.02.26 08:44:04.649	kai_longley		0	STL
+ACK High	2024.02.23 13:03:29.866	TNC-E-EED-011	State Library Platform 2 Zone 1 EED 11	EED Unscheduled Door Opening!	2024.02.26 08:42:47.565	kai_longley		0	STL
+ACK High	2024.02.23 13:03:21.866	TNC-E-EED-012	State Library Platform 2 Zone 1 EED 12	EED Unscheduled Door Opening!	2024.02.26 08:42:45.138	kai_longley		0	STL
+ACK High	2024.02.23 13:02:27.871	TNC-E-EED-013	State Library Platform 2 Zone 1 EED 13	EED Unscheduled Door Opening!	2024.02.26 08:42:43.022	kai_longley		0	STL
+ACK High	2024.02.23 13:01:43.875	TNC-E-EED-016	State Library Platform 2 Zone 1 EED 16	EED Unscheduled Door Opening!	2024.02.26 08:42:40.673	kai_longley		0	STL
+ACK High	2024.02.23 13:01:01.867	TNC-E-EED-018	State Library Platform 2 Zone 1 EED 18	EED Unscheduled Door Opening!	2024.02.26 08:42:38.713	kai_longley		0	STL
+ACK High	2024.02.23 12:58:13.866	TNC-E-EED-021	State Library Platform 2 Zone 2 EED 21	EED Unscheduled Door Opening!	2024.02.26 08:42:34.344	kai_longley		0	STL
+ACK High	2024.02.23 12:41:43.873	TNC-E-EED-039	State Library Platform 2 Zone 3 EED 39	EED Unscheduled Door Opening!	2024.02.26 08:42:06.791	kai_longley		0	STL
+ACK High	2024.02.23 12:41:31.867	TNC-E-EED-038	State Library Platform 2 Zone 3 EED 38	EED Unscheduled Door Opening!	2024.02.26 08:42:09.213	kai_longley		0	STL
+ACK High	2024.02.23 12:39:25.885	TSC-W-EED-039	Town Hall Platform 1 Zone 3 EED 39	EED Unscheduled Door Opening!	2024.02.26 08:51:24.807	kai_longley		0	THL
+ACK High	2024.02.23 12:39:07.886	TSC-W-EED-038	Town Hall Platform 1 Zone 3 EED 38	EED Unscheduled Door Opening!	2024.02.26 08:51:22.087	kai_longley		0	THL
+ACK High	2024.02.23 12:38:43.887	TSC-W-EED-037	Town Hall Platform 1 Zone 3 EED 37	EED Unscheduled Door Opening!	2024.02.26 08:51:19.674	kai_longley		0	THL
+ACK High	2024.02.23 12:38:33.886	TSC-W-EED-036	Town Hall Platform 1 Zone 3 EED 36	EED Unscheduled Door Opening!	2024.02.26 08:51:17.443	kai_longley		0	THL
+ACK High	2024.02.23 12:36:37.870	TNC-E-EED-037	State Library Platform 2 Zone 3 EED 37	EED Unscheduled Door Opening!	2024.02.26 08:42:12.419	kai_longley		0	STL
+ACK High	2024.02.23 12:31:29.868	TNC-E-EED-036	State Library Platform 2 Zone 3 EED 36	EED Unscheduled Door Opening!	2024.02.26 08:42:14.504	kai_longley		0	STL
+ACK High	2024.02.23 12:27:49.868	TNC-E-EED-035	State Library Platform 2 Zone 3 EED 35	EED Unscheduled Door Opening!	2024.02.26 08:42:16.761	kai_longley		0	STL
+ACK High	2024.02.23 12:24:01.884	TSC-W-EED-032	Town Hall Platform 1 Zone 3 EED 32	EED Unscheduled Door Opening!	2024.02.26 08:51:06.709	kai_longley		0	THL
+ACK High	2024.02.23 12:23:45.885	TSC-W-EED-031	Town Hall Platform 1 Zone 3 EED 31	EED Unscheduled Door Opening!	2024.02.26 08:51:04.391	kai_longley		0	THL
+ACK High	2024.02.23 12:23:25.886	TSC-W-EED-030	Town Hall Platform 1 Zone 3 EED 30	EED Unscheduled Door Opening!	2024.02.26 08:51:01.082	kai_longley		0	THL
+ACK High	2024.02.23 12:23:07.887	TSC-W-EED-029	Town Hall Platform 1 Zone 3 EED 29	EED Unscheduled Door Opening!	2024.02.26 08:50:58.504	kai_longley		0	THL
+ACK High	2024.02.23 12:21:59.887	TSC-W-EED-033	Town Hall Platform 1 Zone 3 EED 33	EED Unscheduled Door Opening!	2024.02.26 08:51:09.257	kai_longley		0	THL
+ACK High	2024.02.23 12:20:45.881	TSC-W-EED-035	Town Hall Platform 1 Zone 3 EED 35	EED Unscheduled Door Opening!	2024.02.26 08:51:14.870	kai_longley		0	THL
+ACK High	2024.02.23 12:20:23.883	TSC-W-EED-034	Town Hall Platform 1 Zone 3 EED 34	EED Unscheduled Door Opening!	2024.02.26 08:51:12.239	kai_longley		0	THL
+ACK High	2024.02.23 12:15:09.868	TNC-E-EED-029	State Library Platform 2 Zone 3 EED 29	EED Unscheduled Door Opening!	2024.02.26 08:42:22.253	kai_longley		0	STL
+ACK High	2024.02.23 12:14:55.929	TNC-E-EED-030	State Library Platform 2 Zone 3 EED 30	EED Unscheduled Door Opening!	2024.02.26 08:42:19.499	kai_longley		0	STL
+ACK High	2024.02.23 12:04:25.869	TNC-E-EED-028	State Library Platform 2 Zone 3 EED 28	EED Unscheduled Door Opening!	2024.02.26 08:42:24.596	kai_longley		0	STL
+ACK High	2024.02.23 11:49:33.882	TSC-W-EED-028	Town Hall Platform 1 Zone 3 EED 28	EED Unscheduled Door Opening!	2024.02.26 08:50:54.041	kai_longley		0	THL
+ACK High	2024.02.23 11:46:09.886	TSC-W-EED-027	Town Hall Platform 1 Zone 3 EED 27	EED Unscheduled Door Opening!	2024.02.26 08:50:56.158	kai_longley		0	THL
+ACK High	2024.02.23 11:45:49.884	TSC-W-EED-026	Town Hall Platform 1 Zone 3 EED 26	EED Unscheduled Door Opening!	2024.02.26 08:50:50.857	kai_longley		0	THL
+ACK High	2024.02.23 11:33:43.881	TSC-W-EED-025	Town Hall Platform 1 Zone 3 EED 25	EED Unscheduled Door Opening!	2024.02.26 08:50:48.280	kai_longley		0	THL
+ACK High	2024.02.23 11:33:31.880	TSC-W-EED-024	Town Hall Platform 1 Zone 3 EED 24	EED Unscheduled Door Opening!	2024.02.26 08:50:45.805	kai_longley		0	THL
+ACK High	2024.02.23 11:33:07.883	TSC-W-EED-023	Town Hall Platform 1 Zone 3 EED 23	EED Unscheduled Door Opening!	2024.02.26 08:50:43.590	kai_longley		0	THL
+ACK High	2024.02.23 11:32:53.850	TNC-W-PED-002	State Library Platform 1 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.26 08:44:43.257	kai_longley		0	STL
+ACK High	2024.02.23 11:32:49.885	TSC-W-EED-022	Town Hall Platform 1 Zone 3 EED 22	EED Unscheduled Door Opening!	2024.02.26 08:50:41.470	kai_longley		0	THL
+ACK High	2024.02.23 11:30:59.871	TNC-E-EED-023	State Library Platform 2 Zone 3 EED 23	EED Unscheduled Door Opening!	2024.02.26 08:42:27.944	kai_longley		0	STL
+ACK High	2024.02.23 11:30:35.869	TNC-E-EED-022	State Library Platform 2 Zone 3 EED 22	EED Unscheduled Door Opening!	2024.02.26 08:42:30.538	kai_longley		0	STL
+ACK High	2024.02.23 11:21:55.880	TSC-W-DDX-002	Town Hall Platform 1 Zone 2 DD 02	Driver Door Unscheduled Door Opening!	2024.02.26 08:50:36.131	kai_longley		0	THL
+ACK High	2024.02.23 11:21:31.880	TSC-W-EED-021	Town Hall Platform 1 Zone 2 EED 21	EED Unscheduled Door Opening!	2024.02.26 08:50:33.739	kai_longley		0	THL
+ACK High	2024.02.23 11:08:22.380	TNC-E-PSD-024	State Library Platform 2 Zone 3 PSD 24	PSD Unscheduled Door Opening!	2024.02.26 08:41:31.879	kai_longley		0	STL
+ACK High	2024.02.23 11:08:22.363	TNC-W-PSD-026	State Library Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!	2024.02.26 08:44:07.218	kai_longley		0	STL
+ACK High	2024.02.23 11:08:22.106	TNC-W-EED-032	State Library Platform 1 Zone 3 EED 32	EED Unscheduled Door Opening!	2024.02.26 08:44:16.954	kai_longley		0	STL
+ACK High	2024.02.23 11:08:21.870	TNC-E-PSD-024	State Library Platform 2 Zone 3 PSD 24	PSD obstructed on opening or closing!	2024.02.26 08:41:31.996	kai_longley		0	STL
+ACK High	2024.02.23 10:18:47.898	TSC-W-EED-040	Town Hall Platform 1 Zone 3 EED 40	EED Unscheduled Door Opening!	2024.02.26 08:51:27.634	kai_longley		0	THL
+ACK High	2024.02.23 08:46:43.893	TSC-E-EED-006	Town Hall Platform 2 Zone 1 EED 06	EED Unscheduled Door Opening!	2024.02.26 08:49:04.447	kai_longley		0	THL
+ACK High	2024.02.23 08:46:33.898	TSC-E-EED-007	Town Hall Platform 2 Zone 1 EED 07	EED Unscheduled Door Opening!	2024.02.26 08:49:02.082	kai_longley		0	THL
+ACK High	2024.02.23 08:46:21.903	TSC-E-EED-008	Town Hall Platform 2 Zone 1 EED 08	EED Unscheduled Door Opening!	2024.02.26 08:48:59.781	kai_longley		0	THL
+ACK High	2024.02.23 08:46:03.895	TSC-E-EED-010	Town Hall Platform 2 Zone 1 EED 10	EED Unscheduled Door Opening!	2024.02.26 08:48:55.309	kai_longley		0	THL
+ACK High	2024.02.23 08:45:07.894	TSC-E-EED-009	Town Hall Platform 2 Zone 1 EED 09	EED Unscheduled Door Opening!	2024.02.26 08:48:57.512	kai_longley		0	THL
+ACK High	2024.02.23 08:44:51.902	TSC-E-EED-011	Town Hall Platform 2 Zone 1 EED 11	EED Unscheduled Door Opening!	2024.02.26 08:48:53.003	kai_longley		0	THL
+ACK High	2024.02.23 08:44:39.897	TSC-E-EED-012	Town Hall Platform 2 Zone 1 EED 12	EED Unscheduled Door Opening!	2024.02.26 08:48:50.686	kai_longley		0	THL
+ACK High	2024.02.23 08:24:47.901	TSC-E-EED-013	Town Hall Platform 2 Zone 1 EED 13	EED Unscheduled Door Opening!	2024.02.26 08:48:48.350	kai_longley		0	THL
+ACK High	2024.02.23 08:24:25.901	TSC-E-EED-014	Town Hall Platform 2 Zone 1 EED 14	EED Unscheduled Door Opening!	2024.02.26 08:48:46.553	kai_longley		0	THL
+ACK High	2024.02.23 08:23:57.895	TSC-E-EED-015	Town Hall Platform 2 Zone 1 EED 15	EED Unscheduled Door Opening!	2024.02.26 08:48:44.417	kai_longley		0	THL
+ACK High	2024.02.23 08:18:33.893	TSC-E-EED-016	Town Hall Platform 2 Zone 1 EED 16	EED Unscheduled Door Opening!	2024.02.26 08:48:42.068	kai_longley		0	THL
+ACK High	2024.02.23 08:18:11.901	TSC-E-EED-017	Town Hall Platform 2 Zone 1 EED 17	EED Unscheduled Door Opening!	2024.02.26 08:48:40.016	kai_longley		0	THL
+ACK High	2024.02.23 08:17:43.903	TSC-E-EED-018	Town Hall Platform 2 Zone 1 EED 18	EED Unscheduled Door Opening!	2024.02.26 08:48:38.200	kai_longley		0	THL
+ACK High	2024.02.23 08:17:03.904	TSC-E-EED-019	Town Hall Platform 2 Zone 1 EED 19	EED Unscheduled Door Opening!	2024.02.26 08:48:36.188	kai_longley		0	THL
+ACK High	2024.02.23 08:03:03.903	TSC-E-EED-020	Town Hall Platform 2 Zone 2 EED 20	EED Unscheduled Door Opening!	2024.02.26 08:48:29.906	kai_longley		0	THL
+ACK High	2024.02.23 08:02:49.906	TSC-E-DDX-001	Town Hall Platform 2 Zone 2 DD 01	Driver Door Unscheduled Door Opening!	2024.02.26 08:48:32.281	kai_longley		0	THL
+ACK High	2024.02.22 16:54:02.641	PKV_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!	2024.02.26 08:44:57.228	kai_longley		0	PKV
+ACK High	2024.02.22 13:23:23.239	DMA-E-EED-016	Anzac Platform 2 Zone 1 EED 16	EED Unscheduled Door Opening!	2024.02.26 08:11:07.499	kai_longley		0	AZC
+ACK High	2024.02.22 13:08:21.237	DMA-E-EED-022	Anzac Platform 2 Zone 3 EED 22	EED Unscheduled Door Opening!	2024.02.26 08:10:10.813	kai_longley		0	AZC
+ACK High	2024.02.22 13:01:47.238	DMA-E-EED-028	Anzac Platform 2 Zone 3 EED 28	EED Unscheduled Door Opening!	2024.02.26 08:10:03.347	kai_longley		0	AZC
+ACK High	2024.02.22 12:56:37.242	DMA-E-EED-030	Anzac Platform 2 Zone 3 EED 30	EED Unscheduled Door Opening!	2024.02.26 08:09:53.334	kai_longley		0	AZC
+ACK High	2024.02.22 12:50:15.240	DMA-E-EED-035	Anzac Platform 2 Zone 3 EED 35	EED Unscheduled Door Opening!	2024.02.26 08:09:46.817	kai_longley		0	AZC
+ACK High	2024.02.22 11:58:37.900	TSC-E-EED-005	Town Hall Platform 2 Zone 1 EED 05	EED Unscheduled Door Opening!	2024.02.26 08:49:17.697	kai_longley		0	THL
+ACK High	2024.02.22 11:57:51.903	TSC-E-EED-004	Town Hall Platform 2 Zone 1 EED 04	EED Unscheduled Door Opening!	2024.02.26 08:49:19.825	kai_longley		0	THL
+ACK High	2024.02.22 11:57:15.900	TSC-E-EED-003	Town Hall Platform 2 Zone 1 EED 03	EED Unscheduled Door Opening!	2024.02.26 08:49:22.115	kai_longley		0	THL
+ACK High	2024.02.22 11:57:01.902	TSC-E-EED-002	Town Hall Platform 2 Zone 1 EED 02	EED Unscheduled Door Opening!	2024.02.26 08:49:24.390	kai_longley		0	THL
+ACK High	2024.02.22 11:54:43.906	TSC-E-EED-001	Town Hall Platform 2 Zone 1 EED 01	EED Unscheduled Door Opening!	2024.02.26 08:49:26.905	kai_longley		0	THL
+ACK High	2024.02.22 11:28:47.902	TSC-W-EED-020	Town Hall Platform 1 Zone 2 EED 20	EED Unscheduled Door Opening!	2024.02.26 08:50:25.532	kai_longley		0	THL
+ACK High	2024.02.22 11:28:19.904	TSC-W-DDX-001	Town Hall Platform 1 Zone 2 DD 01	Driver Door Unscheduled Door Opening!	2024.02.26 08:50:23.465	kai_longley		0	THL
+ACK High	2024.02.22 11:04:09.241	DMA-W-EED-031	Anzac Platform 1 Zone 3 EED 31	EED Unscheduled Door Opening!	2024.02.26 08:12:59.172	kai_longley		0	AZC
+ACK High	2024.02.22 10:52:33.235	DMA-W-DDX-002	Anzac Platform 1 Zone 2 DD 02	Driver Door Unscheduled Door Opening!	2024.02.26 08:12:37.960	kai_longley		0	AZC
+ACK High	2024.02.22 10:45:37.241	DMA-W-EED-021	Anzac Platform 1 Zone 2 EED 21	EED Unscheduled Door Opening!	2024.02.26 08:12:35.012	kai_longley		0	AZC
+ACK High	2024.02.22 10:33:37.237	DMA-W-DDX-001	Anzac Platform 1 Zone 2 DD 01	Driver Door Unscheduled Door Opening!	2024.02.26 08:11:50.164	kai_longley		0	AZC
+ACK High	2024.02.22 10:24:37.235	DMA-W-EED-017	Anzac Platform 1 Zone 1 EED 17	EED Unscheduled Door Opening!	2024.02.26 08:11:43.844	kai_longley		0	AZC
+ACK High	2024.02.22 10:17:11.895	TSC-W-EED-018	Town Hall Platform 1 Zone 1 EED 18	EED Unscheduled Door Opening!	2024.02.26 08:50:17.088	kai_longley		0	THL
+ACK High	2024.02.22 10:16:55.895	TSC-W-EED-019	Town Hall Platform 1 Zone 1 EED 19	EED Unscheduled Door Opening!	2024.02.26 08:50:19.439	kai_longley		0	THL
+ACK High	2024.02.22 10:15:59.900	TSC-W-EED-016	Town Hall Platform 1 Zone 1 EED 16	EED Unscheduled Door Opening!	2024.02.26 08:50:11.556	kai_longley		0	THL
+ACK High	2024.02.22 10:15:27.894	TSC-W-EED-017	Town Hall Platform 1 Zone 1 EED 17	EED Unscheduled Door Opening!	2024.02.26 08:50:14.750	kai_longley		0	THL
+ACK High	2024.02.22 10:14:35.893	TSC-W-EED-015	Town Hall Platform 1 Zone 1 EED 15	EED Unscheduled Door Opening!	2024.02.26 08:50:09.507	kai_longley		0	THL
+ACK High	2024.02.22 10:13:57.896	TSC-W-EED-014	Town Hall Platform 1 Zone 1 EED 14	EED Unscheduled Door Opening!	2024.02.26 08:50:07.147	kai_longley		0	THL
+ACK High	2024.02.22 10:13:35.895	TSC-W-EED-013	Town Hall Platform 1 Zone 1 EED 13	EED Unscheduled Door Opening!	2024.02.26 08:50:05.072	kai_longley		0	THL
+ACK High	2024.02.22 08:46:25.896	TSC-W-EED-012	Town Hall Platform 1 Zone 1 EED 12	EED Unscheduled Door Opening!	2024.02.26 08:50:00.124	kai_longley		0	THL
+ACK High	2024.02.22 08:43:21.242	DMA-E-EED-036	Anzac Platform 2 Zone 3 EED 36	EED Unscheduled Door Opening!	2024.02.26 08:09:35.074	kai_longley		0	AZC
+ACK High	2024.02.22 08:43:13.899	TSC-W-EED-011	Town Hall Platform 1 Zone 1 EED 11	EED Unscheduled Door Opening!	2024.02.26 08:50:02.167	kai_longley		0	THL
+ACK High	2024.02.22 08:41:45.896	TSC-W-EED-010	Town Hall Platform 1 Zone 1 EED 10	EED Unscheduled Door Opening!	2024.02.26 08:49:57.918	kai_longley		0	THL
+ACK High	2024.02.22 08:39:39.901	TSC-W-EED-009	Town Hall Platform 1 Zone 1 EED 09	EED Unscheduled Door Opening!	2024.02.26 08:49:54.787	kai_longley		0	THL
+ACK High	2024.02.22 08:31:11.898	TSC-W-EED-008	Town Hall Platform 1 Zone 1 EED 08	EED Unscheduled Door Opening!	2024.02.26 08:49:52.905	kai_longley		0	THL
+ACK High	2024.02.22 08:28:27.900	TSC-W-EED-007	Town Hall Platform 1 Zone 1 EED 07	EED Unscheduled Door Opening!	2024.02.26 08:49:51.024	kai_longley		0	THL
+ACK High	2024.02.22 08:28:09.901	TSC-W-EED-006	Town Hall Platform 1 Zone 1 EED 06	EED Unscheduled Door Opening!	2024.02.26 08:49:49.119	kai_longley		0	THL
+ACK High	2024.02.22 08:16:53.900	TSC-W-EED-002	Town Hall Platform 1 Zone 1 EED 02	EED Unscheduled Door Opening!	2024.02.26 08:49:39.390	kai_longley		0	THL
+ACK High	2024.02.22 08:11:01.900	TSC-W-EED-005	Town Hall Platform 1 Zone 1 EED 05	EED Unscheduled Door Opening!	2024.02.26 08:49:47.078	kai_longley		0	THL
+ACK High	2024.02.22 08:10:37.901	TSC-W-EED-004	Town Hall Platform 1 Zone 1 EED 04	EED Unscheduled Door Opening!	2024.02.26 08:49:45.105	kai_longley		0	THL
+ACK High	2024.02.22 08:08:39.900	TSC-W-EED-003	Town Hall Platform 1 Zone 1 EED 03	EED Unscheduled Door Opening!	2024.02.26 08:49:41.331	kai_longley		0	THL
+ACK High	2024.02.22 08:06:05.895	TSC-W-EED-001	Town Hall Platform 1 Zone 1 EED 01	EED Unscheduled Door Opening!	2024.02.26 08:49:37.568	kai_longley		0	THL
+ACK High	2024.02.22 07:19:09.167	AEN-E-PSD-022	Arden Platform 2 Zone 3 PSD 22	PSD Unscheduled Door Opening!	2024.02.23 07:56:20.596	kai_longley		0	ARN
+ACK High	2024.02.22 00:55:51.645	AEN-E-PSD-023	Arden Platform 2 Zone 3 PSD 23	PSD Unscheduled Door Opening!	2024.02.23 07:56:16.681	kai_longley		0	ARN
+ACK High	2024.02.22 00:55:51.513	AEN-W-PSD-008	Arden Platform 1 Zone 1 PSD 08	PSD Unscheduled Door Opening!	2024.02.23 07:58:06.255	kai_longley		0	ARN
+ACK High	2024.02.21 23:41:23.639	PKV-W-EED-006	Parkville Platform 1 Zone 1 EED 06	EED Unscheduled Door Opening!	2024.02.26 08:39:34.670	kai_longley		0	PKV
+ACK High	2024.02.21 23:41:23.639	PKV-W-EED-007	Parkville Platform 1 Zone 1 EED 07	EED Unscheduled Door Opening!	2024.02.26 08:39:37.766	kai_longley		0	PKV
+ACK High	2024.02.21 21:00:59.243	DMA-W-EED-001	Anzac Platform 1 Zone 1 EED 01	EED Unscheduled Door Opening!	2024.02.26 08:11:26.915	kai_longley		0	AZC
+ACK High	2024.02.21 20:17:09.238	DMA-W-EED-005	Anzac Platform 1 Zone 1 EED 05	EED Unscheduled Door Opening!	2024.02.26 08:11:33.430	kai_longley		0	AZC
+ACK High	2024.02.21 18:38:53.642	PKV-W-EED-009	Parkville Platform 1 Zone 1 EED 09	EED Unscheduled Door Opening!	2024.02.26 08:39:42.816	kai_longley		0	PKV
+ACK High	2024.02.21 14:03:37.908	TSC-E-PSD-020	Town Hall Platform 2 Zone 2 PSD 20	PSD Unscheduled Door Opening!	2024.02.26 08:37:54.338	kai_longley		0	THL
+ACK High	2024.02.21 13:57:49.874	TSC-E-PSD-021	Town Hall Platform 2 Zone 2 PSD 21	PSD Unscheduled Door Opening!	2024.02.26 08:37:51.852	kai_longley		0	THL
+ACK High	2024.02.21 13:50:01.871	TSC-E-PSD-025	Town Hall Platform 2 Zone 3 PSD 25	PSD Unscheduled Door Opening!	2024.02.26 08:37:43.300	kai_longley		0	THL
+ACK High	2024.02.21 12:01:29.903	TSC-E-EED-040	Town Hall Platform 2 Zone 3 EED 40	EED Unscheduled Door Opening!	2024.02.26 08:37:58.563	kai_longley		0	THL
+ACK High	2024.02.21 11:59:21.899	TSC-E-EED-039	Town Hall Platform 2 Zone 3 EED 39	EED Unscheduled Door Opening!	2024.02.26 08:38:01.540	kai_longley		0	THL
+ACK High	2024.02.21 11:57:23.901	TSC-E-EED-038	Town Hall Platform 2 Zone 3 EED 38	EED Unscheduled Door Opening!	2024.02.26 08:38:03.767	kai_longley		0	THL
+ACK High	2024.02.21 11:55:17.900	TSC-E-EED-037	Town Hall Platform 2 Zone 3 EED 37	EED Unscheduled Door Opening!	2024.02.26 08:38:07.050	kai_longley		0	THL
+ACK High	2024.02.21 11:55:11.899	TSC-E-EED-036	Town Hall Platform 2 Zone 3 EED 36	EED Unscheduled Door Opening!	2024.02.26 08:38:09.013	kai_longley		0	THL
+ACK High	2024.02.21 11:37:41.898	TSC-E-EED-035	Town Hall Platform 2 Zone 3 EED 35	EED Unscheduled Door Opening!	2024.02.26 08:38:11.006	kai_longley		0	THL
+ACK High	2024.02.21 11:37:19.901	TSC-E-EED-034	Town Hall Platform 2 Zone 3 EED 34	EED Unscheduled Door Opening!	2024.02.26 08:38:12.937	kai_longley		0	THL
+ACK High	2024.02.21 11:36:53.902	TSC-E-EED-033	Town Hall Platform 2 Zone 3 EED 33	EED Unscheduled Door Opening!	2024.02.26 08:47:50.711	kai_longley		0	THL
+ACK High	2024.02.21 11:28:09.900	TSC-E-EED-029	Town Hall Platform 2 Zone 3 EED 29	EED Unscheduled Door Opening!	2024.02.26 08:47:59.440	kai_longley		0	THL
+ACK High	2024.02.21 11:27:49.900	TSC-E-EED-030	Town Hall Platform 2 Zone 3 EED 30	EED Unscheduled Door Opening!	2024.02.26 08:47:57.447	kai_longley		0	THL
+ACK High	2024.02.21 11:27:05.898	TSC-E-EED-031	Town Hall Platform 2 Zone 3 EED 31	EED Unscheduled Door Opening!	2024.02.26 08:47:55.395	kai_longley		0	THL
+ACK High	2024.02.21 11:26:51.898	TSC-E-EED-032	Town Hall Platform 2 Zone 3 EED 32	EED Unscheduled Door Opening!	2024.02.26 08:47:53.298	kai_longley		0	THL
+ACK High	2024.02.21 09:34:17.905	TSC-E-EED-028	Town Hall Platform 2 Zone 3 EED 28	EED Unscheduled Door Opening!	2024.02.26 08:48:02.391	kai_longley		0	THL
+ACK High	2024.02.21 09:33:49.902	TSC-E-EED-026	Town Hall Platform 2 Zone 3 EED 26	EED Unscheduled Door Opening!	2024.02.26 08:48:04.828	kai_longley		0	THL
+ACK High	2024.02.21 09:20:17.902	TSC-E-EED-025	Town Hall Platform 2 Zone 3 EED 25	EED Unscheduled Door Opening!	2024.02.26 08:48:07.367	kai_longley		0	THL
+ACK High	2024.02.21 09:19:55.898	TSC-E-EED-024	Town Hall Platform 2 Zone 3 EED 24	EED Unscheduled Door Opening!	2024.02.26 08:48:09.832	kai_longley		0	THL
+ACK High	2024.02.21 09:19:15.898	TSC-E-EED-023	Town Hall Platform 2 Zone 3 EED 23	EED Unscheduled Door Opening!	2024.02.26 08:48:12.087	kai_longley		0	THL
+ACK High	2024.02.21 09:19:05.900	TSC-E-EED-022	Town Hall Platform 2 Zone 3 EED 22	EED Unscheduled Door Opening!	2024.02.26 08:48:14.438	kai_longley		0	THL
+ACK High	2024.02.21 09:12:11.901	TSC-E-DDX-002	Town Hall Platform 2 Zone 2 DD 02	Driver Door Unscheduled Door Opening!	2024.02.26 08:48:22.112	kai_longley		0	THL
+ACK High	2024.02.21 09:04:05.902	TSC-E-EED-021	Town Hall Platform 2 Zone 2 EED 21	EED Unscheduled Door Opening!	2024.02.26 08:48:24.215	kai_longley		0	THL
+ACK High	2024.02.21 08:52:03.874	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	PSD Unscheduled Door Opening!	2024.02.26 08:37:49.176	kai_longley		0	THL
+ACK High	2024.02.21 08:12:53.850	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.26 08:42:00.427	kai_longley		0	STL
+ACK High	2024.02.21 08:09:49.849	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.26 08:44:46.660	kai_longley		0	STL
+ACK High	2024.02.21 08:08:59.180	AEN-W-EED-040	Arden Platform 1 Zone 3 EED 40	EED Unscheduled Door Opening!	2024.02.21 08:37:20.486	operator		0	ARN
+ACK High	2024.02.21 04:36:27.630	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.26 08:38:54.223	kai_longley		0	PKV
+ACK High	2024.02.21 04:21:35.632	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.26 08:39:17.239	kai_longley		0	PKV
+ACK High	2024.02.21 03:47:17.169	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.21 08:36:33.671	operator		0	ARN
+ACK High	2024.02.20 23:36:29.170	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.21 08:35:03.487	operator		0	ARN
+ACK High	2024.02.20 19:17:39.642	PKV-E-PSD-029	Parkville Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!	2024.02.26 08:39:01.249	kai_longley		0	PKV
+ACK High	2024.02.20 19:17:39.626	PKV-E-PSD-011	Parkville Platform 2 Zone 2 PSD 11	PSD Unscheduled Door Opening!	2024.02.26 08:39:10.368	kai_longley		0	PKV
+ACK High	2024.02.20 13:26:31.168	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.21 08:36:31.397	operator		0	ARN
+ACK High	2024.02.20 13:25:33.170	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.21 08:36:29.419	operator		0	ARN
+ACK High	2024.02.20 12:01:29.636	PKV-W-PSD-030	Parkville Platform 1 Zone 3 PSD 30	PSD Unscheduled Door Opening!	2024.02.26 08:41:09.261	kai_longley		0	PKV
+ACK High	2024.02.20 12:01:29.635	PKV-W-PSD-022	Parkville Platform 1 Zone 3 PSD 22	PSD Unscheduled Door Opening!	2024.02.26 08:40:50.885	kai_longley		0	PKV
+ACK High	2024.02.20 12:01:29.635	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!	2024.02.26 08:40:53.512	kai_longley		0	PKV
+ACK High	2024.02.20 12:01:29.635	PKV-W-PSD-025	Parkville Platform 1 Zone 3 PSD 25	PSD Unscheduled Door Opening!	2024.02.26 08:40:56.320	kai_longley		0	PKV
+ACK High	2024.02.20 12:01:29.635	PKV-W-PSD-026	Parkville Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!	2024.02.26 08:40:58.672	kai_longley		0	PKV
+ACK High	2024.02.20 12:01:29.635	PKV-W-PSD-027	Parkville Platform 1 Zone 3 PSD 27	PSD Unscheduled Door Opening!	2024.02.26 08:41:01.294	kai_longley		0	PKV
+ACK High	2024.02.20 12:01:29.635	PKV-W-PSD-028	Parkville Platform 1 Zone 3 PSD 28	PSD Unscheduled Door Opening!	2024.02.26 08:41:03.669	kai_longley		0	PKV
+ACK High	2024.02.20 12:01:29.635	PKV-W-PSD-029	Parkville Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!	2024.02.26 08:41:06.395	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.792	PKV-W-PSD-021	Parkville Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!	2024.02.26 08:40:45.724	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-013	Parkville Platform 1 Zone 2 PSD 13	PSD Unscheduled Door Opening!	2024.02.26 08:40:12.001	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-014	Parkville Platform 1 Zone 2 PSD 14	PSD Unscheduled Door Opening!	2024.02.26 08:40:14.455	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-015	Parkville Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!	2024.02.26 08:40:16.871	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-016	Parkville Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!	2024.02.26 08:40:19.359	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-017	Parkville Platform 1 Zone 2 PSD 17	PSD Unscheduled Door Opening!	2024.02.26 08:40:21.896	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-018	Parkville Platform 1 Zone 2 PSD 18	PSD Unscheduled Door Opening!	2024.02.26 08:40:24.781	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-019	Parkville Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!	2024.02.26 08:40:28.341	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.780	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!	2024.02.26 08:40:32.713	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.771	PKV-W-PSD-012	Parkville Platform 1 Zone 2 PSD 12	PSD Unscheduled Door Opening!	2024.02.26 08:40:09.114	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-001	Parkville Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!	2024.02.26 08:39:24.468	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-002	Parkville Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!	2024.02.26 08:39:26.963	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-003	Parkville Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!	2024.02.26 08:39:30.519	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-004	Parkville Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!	2024.02.26 08:39:40.687	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-005	Parkville Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!	2024.02.26 08:39:46.276	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-006	Parkville Platform 1 Zone 1 PSD 06	PSD Unscheduled Door Opening!	2024.02.26 08:39:48.821	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-007	Parkville Platform 1 Zone 1 PSD 07	PSD Unscheduled Door Opening!	2024.02.26 08:39:51.455	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-008	Parkville Platform 1 Zone 1 PSD 08	PSD Unscheduled Door Opening!	2024.02.26 08:39:54.582	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	PSD Unscheduled Door Opening!	2024.02.26 08:39:57.350	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-010	Parkville Platform 1 Zone 2 PSD 10	PSD Unscheduled Door Opening!	2024.02.26 08:40:03.048	kai_longley		0	PKV
+ACK High	2024.02.20 11:25:39.636	PKV-W-PSD-011	Parkville Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!	2024.02.26 08:40:06.048	kai_longley		0	PKV
+ACK High	2024.02.20 08:41:05.856	TNC-E-PED-001	State Library Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.26 08:42:50.348	kai_longley		0	STL
+ACK High	2024.02.16 02:25:31.220	DMA-W-PED-001	Anzac Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.17 09:31:20.196	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:51:11.524	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	All fans inoperative!	2024.02.17 08:10:16.999	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:49:00.536	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	All fans inoperative!	2024.02.17 08:10:16.700	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:46:33.537	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	All fans inoperative!	2024.02.17 08:10:41.653	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:46:16.534	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!	2024.02.17 08:10:02.867	sergio_paniagua		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-013	Anzac Platform 1 Zone 2 PSD 13	PSD Unscheduled Door Opening!	2024.02.17 09:31:44.400	sergio_paniagua		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-014	Anzac Platform 1 Zone 2 PSD 14	PSD Unscheduled Door Opening!	2024.02.26 08:12:09.399	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-015	Anzac Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!	2024.02.17 09:31:45.832	sergio_paniagua		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-016	Anzac Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!	2024.02.26 08:12:14.180	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-017	Anzac Platform 1 Zone 2 PSD 17	PSD Unscheduled Door Opening!	2024.02.26 08:12:16.974	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-018	Anzac Platform 1 Zone 2 PSD 18	PSD Unscheduled Door Opening!	2024.02.26 08:12:20.742	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-019	Anzac Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!	2024.02.26 08:12:26.522	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-021	Anzac Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!	2024.02.26 08:12:32.261	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-022	Anzac Platform 1 Zone 3 PSD 22	PSD Unscheduled Door Opening!	2024.02.26 08:12:43.663	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-023	Anzac Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!	2024.02.26 08:12:47.007	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-024	Anzac Platform 1 Zone 3 PSD 24	PSD Unscheduled Door Opening!	2024.02.26 08:12:49.993	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-025	Anzac Platform 1 Zone 3 PSD 25	PSD Unscheduled Door Opening!	2024.02.26 08:12:53.295	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-026	Anzac Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!	2024.02.26 08:12:56.174	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-027	Anzac Platform 1 Zone 3 PSD 27	PSD Unscheduled Door Opening!	2024.02.26 08:13:02.469	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-028	Anzac Platform 1 Zone 3 PSD 28	PSD Unscheduled Door Opening!	2024.02.26 08:13:05.621	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-030	Anzac Platform 1 Zone 3 PSD 30	PSD Unscheduled Door Opening!	2024.02.26 08:13:12.151	kai_longley		0	AZC
+ACK High	2024.02.15 08:04:27.870	DMA-W-PSD-012	Anzac Platform 1 Zone 2 PSD 12	PSD Unscheduled Door Opening!	2024.02.26 08:11:59.679	kai_longley		0	AZC
+ACK High	2024.02.13 19:52:05.994	DMA-E-PSD-019	Anzac Platform 2 Zone 2 PSD 19	PSD Unscheduled Door Opening!	2024.02.26 08:10:40.356	kai_longley		0	AZC
+ACK High	2024.02.13 19:52:05.874	DMA-E-PSD-001	Anzac Platform 2 Zone 1 PSD 01	PSD Unscheduled Door Opening!	2024.02.26 08:11:17.959	kai_longley		0	AZC
+ACK High	2024.02.13 19:52:05.874	DMA-E-PSD-003	Anzac Platform 2 Zone 1 PSD 03	PSD Unscheduled Door Opening!	2024.02.26 08:11:10.980	kai_longley		0	AZC
+ACK High	2024.02.12 09:46:46.214	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.26 08:51:30.436	kai_longley		0	THL
+ACK High	2024.02.12 09:46:46.164	TSC-E-PED-002	Town Hall Platform 2 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.26 08:37:46.258	kai_longley		0	THL
+ACK High	2024.02.12 09:42:39.538	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.26 08:49:32.309	kai_longley		0	THL
+ACK High	2024.02.12 09:41:31.860	DMA-W-PSD-029	Anzac Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!	2024.02.26 08:13:08.693	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:25.325	DMA-W-PSD-020	Anzac Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!	2024.02.26 08:12:29.313	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:19.159	DMA-W-PSD-011	Anzac Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!	2024.02.26 08:11:56.514	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:18.541	DMA-W-PSD-010	Anzac Platform 1 Zone 2 PSD 10	PSD Unscheduled Door Opening!	2024.02.26 08:11:53.010	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:12.625	DMA-W-PSD-002	Anzac Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!	2024.02.26 08:11:37.444	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:11.969	DMA-W-PSD-001	Anzac Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!	2024.02.26 08:11:30.770	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:11.029	DMA-E-PSD-030	Anzac Platform 2 Zone 3 PSD 30	PSD Unscheduled Door Opening!	2024.02.26 08:09:27.532	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:10.457	DMA-E-PSD-029	Anzac Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!	2024.02.26 08:09:40.276	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:04.698	DMA-E-PSD-021	Anzac Platform 2 Zone 2 PSD 21	PSD Unscheduled Door Opening!	2024.02.26 08:10:23.295	kai_longley		0	AZC
+ACK High	2024.02.12 09:41:04.099	DMA-E-PSD-020	Anzac Platform 2 Zone 2 PSD 20	PSD Unscheduled Door Opening!	2024.02.26 08:10:26.603	kai_longley		0	AZC
+ACK High	2024.02.12 09:40:57.265	DMA-E-PSD-011	Anzac Platform 2 Zone 2 PSD 11	PSD Unscheduled Door Opening!	2024.02.26 08:10:55.796	kai_longley		0	AZC
+ACK High	2024.02.12 09:40:50.839	DMA-E-PSD-002	Anzac Platform 2 Zone 1 PSD 02	PSD Unscheduled Door Opening!	2024.02.26 08:11:14.399	kai_longley		0	AZC
+ACK High	2024.01.15 14:33:26.677	_Driver2	MTTHL:_Driver2.	Driver overloaded	2024.01.18 09:02:39.998	himanshu_kakkad		0	AZC
+ACK Med	2024.02.26 08:15:26.492	_Conn_event_0_2_to_event_0_1	Anzac Server 2	Connection lost to Server 2 - Link 0	2024.02.26 08:16:17.521	kai_longley		0	AZC
+ACK Med	2024.02.26 08:15:26.492	_Conn_event_0_2_to_event_0_1	Anzac Server 2	Connection lost to Server 2 - Link 1	2024.02.26 08:16:17.521	kai_longley		0	AZC
+ACK Med	2024.02.25 03:42:54.242	AEN_FCU_1903_04_FG	Fan Coil Unit - Function Group	Cooling unavailable!	2024.02.26 08:04:04.837	kai_longley		0	ARN
+ACK Med	2024.02.24 00:55:11.341	AEN_FCU_0013_14_FG	Fan Coil Unit - Function Group	Cooling unavailable!	2024.02.26 08:04:38.641	kai_longley		0	ARN
+ACK Med	2024.02.23 12:43:13.902	DMA-FIP-0001	Anzac Station FDCIE Panel	Power supply to fire panel fault	2024.02.26 08:14:09.148	kai_longley		0	AZC
+ACK Med	2024.02.23 11:22:53.852	TNC-E-PSD-024	State Library Platform 2 Zone 3 PSD 24	Door control unit communication lost	2024.02.26 08:41:31.736	kai_longley		0	STL
+ACK Med	2024.02.23 11:08:21.865	TNC-E-PSD-003	State Library Platform 2 Zone 1 PSD 03	Door control unit communication lost	2024.02.26 08:41:34.878	kai_longley		0	STL
+ACK Med	2024.02.23 11:08:21.857	TNC-S-STN	State Library Station PSD System	PSD lost connection to signalling system!	2024.02.26 08:41:58.191	kai_longley		0	STL
+ACK Med	2024.02.15 15:51:11.524	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Unavailable	2024.02.17 08:10:16.470	sergio_paniagua		0	SDU
+ACK Med	2024.02.15 15:46:16.534	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Tunnel section ventilation unavailable	2024.02.17 08:10:16.157	sergio_paniagua		0	SDU
+ACK Med	2024.02.12 10:56:29.410	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 1	2024.02.17 09:40:23.432	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.408	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 0	2024.02.17 09:40:26.058	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.406	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 1	2024.02.17 09:40:28.465	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.404	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 0	2024.02.17 09:40:30.691	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.339	_Conn_event_0_1_to_driver_1_1	Distributed Server 1	Connection lost	2024.02.17 09:40:34.980	sergio_pareja		0	ARN
+ACK Med	2023.11.06 09:46:20.181	_RDBArchive_2	Anzac Server 2	RDB Connection Lost	2023.11.27 11:09:34.324	farrell_atlas		0	ARN
+ACK Med	2023.11.06 09:46:20.180	_RDBArchive	Anzac Server 1	RDB Connection Lost	2023.11.28 08:35:41.426	chris_lawson		0	AZC
+ACK Med	2023.10.21 17:29:12.128	_RDBArchive_2	Parkville Server 2	RDB Connection Lost	2023.11.28 08:35:41.462	chris_lawson		0	STL
+ACK Med	2023.10.21 17:29:12.125	_RDBArchive	Parkville Server 1	RDB Connection Lost	2023.11.28 08:35:41.462	chris_lawson		0	PKV
+ACK Med	2023.10.10 08:29:54.232	_RDBArchive_2	Town Hall Server 2	RDB Connection Lost	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:54.231	_RDBArchive	Town Hall Server 1	RDB Connection Lost	2023.11.28 08:35:41.398	chris_lawson		0	THL
+ACK Med	2023.10.10 08:29:53.877	_TSC-BMS-PLC_2	MTTHL:_TSC-BMS-PLC_2.	Communications Fault - Town Hall Server 2 to Town Hall BMS PLC	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:53.243	_TSC-FDS-S7PLUS_2	MTTHL:_TSC-FDS-S7PLUS_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:52.927	_TSC-FDS-S7PLUS	MTTHL:_TSC-FDS-S7PLUS.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2023.11.28 08:35:41.398	chris_lawson		0	THL
+ACK Med	2023.10.10 08:29:50.304	_Mod_Plc_4_2	MTTHL:_Mod_Plc_4_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:49.671	_Mod_Plc_3_2	MTTHL:_Mod_Plc_3_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:49.030	_Mod_Plc_2_2	MTTHL:_Mod_Plc_2_2.	Communications Fault - Town Hall Server 2 to Town Hall FDS Gateway	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:12:51.271	_RDBArchive_2	State Library Server 2	RDB Connection Lost	2023.11.28 08:35:41.432	chris_lawson		0	THL
+ACK Med	2023.10.10 08:12:51.268	_RDBArchive	State Library Server 1	RDB Connection Lost	2023.11.28 08:35:41.432	chris_lawson		0	STL
+ACK Low	2024.02.26 08:15:20.408	_ReduManager_2	Town Hall Server 2	Server 2 - Active due to split mode	2024.02.26 08:16:17.496	kai_longley		0	AZC
+ACK Low	2024.02.25 14:01:59.722	SDU_FCU_1001	Air Cooled Unit	Communications lost alarm	2024.02.26 08:44:59.389	kai_longley		0	SDU
+ACK Low	2024.02.24 12:58:12.503	DMA_AHU_1103_MVD_02	Air Handling Unit - Return Air Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:21.137	kai_longley		0	AZC
+ACK Low	2024.02.24 12:58:12.503	DMA_AHU_1103_MVD_03	Air Handling Unit - Outside Air Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:20.964	kai_longley		0	AZC
+ACK Low	2024.02.24 12:58:12.503	DMA_AHU_1103_MVD_04	Air Handling Unit - CO2 Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:20.783	kai_longley		0	AZC
+ACK Low	2024.02.24 12:29:58.137	AEN_FCU_1201_02_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable	2024.02.26 08:04:01.047	kai_longley		0	ARN
+ACK Low	2024.02.23 15:30:36.248	SDU_FCU_1902	Air Cooled Unit	Communications lost alarm	2024.02.26 08:06:55.691	kai_longley		0	SDU
+ACK Low	2024.02.23 15:30:28.328	DMA_FCU_1109_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:07:27.662	kai_longley		0	AZC
+ACK Low	2024.02.23 15:30:28.328	DMA_FCU_1109_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:07:27.467	kai_longley		0	AZC
+ACK Low	2024.02.23 15:30:28.328	DMA_FCU_1110_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:07:26.943	kai_longley		0	AZC
+ACK Low	2024.02.23 15:30:28.328	DMA_FCU_1110_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:07:26.767	kai_longley		0	AZC
+ACK Low	2024.02.23 15:30:28.318	DMA_FCU_0102_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:08:21.139	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.194	DMA_FCU_0105_SMD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:43.990	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.194	DMA_FCU_0105_SMD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:43.787	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.194	DMA_FCU_0117_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:48.150	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.194	DMA_FCU_1111_MVD_01	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:30.627	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.194	DMA_FCU_1111_MVD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:30.426	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.194	DMA_FCU_1111_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:30.243	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_AHU_1101_MVD_03	Air Handling Unit - Outside Air Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:17.077	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_AHU_1101_MVD_04	Air Handling Unit - CO2 Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:16.904	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_FCU_1129_SMD_01	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:05.362	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_FCU_1129_SMD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:05.178	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_FCU_1141_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:10.965	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_FCU_1141_MVD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:10.772	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_FCU_1141_MVD_05	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:10.590	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.193	DMA_FCU_1141_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:10.407	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_AHU_0101_MVD_02	Air Handling Unit - Return Air Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:13.218	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_AHU_0101_MVD_04	Air Handling Unit - CO2 Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:13.041	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_AHU_1101_MVD_02	Air Handling Unit - Return Air Modulated Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:17.255	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0117_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:48.349	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0117_MVD_08	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:47.967	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0119_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:52.696	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0119_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:52.541	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0201_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:00.360	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0201_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:59.989	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0201_MVD_07	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:59.807	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_0201_MVD_08	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:59.625	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_1201_MVD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:14.764	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_1201_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:14.570	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_1201_MVD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:14.403	kai_longley		0	AZC
+ACK Low	2024.02.23 15:29:27.185	DMA_FCU_1201_MVD_05	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:14.219	kai_longley		0	AZC
+ACK Low	2024.02.23 14:04:16.764	AEN_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault	2024.02.23 14:04:27.367	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 14:04:00.776	AEN_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault	2024.02.23 14:04:31.827	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 14:02:05.365	AEN-FIP-0001	Arden Main Fire Panel	Fire panels in the station have a power fault	2024.02.26 08:04:58.756	kai_longley		0	ARN
+ACK Low	2024.02.23 12:43:13.941	DMA-FIP-0001	Anzac Station FDCIE Panel	Fire panels in the station have a fault	2024.02.26 08:14:01.248	kai_longley		0	AZC
+ACK Low	2024.02.23 12:40:42.899	DMA_FCU_0201_MVD_05	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:08:00.182	kai_longley		0	AZC
+ACK Low	2024.02.23 12:27:49.949	AEN_DOR_B2_ESC_STAIRS_03_1	Security Door (B2 WEST) 	Door open too long	2024.02.23 12:30:40.430	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 12:27:30.759	AEN_DOR_B2_ESC_STAIRS_03_1	Security Door (B2 WEST) 	Unauthorised access	2024.02.23 12:34:43.412	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 11:45:00.271	DMA_FCU_1109_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:27.301	kai_longley		0	AZC
+ACK Low	2024.02.23 11:45:00.271	DMA_FCU_1109_MVD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm	2024.02.26 08:07:27.128	kai_longley		0	AZC
+ACK Low	2024.02.23 11:35:22.874	AEN_DOR_B2_ESC_STAIRS_04_2	Security Door (B2 EAST) 	Door open too long	2024.02.23 12:41:54.428	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 11:35:03.450	AEN_DOR_B2_ESC_STAIRS_04_2	Security Door (B2 EAST) 	Unauthorised access	2024.02.23 12:42:35.677	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 10:12:44.930	AEN_DOR_B2_ESC_STAIRS_03_2	Security Door (B2 WEST) 	Door open too long	2024.02.23 12:31:40.858	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 10:12:25.209	AEN_DOR_B2_ESC_STAIRS_03_2	Security Door (B2 WEST) 	Unauthorised access	2024.02.23 12:31:40.561	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 10:01:54.868	AEN_DOR_B1_151-4_1	Security Door (B1 EAST) 	Door open too long	2024.02.23 12:42:33.645	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 10:01:35.554	AEN_DOR_B1_151-4_1	Security Door (B1 EAST) 	Unauthorised access	2024.02.23 12:42:13.639	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 07:39:25.085	AEN_DOR_B1_ESC_STAIRS_04_2	East Emergency Stairs - Concourse	Door open too long	2024.02.23 12:44:33.075	dominic_dlasselle		0	ARN
+ACK Low	2024.02.23 07:35:57.219	AEN_DOR_B1_151-3_1	West BOH Corridor Entry - Concourse	Unauthorised access	2024.02.23 13:52:50.342	dominic_dlasselle		0	ARN
+ACK Low	2024.02.22 18:41:15.063	AEN_DOR_GF_ESC_STAIR_9_1	Security Door (GF EAST) 	Door open too long	2024.02.23 12:42:29.437	dominic_dlasselle		0	ARN
+ACK Low	2024.02.22 17:31:01.203	AEN_DOR_B2_ESC_STAIRS_04_3	Security Door (B2 EAST) 	Door open too long	2024.02.23 12:25:49.764	dominic_dlasselle		0	ARN
+ACK Low	2024.02.22 15:07:19.686	PKV_FCU_1119_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:45.482	kai_longley		0	PKV
+ACK Low	2024.02.22 00:06:33.226	DMA-E-PSD-029	Anzac Platform 2 Zone 3 PSD 29	PSD isolated	2024.02.26 08:09:39.939	kai_longley		0	AZC
+ACK Low	2024.02.22 00:04:13.223	DMA-W-PSD-002	Anzac Platform 1 Zone 1 PSD 02	PSD isolated	2024.02.26 08:11:36.627	kai_longley		0	AZC
+ACK Low	2024.02.21 11:44:18.987	AEN_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift General Fault	2024.02.23 08:00:14.842	kai_longley		0	ARN
+ACK Low	2024.02.21 07:53:51.420	PKV_FCU_1201_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:52.794	kai_longley		0	PKV
+ACK Low	2024.02.21 07:53:51.420	PKV_FCU_1201_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:52.630	kai_longley		0	PKV
+ACK Low	2024.02.21 07:46:27.084	AEN_DOR_GF_151-12_1	Access to office - Ground Floor	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 10:11:45.723	AEN_DOR_LG_405-3_1	Fire escape Corridor - Lower Ground Floor	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 10:08:10.723	AEN_DOR_LG_405-3_2	Fire escape Corridor - Lower Ground Floor	Door open too long	2024.02.20 10:19:40.026	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.860	AEN_DOR_L2_ESC_STAIRS_5_2	Security Door (L2 EAST) 	Door open too long	2024.02.20 11:49:23.395	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.723	AEN_DOR_GF_246-2_1	Security Door (GF EAST) 	Door open too long	2024.02.20 11:38:32.110	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.679	AEN_DOR_GF_246-1_1	Security Door (GF WEST) 	Door open too long	2024.02.20 11:37:42.998	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.499	AEN_DOR_B2_403-1_2	Security Door (B2 WEST) 	Door open too long	2024.02.20 11:48:34.065	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.380	AEN_DOR_B1_151-3_1	West BOH Corridor Entry - Concourse	Door open too long	2024.02.20 10:55:02.281	eric_maddocks		0	ARN
+ACK Low	2024.02.19 10:35:50.142	AEN_FCU_1911_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.21 08:30:02.264	operator		0	ARN
+ACK Low	2024.02.19 10:35:50.131	AEN_FCU_0107_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.21 08:30:10.776	operator		0	ARN
+ACK Low	2024.02.19 10:35:20.039	SDU_FCU_0402	Air Cooled Unit	Communications lost alarm	2024.02.21 08:42:11.468	kai_longley		0	SDU
+ACK Low	2024.02.19 10:35:20.039	SDU_FCU_0602	Air Cooled Unit	Communications lost alarm	2024.02.21 08:42:22.265	kai_longley		0	SDU
+ACK Low	2024.02.17 13:09:13.060	AEN_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift General Fault	2024.02.17 13:09:41.264	sergio_paniagua		0	ARN
+ACK Low	2024.02.16 15:34:10.517	DMA_FCU_0118_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:07:47.599	kai_longley		0	AZC
+ACK Low	2024.02.16 15:32:15.430	DMA_FCU_0118_MCV_01	Fan Coil Unit - Chilled Water Valve	Analogue bad quality alarm 	2024.02.26 08:07:47.778	kai_longley		0	AZC
+ACK Low	2024.02.16 15:25:37.362	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator communications lost	2024.02.26 08:09:11.478	kai_longley		0	AZC
+ACK Low	2024.02.16 13:49:31.443	PKV_FCU_1115_MCV_01	Fan Coil Unit - Chilled Water Valve	Analogue bad quality alarm 	2024.02.26 08:45:32.970	kai_longley		0	PKV
+ACK Low	2024.02.16 11:11:47.408	PKV_FCU_1115_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:32.892	kai_longley		0	PKV
+ACK Low	2024.02.16 11:11:47.397	PKV_AHU_1301_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:01.962	kai_longley		0	PKV
+ACK Low	2024.02.16 11:11:47.397	PKV_AHU_1303_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:04.157	kai_longley		0	PKV
+ACK Low	2024.02.16 11:11:47.397	PKV_AHU_1305_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:08.736	kai_longley		0	PKV
+ACK Low	2024.02.16 11:11:47.397	PKV_FCU_0201_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:27.744	kai_longley		0	PKV
+ACK Low	2024.02.16 11:11:47.397	PKV_FCU_0203_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:43.499	kai_longley		0	PKV
+ACK Low	2024.02.16 11:11:47.397	PKV_FCU_0205_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:39.948	kai_longley		0	PKV
+ACK Low	2024.02.16 11:09:52.377	PKV_FCU_1221_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:35.392	kai_longley		0	PKV
+ACK Low	2024.02.16 11:04:38.354	PKV_FCU_0209_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:22.893	kai_longley		0	PKV
+ACK Low	2024.02.16 11:04:38.354	PKV_FCU_0404_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.26 08:45:24.736	kai_longley		0	PKV
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0403_MFM_02	AEN-LFT-0003 Multi-function Meter	Communications lost alarm	2024.02.17 09:40:48.272	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_19	PAE-MDB-0401 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:24.577	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0402_MFM_19	PAE-MDB-0402 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:26.776	sergio_pareja		0	ARN
+ACK Low	2024.02.13 13:59:52.273	SYP-LS-1019	Junction Box JB1003 Tamper Input	Tamper detected	2024.02.21 13:42:47.187	farrell_atlas		0	SDU
+ACK Low	2024.02.13 13:59:52.273	SYP-LS-1020	Junction Box JB1004 Tamper Input	Tamper detected	2024.02.21 13:42:38.227	farrell_atlas		0	SDU
+ACK Low	2024.02.12 10:56:29.365	_Conn_event_0_1_to_dist_1_1	Distributed Server 1	Connection lost - Event to Distribution Manager - Link 1	2024.02.17 09:41:31.617	sergio_pareja		0	ARN
+ACK Low	2024.02.12 10:56:29.352	_Conn_event_0_1_to_redu_1_1	Distributed Server 1	Connection lost - Event to Redundancy Manager - Link 1	2024.02.17 09:41:33.866	sergio_pareja		0	ARN
+ACK Low	2024.02.12 09:49:03.094	ESS-Section-11B	Traction Section Anzac to South yarra section B	Section A Traction Power status Unknown	2024.02.15 10:37:14.883	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.074	ESS-Section-11A	Traction Section Anzac to South Yarra	Section A Traction Power status Unknown	2024.02.17 08:10:33.072	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.055	ESS-Section-10B	Traction Section Anzac Station section B	Section A Traction Power status Unknown	2024.02.17 08:10:15.506	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.038	ESS-Section-10A	Traction Section Anzac Station	Section A Traction Power status Unknown	2024.02.17 08:10:41.268	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.021	ESS-Section-09B	Traction Section Town Hall to Anzac section B	Section A Traction Power status Unknown	2024.02.17 08:10:02.205	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.985	ESS-Section-08B	Traction Section Town Hall Station section B	Section A Traction Power status Unknown	2024.02.17 08:09:44.087	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.765	ESS-Section-02B	Traction Section Arden Station section B	Section A Traction Power status Unknown	2024.02.17 07:55:29.988	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.743	ESS-Section-02A	Traction Section Arden Station	Section A Traction Power status Unknown	2024.02.17 07:55:21.783	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.724	ESS-Section-01B	Traction Section Footscray west to Arden section B	Section A Traction Power status Unknown	2024.02.14 08:39:05.144	sergio_pareja		0	SDU
+ACK Low	2024.02.12 09:49:02.709	ESS-Section-01A	Traction Section Footscray west to Arden	Section A Traction Power status Unknown	2024.02.14 08:38:03.255	sergio_pareja		0	SDU
