@@ -24,6 +24,6 @@ def run_scripts_in_folder(folder_path, scripts_to_run):
 
 if __name__ == "__main__":
     folder_path = r"C:\Users\klongley\Documents\CMS_Testing\CMS\scripts"
-    scripts_to_run = ['tsv_excel', 'excel_master', 'site_daily_alarms', 'graph_creator']
+    scripts_to_run = ['tsv_excel', 'excel_master', 'site_daily_alarms', 'pre_graph_creator', 'post_graph_creator']
     
     run_scripts_in_folder(folder_path, scripts_to_run)
