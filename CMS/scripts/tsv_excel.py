@@ -48,7 +48,7 @@ if post_filtered_files:
     df = pd.read_csv(most_recent_file_path, sep='\t')
 
     # Extract the date from the filename
-    date_from_filename = most_recent_file[11:-4]
+    date_from_filename = most_recent_file[12:-4]
 
     # Specify the Excel file path with the datestamped filename
     excel_file_path = f'C:/Users/klongley/Documents/CMS_Testing/CMS/excel_exports/post/post_alarms_{date_from_filename}.xlsx'
