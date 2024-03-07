@@ -24,7 +24,7 @@ df.set_index(df.columns[0], inplace=True)
 df = df.iloc[1:]
 
 # Plot the graph with each site identified by column headers
-ax = df.plot(kind='line', marker='o', figsize=(12, 6), legend=True)
+ax = df.plot(kind='line', marker='o', figsize=(13, 6), legend=True)
 ax.xaxis.set_major_formatter(plt.matplotlib.dates.DateFormatter('%Y-%m-%d'))  # Format date on x-axis
 
 # Save the figure in the specified folder
