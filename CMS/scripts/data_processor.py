@@ -12,11 +12,11 @@ def run_scripts_in_folder(folder_path, scripts_to_run):
 
         # Add a delay after running tsv_excel
         if script == 'tsv_excel':
-            time.sleep(2)  # Adjust the delay time as needed
+            time.sleep(4)  # Adjust the delay time as needed
 
         # Add a delay after running site_daily_alarms
         elif script == 'site_daily_alarms':
-            time.sleep(2)  # Adjust the delay time as needed
+            time.sleep(4)  # Adjust the delay time as needed
 
     # Wait for all processes to finish
     for process in processes:
