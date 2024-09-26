@@ -1,0 +1,669 @@
+Severity	Alarm Raised	Asset ID	Asset Name	Alarm Description	Acknowledged	By	Cleared	Comments	Location
+CAME UNACK High	2024.09.26 13:35:43.154	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.09.26 13:35:26.168	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.09.26 13:35:19.166	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.09.26 13:34:00.156	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.09.26 13:32:39.159	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.09.26 13:32:39.159	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.09.26 09:26:26.589	TNC_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!				0	STL
+CAME UNACK High	2024.09.26 07:14:04.824	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.09.26 06:17:59.430	SKP-ZONE-0003	Westbound Detection Zone 1	TIAS activated! 				0	SDU
+CAME UNACK High	2024.09.26 06:17:57.426	SKP-ZONE-0001	Eastbound Detection Zone 1	TIAS activated! 				0	SDU
+CAME UNACK High	2024.09.26 06:16:47.427	SKP-ZONE-0002	Eastbound Detection Zone 2	TIAS activated! 				0	SDU
+CAME UNACK High	2024.09.26 06:13:46.430	SKP-ZONE-0004	Westbound Detection Zone 2	TIAS activated! 				0	SDU
+CAME UNACK High	2024.09.26 04:28:34.108	SDU_FOLLOWUP	Tunnels and Portals Follow up alarm	Metrol haven't ack'd an important alarm!				0	SDU
+CAME UNACK High	2024.09.25 16:01:41.108	SSC_FOLLOWUP	Sunshine SCC Follow up alarm	Metrol haven't ack'd an important alarm!				0	SSC
+CAME UNACK High	2024.09.25 15:41:41.637	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.09.25 13:11:36.830	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.09.25 12:42:55.697	TSC-E-PSD-029	Town Hall Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:42:55.697	TSC-E-PSD-030	Town Hall Platform 2 Zone 3 PSD 30	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:42:55.652	TSC-E-PSD-025	Town Hall Platform 2 Zone 3 PSD 25	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:42:55.652	TSC-E-PSD-026	Town Hall Platform 2 Zone 3 PSD 26	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:42:55.652	TSC-E-PSD-027	Town Hall Platform 2 Zone 3 PSD 27	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:42:55.652	TSC-E-PSD-028	Town Hall Platform 2 Zone 3 PSD 28	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:42:55.651	TSC-E-PSD-023	Town Hall Platform 2 Zone 3 PSD 23	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:42:55.651	TSC-E-PSD-024	Town Hall Platform 2 Zone 3 PSD 24	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.941	TSC-E-PSD-016	Town Hall Platform 2 Zone 2 PSD 16	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.941	TSC-E-PSD-017	Town Hall Platform 2 Zone 2 PSD 17	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.920	TSC-E-PSD-014	Town Hall Platform 2 Zone 2 PSD 14	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.920	TSC-E-PSD-015	Town Hall Platform 2 Zone 2 PSD 15	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.918	TSC-E-PSD-013	Town Hall Platform 2 Zone 2 PSD 13	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-001	Town Hall Platform 2 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-002	Town Hall Platform 2 Zone 1 PSD 02	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-003	Town Hall Platform 2 Zone 1 PSD 03	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-004	Town Hall Platform 2 Zone 1 PSD 04	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-005	Town Hall Platform 2 Zone 1 PSD 05	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-006	Town Hall Platform 2 Zone 1 PSD 06	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-007	Town Hall Platform 2 Zone 1 PSD 07	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-008	Town Hall Platform 2 Zone 1 PSD 08	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-009	Town Hall Platform 2 Zone 1 PSD 09	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-010	Town Hall Platform 2 Zone 2 PSD 10	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-011	Town Hall Platform 2 Zone 2 PSD 11	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.09.25 12:25:31.651	TSC-E-PSD-012	Town Hall Platform 2 Zone 2 PSD 12	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK Med	2024.09.26 13:35:26.168	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.09.26 13:34:00.156	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK Med	2024.09.26 10:26:14.754	DMA-FIP-0001	Anzac Station FDCIE Panel	No modbus gateway connection				0	AZC
+CAME UNACK Med	2024.09.26 10:26:14.754	DMA-FIP-0001	Anzac Station FDCIE Panel	Modbus redundancy loss				0	AZC
+CAME UNACK Med	2024.09.26 10:26:14.754	DMA-FIP-0002	Anzac Station SHCIE Panel 2	No modbus gateway connection				0	AZC
+CAME UNACK Med	2024.09.26 10:26:14.754	DMA-FIP-0003	Anzac Station SHCIE Panel 3	No modbus gateway connection				0	AZC
+CAME UNACK Med	2024.09.26 10:26:14.754	DMA-FIP-0004	Anzac Station SHCIE Panel 4	No modbus gateway connection				0	AZC
+CAME UNACK Med	2024.09.26 10:26:14.754	DMA-FIP-0005	Anzac Station SHCIE Panel 5	No modbus gateway connection				0	AZC
+CAME UNACK Med	2024.09.26 10:26:14.754	DMA-FIP-0006	Anzac Station SHCIE Panel 6	No modbus gateway connection				0	AZC
+CAME UNACK Med	2024.09.26 10:26:14.754	EPZ-FIP-0001	Eastern Portal Main Fire Panel	No modbus gateway connection				0	SDU
+CAME UNACK Med	2024.09.26 10:26:14.754	EPZ-FIP-0002	Eastern Portal Station Fire Panel	No modbus gateway connection				0	SDU
+CAME UNACK Med	2024.09.25 15:46:55.425	_Mod_Plc_2_2	MTPKV:_Mod_Plc_2_2.	Communications Fault - Parkville Server 2 to Parkville FDS Gateway				0	STL
+CAME UNACK Med	2024.09.25 15:46:55.412	_Mod_Plc_2	MTPKV:_Mod_Plc_2.	Communications Fault - Parkville Server 1 to Parkville FDS Gateway				0	STL
+CAME UNACK Med	2024.09.25 15:45:37.065	PKV-FIP-0006	Parkville Station SHCIE Panel 6	No modbus gateway connection				0	PKV
+CAME UNACK Med	2024.09.25 15:45:37.064	PKV-FIP-0001	Parkville Station FDCIE Panel 	No modbus gateway connection				0	PKV
+CAME UNACK Med	2024.09.25 15:45:37.064	PKV-FIP-0001	Parkville Station FDCIE Panel 	Modbus redundancy loss				0	PKV
+CAME UNACK Med	2024.09.25 15:45:37.064	PKV-FIP-0002	Parkville Station SHCIE Panel 2	No modbus gateway connection				0	PKV
+CAME UNACK Med	2024.09.25 15:45:37.064	PKV-FIP-0003	Parkville Station SHCIE Panel 3	No modbus gateway connection				0	PKV
+CAME UNACK Med	2024.09.25 15:45:37.064	PKV-FIP-0004	Parkville Station SHCIE Panel 4	No modbus gateway connection				0	PKV
+CAME UNACK Med	2024.09.25 15:45:37.064	PKV-FIP-0005	Parkville Station SHCIE Panel 5	No modbus gateway connection				0	PKV
+CAME UNACK Med	2024.09.25 14:49:37.383	PKV_FCU_0309_FG	Fan Coil Unit - Function Group	Cooling unavailable!				0	PKV
+CAME UNACK Low	2024.09.26 18:54:30.500	AEN_DOR_GF_405-2_1	Ground floor east - emergency escape ramp	Unauthorised access				0	ARN
+CAME UNACK Low	2024.09.26 17:43:04.591	AEN_DOR_B1_ESC_STAIRS_03_2	Concourse west - back of house emergency stairs	Unauthorised access				0	ARN
+CAME UNACK Low	2024.09.26 17:42:28.058	AEN_DOR_B1_ESC_STAIRS_03_1	Concourse west - back of house emergency corridor	Unauthorised access				0	ARN
+CAME UNACK Low	2024.09.26 17:41:28.764	AEN_DOR_B1_151-3_1	Concourse west - back of house corridor	Unauthorised access				0	ARN
+CAME UNACK Low	2024.09.26 15:02:08.660	AEN_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift monitoring lost 				0	ARN
+CAME UNACK Low	2024.09.26 14:33:58.425	AEN-SPE-0090	B1, AEN-SPE-0090, 151-10 BOH Corridor	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.09.26 14:33:58.425	AEN-SPE-0404	B1, AEN-SPE-0404, 151-10 BOH Corridor	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.09.26 14:27:32.425	AEN-SPE-0095	B1, AEN-SPE-0095, 103-2 PAID CONC	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.09.26 14:27:32.425	AEN-SPE-0400	B1, AEN-SPE-0400, 103-2 PAID CONC	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.09.26 14:27:32.425	AEN-SPE-0403	B1, AEN-SPE-0403, 103-2 PAID CONC	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.09.26 12:40:25.090	AEN_DOR_L2_ESC_STAIRS_5_2	Level 2 east - back of house stairs	Unauthorised access				0	ARN
+CAME UNACK Low	2024.09.26 10:05:13.166	DMA_DOR_B1_ST01_2	West Emergency Stairs - Concourse	Unauthorised access				0	AZC
+CAME UNACK Low	2024.09.26 08:56:08.422	AEN_DOR_B1_ESC_STAIRS_04_2	Concourse east  - back of house emergency stairs	Unauthorised access				0	ARN
+CAME UNACK Low	2024.09.26 07:51:52.999	PKV_DOR_B3_402-7_1	East Emergency Stairs - Basement	Unauthorised access				0	PKV
+CAME UNACK Low	2024.09.26 01:47:19.139	_ReduManager	Distributed Server 1	Server 1 - Set active automatically				0	ARN
+CAME UNACK Low	2024.09.25 17:59:38.490	PKV_DOR_B4_PKV-S-02_3	East Emergency Stairs - Platform	Unauthorised access				0	PKV
+WENT UNACK High	2024.09.26 19:38:19.466	DMA_ROL_RNERV_E	RNERV Enclosure Door - Anzac, East Tunnel	RNERV crane arm extended over tracks!			2024.09.26 19:38:50.728	0	SDU
+WENT UNACK High	2024.09.26 15:42:57.655	DMA-E-LCP	Anzac Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.09.26 15:43:03.654	0	AZC
+WENT UNACK High	2024.09.26 15:00:34.831	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door opened!			2024.09.26 15:02:14.831	0	ARN
+WENT UNACK High	2024.09.26 14:45:22.824	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door opened!			2024.09.26 14:46:38.824	0	ARN
+WENT UNACK High	2024.09.26 13:31:35.152	DMA_StationFunc	Operator Fire Emergency Mode Selection - Domain Station	Operator initiated emergency ventilation mode Is active In the station!			2024.09.26 13:32:39.159	0	SDU
+WENT UNACK High	2024.09.26 06:43:06.831	AEN-E-LCP	Arden Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.09.26 06:43:08.827	0	ARN
+WENT UNACK High	2024.09.26 06:36:18.825	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door opened!			2024.09.26 06:36:46.829	0	ARN
+WENT UNACK High	2024.09.26 01:52:11.310	_Driver2	MTTHL:_Driver2.				2024.09.26 01:52:27.929	0	AZC
+WENT UNACK High	2024.09.25 15:41:41.639	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door opened!			2024.09.25 15:41:45.639	0	PKV
+WENT UNACK High	2024.09.25 15:37:15.638	PKV-W-LCP	Parkville Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.09.25 15:37:31.635	0	PKV
+WENT UNACK High	2024.09.25 15:33:40.832	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door Unscheduled Door Opening!			2024.09.25 21:11:48.849	0	ARN
+WENT UNACK High	2024.09.25 15:33:40.832	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door opened!			2024.09.25 15:33:46.827	0	ARN
+WENT UNACK High	2024.09.25 12:54:26.829	AEN-E-PSD-030	Arden Platform 2 Zone 3 PSD 30	PSD obstructed on opening or closing!			2024.09.25 12:54:28.825	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.835	AEN-E-PSD-025	Arden Platform 2 Zone 3 PSD 25	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.835	AEN-E-PSD-026	Arden Platform 2 Zone 3 PSD 26	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.835	AEN-E-PSD-027	Arden Platform 2 Zone 3 PSD 27	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.835	AEN-E-PSD-028	Arden Platform 2 Zone 3 PSD 28	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.835	AEN-E-PSD-029	Arden Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.835	AEN-E-PSD-030	Arden Platform 2 Zone 3 PSD 30	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.834	AEN-E-PSD-022	Arden Platform 2 Zone 3 PSD 22	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.834	AEN-E-PSD-023	Arden Platform 2 Zone 3 PSD 23	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK High	2024.09.25 12:51:56.834	AEN-E-PSD-024	Arden Platform 2 Zone 3 PSD 24	PSD Unscheduled Door Opening!			2024.09.25 21:11:48.852	0	ARN
+WENT UNACK Med	2024.09.26 15:46:23.649	DMA-E-PSD-002	Anzac Platform 2 Zone 1 PSD 02	Door control unit communication lost			2024.09.26 15:48:17.649	0	AZC
+WENT UNACK Med	2024.09.26 15:22:04.720	AEN_FCU_1905_06_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.09.26 15:22:15.844	0	ARN
+WENT UNACK Med	2024.09.26 15:21:29.878	AEN_FCU_1909_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.09.26 15:21:44.743	0	ARN
+WENT UNACK Med	2024.09.26 15:19:02.768	AEN_FCU_0109_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.09.26 15:19:55.860	0	ARN
+WENT UNACK Med	2024.09.26 15:00:32.831	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door alarm bypassed!			2024.09.26 15:02:18.831	0	ARN
+WENT UNACK Med	2024.09.26 14:45:18.824	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door alarm bypassed!			2024.09.26 14:46:40.824	0	ARN
+WENT UNACK Med	2024.09.26 13:35:38.150	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Degraded fans			2024.09.26 13:35:44.170	0	AZC
+WENT UNACK Med	2024.09.26 13:33:58.155	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	Degraded fans			2024.09.26 13:34:00.156	0	AZC
+WENT UNACK Med	2024.09.26 13:24:55.842	AEN_SPP_0201_02_FG	Sewer Drainage Pit - Function Group	Sewer drainage pit not dropping!			2024.09.26 13:24:59.832	0	ARN
+WENT UNACK Med	2024.09.26 13:06:24.059	_Mod_Plc_2_2	MTARD:_Mod_Plc_2_2.	Communications Fault - Arden Server 2 to Arden FDS Gateway			2024.09.26 13:06:25.171	0	PKV
+WENT UNACK Med	2024.09.26 13:05:11.150	_Mod_Plc_2	MTARD:_Mod_Plc_2.	Communications Fault - Arden Server 1 to Arden FDS Gateway			2024.09.26 13:05:12.261	0	PKV
+WENT UNACK Med	2024.09.26 12:08:39.494	WPZ-FIP-0002	Western Portal Station Fire Panel	No modbus gateway connection			2024.09.26 13:05:18.140	0	SDU
+WENT UNACK Med	2024.09.26 12:08:39.494	WPZ-FIP-0003	Western Portal Station Fire Panel	No modbus gateway connection			2024.09.26 13:05:18.140	0	SDU
+WENT UNACK Med	2024.09.26 12:08:39.493	WPZ-FIP-0001	Western Portal Main Fire Panel	No modbus gateway connection			2024.09.26 13:05:18.275	0	SDU
+WENT UNACK Med	2024.09.26 12:08:39.493	AEN-FIP-0002	Arden Station Fire Panel 1	No modbus gateway connection			2024.09.26 13:05:18.140	0	ARN
+WENT UNACK Med	2024.09.26 12:08:39.493	AEN-FIP-0003	Arden Station Fire Panel 2	No modbus gateway connection			2024.09.26 13:05:18.140	0	ARN
+WENT UNACK Med	2024.09.26 12:08:39.493	AEN-FIP-0004	Arden Station Fire Panel 3	No modbus gateway connection			2024.09.26 13:05:18.140	0	ARN
+WENT UNACK Med	2024.09.26 12:08:39.493	AEN-FIP-0005	Arden Station Fire Panel 4	No modbus gateway connection			2024.09.26 13:05:18.140	0	ARN
+WENT UNACK Med	2024.09.26 12:08:39.493	AEN-FIP-0006	Arden Station Fire Panel 5	No modbus gateway connection			2024.09.26 13:05:18.140	0	ARN
+WENT UNACK Med	2024.09.26 12:08:39.493	AEN-FIP-0007	Arden Station Fire Panel 6	No modbus gateway connection			2024.09.26 13:05:18.140	0	ARN
+WENT UNACK Med	2024.09.26 12:04:33.656	DMA-E-PSD-002	Anzac Platform 2 Zone 1 PSD 02	High motor current			2024.09.26 15:48:17.649	0	AZC
+WENT UNACK Med	2024.09.26 11:23:38.482	DMA_ESC_0007	Escalator 7 Bank 5 (B1 Basement to GF Gound Floor)	Escalator stopped (emergency stop button activated!)			2024.09.26 11:23:47.417	0	AZC
+WENT UNACK Med	2024.09.26 10:26:14.648	_Mod_Plc_2	MTAZC:_Mod_Plc_2.	Communications Fault - Anzac Server 1 to Anzac FDS Gateway			2024.09.26 10:26:15.660	0	ARN
+WENT UNACK Med	2024.09.26 09:40:31.414	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped (emergency stop button activated!)			2024.09.26 09:40:40.494	0	AZC
+WENT UNACK Med	2024.09.26 08:59:47.288	PKV_TEP_0303_LVT_01	Tunnel Drainage Pump - Level Transmitter	Tracks at risk of flooding!			2024.09.26 09:00:02.291	0	PKV
+WENT UNACK Med	2024.09.26 08:45:17.384	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (emergency stop button activated!)			2024.09.26 08:45:26.484	0	AZC
+WENT UNACK Med	2024.09.26 08:45:11.387	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (emergency stop button activated!)			2024.09.26 08:45:20.482	0	AZC
+WENT UNACK Med	2024.09.26 08:45:05.512	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (emergency stop button activated!)			2024.09.26 08:45:14.624	0	AZC
+WENT UNACK Med	2024.09.26 06:36:02.825	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door alarm bypassed!			2024.09.26 06:36:48.826	0	ARN
+WENT UNACK Med	2024.09.26 01:57:13.848	_Conn_dist_1_1_to_dist_6_2	Distributed Server 1	Connection lost to Town Hall Server 2 - Link 0			2024.09.26 01:57:33.852	0	THL
+WENT UNACK Med	2024.09.26 01:55:50.726	_RDBArchive_2	Distributed Server 2	RDB Connection Lost			2024.09.26 01:57:26.914	0	THL
+WENT UNACK Med	2024.09.26 01:55:48.670	_TSC-TVC-PLC	MTTHL:_TSC-TVC-PLC.	Communications Fault - Town Hall Server 1 to Town Hall TVCS PLC			2024.09.26 01:56:18.721	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.785	_SYP-TIAS-PLC_2	MTDIST:_SYP-TIAS-PLC_2.	Communications Fault - Dist Server 2 to SYP TIAS PLC			2024.09.26 01:55:47.030	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.784	_SKP-TIAS-PLC_2	MTDIST:_SKP-TIAS-PLC_2.	Communications Fault - Dist Server 2 to SKP TIAS PLC			2024.09.26 01:55:47.030	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_3_1	Distributed Server 2	Connection lost to Arden Server 1 - Link 0			2024.09.26 01:57:07.171	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_3_1	Distributed Server 2	Connection lost to Arden Server 1 - Link 1			2024.09.26 01:56:07.888	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_3_2	Distributed Server 2	Connection lost to Arden Server 2 - Link 0			2024.09.26 01:57:07.163	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_3_2	Distributed Server 2	Connection lost to Arden Server 2 - Link 1			2024.09.26 01:56:27.161	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_4_1	Distributed Server 2	Connection lost to Parkville Server 1 - Link 0			2024.09.26 01:57:07.169	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_4_1	Distributed Server 2	Connection lost to Parkville Server 1 - Link 1			2024.09.26 01:56:07.888	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_4_2	Distributed Server 2	Connection lost to Parkville Server 2 - Link 0			2024.09.26 01:57:07.171	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_4_2	Distributed Server 2	Connection lost to Parkville Server 2 - Link 1			2024.09.26 01:56:27.158	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_5_1	Distributed Server 2	Connection lost to State Library Server 1 - Link 0			2024.09.26 01:57:07.171	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_5_1	Distributed Server 2	Connection lost to State Library Server 1 - Link 1			2024.09.26 01:56:07.896	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_5_2	Distributed Server 2	Connection lost to State Library Server 2 - Link 0			2024.09.26 01:57:07.171	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_5_2	Distributed Server 2	Connection lost to State Library Server 2 - Link 1			2024.09.26 01:57:27.056	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_6_1	Distributed Server 2	Connection lost to Town Hall Server 1 - Link 0			2024.09.26 01:57:27.057	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_6_1	Distributed Server 2	Connection lost to Town Hall Server 1 - Link 1			2024.09.26 01:57:47.055	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_6_2	Distributed Server 2	Connection lost to Town Hall Server 2 - Link 0			2024.09.26 01:57:47.056	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_6_2	Distributed Server 2	Connection lost to Town Hall Server 2 - Link 1			2024.09.26 01:58:06.953	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_7_1	Distributed Server 2	Connection lost to Anzac Server 1 - Link 0			2024.09.26 01:57:07.171	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_7_1	Distributed Server 2	Connection lost to Anzac Server 1 - Link 1			2024.09.26 01:56:07.896	0	ARN
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_7_2	Distributed Server 2	Connection lost to Anzac Server 2 - Link 0			2024.09.26 01:57:07.172	0	THL
+WENT UNACK Med	2024.09.26 01:55:46.357	_Conn_dist_1_2_to_dist_7_2	Distributed Server 2	Connection lost to Anzac Server 2 - Link 1			2024.09.26 01:56:27.161	0	THL
+WENT UNACK Med	2024.09.26 01:55:45.419	_Conn_event_0_2_to_ctrl_1_2	Distributed Server 2				2024.09.26 01:55:45.754	0	THL
+WENT UNACK Med	2024.09.26 01:55:45.419	_Conn_event_0_2_to_ctrl_2_2	Distributed Server 2				2024.09.26 01:55:47.360	0	THL
+WENT UNACK Med	2024.09.26 01:55:45.419	_Conn_event_0_2_to_ctrl_3_2	MTDIST:_Conn_event_0_2_to_ctrl_3_2.				2024.09.26 01:55:47.561	0	THL
+WENT UNACK Med	2024.09.26 01:55:45.419	_Conn_event_0_2_to_ctrl_4_2	Distributed Server 2				2024.09.26 01:55:47.763	0	THL
+WENT UNACK Med	2024.09.26 01:55:45.419	_Conn_event_0_2_to_driver_1_2	Distributed Server 2	RSG Driver Not Running (Modbus)			2024.09.26 01:55:46.558	0	THL
+WENT UNACK Med	2024.09.26 01:55:45.419	_Conn_event_0_2_to_event_0_1	Distributed Server 2	Connection lost to Server 1 - Link 1			2024.09.26 01:57:37.580	0	ARN
+WENT UNACK Med	2024.09.26 01:55:35.704	_Mod_Plc_1_2	MTTHL:_Mod_Plc_1_2.	Communications Fault - Town Hall Server 2 to Town Hall PSD Servers			2024.09.26 01:57:08.756	0	AZC
+WENT UNACK Med	2024.09.26 01:55:35.372	_TSC-BMS-PLC3_2	MTTHL:_TSC-BMS-PLC3_2.	Communications Fault - Town Hall Server 2 to Town Hall BMS Gateway PLC			2024.09.26 01:55:36.437	0	AZC
+WENT UNACK Med	2024.09.26 01:55:35.372	_TSC-BMS-PLC_2	MTTHL:_TSC-BMS-PLC_2.	Communications Fault - Town Hall Server 2 to Town Hall BMS PLC			2024.09.26 01:55:41.262	0	AZC
+WENT UNACK Med	2024.09.26 01:55:34.959	_TSC-TVC-PLC_2	MTTHL:_TSC-TVC-PLC_2.	Communications Fault - Town Hall Server 2 to Town Hall TVCS PLC			2024.09.26 01:55:35.004	0	AZC
+WENT UNACK Med	2024.09.26 01:55:33.662	_Conn_event_0_2_to_ctrl_1_2	Town Hall Server 2	Control Manager Not Running - pvss_scripts.lst			2024.09.26 01:55:34.105	0	AZC
+WENT UNACK Med	2024.09.26 01:55:33.662	_Conn_event_0_2_to_ctrl_2_2	Town Hall Server 2	Control Manager Not Running - mtlib_scripts.lst			2024.09.26 01:55:36.523	0	AZC
+WENT UNACK Med	2024.09.26 01:55:33.662	_Conn_event_0_2_to_ctrl_3_2	Town Hall Server 2	Control Manager Not Running - mtthl_scripts.lst			2024.09.26 01:55:36.719	0	AZC
+WENT UNACK Med	2024.09.26 01:55:33.662	_Conn_event_0_2_to_driver_1_2	Town Hall Server 2	TVCS PLC Driver Not Running (S7)			2024.09.26 01:55:34.903	0	AZC
+WENT UNACK Med	2024.09.26 01:55:33.662	_Conn_event_0_2_to_driver_2_2	Town Hall Server 2	BMS PLC Driver Not Running (S7+)			2024.09.26 01:55:35.329	0	AZC
+WENT UNACK Med	2024.09.26 01:55:29.447	_RDBArchive_2	Town Hall Server 2	RDB Connection Lost			2024.09.26 01:55:32.023	0	AZC
+WENT UNACK Med	2024.09.26 01:55:22.652	_Conn_dist_1_1_to_dist_6_1	Distributed Server 1	Connection lost to Town Hall Server 1 - Link 1			2024.09.26 01:57:33.871	0	ARN
+WENT UNACK Med	2024.09.26 01:55:16.212	_Conn_dist_1_1_to_dist_6_2	Distributed Server 1	Connection lost to Town Hall Server 2 - Link 1			2024.09.26 01:57:53.796	0	THL
+WENT UNACK Med	2024.09.26 01:55:14.038	_Mod_Plc_1_2	MTSTL:_Mod_Plc_1_2.	Communications Fault - State Library Server 2 to State Library PSD Servers			2024.09.26 01:55:22.034	0	THL
+WENT UNACK Med	2024.09.26 01:54:59.654	_TNC-BMS-PLC_2	MTSTL:_TNC-BMS-PLC_2.	Communications Fault - State Library Server 2 to State Library BMS PLC			2024.09.26 01:55:07.329	0	THL
+WENT UNACK Med	2024.09.26 01:54:59.654	_TNC-BMS-PLC3_2	MTSTL:_TNC-BMS-PLC3_2.	Communications Fault - State Library Server 2 to State Library BMS Gateway PLC			2024.09.26 01:55:04.000	0	THL
+WENT UNACK Med	2024.09.26 01:54:59.616	_RDBArchive_2	State Library Server 2	RDB Connection Lost			2024.09.26 01:57:30.961	0	THL
+WENT UNACK Med	2024.09.26 01:54:59.262	_TNC-TVC-PLC_2	MTSTL:_TNC-TVC-PLC_2.	Communications Fault - State Library Server 2 to State Library TVCS PLC			2024.09.26 01:54:59.306	0	THL
+WENT UNACK Med	2024.09.26 01:54:58.025	_Conn_event_0_2_to_ctrl_1_2	State Library Server 2	Control Manager Not Running - pvss_scripts.lst			2024.09.26 01:54:58.428	0	THL
+WENT UNACK Med	2024.09.26 01:54:58.025	_Conn_event_0_2_to_ctrl_2_2	State Library Server 2	Control Manager Not Running - mtlib_scripts.lst			2024.09.26 01:55:00.835	0	THL
+WENT UNACK Med	2024.09.26 01:54:58.025	_Conn_event_0_2_to_ctrl_3_2	State Library Server 2	Control Manager Not Running - mtstl_scripts.lst			2024.09.26 01:55:01.033	0	THL
+WENT UNACK Med	2024.09.26 01:54:58.025	_Conn_event_0_2_to_driver_1_2	State Library Server 2	TVCS PLC Driver Not Running (S7)			2024.09.26 01:54:59.207	0	THL
+WENT UNACK Med	2024.09.26 01:54:58.025	_Conn_event_0_2_to_driver_2_2	State Library Server 2	BMS PLC Driver Not Running (S7+)			2024.09.26 01:54:59.615	0	THL
+WENT UNACK Med	2024.09.26 01:54:58.025	_Conn_event_0_2_to_event_0_1	State Library Server 2	Connection lost to Server 2 - Link 1			2024.09.26 01:57:43.938	0	STL
+WENT UNACK Med	2024.09.26 01:54:57.341	_Conn_event_0_1_to_event_0_2	Distributed Server 1	Connection lost to Server 2 - Link 1			2024.09.26 01:57:37.581	0	THL
+WENT UNACK Med	2024.09.26 01:54:47.070	_Conn_dist_1_1_to_dist_5_2	Distributed Server 1	Connection lost to State Library Server 2 - Link 1			2024.09.26 01:56:54.758	0	THL
+WENT UNACK Med	2024.09.26 01:54:43.958	_Conn_event_0_1_to_event_0_2	State Library Server 1	Connection lost to Server 2 - Link 1			2024.09.26 01:57:43.939	0	THL
+WENT UNACK Med	2024.09.26 01:54:43.941	_Conn_event_0_2_to_event_0_1	State Library Server 2	Connection lost to Server 2 - Link 0			2024.09.26 01:57:23.934	0	STL
+WENT UNACK Med	2024.09.26 01:54:28.793	_TSC-BMS-PLC3	MTTHL:_TSC-BMS-PLC3.	Communications Fault - Town Hall Server 1 to Town Hall BMS Gateway PLC			2024.09.26 01:54:29.057	0	THL
+WENT UNACK Med	2024.09.26 01:53:39.509	_TSC-BMS-PLC	MTTHL:_TSC-BMS-PLC.	Communications Fault - Town Hall Server 1 to Town Hall BMS PLC			2024.09.26 01:54:21.183	0	THL
+WENT UNACK Med	2024.09.26 01:49:57.142	_Conn_event_0_2_to_event_0_1	Distributed Server 2	Connection lost to Server 1 - Link 0			2024.09.26 01:57:17.485	0	ARN
+WENT UNACK Med	2024.09.26 01:47:02.027	_Conn_event_0_1_to_event_0_2	State Library Server 1	Connection lost to Server 2 - Link 0			2024.09.26 01:57:23.935	0	THL
+WENT UNACK Med	2024.09.26 01:47:01.817	_Conn_dist_1_1_to_dist_5_2	Distributed Server 1	Connection lost to State Library Server 2 - Link 0			2024.09.26 01:57:13.857	0	THL
+WENT UNACK Med	2024.09.26 01:47:00.704	_Conn_event_0_1_to_event_0_2	Distributed Server 1	Connection lost to Server 2 - Link 0			2024.09.26 01:57:17.488	0	THL
+WENT UNACK Med	2024.09.26 01:47:00.634	_Conn_dist_1_1_to_dist_6_1	Distributed Server 1	Connection lost to Town Hall Server 1 - Link 0			2024.09.26 01:57:14.590	0	ARN
+WENT UNACK Med	2024.09.26 01:46:53.651	_Mod_Plc_1	MTTHL:_Mod_Plc_1.	Communications Fault - Town Hall Server 1 to Town Hall PSD Servers			2024.09.26 01:57:05.656	0	THL
+WENT UNACK Med	2024.09.25 19:00:36.819	TNC_SPP_0201_02_FG	Sewer Drainage Pit - Function Group	Sewer drainage pit not dropping!			2024.09.25 19:00:50.823	0	STL
+WENT UNACK Med	2024.09.25 16:24:59.726	TNC_TEP_0301_02_FG	Tunnel Drainage Pit - Function Group	Tunnel drainage pit level not dropping!			2024.09.25 16:25:07.828	0	STL
+WENT UNACK Med	2024.09.25 15:41:39.639	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door alarm bypassed!			2024.09.25 15:41:47.644	0	PKV
+WENT UNACK Med	2024.09.25 15:33:34.832	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door alarm bypassed!			2024.09.25 15:33:48.832	0	ARN
+WENT UNACK Med	2024.09.25 11:36:00.009	_ForcefieldDriver	Distributed Servers	Communications Fault to Forcefield Server			2024.09.25 14:50:00.029	0	ARN
+WENT UNACK Low	2024.09.26 19:27:02.846	AEN_DOR_B2_403-1_2	Platform 1 west - single emergency door	Unauthorised access			2024.09.26 19:27:29.113	0	ARN
+WENT UNACK Low	2024.09.26 19:14:41.355	AEN_TEXB	Tunnel Ambient Temperature Control - Westbound	Temperature Sensors B - Discrepancy 			2024.09.26 19:18:02.380	0	SDU
+WENT UNACK Low	2024.09.26 19:12:02.383	AEN_TEXA	Tunnel Ambient Temperature Control - Eastbound	Temperature Sensors A - Discrepancy 			2024.09.26 19:15:10.372	0	SDU
+WENT UNACK Low	2024.09.26 18:55:27.368	AEN_DOR_B2_ESC_STAIRS_04_3	Platform 1 east - double emergency door	Unauthorised access			2024.09.26 18:55:45.647	0	ARN
+WENT UNACK Low	2024.09.26 18:55:26.150	AEN_DOR_B2_ESC_STAIRS_04_2	Platform 2 east - single emergency door	Unauthorised access			2024.09.26 18:55:47.682	0	ARN
+WENT UNACK Low	2024.09.26 18:35:08.671	TNC_SDP_0101_02_FG	Station Drainage Pit - Function Group	Station drainage pit not dropping!			2024.09.26 18:35:22.671	0	STL
+WENT UNACK Low	2024.09.26 16:45:43.690	PKV_DOR_B1_PKV-S-02_2	East Emergency Stairs - Lower Ground Floor	Unauthorised access			2024.09.26 16:45:48.876	0	PKV
+WENT UNACK Low	2024.09.26 15:48:23.901	DMA_DOR_B2_402-4_2	East Emergency Stairs - Platform	Unauthorised access			2024.09.26 15:48:32.129	0	AZC
+WENT UNACK Low	2024.09.26 15:20:29.855	AEN_FCU_0111_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.09.26 15:20:54.719	0	ARN
+WENT UNACK Low	2024.09.26 15:08:27.784	AEN_DOR_B1_151-4_1	Concourse east  - back of house emergency corridor	Unauthorised access			2024.09.26 15:08:31.491	0	ARN
+WENT UNACK Low	2024.09.26 15:08:21.420	DMA_DOR_B1_ST05_1	East Emergency Stairs - Concourse	Unauthorised access			2024.09.26 15:08:25.679	0	AZC
+WENT UNACK Low	2024.09.26 14:53:46.707	AEN_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault			2024.09.26 15:01:41.764	0	ARN
+WENT UNACK Low	2024.09.26 14:53:46.707	AEN_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift safety feature fault			2024.09.26 14:53:47.757	0	ARN
+WENT UNACK Low	2024.09.26 14:51:15.435	PDM_DOR_W_1	PDM West Tunnel Door 1	Unauthorised access			2024.09.26 14:51:23.636	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.655	S_96_3_14803	Traction Section Anzac Station section A	Section Traction Power status Unknown			2024.09.26 14:44:45.745	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.643	S_96_1_14801	Traction Section Town Hall to Anzac section A	Section Traction Power status Unknown			2024.09.26 14:44:45.693	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.643	S_97_1_14811	Traction Section Town Hall to Anzac section B	Section Traction Power status Unknown			2024.09.26 14:44:45.693	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.643	S_98_1_14851	Traction Section Anzac to South yarra section A	Section Traction Power status Unknown			2024.09.26 14:44:45.694	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.643	S_99_1_14861	Traction Section Anzac to South yarra section B	Section Traction Power status Unknown			2024.09.26 14:44:45.701	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.643	S_95_5_14765	Traction Section Town Hall Station section B	Section Traction Power status Unknown			2024.09.26 14:44:45.742	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.642	S_94_1_14751	Traction Section State Library Station section A	Section Traction Power status Unknown			2024.09.26 14:44:45.688	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.642	S_94_3_14753	Traction Section State Library to Town hall section A	Section Traction Power status Unknown			2024.09.26 14:44:45.689	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.642	S_95_1_14761	Traction Section State Library Station section B	Section Traction Power status Unknown			2024.09.26 14:44:45.690	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.642	S_95_3_14763	Traction Section State Library to Town hall section B	Section Traction Power status Unknown			2024.09.26 14:44:45.690	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.635	S_93_1_14711	Traction Section Parkville Station section B	Section Traction Power status Unknown			2024.09.26 14:44:45.669	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.631	S_92_1_14701	Traction Section Parkville Station section A	Section Traction Power status Unknown			2024.09.26 14:44:45.656	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.630	S_91_1_14661	Traction Section Arden Station section B	Section Traction Power status Unknown			2024.09.26 14:44:45.656	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.622	S_90_1_14651	Traction Section Arden Station section A	Section Traction Power status Unknown			2024.09.26 14:44:45.656	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.621	S_89_1_14611	Traction Section Footscray west to Arden section B	Section Traction Power status Unknown			2024.09.26 14:44:45.655	0	SDU
+WENT UNACK Low	2024.09.26 14:44:45.617	S_88_1_14601	Traction Section Footscray west to Arden section A	Section Traction Power status Unknown			2024.09.26 14:44:45.655	0	SDU
+WENT UNACK Low	2024.09.26 14:44:28.876	S_97_3_14813	Traction Section Anzac Station section B	Section Traction Power status Unknown			2024.09.26 14:44:29.084	0	SDU
+WENT UNACK Low	2024.09.26 14:44:28.863	S_91_3_14663	Traction Section Arden to Parkville section B	Section Traction Power status Unknown			2024.09.26 14:44:29.072	0	SDU
+WENT UNACK Low	2024.09.26 14:44:28.863	S_92_3_14703	Traction Section Parkville to State Library section A	Section Traction Power status Unknown			2024.09.26 14:44:29.073	0	SDU
+WENT UNACK Low	2024.09.26 14:44:28.863	S_93_3_14713	Traction Section Parkville to State Library section B	Section Traction Power status Unknown			2024.09.26 14:44:29.076	0	SDU
+WENT UNACK Low	2024.09.26 14:44:28.863	S_94_5_14755	Traction Section Town Hall Station section A	Section Traction Power status Unknown			2024.09.26 14:44:29.076	0	SDU
+WENT UNACK Low	2024.09.26 14:44:28.859	S_90_3_14653	Traction Section Arden to Parkville section A	Section Traction Power status Unknown			2024.09.26 14:44:29.068	0	SDU
+WENT UNACK Low	2024.09.26 14:40:11.108	essGeneral	ESS Overall health Status	ELECTROL SCADA System Timeout. All Traction Power State Unknown.			2024.09.26 14:40:11.486	0	SDU
+WENT UNACK Low	2024.09.26 14:38:10.694	AEN_DOR_GF_ESC_STAIR_9_1	Ground floor east - after hours stairs	Unauthorised access			2024.09.26 15:12:09.856	0	ARN
+WENT UNACK Low	2024.09.26 14:35:51.326	AEN_DOR_GF_401-1_1	Ground floor east - fire control room	Unauthorised access			2024.09.26 14:35:57.548	0	ARN
+WENT UNACK Low	2024.09.26 14:32:30.359	DMA_DOR_B2_402-4_4	East Emergency Stairs - Platform	Unauthorised access			2024.09.26 14:32:36.396	0	AZC
+WENT UNACK Low	2024.09.26 14:31:14.684	AEN_LFT_0006	Lift 6 BOH (Platforms to Level 2)	Lift General Fault			2024.09.26 14:32:33.763	0	ARN
+WENT UNACK Low	2024.09.26 14:31:14.684	AEN_LFT_0006	Lift 6 BOH (Platforms to Level 2)	Lift safety feature fault			2024.09.26 14:31:15.752	0	ARN
+WENT UNACK Low	2024.09.26 14:30:25.577	_Mod_Plc_1_2	Distributed Server 2	Communications Fault - Distributed Server 2 to RSG			2024.09.26 14:30:26.579	0	THL
+WENT UNACK Low	2024.09.26 14:28:26.703	AEN_LFT_0006	Lift 6 BOH (Platforms to Level 2)	Lift monitoring lost 			2024.09.26 14:30:20.672	0	ARN
+WENT UNACK Low	2024.09.26 13:48:57.603	DMA_DOR_B1_ST01_1	West Emergency Stairs - Concourse	Unauthorised access			2024.09.26 13:49:04.789	0	AZC
+WENT UNACK Low	2024.09.26 13:45:38.100	DMA_DOR_B2_405-3_1	West Emergency Stairs - Platform	Unauthorised access			2024.09.26 13:45:44.893	0	AZC
+WENT UNACK Low	2024.09.26 13:40:21.771	AEN_DOR_B2_ESC_STAIRS_03_2	Platform 1 west - double emergency door	Unauthorised access			2024.09.26 13:40:27.028	0	ARN
+WENT UNACK Low	2024.09.26 13:38:31.836	DMA_DOR_B2_402-4_3	East Emergency Stairs - Platform	Unauthorised access			2024.09.26 13:38:36.695	0	AZC
+WENT UNACK Low	2024.09.26 13:38:02.433	DMA_LFT_0006	Lift 6 FOH (B1 Basement to GF Gound Floor)	Lift General Fault			2024.09.26 13:38:56.535	0	AZC
+WENT UNACK Low	2024.09.26 13:35:33.155	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Loss of redundancy (fans)			2024.09.26 13:35:38.150	0	AZC
+WENT UNACK Low	2024.09.26 13:35:17.154	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Loss of redundancy (fans)			2024.09.26 13:35:26.168	0	AZC
+WENT UNACK Low	2024.09.26 13:35:11.170	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	Loss of redundancy (fans)			2024.09.26 13:35:19.166	0	AZC
+WENT UNACK Low	2024.09.26 13:33:58.155	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Tunnel section ventilation degraded			2024.09.26 13:34:00.156	0	SDU
+WENT UNACK Low	2024.09.26 13:33:56.148	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	Loss of redundancy (fans)			2024.09.26 13:33:58.155	0	AZC
+WENT UNACK Low	2024.09.26 13:29:28.150	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Degraded			2024.09.26 13:35:26.168	0	SDU
+WENT UNACK Low	2024.09.26 13:21:49.364	AEN_DOR_B2_ESC_STAIRS_03_1	Platform 2 west - single emergency door	Unauthorised access			2024.09.26 13:21:55.748	0	ARN
+WENT UNACK Low	2024.09.26 13:11:32.703	DMA_DOR_B1_151-5_2	East BOH Corridor - Concourse	Unauthorised access			2024.09.26 13:11:34.201	0	AZC
+WENT UNACK Low	2024.09.26 13:10:32.051	PKV_DOR_GF_PKV-S-04_2	East Emergency Stairs - Ground Floor	Unauthorised access			2024.09.26 13:10:34.798	0	PKV
+WENT UNACK Low	2024.09.26 13:05:30.781	_ReduManager_2	Arden Server 2	Server 2 - Passive			2024.09.26 13:05:48.851	0	PKV
+WENT UNACK Low	2024.09.26 12:48:31.769	DMA_DOR_B2_405-4_1	West Emergency Stairs - Platform	Unauthorised access			2024.09.26 12:48:36.418	0	AZC
+WENT UNACK Low	2024.09.26 12:39:58.508	AEN_DOR_L1_ESC_STAIRS_5_1	Level 1 east - office stairs	Unauthorised access			2024.09.26 12:40:04.837	0	ARN
+WENT UNACK Low	2024.09.26 12:33:18.607	AEN_DOR_GF_246-1_2	Ground floor west - loading dock 2	Unauthorised access			2024.09.26 12:55:12.757	0	ARN
+WENT UNACK Low	2024.09.26 11:42:38.330	PKV_ESC_0014	Escalator 14 Bank 7 (Concourse to Ground Floor)	Escalator General Fault			2024.09.26 11:42:41.367	0	PKV
+WENT UNACK Low	2024.09.26 11:42:19.327	PKV_ESC_0015	Escalator 15 Bank 7 (Concourse to Ground Floor)	Escalator General Fault			2024.09.26 11:42:20.329	0	PKV
+WENT UNACK Low	2024.09.26 11:31:40.920	PKV_DOR_B4_PKV-S-02_2	East Emergency Stairs - Platform	Unauthorised access			2024.09.26 11:31:50.404	0	PKV
+WENT UNACK Low	2024.09.26 11:31:38.942	PKV_DOR_GF_PKV-S-03_1	West Emergency Stairs - Ground Floor	Unauthorised access			2024.09.26 16:09:03.879	0	PKV
+WENT UNACK Low	2024.09.26 11:30:20.743	DMA_DOR_B1_406-3_2	South Fire Lobby - Concourse	Unauthorised access			2024.09.26 11:30:24.883	0	AZC
+WENT UNACK Low	2024.09.26 11:23:38.482	DMA_ESC_0007	Escalator 7 Bank 5 (B1 Basement to GF Gound Floor)	Escalator General Fault			2024.09.26 11:23:50.673	0	AZC
+WENT UNACK Low	2024.09.26 10:37:34.477	AEN_DOR_GF_246-1_1	Ground floor west - loading dock 1	Unauthorised access			2024.09.26 10:37:36.458	0	ARN
+WENT UNACK Low	2024.09.26 10:24:47.327	PKV_ESC_0011	Escalator 11 Bank 5 (Concourse to Ground Floor)	Escalator General Fault			2024.09.26 10:24:49.329	0	PKV
+WENT UNACK Low	2024.09.26 10:18:19.218	_Mod_Plc_1	Distributed Server 1	Communications Fault - Distributed Server 1 to RSG			2024.09.26 10:18:20.217	0	ARN
+WENT UNACK Low	2024.09.26 09:49:00.680	DMA_LFT_0006	Lift 6 FOH (B1 Basement to GF Gound Floor)	Lift safety feature fault			2024.09.26 09:50:10.720	0	AZC
+WENT UNACK Low	2024.09.26 09:40:31.414	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator General Fault			2024.09.26 09:40:44.615	0	AZC
+WENT UNACK Low	2024.09.26 09:23:29.533	DMA_DOR_GF_GF_1	Shrine Emergency Stairs - Ground	Unauthorised access			2024.09.26 09:24:39.742	0	AZC
+WENT UNACK Low	2024.09.26 08:56:07.324	PKV_DOR_B3_402-7_2	East Emergency Stairs - Basement	Unauthorised access			2024.09.26 08:56:12.007	0	PKV
+WENT UNACK Low	2024.09.26 08:45:17.384	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator General Fault			2024.09.26 08:45:30.499	0	AZC
+WENT UNACK Low	2024.09.26 08:45:11.387	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator General Fault			2024.09.26 08:45:24.615	0	AZC
+WENT UNACK Low	2024.09.26 08:45:05.512	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator General Fault			2024.09.26 08:45:18.490	0	AZC
+WENT UNACK Low	2024.09.26 08:39:11.215	AEN_DOR_GF_405-2_2	Ground floor east - back of house emergency corridor	Unauthorised access			2024.09.26 08:39:19.070	0	ARN
+WENT UNACK Low	2024.09.26 08:23:54.484	AEN_DOR_B2_403-1_1	Platform 2 west - single emergency door	Unauthorised access			2024.09.26 08:24:01.666	0	ARN
+WENT UNACK Low	2024.09.26 08:23:43.054	PKV_DOR_B4_PKV-S-02_4	East Emergency Stairs - Platform	Unauthorised access			2024.09.26 08:23:49.659	0	PKV
+WENT UNACK Low	2024.09.26 08:23:25.626	PKV_DOR_B4_PKV-S-02_1	East Emergency Stairs - Platform	Unauthorised access			2024.09.26 08:23:34.591	0	PKV
+WENT UNACK Low	2024.09.26 07:58:30.864	PKV_DOR_B2_402-3_3	East Emergency Stairs - Concourse	Unauthorised access			2024.09.26 08:00:44.448	0	PKV
+WENT UNACK Low	2024.09.26 07:54:52.480	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (top step level fault)			2024.09.26 07:57:50.493	0	AZC
+WENT UNACK Low	2024.09.26 07:36:18.484	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)			2024.09.26 07:36:28.487	0	AZC
+WENT UNACK Low	2024.09.26 06:41:39.706	DMA_DOR_GF_GF_2	Shrine Emergency Stairs - Ground	Unauthorised access			2024.09.26 06:42:48.054	0	AZC
+WENT UNACK Low	2024.09.26 06:09:55.636	PKV-W-PSD-030	Parkville Platform 1 Zone 3 PSD 30	PSD isolated			2024.09.26 06:27:55.641	0	PKV
+WENT UNACK Low	2024.09.26 06:09:31.635	PKV-W-PSD-026	Parkville Platform 1 Zone 3 PSD 26	PSD isolated			2024.09.26 06:28:21.639	0	PKV
+WENT UNACK Low	2024.09.26 06:08:53.639	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	PSD isolated			2024.09.26 06:28:59.639	0	PKV
+WENT UNACK Low	2024.09.26 06:08:33.637	PKV-W-PSD-017	Parkville Platform 1 Zone 2 PSD 17	PSD isolated			2024.09.26 06:29:19.638	0	PKV
+WENT UNACK Low	2024.09.26 06:08:11.636	PKV-W-PSD-014	Parkville Platform 1 Zone 2 PSD 14	PSD isolated			2024.09.26 06:29:39.638	0	PKV
+WENT UNACK Low	2024.09.26 06:07:47.637	PKV-W-PSD-011	Parkville Platform 1 Zone 2 PSD 11	PSD isolated			2024.09.26 06:30:01.638	0	PKV
+WENT UNACK Low	2024.09.26 06:07:27.639	PKV-W-PSD-008	Parkville Platform 1 Zone 1 PSD 08	PSD isolated			2024.09.26 06:30:21.637	0	PKV
+WENT UNACK Low	2024.09.26 06:07:07.636	PKV-W-PSD-005	Parkville Platform 1 Zone 1 PSD 05	PSD isolated			2024.09.26 06:30:41.639	0	PKV
+WENT UNACK Low	2024.09.26 06:06:39.633	PKV-W-PSD-001	Parkville Platform 1 Zone 1 PSD 01	PSD isolated			2024.09.26 06:31:09.639	0	PKV
+WENT UNACK Low	2024.09.26 06:06:07.640	PKV-E-PSD-030	Parkville Platform 2 Zone 3 PSD 30	PSD isolated			2024.09.26 06:31:41.641	0	PKV
+WENT UNACK Low	2024.09.26 06:05:41.639	PKV-E-PSD-026	Parkville Platform 2 Zone 3 PSD 26	PSD isolated			2024.09.26 06:32:09.642	0	PKV
+WENT UNACK Low	2024.09.26 06:05:21.645	PKV-E-PSD-023	Parkville Platform 2 Zone 3 PSD 23	PSD isolated			2024.09.26 06:32:31.642	0	PKV
+WENT UNACK Low	2024.09.26 06:04:59.636	PKV-E-PSD-020	Parkville Platform 2 Zone 2 PSD 20	PSD isolated			2024.09.26 06:32:51.643	0	PKV
+WENT UNACK Low	2024.09.26 06:04:39.635	PKV-E-PSD-017	Parkville Platform 2 Zone 2 PSD 17	PSD isolated			2024.09.26 06:33:11.641	0	PKV
+WENT UNACK Low	2024.09.26 06:04:19.637	PKV-E-PSD-014	Parkville Platform 2 Zone 2 PSD 14	PSD isolated			2024.09.26 06:33:35.644	0	PKV
+WENT UNACK Low	2024.09.26 06:03:59.644	PKV-E-PSD-011	Parkville Platform 2 Zone 2 PSD 11	PSD isolated			2024.09.26 06:33:55.641	0	PKV
+WENT UNACK Low	2024.09.26 06:03:37.642	PKV-E-PSD-008	Parkville Platform 2 Zone 1 PSD 08	PSD isolated			2024.09.26 06:34:17.636	0	PKV
+WENT UNACK Low	2024.09.26 06:03:15.644	PKV-E-PSD-005	Parkville Platform 2 Zone 1 PSD 05	PSD isolated			2024.09.26 06:34:39.641	0	PKV
+WENT UNACK Low	2024.09.26 06:02:43.637	PKV-E-PSD-001	Parkville Platform 2 Zone 1 PSD 01	PSD isolated			2024.09.26 06:35:09.642	0	PKV
+WENT UNACK Low	2024.09.26 05:44:15.658	EPZ-FIP-0001	Eastern Portal Main Fire Panel	Fire panels in the station have a fault			2024.09.26 06:32:27.650	0	SDU
+WENT UNACK Low	2024.09.26 04:50:02.248	DMA_SDP_0109_LVT_01	Station Drainage Pump - Level Transmitter	Drainage pit at risk of overflow			2024.09.26 04:50:56.245	0	AZC
+WENT UNACK Low	2024.09.26 01:57:08.040	_ReduManager_2	State Library Server 2	Server 2 - Passive			2024.09.26 01:57:08.042	0	THL
+WENT UNACK Low	2024.09.26 01:56:59.859	_ReduManager_2	Distributed Server 2	Server 2 - Passive			2024.09.26 01:56:59.861	0	THL
+WENT UNACK Low	2024.09.26 01:55:45.419	_Conn_event_0_2_to_dist_1_2	Distributed Server 2				2024.09.26 01:55:46.356	0	THL
+WENT UNACK Low	2024.09.26 01:55:45.419	_Conn_event_0_2_to_redu_1_2	Distributed Server 2				2024.09.26 01:55:45.928	0	THL
+WENT UNACK Low	2024.09.26 01:55:34.180	_ReduManager_2	Town Hall Server 2	Server 2 - Passive			2024.09.26 01:56:01.308	0	AZC
+WENT UNACK Low	2024.09.25 16:16:24.062	WPZ-FIP-0001	Western Portal Main Fire Panel	Fire panels in the station have a fault			2024.09.25 16:20:10.063	0	SDU
+WENT UNACK Low	2024.09.25 15:17:00.501	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)			2024.09.25 15:17:10.513	0	AZC
+WENT UNACK Low	2024.09.25 12:27:06.237	PDM_LFT_0001	Lift 1 BOH (B2 Basement to Ground Floor)	Lift monitoring lost 			2024.09.25 12:27:39.232	0	SDU
+WENT UNACK Low	2024.09.25 12:26:33.422	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (broken step - bottom)			2024.09.25 12:26:58.510	0	AZC
+WENT UNACK Low	2024.09.25 12:24:35.504	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (broken step - top)			2024.09.25 12:25:09.397	0	AZC
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-001	Town Hall Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!	2024.09.25 11:38:33.153	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-002	Town Hall Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!	2024.09.25 11:38:34.202	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-003	Town Hall Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!	2024.09.25 11:38:35.302	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-004	Town Hall Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!	2024.09.25 11:38:36.319	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-005	Town Hall Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!	2024.09.25 11:38:37.586	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-006	Town Hall Platform 1 Zone 1 PSD 06	PSD Unscheduled Door Opening!	2024.09.25 11:38:43.917	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-007	Town Hall Platform 1 Zone 1 PSD 07	PSD Unscheduled Door Opening!	2024.09.25 11:38:45.573	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-008	Town Hall Platform 1 Zone 1 PSD 08	PSD Unscheduled Door Opening!	2024.09.25 11:38:40.116	kai_longley		0	THL
+ACK High	2024.09.25 10:56:55.651	TSC-W-PSD-009	Town Hall Platform 1 Zone 1 PSD 09	PSD Unscheduled Door Opening!	2024.09.25 11:38:42.474	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.947	TSC-W-PSD-029	Town Hall Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!	2024.09.25 11:38:48.296	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.947	TSC-W-PSD-030	Town Hall Platform 1 Zone 3 PSD 30	PSD Unscheduled Door Opening!	2024.09.25 11:38:49.754	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.905	TSC-W-PSD-025	Town Hall Platform 1 Zone 3 PSD 25	PSD Unscheduled Door Opening!	2024.09.25 11:38:51.104	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.905	TSC-W-PSD-026	Town Hall Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!	2024.09.25 11:38:52.402	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.905	TSC-W-PSD-027	Town Hall Platform 1 Zone 3 PSD 27	PSD Unscheduled Door Opening!	2024.09.25 11:38:53.845	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.905	TSC-W-PSD-028	Town Hall Platform 1 Zone 3 PSD 28	PSD Unscheduled Door Opening!	2024.09.25 11:38:55.118	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.791	TSC-W-PSD-023	Town Hall Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!	2024.09.25 11:38:56.502	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.791	TSC-W-PSD-024	Town Hall Platform 1 Zone 3 PSD 24	PSD Unscheduled Door Opening!	2024.09.25 11:38:58.119	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.769	TSC-W-PSD-019	Town Hall Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!	2024.09.25 11:38:59.556	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.769	TSC-W-PSD-020	Town Hall Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!	2024.09.25 11:39:00.955	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.769	TSC-W-PSD-021	Town Hall Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!	2024.09.25 11:39:02.466	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.769	TSC-W-PSD-022	Town Hall Platform 1 Zone 3 PSD 22	PSD Unscheduled Door Opening!	2024.09.25 11:39:03.755	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.647	TSC-W-PSD-013	Town Hall Platform 1 Zone 2 PSD 13	PSD Unscheduled Door Opening!	2024.09.25 11:39:05.203	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.647	TSC-W-PSD-014	Town Hall Platform 1 Zone 2 PSD 14	PSD Unscheduled Door Opening!	2024.09.25 11:39:06.529	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.647	TSC-W-PSD-015	Town Hall Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!	2024.09.25 11:39:07.919	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.647	TSC-W-PSD-016	Town Hall Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!	2024.09.25 11:39:09.202	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.647	TSC-W-PSD-017	Town Hall Platform 1 Zone 2 PSD 17	PSD Unscheduled Door Opening!	2024.09.25 11:39:10.832	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.647	TSC-W-PSD-018	Town Hall Platform 1 Zone 2 PSD 18	PSD Unscheduled Door Opening!	2024.09.25 11:39:12.359	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.646	TSC-W-PSD-010	Town Hall Platform 1 Zone 2 PSD 10	PSD Unscheduled Door Opening!	2024.09.25 11:39:13.716	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.646	TSC-W-PSD-011	Town Hall Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!	2024.09.25 11:39:14.999	kai_longley		0	THL
+ACK High	2024.09.25 10:35:35.646	TSC-W-PSD-012	Town Hall Platform 1 Zone 2 PSD 12	PSD Unscheduled Door Opening!	2024.09.25 11:39:16.503	kai_longley		0	THL
+ACK High	2024.09.24 13:15:00.836	AEN-W-PSD-007	Arden Platform 1 Zone 1 PSD 07	PSD Unscheduled Door Opening!	2024.09.25 10:02:18.163	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.836	AEN-W-PSD-008	Arden Platform 1 Zone 1 PSD 08	PSD Unscheduled Door Opening!	2024.09.25 10:02:19.156	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.836	AEN-W-PSD-009	Arden Platform 1 Zone 1 PSD 09	PSD Unscheduled Door Opening!	2024.09.25 10:02:20.297	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.835	AEN-W-PSD-001	Arden Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!	2024.09.25 10:02:21.412	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.835	AEN-W-PSD-002	Arden Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!	2024.09.25 10:02:22.570	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.835	AEN-W-PSD-003	Arden Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!	2024.09.25 10:02:23.913	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.835	AEN-W-PSD-004	Arden Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!	2024.09.25 10:02:25.127	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.835	AEN-W-PSD-005	Arden Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!	2024.09.25 10:02:26.515	kai_longley		0	ARN
+ACK High	2024.09.24 13:15:00.835	AEN-W-PSD-006	Arden Platform 1 Zone 1 PSD 06	PSD Unscheduled Door Opening!	2024.09.25 10:02:27.755	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.960	AEN-W-PSD-030	Arden Platform 1 Zone 3 PSD 30	PSD Unscheduled Door Opening!	2024.09.25 10:02:28.919	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.920	AEN-W-PSD-025	Arden Platform 1 Zone 3 PSD 25	PSD Unscheduled Door Opening!	2024.09.25 10:02:30.081	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.920	AEN-W-PSD-026	Arden Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!	2024.09.25 10:02:34.414	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.920	AEN-W-PSD-027	Arden Platform 1 Zone 3 PSD 27	PSD Unscheduled Door Opening!	2024.09.25 10:02:32.931	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.920	AEN-W-PSD-028	Arden Platform 1 Zone 3 PSD 28	PSD Unscheduled Door Opening!	2024.09.25 10:02:35.823	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.920	AEN-W-PSD-029	Arden Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!	2024.09.25 10:02:37.516	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.905	AEN-W-PSD-023	Arden Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!	2024.09.25 10:02:38.960	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.905	AEN-W-PSD-024	Arden Platform 1 Zone 3 PSD 24	PSD Unscheduled Door Opening!	2024.09.25 10:02:40.116	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.878	AEN-W-PSD-022	Arden Platform 1 Zone 3 PSD 22	PSD Unscheduled Door Opening!	2024.09.25 10:02:41.253	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.877	AEN-W-PSD-021	Arden Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!	2024.09.25 10:02:42.438	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.875	AEN-W-PSD-019	Arden Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!	2024.09.25 10:02:43.606	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.875	AEN-W-PSD-020	Arden Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!	2024.09.25 10:02:44.776	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.847	AEN-W-PSD-016	Arden Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!	2024.09.25 10:02:46.096	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.847	AEN-W-PSD-017	Arden Platform 1 Zone 2 PSD 17	PSD Unscheduled Door Opening!	2024.09.25 10:02:48.025	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.847	AEN-W-PSD-018	Arden Platform 1 Zone 2 PSD 18	PSD Unscheduled Door Opening!	2024.09.25 10:02:49.246	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.833	AEN-W-PSD-013	Arden Platform 1 Zone 2 PSD 13	PSD Unscheduled Door Opening!	2024.09.25 10:02:50.518	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.833	AEN-W-PSD-014	Arden Platform 1 Zone 2 PSD 14	PSD Unscheduled Door Opening!	2024.09.25 10:02:51.875	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.833	AEN-W-PSD-015	Arden Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!	2024.09.25 10:02:52.974	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.832	AEN-W-PSD-010	Arden Platform 1 Zone 2 PSD 10	PSD Unscheduled Door Opening!	2024.09.25 10:02:54.597	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.832	AEN-W-PSD-011	Arden Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!	2024.09.25 10:02:55.741	kai_longley		0	ARN
+ACK High	2024.09.24 12:21:46.832	AEN-W-PSD-012	Arden Platform 1 Zone 2 PSD 12	PSD Unscheduled Door Opening!	2024.09.25 10:02:56.791	kai_longley		0	ARN
+ACK High	2024.09.24 09:29:43.229	TSC_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!	2024.09.25 10:03:00.066	kai_longley		0	THL
+ACK High	2024.09.24 09:26:59.218	SSC_FOLLOWUP	Sunshine SCC Follow up alarm	Arden station haven't ack'd an important alarm!	2024.09.25 10:03:13.485	kai_longley		0	SSC
+ACK High	2024.09.24 09:26:55.008	PKV_ROL_RNERV_W	RNERV Enclosure Door - Parkville, West Tunnel	RNERV crane arm extended over tracks!	2024.09.25 10:03:14.502	kai_longley		0	SDU
+ACK High	2024.09.24 09:26:54.438	PDM_ROL_RNERV_W	RNERV Enclosure Door - Eastern Portal, West Tunnel	RNERV crane arm extended over tracks!	2024.09.24 12:59:58.372	operator		0	SDU
+ACK High	2024.09.24 09:21:36.138	TSC_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.09.25 10:03:15.688	kai_longley		0	THL
+ACK High	2024.09.24 09:21:35.681	TSC_SSX_0002	TVCS Shaft Smoke Detection System 02	Smoke detected in shaft!	2024.09.25 10:03:16.755	kai_longley		0	THL
+ACK High	2024.09.24 09:21:34.897	TSC_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!	2024.09.25 10:03:18.064	kai_longley		0	THL
+ACK High	2024.09.24 09:21:34.453	TSC_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!	2024.09.25 10:03:19.302	kai_longley		0	THL
+ACK High	2024.09.24 09:21:34.450	TNC_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.09.25 10:03:20.502	kai_longley		0	SDU
+ACK High	2024.09.24 09:21:34.424	TNC_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!	2024.09.25 10:03:23.201	kai_longley		0	SDU
+ACK High	2024.09.24 09:20:38.808	PKV_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.09.25 10:03:40.094	kai_longley		0	SDU
+ACK High	2024.09.24 09:20:38.771	PKV_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!	2024.09.25 10:03:41.224	kai_longley		0	SDU
+ACK High	2024.09.24 09:19:52.173	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.09.25 10:05:25.223	kai_longley		0	ARN
+ACK High	2024.09.24 09:18:57.097	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	All fans inoperative!	2024.09.25 10:16:30.160	kai_longley		0	PKV
+ACK High	2024.09.24 09:18:56.629	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!	2024.09.25 10:16:31.628	kai_longley		0	PKV
+ACK High	2024.09.24 09:18:56.160	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	All fans inoperative!	2024.09.25 10:16:32.805	kai_longley		0	PKV
+ACK High	2024.09.24 09:18:50.822	TNC_TFN_0201_03_DS	Tunnel Ventilation Fan - Latrobe Shaft	All fans inoperative!	2024.09.25 10:16:34.878	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:50.792	TNC_TFN_0101_03_DS	Tunnel Ventilation Fan 03 - Franklin West Shaft	All fans inoperative!	2024.09.25 10:16:36.099	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:50.762	TNC_OFN_0001_03_DS	Over Track Exhaust Fan 01 - A'Beckett Shaft	All fans inoperative!	2024.09.25 10:16:37.191	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:50.731	TNC_OCN_0201_02_DS	Over Concourse Exhaust Fan 01 - Latrobe Shaft	All fans inoperative!	2024.09.25 10:16:38.568	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:50.700	TNC_OCN_0101_02_DS	Over Concourse Exhaust Fan 01 - Franklin West Shaft	All fans inoperative!	2024.09.25 10:16:39.852	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:48.144	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Unavailable!	2024.09.25 10:16:42.785	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:48.070	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Unavailable!	2024.09.25 10:16:43.996	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:48.006	AEN_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Arden - East End Over Track Ventilation Unavailable!	2024.09.25 10:16:45.247	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:47.940	AEN_OFN_0101_02_DS	Over Track Exhaust Fan - West End - Duty Selection	Arden - West End Over Track Ventilation Unavailable!	2024.09.25 10:16:49.246	kai_longley		0	SDU
+ACK High	2024.09.24 09:18:45.924	TSC_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - OSD Shaft - Variable Speed Drive	All fans inoperative!	2024.09.25 10:16:53.093	kai_longley		0	THL
+ACK High	2024.09.24 09:18:45.297	TSC_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - City Square Shaft - Variable Speed Drive	All fans inoperative!	2024.09.25 10:16:58.691	kai_longley		0	THL
+ACK High	2024.09.24 09:18:44.674	TSC_OFN_0001_03_DS	Over Track Exhaust Fan 01 - OSD Shaft - Variable Speed Drive 	All fans inoperative!	2024.09.25 10:16:55.202	kai_longley		0	THL
+ACK High	2024.09.24 09:18:44.050	TSC_OCN_0101_02_DS	Over Concourse Exhaust Fan 01 - City Square Shaft	All fans inoperative!	2024.09.25 10:16:57.506	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:47.612	_TNC-FDS-S7PLUS_2	MTSTL:_TNC-FDS-S7PLUS_2.	Communications Fault - State Library Server 2 to State Library FDS PLC	2024.09.25 10:18:11.985	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:47.610	_TNC-FDS-S7PLUS	MTSTL:_TNC-FDS-S7PLUS.	Communications Fault - State Library Server 1 to State Library FDS PLC	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 10:35:46.353	_Mod_Plc_4_2	MTSTL:_Mod_Plc_4_2.	Communications Fault - State Library Server 2 to State Library EWIS	2024.09.25 10:18:11.985	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:46.351	_Mod_Plc_4	MTSTL:_Mod_Plc_4.	Communications Fault - State Library Server 1 to State Library EWIS	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 10:35:46.348	_Mod_Plc_3_2	MTSTL:_Mod_Plc_3_2.	Communications Fault - State Library Server 2 to State Library EWIS	2024.09.25 10:18:11.985	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:46.346	_Mod_Plc_3	MTSTL:_Mod_Plc_3.	Communications Fault - State Library Server 1 to State Library EWIS	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 10:35:46.343	_Mod_Plc_2_2	MTSTL:_Mod_Plc_2_2.	Communications Fault - State Library Server 2 to State Library FDS Gateway	2024.09.25 10:18:11.985	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:46.341	_Mod_Plc_2	MTSTL:_Mod_Plc_2.	Communications Fault - State Library Server 1 to State Library FDS Gateway	2024.09.25 10:18:11.985	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:19.290	_TSC-FDS-S7PLUS_2	MTTHL:_TSC-FDS-S7PLUS_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.09.25 10:18:12.029	kai_longley		0	AZC
+ACK Med	2024.09.24 10:35:19.287	_TSC-FDS-S7PLUS	MTTHL:_TSC-FDS-S7PLUS.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:17.831	_Mod_Plc_4_2	MTTHL:_Mod_Plc_4_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.09.25 10:18:12.029	kai_longley		0	AZC
+ACK Med	2024.09.24 10:35:17.829	_Mod_Plc_4	MTTHL:_Mod_Plc_4.	Communications Fault - Town Hall Server 1 to Town Hall EWIS	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:17.827	_Mod_Plc_3_2	MTTHL:_Mod_Plc_3_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.09.25 10:18:12.029	kai_longley		0	AZC
+ACK Med	2024.09.24 10:35:17.824	_Mod_Plc_3	MTTHL:_Mod_Plc_3.	Communications Fault - Town Hall Server 1 to Town Hall EWIS	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 10:35:17.822	_Mod_Plc_2_2	MTTHL:_Mod_Plc_2_2.	Communications Fault - Town Hall Server 2 to Town Hall FDS Gateway	2024.09.25 10:18:12.029	kai_longley		0	AZC
+ACK Med	2024.09.24 10:35:17.819	_Mod_Plc_2	MTTHL:_Mod_Plc_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS Gateway	2024.09.25 10:18:12.029	kai_longley		0	AZC
+ACK Med	2024.09.24 10:20:47.332	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 1	2024.09.25 10:18:12.036	kai_longley		0	THL
+ACK Med	2024.09.24 10:20:47.330	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 0	2024.09.25 10:18:12.036	kai_longley		0	THL
+ACK Med	2024.09.24 10:20:47.329	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 1	2024.09.25 10:18:12.036	kai_longley		0	THL
+ACK Med	2024.09.24 10:20:47.327	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 0	2024.09.25 10:18:12.036	kai_longley		0	THL
+ACK Med	2024.09.24 10:20:47.326	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 1	2024.09.25 10:18:12.036	kai_longley		0	ARN
+ACK Med	2024.09.24 10:20:47.325	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 0	2024.09.25 10:18:12.036	kai_longley		0	ARN
+ACK Med	2024.09.24 10:20:47.323	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 1	2024.09.25 10:18:12.036	kai_longley		0	ARN
+ACK Med	2024.09.24 10:20:47.322	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 0	2024.09.25 10:18:12.036	kai_longley		0	ARN
+ACK Med	2024.09.24 09:21:08.697	TNC_BMSComm	CBD North TVCS BMS PLC	Lost communication between the TNC TVCS PLC and the BMS PLC.	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:20:43.173	TSC_BMSComm	CBD South TVCS BMS PLC	Lost communication between the TSC TVCS PLC and the BMS PLC.	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:20:31.230	TNC_ModeSts	TVCS CBD North Station mode status S06	Tunnel section ventilation unavailable	2024.09.25 10:18:11.985	kai_longley		0	SDU
+ACK Med	2024.09.24 09:20:31.216	TNC_ModeSts	TVCS CBD North Station mode status S06	Over Track Exhaust Unavailable	2024.09.25 10:18:11.985	kai_longley		0	SDU
+ACK Med	2024.09.24 09:20:14.005	TSC_ModeSts	TVCS CBD South Station mode status S08	Tunnel section ventilation unavailable	2024.09.25 10:18:12.029	kai_longley		0	SDU
+ACK Med	2024.09.24 09:20:13.988	TSC_ModeSts	TVCS CBD South Station mode status S08	Over Track Exhaust Unavailable	2024.09.25 10:18:12.029	kai_longley		0	SDU
+ACK Med	2024.09.24 09:20:10.953	AEN_ATSComm	RSG Modbus	HCS/ATS communication fault	2024.09.25 10:18:12.037	kai_longley		0	ARN
+ACK Med	2024.09.24 09:20:03.562	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Tunnel section ventilation unavailable	2024.09.25 10:18:11.949	kai_longley		0	SDU
+ACK Med	2024.09.24 09:20:03.542	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Unavailable	2024.09.25 10:18:11.949	kai_longley		0	SDU
+ACK Med	2024.09.24 09:19:53.006	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Unavailable	2024.09.25 10:18:12.037	kai_longley		0	SDU
+ACK Med	2024.09.24 09:19:52.962	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Unavailable	2024.09.25 10:18:12.037	kai_longley		0	SDU
+ACK Med	2024.09.24 09:19:17.824	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	Door control unit communication lost	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:19:17.124	TSC-E-PSD-021	Town Hall Platform 2 Zone 2 PSD 21	Door control unit communication lost	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:19:15.738	TSC-E-PSD-019	Town Hall Platform 2 Zone 2 PSD 19	Door control unit communication lost	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:19:15.040	TSC-E-PSD-018	Town Hall Platform 2 Zone 2 PSD 18	Door control unit communication lost	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:19:08.128	TNC-FIP-0008	State Library Station SHCIE Panel 8	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:19:07.262	TNC-FIP-0007	State Library Station SHCIE Panel 7	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:19:06.401	TNC-FIP-0006	State Library Station SHCIE Panel 6	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:19:05.544	TNC-FIP-0005	State Library Station SHCIE Panel 5	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:19:04.686	TNC-FIP-0004	State Library Station SHCIE Panel 4	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:19:03.828	TNC-FIP-0003	State Library Station SHCIE Panel 3	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:19:02.958	TNC-FIP-0002	State Library Station SHCIE Panel 2	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	STL
+ACK Med	2024.09.24 09:19:02.304	SDU-FIP-0006	Cross Passage CDB North FDCIE Panel 2	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	SDU
+ACK Med	2024.09.24 09:19:02.284	SDU-FIP-0005	Cross Passage CDB North FDCIE Panel 1	No modbus gateway connection	2024.09.25 10:18:11.985	kai_longley		0	SDU
+ACK Med	2024.09.24 09:18:58.211	TSC-FIP-0006	Town Hall Station SHCIE Panel 6	No modbus gateway connection	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:18:57.324	TSC-FIP-0005	Town Hall Station SHCIE Panel 5	No modbus gateway connection	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:18:56.429	TSC-FIP-0004	Town Hall Station SHCIE Panel 4	No modbus gateway connection	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:18:55.543	TSC-FIP-0003	Town Hall Station SHCIE Panel 3	No modbus gateway connection	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:18:54.645	TSC-FIP-0002	Town Hall Station SHCIE Panel 2	No modbus gateway connection	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.09.24 09:18:26.385	TSC-S-STN	Town Hall Station PSD System	PSD lost connection to signalling system!	2024.09.25 10:18:12.029	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:47.003	_Conn_event_0_2_to_driver_1_2	Distributed Server 2	Connection lost	2024.08.29 10:03:42.169	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:46.982	_Conn_event_0_1_to_driver_1_1	Distributed Server 1	Connection lost	2024.08.29 10:03:42.169	kai_longley		0	ARN
+ACK Low	2024.09.26 10:58:49.742	AEN_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.26 11:30:08.852	operator		0	ARN
+ACK Low	2024.09.26 10:58:49.742	AEN_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift safety feature fault	2024.09.26 11:30:08.852	operator		0	ARN
+ACK Low	2024.09.25 10:23:26.339	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.25 12:22:58.404	kai_longley		0	PKV
+ACK Low	2024.09.25 07:48:09.422	PKV_ROL_GF_PKV-RMH_1	RMH Entry Roller Door	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.25 05:18:35.335	PKV_LFT_0011	Lift 11 BOH (B1 Basement to Ground Floor)	Lift General Fault	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.25 05:18:34.343	PKV_LFT_0007	Lift 7 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 14:11:30.555	DMA_LFT_0003	Lift 3 FOH (B1 Basement to GF Gound Floor)	Lift monitoring lost 	2024.09.25 10:18:25.405	kai_longley		0	AZC
+ACK Low	2024.09.24 14:03:08.425	DMA_LFT_0003	Lift 3 FOH (B1 Basement to GF Gound Floor)	Lift safety feature fault	2024.09.25 10:18:25.405	kai_longley		0	AZC
+ACK Low	2024.09.24 14:02:23.542	DMA_LFT_0003	Lift 3 FOH (B1 Basement to GF Gound Floor)	Lift General Fault	2024.09.25 10:18:25.405	kai_longley		0	AZC
+ACK Low	2024.09.24 13:00:44.622	DMA_DOR_GF_GF_3	Albert Rd Emergency Egress - Ground	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	AZC
+ACK Low	2024.09.24 11:59:34.873	DMA_DOR_B1_151-5_4	East BOH Corridor - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	AZC
+ACK Low	2024.09.24 11:03:24.335	AEN_DOR_GF_151-12_1	Ground floor east - office stairs	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	ARN
+ACK Low	2024.09.24 11:03:13.801	AEN_DOR_LG_405-3_2	Lower ground east - back of house emergency stairs	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	ARN
+ACK Low	2024.09.24 10:20:47.295	_Conn_event_0_2_to_dist_1_2	Distributed Server 2	Connection lost	2024.09.25 10:18:25.433	kai_longley		0	THL
+ACK Low	2024.09.24 10:20:47.292	_Conn_event_0_1_to_dist_1_1	Distributed Server 1	Connection lost	2024.09.25 10:18:25.433	kai_longley		0	ARN
+ACK Low	2024.09.24 10:20:47.287	_Conn_event_0_2_to_redu_1_2	Distributed Server 2	Connection lost	2024.09.25 10:18:25.433	kai_longley		0	THL
+ACK Low	2024.09.24 10:20:47.283	_Conn_event_0_1_to_redu_1_1	Distributed Server 1	Connection lost	2024.09.25 10:18:25.433	kai_longley		0	ARN
+ACK Low	2024.09.24 09:50:51.890	DMA_LFT_0005	Lift 5 FOH (B1 Basement to GF Gound Floor)	Lift General Fault	2024.09.24 11:31:40.779	kai_longley		0	AZC
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0005	Lift 5 FOH (B3 Basement to GF Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0005	Lift 5 FOH (B3 Basement to GF Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0006	Lift 6 FOH (B3 Basement to GF Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0006	Lift 6 FOH (B3 Basement to GF Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0009	Lift 9 FOH (B3 Basement to GF Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0009	Lift 9 FOH (B3 Basement to GF Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0010	Lift 10 FOH (B2 Basement to GF Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0010	Lift 10 FOH (B2 Basement to GF Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0011	Lift 11 FOH (B2 Basement to GF Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:47:06.494	TSC_LFT_0011	Lift 11 FOH (B2 Basement to GF Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:27:00.629	PKV_ROL_GF_PKV-VCCC_1	VCCC Entry Roller Door	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:27:00.607	PKV_ROL_GF_PKV-RPDE_1	Royal Parade Entry Roller Door	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:27:00.552	DMA_ROL_GF_DMA-DMARD_1	Domain Road Station Entry Roller Door	Unauthorised access	2024.09.24 13:00:09.806	operator		0	AZC
+ACK Low	2024.09.24 09:26:54.892	PKV_DOR_GF_PKV-S-03_2	West Emergency Stairs - Ground Floor	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.812	PKV_DOR_B4_PKV-S-01_4	West Emergency Stairs - Platform	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.781	PKV_DOR_B4_PKV-S-01_2	West Emergency Stairs - Platform	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.759	PKV_DOR_B4_PKV-S-01_1	West Emergency Stairs - Platform	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.660	PKV_DOR_B3_151-18_1	West Fire Escape Corridor - Basement	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.638	PKV_DOR_B2_PKV-S-03_3	West Emergency Stairs - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.617	PKV_DOR_B2_PKV-S-03_1	West Emergency Stairs - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.594	PKV_DOR_B2_PKV-S-02_1	East Emergency Stairs - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.564	PKV_DOR_B2_405-5_1	West Emergency Corrdidor - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.532	PKV_DOR_B2_402-3_2	East Emergency Stairs - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.510	PKV_DOR_B2_151-15_1	East BOH Corridor Entry - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:54.488	PKV_DOR_B2_151-10_1	East Fire Lobby Entry - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	PKV
+ACK Low	2024.09.24 09:26:53.952	DMA_DOR_B2_402-4_1	East Emergency Stairs - Platform	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	AZC
+ACK Low	2024.09.24 09:26:53.870	DMA_DOR_B1_406-3_1	South Fire Escape Corridor - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	AZC
+ACK Low	2024.09.24 09:26:53.850	DMA_DOR_B1_212-1_1	Access to Office - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	AZC
+ACK Low	2024.09.24 09:26:53.814	DMA_DOR_B1_151-5_3	East BOH Corridor - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	AZC
+ACK Low	2024.09.24 09:26:53.771	DMA_DOR_B1_151-1_1	West Fire Escape Corridor - Concourse	Unauthorised access	2024.09.25 10:18:25.433	kai_longley		0	AZC
+ACK Low	2024.09.24 09:24:18.398	TNC_LFT_0019	Lift 19 BOH (B5 Basement to B7 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:18.268	TNC_LFT_0019	Lift 19 BOH (B5 Basement to B7 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:18.112	TNC_LFT_0017	Lift 17 BOH (Ground Floor to Level 3)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:17.975	TNC_LFT_0017	Lift 17 BOH (Ground Floor to Level 3)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:17.823	TNC_LFT_0016	Lift 16 BOH (B7 Basement to Level 1)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:17.690	TNC_LFT_0016	Lift 16 BOH (B7 Basement to Level 1)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:17.537	TNC_LFT_0015	Lift 15 BOH (B7 Basement to Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:17.408	TNC_LFT_0015	Lift 15 BOH (B7 Basement to Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:17.251	TNC_LFT_0014	Lift 14 BOH (B5 Basement to Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:17.113	TNC_LFT_0014	Lift 14 BOH (B5 Basement to Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:16.960	TNC_LFT_0013	Lift 13 FOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:16.832	TNC_LFT_0013	Lift 13 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:16.680	TNC_LFT_0012	Lift 12 BOH (B7 Basement to Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:16.551	TNC_LFT_0012	Lift 12 BOH (B7 Basement to Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:16.397	TNC_LFT_0011	Lift 11 BOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:16.267	TNC_LFT_0011	Lift 11 BOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:16.114	TNC_LFT_0010	Lift 10 FOH (B2 Basement to Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:15.985	TNC_LFT_0010	Lift 10 FOH (B2 Basement to Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:15.832	TNC_LFT_0009	Lift 9 FOH (B2 Basement to Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:15.702	TNC_LFT_0009	Lift 9 FOH (B2 Basement to Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:15.547	TNC_LFT_0008	Lift 8 FOH (B4 Basement to B1 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:15.417	TNC_LFT_0008	Lift 8 FOH (B4 Basement to B1 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:15.259	TNC_LFT_0007	Lift 7 FOH (B4 Basement to B1 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:15.129	TNC_LFT_0007	Lift 7 FOH (B4 Basement to B1 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:14.974	TNC_LFT_0006	Lift 6 FOH (B5 Basement to Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:14.843	TNC_LFT_0006	Lift 6 FOH (B5 Basement to Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:14.687	TNC_LFT_0005	Lift 5 FOH (B5 Basement to Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:14.555	TNC_LFT_0005	Lift 5 FOH (B5 Basement to Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:14.398	TNC_LFT_0004	Lift 4 FOH (B6 Basement to B4 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:14.262	TNC_LFT_0004	Lift 4 FOH (B6 Basement to B4 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:14.106	TNC_LFT_0003	Lift 3 FOH (B6 Basement to B4 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:13.975	TNC_LFT_0003	Lift 3 FOH (B6 Basement to B4 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:13.821	TNC_LFT_0002	Lift 2 FOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:13.690	TNC_LFT_0002	Lift 2 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:13.535	TNC_LFT_0001	Lift 1 FOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:13.403	TNC_LFT_0001	Lift 1 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:24:08.973	TSC_LFT_0017	Lift 17 BOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:08.823	TSC_LFT_0017	Lift 17 BOH (B4 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:08.640	TSC_LFT_0016	Lift 16 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:08.486	TSC_LFT_0016	Lift 16 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:08.310	TSC_LFT_0015	Lift 15 BOH (B4 Basement to GF Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:08.162	TSC_LFT_0015	Lift 15 BOH (B4 Basement to GF Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:07.987	TSC_LFT_0014	Lift 14 BOH (B6 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:07.831	TSC_LFT_0014	Lift 14 BOH (B6 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:07.644	TSC_LFT_0013	Lift 13 BOH (B4 Basement to GF Ground Floor)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:07.492	TSC_LFT_0013	Lift 13 BOH (B4 Basement to GF Ground Floor)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:07.317	TSC_LFT_0012	Lift 12 BOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:07.169	TSC_LFT_0012	Lift 12 BOH (B4 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:06.944	TSC_LFT_0008	Lift 8 FOH (B3 Basement to B2 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:06.797	TSC_LFT_0008	Lift 8 FOH (B3 Basement to B2 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:06.615	TSC_LFT_0007	Lift 7 FOH (B3 Basement to B2 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:06.464	TSC_LFT_0007	Lift 7 FOH (B3 Basement to B2 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:06.253	TSC_LFT_0004	Lift 4 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:06.105	TSC_LFT_0004	Lift 4 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:05.930	TSC_LFT_0003	Lift 3 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:05.782	TSC_LFT_0003	Lift 3 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:05.602	TSC_LFT_0002	Lift 2 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:05.451	TSC_LFT_0002	Lift 2 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:05.276	TSC_LFT_0001	Lift 1 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:24:05.128	TSC_LFT_0001	Lift 1 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:23:36.673	PKV_LFT_0009	Lift 9 BOH (B3 Basement to Ground Floor)	Lift General Fault	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:23:36.023	PKV_LFT_0006	Lift 6 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:23:35.798	PKV_LFT_0005	Lift 5 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:23:35.228	PKV_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:23:10.791	DMA_LFT_0009	Lift 9 BOH (B2 Basement to B1 Basement)	Lift General Fault	2024.09.25 10:18:25.405	kai_longley		0	AZC
+ACK Low	2024.09.24 09:23:10.488	DMA_LFT_0007	Lift 7 BOH (B1 Basement to GF Gound Floor)	Lift safety feature fault	2024.09.24 11:31:37.187	kai_longley		0	AZC
+ACK Low	2024.09.24 09:23:10.394	DMA_LFT_0007	Lift 7 BOH (B1 Basement to GF Gound Floor)	Lift General Fault	2024.09.24 11:31:37.187	kai_longley		0	AZC
+ACK Low	2024.09.24 09:22:18.117	AEN-FIP-0001	Arden Main Fire Panel	Fire panels in the station have a fault	2024.09.25 10:18:25.423	kai_longley		0	ARN
+ACK Low	2024.09.24 09:21:32.701	TNC_ESC_0025	Escalator 25 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:31.746	TNC_ESC_0024	Escalator 24 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:31.600	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:30.814	TNC_ESC_0023	Escalator 23 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:30.510	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:29.877	TNC_ESC_0022	Escalator 22 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:29.409	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:28.939	TNC_ESC_0021	Escalator 21 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:28.318	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:27.991	TNC_ESC_0020	Escalator 20 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:27.232	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:27.042	TNC_ESC_0019	Escalator 19 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:26.144	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:26.099	TNC_ESC_0018	Escalator 18 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:25.153	TNC_ESC_0017	Escalator 17 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:25.062	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:24.187	TNC_ESC_0016	Escalator 16 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:23.979	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:23.218	TNC_ESC_0015	Escalator 15 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:22.902	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:22.217	TNC_ESC_0014	Escalator 14 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:21.815	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:21.239	TNC_ESC_0013	Escalator 13 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:20.722	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:19.624	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:18.534	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:17.640	TNC_ESC_0009	Escalator 9 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:17.437	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:16.675	TNC_ESC_0008	Escalator 8 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:16.358	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:15.714	TNC_ESC_0007	Escalator 7 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:15.263	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:14.766	TNC_ESC_0006	Escalator 6 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:14.164	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:13.808	TNC_ESC_0005	Escalator 5 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:13.069	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:12.845	TNC_ESC_0004	Escalator 4 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:11.988	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:11.881	TNC_ESC_0003	Escalator 3 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:10.924	TNC_ESC_0002	Escalator 2 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:10.906	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:09.977	TNC_ESC_0001	Escalator 1 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:21:09.818	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:08.734	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:07.648	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:06.555	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:05.440	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:05.348	TNC_TEXB	Tunnel Ambient Temperature Control	Tunnel B - Ambient Temperature Control Unavailable 	2024.09.25 10:18:25.414	kai_longley		0	SDU
+ACK Low	2024.09.24 09:21:04.333	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:03.239	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:02.149	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:21:01.063	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:59.967	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:58.887	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:57.800	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:56.713	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:55.619	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:54.523	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:53.411	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:52.314	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:51.222	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:50.130	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:49.036	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:47.935	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:46.844	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:45.749	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:44.653	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator communications lost	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:39.558	TSC_TEXB	Tunnel Ambient Temperature Control	Tunnel B - Ambient Temperature Control Unavailable 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:20:30.844	PKV_ESC_0009	Escalator 9 Bank 4 (Concourse to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:20:29.875	PKV_ESC_0008	Escalator 8 Bank 4 (Concourse to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:20:28.905	PKV_ESC_0007	Escalator 7 Bank 4 (Concourse to Ground Floor)	Escalator communications lost	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:20:27.950	PKV_ESC_0006	Escalator 6 Bank 3 (Platforms to Concourse)	Escalator communications lost	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:20:26.990	PKV_ESC_0005	Escalator 5 Bank 3 (Platforms to Concourse)	Escalator communications lost	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:20:09.907	TNC_TEXA	Tunnel Ambient Temperature Control	Tunnel A - Ambient Temperature Control Unavailable 	2024.09.25 10:18:25.414	kai_longley		0	SDU
+ACK Low	2024.09.24 09:19:58.372	TSC_TEXA	Tunnel Ambient Temperature Control	Tunnel A - Ambient Temperature Control Unavailable 	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:19:48.906	TNC_HCS_0002	Staff Protection/Rail Occupancy Status - State Library Signal 02	Staff Protection Switch activated	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:19:48.893	TNC_HCS_0001	Staff Protection/Rail Occupancy Status - State Library Signal 01	Staff Protection Switch activated	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:19:46.224	TSC_HCS_0002	Staff Protection/Rail Occupancy Status - Town Hall Signal 02	Staff Protection Switch activated	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:19:46.206	TSC_HCS_0001	Staff Protection/Rail Occupancy Status - Town Hall Signal 01	Staff Protection Switch activated	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:19:38.615	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	Speaker fault	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:19:38.364	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	PSD isolated	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:19:33.174	TNC-W-PSD-004	State Library Platform 1 Zone 1 PSD 04	PSD isolated	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:19:32.022	TNC-W-PSD-002	State Library Platform 1 Zone 1 PSD 02	PSD isolated	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:19:31.022	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	PSD isolated	2024.09.25 10:18:25.333	kai_longley		0	PKV
+ACK Low	2024.09.24 09:19:28.773	TNC-E-PSD-026	State Library Platform 2 Zone 3 PSD 26	PSD isolated	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:19:16.444	TNC-E-PSD-003	State Library Platform 2 Zone 1 PSD 03	PSD isolated	2024.09.25 10:18:25.414	kai_longley		0	STL
+ACK Low	2024.09.24 09:19:16.148	TSC-E-PSD-020	Town Hall Platform 2 Zone 2 PSD 20	PSD isolated	2024.09.25 10:18:25.402	kai_longley		0	THL
+ACK Low	2024.09.24 09:19:15.242	DMA-W-PSD-004	Anzac Platform 1 Zone 1 PSD 04	PSD isolated	2024.09.25 10:18:25.405	kai_longley		0	AZC
+ACK Low	2024.09.24 09:19:14.713	DMA-W-PSD-003	Anzac Platform 1 Zone 1 PSD 03	PSD isolated	2024.09.25 10:18:25.405	kai_longley		0	AZC
+ACK Low	2024.09.24 09:19:09.981	DMA-E-PSD-023	Anzac Platform 2 Zone 3 PSD 23	PSD isolated	2024.09.25 10:18:25.405	kai_longley		0	AZC
