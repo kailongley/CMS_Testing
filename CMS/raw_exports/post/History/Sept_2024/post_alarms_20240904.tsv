@@ -1,0 +1,620 @@
+Severity	Alarm Raised	Asset ID	Asset Name	Alarm Description	Acknowledged	By	Cleared	Comments	Location
+CAME UNACK Low	2024.09.04 15:19:35.560	TSC_LFT_0017	Lift 17 BOH (B4 Basement to B3 Basement)	Lift General Fault				0	THL
+CAME UNACK Low	2024.09.04 14:14:12.040	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.09.04 14:14:06.013	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.09.04 14:08:06.023	DMA_LFT_0007	Lift 7 BOH (B1 Basement to GF Gound Floor)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.09.04 14:08:04.838	DMA_LFT_0007	Lift 7 BOH (B1 Basement to GF Gound Floor)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.09.04 13:54:17.550	TSC_LFT_0017	Lift 17 BOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.09.04 13:18:50.308	DMA_DOR_B2_405-3_1	West Emergency Stairs - Platform	Unauthorised access				0	AZC
+CAME UNACK Low	2024.09.04 11:25:22.069	DMA_LFT_0009	Lift 9 BOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.09.04 11:25:22.069	DMA_LFT_0009	Lift 9 BOH (B2 Basement to B1 Basement)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.09.04 11:11:19.224	DMA_DOR_B1_ST05_1	East Emergency Stairs - Concourse	Unauthorised access				0	AZC
+CAME UNACK Low	2024.09.04 11:11:17.985	DMA_DOR_B1_151-5_1	East BOH Corridor - Concourse	Unauthorised access				0	AZC
+CAME UNACK Low	2024.09.04 08:19:03.535	TSC_LFT_0014	Lift 14 BOH (B6 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.535	TSC_LFT_0015	Lift 15 BOH (B4 Basement to GF Ground Floor)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.535	TSC_LFT_0016	Lift 16 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.531	TSC_LFT_0007	Lift 7 FOH (B3 Basement to B2 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.531	TSC_LFT_0008	Lift 8 FOH (B3 Basement to B2 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.531	TSC_LFT_0012	Lift 12 BOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.531	TSC_LFT_0013	Lift 13 BOH (B4 Basement to GF Ground Floor)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.521	TSC_LFT_0001	Lift 1 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.521	TSC_LFT_0002	Lift 2 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.521	TSC_LFT_0003	Lift 3 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 08:19:03.521	TSC_LFT_0004	Lift 4 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.09.04 07:33:04.856	DMA_LFT_0002	Lift 2 FOH (B2 Basement to B1 Basement)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.09.04 07:03:20.009	DMA_LFT_0008	Lift 8 BOH (B2 Basement to B1 Basement)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.09.04 07:03:12.057	DMA_LFT_0008	Lift 8 BOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.09.04 06:55:06.059	DMA-W-PSD-003	Anzac Platform 1 Zone 1 PSD 03	PSD isolated				0	AZC
+CAME UNACK Low	2024.09.04 06:54:34.052	DMA-W-PSD-004	Anzac Platform 1 Zone 1 PSD 04	PSD isolated				0	AZC
+CAME UNACK Low	2024.09.03 15:50:59.202	DMA_DOR_B1_151-1_1	West Fire Escape Corridor - Concourse	Unauthorised access				0	AZC
+CAME UNACK Low	2024.09.03 14:01:42.034	TNC-W-PSD-004	State Library Platform 1 Zone 1 PSD 04	PSD isolated				0	STL
+CAME UNACK Low	2024.09.03 14:01:10.033	TNC-W-PSD-002	State Library Platform 1 Zone 1 PSD 02	PSD isolated				0	STL
+CAME UNACK Low	2024.09.03 10:49:06.062	DMA-E-PSD-023	Anzac Platform 2 Zone 3 PSD 23	PSD isolated				0	AZC
+CAME UNACK Low	2024.09.03 09:32:02.933	DMA_LFT_0002	Lift 2 FOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+ACK High	2024.09.04 14:50:33.022	TNC_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!	2024.09.04 15:19:26.345	kai_longley		0	SDU
+ACK High	2024.09.04 13:42:07.638	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.09.04 14:21:08.921	kai_longley		0	PKV
+ACK High	2024.09.04 13:34:01.602	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Unavailable!	2024.09.04 14:21:10.582	kai_longley		0	SDU
+ACK High	2024.09.04 13:32:57.608	AEN_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Arden - East End Over Track Ventilation Unavailable!	2024.09.04 14:20:20.519	kai_longley		0	SDU
+ACK High	2024.09.04 13:32:29.620	AEN_OFN_0101_02_DS	Over Track Exhaust Fan - West End - Duty Selection	Arden - West End Over Track Ventilation Unavailable!	2024.09.04 14:20:22.868	kai_longley		0	SDU
+ACK High	2024.09.04 13:31:57.618	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Unavailable!	2024.09.04 14:20:24.951	kai_longley		0	SDU
+ACK High	2024.09.04 12:33:52.655	PKV_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.09.04 14:20:27.091	kai_longley		0	SDU
+ACK High	2024.09.04 12:07:43.628	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.09.04 14:20:29.304	kai_longley		0	PKV
+ACK High	2024.09.04 10:23:03.689	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.09.04 14:20:31.382	kai_longley		0	ARN
+ACK High	2024.09.04 09:26:40.053	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.09.04 15:24:11.696	kai_longley		0	AZC
+ACK High	2024.09.04 06:59:17.685	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.09.04 14:20:33.542	kai_longley		0	ARN
+ACK High	2024.09.04 06:55:55.683	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door Unscheduled Door Opening!	2024.09.04 14:20:35.759	kai_longley		0	ARN
+ACK High	2024.09.03 02:08:31.660	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	All fans inoperative!	2024.09.03 09:00:24.577	kai_longley		0	PKV
+ACK High	2024.09.03 02:08:14.692	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	All fans inoperative!	2024.09.03 09:00:25.975	kai_longley		0	PKV
+ACK High	2024.09.03 02:07:48.662	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!	2024.09.03 09:00:27.302	kai_longley		0	PKV
+ACK High	2024.09.02 23:36:41.050	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!	2024.09.03 09:00:34.105	kai_longley		0	SDU
+ACK High	2024.09.02 23:36:41.050	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.09.03 09:00:35.398	kai_longley		0	SDU
+ACK High	2024.08.30 18:22:18.071	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	All fans inoperative!	2024.09.02 08:17:25.907	kai_longley		0	AZC
+ACK High	2024.08.30 18:22:07.072	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	All fans inoperative!	2024.09.02 08:17:27.251	kai_longley		0	AZC
+ACK High	2024.08.30 18:21:47.072	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	All fans inoperative!	2024.09.02 08:17:30.212	kai_longley		0	AZC
+ACK High	2024.08.30 18:21:38.066	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!	2024.09.02 08:17:28.785	kai_longley		0	AZC
+ACK High	2024.08.30 13:24:52.590	TSC-E-EED-021	Town Hall Platform 2 Zone 2 EED 21	EED Unscheduled Door Opening!	2024.09.02 08:17:36.786	kai_longley		0	THL
+ACK High	2024.08.30 13:23:58.590	TSC-E-EED-023	Town Hall Platform 2 Zone 3 EED 23	EED Unscheduled Door Opening!	2024.09.02 08:17:38.093	kai_longley		0	THL
+ACK High	2024.08.30 13:23:26.584	TSC-E-EED-025	Town Hall Platform 2 Zone 3 EED 25	EED Unscheduled Door Opening!	2024.09.02 08:17:39.455	kai_longley		0	THL
+ACK High	2024.08.30 13:22:36.590	TSC-E-EED-028	Town Hall Platform 2 Zone 3 EED 28	EED Unscheduled Door Opening!	2024.09.02 08:17:40.748	kai_longley		0	THL
+ACK High	2024.08.30 13:21:22.590	TSC-E-EED-031	Town Hall Platform 2 Zone 3 EED 31	EED Unscheduled Door Opening!	2024.09.02 08:17:42.076	kai_longley		0	THL
+ACK High	2024.08.30 13:20:48.586	TSC-E-EED-033	Town Hall Platform 2 Zone 3 EED 33	EED Unscheduled Door Opening!	2024.09.02 08:17:43.366	kai_longley		0	THL
+ACK High	2024.08.30 13:20:36.589	TSC-E-EED-034	Town Hall Platform 2 Zone 3 EED 34	EED Unscheduled Door Opening!	2024.09.02 08:17:44.660	kai_longley		0	THL
+ACK High	2024.08.30 13:20:32.588	TSC-E-EED-035	Town Hall Platform 2 Zone 3 EED 35	EED Unscheduled Door Opening!	2024.09.02 08:17:45.997	kai_longley		0	THL
+ACK High	2024.08.30 13:20:22.586	TSC-E-EED-020	Town Hall Platform 2 Zone 2 EED 20	EED Unscheduled Door Opening!	2024.09.02 08:17:47.365	kai_longley		0	THL
+ACK High	2024.08.30 13:19:10.592	TSC-E-EED-019	Town Hall Platform 2 Zone 1 EED 19	EED Unscheduled Door Opening!	2024.09.02 08:17:48.679	kai_longley		0	THL
+ACK High	2024.08.30 13:19:04.588	TSC-E-EED-018	Town Hall Platform 2 Zone 1 EED 18	EED Unscheduled Door Opening!	2024.09.02 08:17:49.932	kai_longley		0	THL
+ACK High	2024.08.30 13:17:40.589	TSC-E-EED-036	Town Hall Platform 2 Zone 3 EED 36	EED Unscheduled Door Opening!	2024.09.02 08:17:51.252	kai_longley		0	THL
+ACK High	2024.08.30 13:17:34.593	TSC-E-EED-037	Town Hall Platform 2 Zone 3 EED 37	EED Unscheduled Door Opening!	2024.09.02 08:17:52.532	kai_longley		0	THL
+ACK High	2024.08.30 13:16:44.592	TSC-E-EED-038	Town Hall Platform 2 Zone 3 EED 38	EED Unscheduled Door Opening!	2024.09.02 08:17:53.823	kai_longley		0	THL
+ACK High	2024.08.30 13:16:38.593	TSC-E-EED-039	Town Hall Platform 2 Zone 3 EED 39	EED Unscheduled Door Opening!	2024.09.02 08:17:55.130	kai_longley		0	THL
+ACK High	2024.08.30 13:15:56.613	TSC-E-EED-040	Town Hall Platform 2 Zone 3 EED 40	EED Unscheduled Door Opening!	2024.09.02 08:17:56.611	kai_longley		0	THL
+ACK High	2024.08.30 13:15:50.585	TSC-E-EED-017	Town Hall Platform 2 Zone 1 EED 17	EED Unscheduled Door Opening!	2024.09.02 08:17:57.836	kai_longley		0	THL
+ACK High	2024.08.30 13:15:40.588	TSC-E-EED-016	Town Hall Platform 2 Zone 1 EED 16	EED Unscheduled Door Opening!	2024.09.02 08:17:59.019	kai_longley		0	THL
+ACK High	2024.08.30 13:15:02.585	TSC-E-EED-015	Town Hall Platform 2 Zone 1 EED 15	EED Unscheduled Door Opening!	2024.09.02 08:18:00.191	kai_longley		0	THL
+ACK High	2024.08.30 13:13:40.586	TSC-E-EED-011	Town Hall Platform 2 Zone 1 EED 11	EED Unscheduled Door Opening!	2024.09.02 08:18:03.837	kai_longley		0	THL
+ACK High	2024.08.30 13:13:22.592	TSC-E-EED-009	Town Hall Platform 2 Zone 1 EED 09	EED Unscheduled Door Opening!	2024.09.02 08:18:02.610	kai_longley		0	THL
+ACK High	2024.08.30 13:12:48.586	TSC-E-EED-008	Town Hall Platform 2 Zone 1 EED 08	EED Unscheduled Door Opening!	2024.09.02 08:18:05.230	kai_longley		0	THL
+ACK High	2024.08.30 13:12:30.583	TSC-E-EED-007	Town Hall Platform 2 Zone 1 EED 07	EED Unscheduled Door Opening!	2024.09.02 08:18:08.150	kai_longley		0	THL
+ACK High	2024.08.30 13:12:24.587	TSC-E-EED-006	Town Hall Platform 2 Zone 1 EED 06	EED Unscheduled Door Opening!	2024.09.02 08:18:09.477	kai_longley		0	THL
+ACK High	2024.08.30 13:11:26.586	TSC-E-EED-005	Town Hall Platform 2 Zone 1 EED 05	EED Unscheduled Door Opening!	2024.09.02 08:18:12.557	kai_longley		0	THL
+ACK High	2024.08.30 13:11:20.586	TSC-E-EED-004	Town Hall Platform 2 Zone 1 EED 04	EED Unscheduled Door Opening!	2024.09.02 08:18:14.020	kai_longley		0	THL
+ACK High	2024.08.30 13:10:24.586	TSC-E-EED-001	Town Hall Platform 2 Zone 1 EED 01	EED Unscheduled Door Opening!	2024.09.02 08:18:15.329	kai_longley		0	THL
+ACK High	2024.08.30 12:43:40.586	TSC-W-EED-037	Town Hall Platform 1 Zone 3 EED 37	EED Unscheduled Door Opening!	2024.09.02 08:18:16.670	kai_longley		0	THL
+ACK High	2024.08.30 12:42:42.589	TSC-W-EED-035	Town Hall Platform 1 Zone 3 EED 35	EED Unscheduled Door Opening!	2024.09.02 08:18:18.027	kai_longley		0	THL
+ACK High	2024.08.30 12:42:26.586	TSC-W-EED-033	Town Hall Platform 1 Zone 3 EED 33	EED Unscheduled Door Opening!	2024.09.02 08:18:19.359	kai_longley		0	THL
+ACK High	2024.08.30 12:41:52.588	TSC-W-EED-031	Town Hall Platform 1 Zone 3 EED 31	EED Unscheduled Door Opening!	2024.09.02 08:18:20.749	kai_longley		0	THL
+ACK High	2024.08.30 12:41:34.594	TSC-W-EED-030	Town Hall Platform 1 Zone 3 EED 30	EED Unscheduled Door Opening!	2024.09.02 08:18:22.245	kai_longley		0	THL
+ACK High	2024.08.30 12:41:22.590	TSC-W-EED-029	Town Hall Platform 1 Zone 3 EED 29	EED Unscheduled Door Opening!	2024.09.02 08:18:23.510	kai_longley		0	THL
+ACK High	2024.08.30 12:40:14.593	TSC-W-EED-001	Town Hall Platform 1 Zone 1 EED 01	EED Unscheduled Door Opening!	2024.09.02 08:18:24.784	kai_longley		0	THL
+ACK High	2024.08.30 12:40:10.589	TSC-W-EED-026	Town Hall Platform 1 Zone 3 EED 26	EED Unscheduled Door Opening!	2024.09.02 08:18:25.979	kai_longley		0	THL
+ACK High	2024.08.30 12:39:46.587	TSC-W-EED-025	Town Hall Platform 1 Zone 3 EED 25	EED Unscheduled Door Opening!	2024.09.02 08:18:27.224	kai_longley		0	THL
+ACK High	2024.08.30 12:39:38.591	TSC-W-EED-024	Town Hall Platform 1 Zone 3 EED 24	EED Unscheduled Door Opening!	2024.09.02 08:18:28.445	kai_longley		0	THL
+ACK High	2024.08.30 12:39:12.590	TSC-W-EED-023	Town Hall Platform 1 Zone 3 EED 23	EED Unscheduled Door Opening!	2024.09.02 08:18:29.638	kai_longley		0	THL
+ACK High	2024.08.30 12:39:06.588	TSC-W-EED-022	Town Hall Platform 1 Zone 3 EED 22	EED Unscheduled Door Opening!	2024.09.02 08:18:30.886	kai_longley		0	THL
+ACK High	2024.08.30 12:38:50.584	TSC-W-EED-003	Town Hall Platform 1 Zone 1 EED 03	EED Unscheduled Door Opening!	2024.09.02 08:18:32.061	kai_longley		0	THL
+ACK High	2024.08.30 12:38:40.583	TSC-W-EED-002	Town Hall Platform 1 Zone 1 EED 02	EED Unscheduled Door Opening!	2024.09.02 08:18:33.256	kai_longley		0	THL
+ACK High	2024.08.30 12:38:26.581	TSC-W-EED-004	Town Hall Platform 1 Zone 1 EED 04	EED Unscheduled Door Opening!	2024.09.02 08:18:34.415	kai_longley		0	THL
+ACK High	2024.08.30 12:37:56.591	TSC-W-DDX-002	Town Hall Platform 1 Zone 2 DD 02	Driver Door Unscheduled Door Opening!	2024.09.02 08:18:38.101	kai_longley		0	THL
+ACK High	2024.08.30 12:37:48.590	TSC-W-EED-021	Town Hall Platform 1 Zone 2 EED 21	EED Unscheduled Door Opening!	2024.09.02 08:18:39.353	kai_longley		0	THL
+ACK High	2024.08.30 12:37:22.588	TSC-W-EED-006	Town Hall Platform 1 Zone 1 EED 06	EED Unscheduled Door Opening!	2024.09.02 08:18:40.589	kai_longley		0	THL
+ACK High	2024.08.30 12:36:20.585	TSC-W-EED-012	Town Hall Platform 1 Zone 1 EED 12	EED Unscheduled Door Opening!	2024.09.02 08:18:41.813	kai_longley		0	THL
+ACK High	2024.08.30 12:34:54.581	TSC-W-EED-015	Town Hall Platform 1 Zone 1 EED 15	EED Unscheduled Door Opening!	2024.09.02 08:18:42.993	kai_longley		0	THL
+ACK High	2024.08.30 12:33:14.589	TSC-W-EED-017	Town Hall Platform 1 Zone 1 EED 17	EED Unscheduled Door Opening!	2024.09.02 08:18:44.238	kai_longley		0	THL
+ACK High	2024.08.30 12:33:08.592	TSC-W-EED-016	Town Hall Platform 1 Zone 1 EED 16	EED Unscheduled Door Opening!	2024.09.02 08:18:45.468	kai_longley		0	THL
+ACK High	2024.08.30 12:32:46.594	TSC-W-EED-018	Town Hall Platform 1 Zone 1 EED 18	EED Unscheduled Door Opening!	2024.09.02 08:18:47.573	kai_longley		0	THL
+ACK High	2024.08.30 12:31:44.586	TSC-W-EED-020	Town Hall Platform 1 Zone 2 EED 20	EED Unscheduled Door Opening!	2024.09.02 08:18:49.231	kai_longley		0	THL
+ACK High	2024.08.30 12:31:38.590	TSC-W-DDX-001	Town Hall Platform 1 Zone 2 DD 01	Driver Door Unscheduled Door Opening!	2024.09.02 08:18:50.678	kai_longley		0	THL
+ACK High	2024.08.29 13:45:30.077	TNC_SSX_0002	TVCS Shaft Smoke Detection System 02	Smoke detected in shaft!	2024.08.29 13:45:39.529	kai_longley		0	SDU
+ACK High	2024.08.29 11:57:54.798	PKV_ROL_RNERV_W	RNERV Enclosure Door - Parkville, West Tunnel	RNERV crane arm extended over tracks!	2024.08.29 13:41:12.981	kai_longley		0	SDU
+ACK High	2024.08.28 09:02:09.942	TSC-W-PSD-011	Town Hall Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!	2024.08.29 09:55:52.793	kai_longley		0	THL
+ACK High	2024.08.26 09:50:13.029	TNC_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.08.26 12:42:13.496	kai_longley		0	SDU
+ACK High	2024.08.26 09:50:07.890	TNC_TFN_0201_03_DS	Tunnel Ventilation Fan - Latrobe Shaft	All fans inoperative!	2024.08.26 12:42:16.979	kai_longley		0	SDU
+ACK High	2024.08.26 09:50:07.881	TNC_TFN_0101_03_DS	Tunnel Ventilation Fan 03 - Franklin West Shaft	All fans inoperative!	2024.08.26 12:42:18.642	kai_longley		0	SDU
+ACK High	2024.08.26 09:50:07.871	TNC_OFN_0001_03_DS	Over Track Exhaust Fan 01 - A'Beckett Shaft	All fans inoperative!	2024.08.26 12:42:20.340	kai_longley		0	SDU
+ACK High	2024.08.26 09:50:07.862	TNC_OCN_0201_02_DS	Over Concourse Exhaust Fan 01 - Latrobe Shaft	All fans inoperative!	2024.08.26 12:42:22.064	kai_longley		0	SDU
+ACK High	2024.08.26 09:50:07.852	TNC_OCN_0101_02_DS	Over Concourse Exhaust Fan 01 - Franklin West Shaft	All fans inoperative!	2024.08.26 12:42:24.730	kai_longley		0	SDU
+ACK High	2024.08.26 09:49:38.159	TSC_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.08.26 12:42:43.527	kai_longley		0	THL
+ACK High	2024.08.26 09:49:37.936	TSC_SSX_0002	TVCS Shaft Smoke Detection System 02	Smoke detected in shaft!	2024.08.26 12:42:44.920	kai_longley		0	THL
+ACK High	2024.08.26 09:49:37.555	TSC_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!	2024.08.26 12:42:46.267	kai_longley		0	THL
+ACK High	2024.08.26 09:49:37.117	TSC_FIO_0148_PLAT_0910	Fire Confirmed - CBD South Station S08 - Plat Mid North EB Plat B4	Shaft smoke detection unavailable!	2024.08.26 12:42:47.700	kai_longley		0	THL
+ACK High	2024.08.26 09:49:36.679	TSC_FIO_0148_PLAT_0708	Fire Confirmed - CBD South Station S08 - Plat Mid North WB Plat B4	Shaft smoke detection unavailable!	2024.08.26 12:42:49.126	kai_longley		0	THL
+ACK High	2024.08.26 09:49:36.241	TSC_FIO_0148_PLAT_0506	Fire Confirmed - CBD South Station S08 - Plat Mid City Square EB B4	Shaft smoke detection unavailable!	2024.08.26 12:42:50.554	kai_longley		0	THL
+ACK High	2024.08.26 09:49:35.801	TSC_FIO_0148_PLAT_0304	Fire Confirmed - CBD South Station S08 - Plat Mid Fed Sq OSD EB B4	Shaft smoke detection unavailable!	2024.08.26 12:42:52.003	kai_longley		0	THL
+ACK High	2024.08.26 09:49:35.362	TSC_FIO_0148_PLAT_0102	Fire Confirmed - CBD South Station S08 - Plat Mid EB Plat B4	Shaft smoke detection unavailable!	2024.08.26 12:42:53.542	kai_longley		0	THL
+ACK High	2024.08.26 09:49:34.923	TSC_FIO_0148_CONC_0304	Fire Confirmed - CBD South Station S08 Concourse OSD B2	Shaft smoke detection unavailable!	2024.08.26 12:42:54.857	kai_longley		0	THL
+ACK High	2024.08.26 09:49:34.477	TSC_FIO_0148_CONC_0102	Fire Confirmed - CBD South Station S08 Concourse City Square Crypt B3	Shaft smoke detection unavailable!	2024.08.26 12:42:56.268	kai_longley		0	THL
+ACK High	2024.08.26 09:49:31.633	TSC_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - OSD Shaft - Variable Speed Drive	All fans inoperative!	2024.08.26 12:42:57.543	kai_longley		0	THL
+ACK High	2024.08.26 09:49:31.014	TSC_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - City Square Shaft - Variable Speed Drive	All fans inoperative!	2024.08.26 12:42:58.859	kai_longley		0	THL
+ACK High	2024.08.26 09:49:30.394	TSC_OFN_0001_03_DS	Over Track Exhaust Fan 01 - OSD Shaft - Variable Speed Drive 	All fans inoperative!	2024.08.29 09:56:37.843	kai_longley		0	THL
+ACK High	2024.08.26 09:49:29.777	TSC_OCN_0101_02_DS	Over Concourse Exhaust Fan 01 - City Square Shaft	All fans inoperative!	2024.08.29 09:56:39.694	kai_longley		0	THL
+ACK High	2024.08.26 09:49:27.474	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door Unscheduled Door Opening!	2024.08.29 09:56:43.334	kai_longley		0	THL
+ACK High	2024.08.26 09:49:27.461	TSC-E-PED-002	Town Hall Platform 2 PED 02	Platform End Door Unscheduled Door Opening!	2024.08.29 09:56:45.256	kai_longley		0	THL
+ACK High	2024.08.26 09:49:27.252	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.08.29 09:56:47.039	kai_longley		0	THL
+ACK High	2024.08.26 09:49:27.239	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.08.29 09:57:11.264	kai_longley		0	THL
+ACK High	2024.08.26 09:49:06.278	TSC-W-PSD-016	Town Hall Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!	2024.08.29 09:57:25.847	kai_longley		0	THL
+ACK High	2024.08.26 09:48:46.280	TSC-E-PSD-016	Town Hall Platform 2 Zone 2 PSD 16	PSD Unscheduled Door Opening!	2024.08.29 09:57:27.735	kai_longley		0	THL
+ACK High	2024.08.26 09:48:37.884	TSC-E-PSD-003	Town Hall Platform 2 Zone 1 PSD 03	PSD Unscheduled Door Opening!	2024.08.29 09:57:36.232	kai_longley		0	THL
+ACK High	2024.08.26 09:42:31.418	TSC_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!	2024.08.29 09:57:34.331	kai_longley		0	THL
+ACK High	2024.08.26 09:28:32.795	SSC_FOLLOWUP	Sunshine SCC Follow up alarm	Town Hall station haven't ack'd an important alarm!	2024.08.29 09:57:56.889	kai_longley		0	SSC
+ACK High	2024.08.26 09:28:32.777	SSC_FOLLOWUP	Sunshine SCC Follow up alarm	Arden station haven't ack'd an important alarm!	2024.08.29 09:58:00.859	kai_longley		0	SSC
+ACK High	2024.08.26 09:28:32.573	DMA_FOLLOWUP	Domain Follow up alarm	Anzac station haven't ack'd an important alarm!	2024.08.26 12:53:27.938	operator		0	AZC
+ACK Med	2024.09.04 13:33:34.612	AEN_ATSComm	RSG Modbus	HCS/ATS communication fault	2024.09.04 14:21:15.000	kai_longley		0	ARN
+ACK Med	2024.09.04 13:32:57.608	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Unavailable	2024.09.04 14:21:16.498	kai_longley		0	SDU
+ACK Med	2024.09.04 13:31:57.618	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Unavailable	2024.09.04 14:21:17.839	kai_longley		0	SDU
+ACK Med	2024.09.03 08:57:26.792	_Mod_Plc_4	MTAZC:_Mod_Plc_4.	Communications Fault - Anzac Server 1 to Anzac EWIS	2024.09.03 09:01:20.354	kai_longley		0	AZC
+ACK Med	2024.09.03 08:57:26.659	_Mod_Plc_3_2	MTAZC:_Mod_Plc_3_2.	Communications Fault - Anzac Server 2 to Anzac EWIS	2024.09.03 09:01:22.905	kai_longley		0	ARN
+ACK Med	2024.09.03 08:57:16.786	_Mod_Plc_3	MTAZC:_Mod_Plc_3.	Communications Fault - Anzac Server 1 to Anzac EWIS	2024.09.03 09:01:25.627	kai_longley		0	AZC
+ACK Med	2024.09.03 08:57:16.654	_Mod_Plc_4_2	MTAZC:_Mod_Plc_4_2.	Communications Fault - Anzac Server 2 to Anzac EWIS	2024.09.03 09:01:28.055	kai_longley		0	ARN
+ACK Med	2024.09.03 02:08:14.692	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Unavailable	2024.09.03 09:01:29.804	kai_longley		0	SDU
+ACK Med	2024.09.03 02:07:48.662	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Tunnel section ventilation unavailable	2024.09.03 09:01:31.636	kai_longley		0	SDU
+ACK Med	2024.09.02 14:22:48.563	_Mod_Plc_1	MTTHL:_Mod_Plc_1.	Communications Fault - Town Hall Server 1 to Town Hall PSD Servers	2024.09.03 09:01:37.241	kai_longley		0	THL
+ACK Med	2024.09.02 14:22:48.527	_Mod_Plc_1_2	MTTHL:_Mod_Plc_1_2.	Communications Fault - Town Hall Server 2 to Town Hall PSD Servers	2024.09.03 09:01:38.871	kai_longley		0	AZC
+ACK Med	2024.08.31 09:32:15.255	SYP-PLC-0001	South Yarra PLC	PLC system fault	2024.09.02 08:15:35.201	kai_longley		0	SDU
+ACK Med	2024.08.30 18:22:07.072	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Unavailable	2024.09.02 08:15:35.216	kai_longley		0	SDU
+ACK Med	2024.08.30 18:21:38.066	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Tunnel section ventilation unavailable	2024.09.02 08:15:35.216	kai_longley		0	SDU
+ACK Med	2024.08.27 16:19:11.119	PKV_BMSComm	Parkville TVCS BMS PLC	Lost communication between the PKV TVCS PLC and the BMS PLC.	2024.08.29 10:03:42.157	kai_longley		0	PKV
+ACK Med	2024.08.26 10:33:45.256	_TSC-FDS-S7PLUS_2	MTTHL:_TSC-FDS-S7PLUS_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.08.29 10:03:42.125	kai_longley		0	AZC
+ACK Med	2024.08.26 10:33:45.253	_TSC-FDS-S7PLUS	MTTHL:_TSC-FDS-S7PLUS.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 10:33:43.851	_Mod_Plc_4_2	MTTHL:_Mod_Plc_4_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.08.29 10:03:42.125	kai_longley		0	AZC
+ACK Med	2024.08.26 10:33:43.849	_Mod_Plc_4	MTTHL:_Mod_Plc_4.	Communications Fault - Town Hall Server 1 to Town Hall EWIS	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 10:33:43.848	_Mod_Plc_3_2	MTTHL:_Mod_Plc_3_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.08.29 10:03:42.125	kai_longley		0	AZC
+ACK Med	2024.08.26 10:33:43.844	_Mod_Plc_3	MTTHL:_Mod_Plc_3.	Communications Fault - Town Hall Server 1 to Town Hall EWIS	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 10:33:43.843	_Mod_Plc_2_2	MTTHL:_Mod_Plc_2_2.	Communications Fault - Town Hall Server 2 to Town Hall FDS Gateway	2024.08.29 10:03:42.125	kai_longley		0	AZC
+ACK Med	2024.08.26 10:33:43.840	_Mod_Plc_2	MTTHL:_Mod_Plc_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS Gateway	2024.08.29 10:03:42.125	kai_longley		0	AZC
+ACK Med	2024.08.26 10:33:19.644	_TNC-FDS-S7PLUS_2	MTSTL:_TNC-FDS-S7PLUS_2.	Communications Fault - State Library Server 2 to State Library FDS PLC	2024.08.29 10:03:42.097	kai_longley		0	THL
+ACK Med	2024.08.26 10:33:19.640	_TNC-FDS-S7PLUS	MTSTL:_TNC-FDS-S7PLUS.	Communications Fault - State Library Server 1 to State Library FDS PLC	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 10:33:18.181	_Mod_Plc_4_2	MTSTL:_Mod_Plc_4_2.	Communications Fault - State Library Server 2 to State Library EWIS	2024.08.29 10:03:42.097	kai_longley		0	THL
+ACK Med	2024.08.26 10:33:18.178	_Mod_Plc_4	MTSTL:_Mod_Plc_4.	Communications Fault - State Library Server 1 to State Library EWIS	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 10:33:18.176	_Mod_Plc_3_2	MTSTL:_Mod_Plc_3_2.	Communications Fault - State Library Server 2 to State Library EWIS	2024.08.29 10:03:42.097	kai_longley		0	THL
+ACK Med	2024.08.26 10:33:18.172	_Mod_Plc_3	MTSTL:_Mod_Plc_3.	Communications Fault - State Library Server 1 to State Library EWIS	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 10:33:18.169	_Mod_Plc_2_2	MTSTL:_Mod_Plc_2_2.	Communications Fault - State Library Server 2 to State Library FDS Gateway	2024.08.29 10:03:42.097	kai_longley		0	THL
+ACK Med	2024.08.26 10:33:18.166	_Mod_Plc_2	MTSTL:_Mod_Plc_2.	Communications Fault - State Library Server 1 to State Library FDS Gateway	2024.08.29 10:03:42.097	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:47.054	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 1	2024.08.29 10:03:42.169	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:47.053	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 0	2024.08.29 10:03:42.169	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:47.051	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 1	2024.08.29 10:03:42.169	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:47.049	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 0	2024.08.29 10:03:42.169	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:47.048	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 1	2024.08.29 10:03:42.169	kai_longley		0	ARN
+ACK Med	2024.08.26 10:31:47.046	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 0	2024.08.29 10:03:42.169	kai_longley		0	ARN
+ACK Med	2024.08.26 10:31:47.045	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 1	2024.08.29 10:03:42.169	kai_longley		0	ARN
+ACK Med	2024.08.26 10:31:47.043	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 0	2024.08.29 10:03:42.169	kai_longley		0	ARN
+ACK Med	2024.08.26 10:31:47.004	_Conn_event_0_2_to_driver_1_2	Distributed Server 2	Connection lost	2024.08.29 10:03:42.169	kai_longley		0	THL
+ACK Med	2024.08.26 10:31:46.983	_Conn_event_0_1_to_driver_1_1	Distributed Server 1	Connection lost	2024.08.29 10:03:42.169	kai_longley		0	ARN
+ACK Med	2024.08.26 09:50:09.605	TNC_ModeSts	TVCS CBD North Station mode status S06	Tunnel section ventilation unavailable	2024.08.29 10:03:42.097	kai_longley		0	SDU
+ACK Med	2024.08.26 09:50:09.602	TNC_ModeSts	TVCS CBD North Station mode status S06	Over Track Exhaust Unavailable	2024.08.29 10:03:42.097	kai_longley		0	SDU
+ACK Med	2024.08.26 09:50:09.206	TNC_BMSComm	CBD North TVCS BMS PLC	Lost communication between the TNC TVCS PLC and the BMS PLC.	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:49:33.643	TSC_ModeSts	TVCS CBD South Station mode status S08	Tunnel section ventilation unavailable	2024.08.29 10:03:42.125	kai_longley		0	SDU
+ACK Med	2024.08.26 09:49:33.640	TSC_ModeSts	TVCS CBD South Station mode status S08	Over Track Exhaust Unavailable	2024.08.29 10:03:42.125	kai_longley		0	SDU
+ACK Med	2024.08.26 09:49:33.227	TSC_BMSComm	CBD South TVCS BMS PLC	Lost communication between the TSC TVCS PLC and the BMS PLC.	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 09:49:33.219	TSC_AENComm	TSC-AEN  TVCS PLC	TSC-AEN TVCS communication link failure.	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 09:49:31.266	AEN_TSCComm	CBD South TVCS PLC	AEN-TSC TVCS communication link failure.	2024.08.29 10:03:42.092	kai_longley		0	ARN
+ACK Med	2024.08.26 09:48:00.946	TNC-FIP-0008	State Library Station SHCIE Panel 8	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:48:00.514	TNC-FIP-0007	State Library Station SHCIE Panel 7	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:48:00.073	TNC-FIP-0006	State Library Station SHCIE Panel 6	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:47:59.643	TNC-FIP-0005	State Library Station SHCIE Panel 5	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:47:59.208	TNC-FIP-0004	State Library Station SHCIE Panel 4	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:47:58.779	TNC-FIP-0003	State Library Station SHCIE Panel 3	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:47:58.348	TNC-FIP-0002	State Library Station SHCIE Panel 2	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	STL
+ACK Med	2024.08.26 09:47:58.027	SDU-FIP-0006	Cross Passage CDB North FDCIE Panel 2	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	SDU
+ACK Med	2024.08.26 09:47:58.019	SDU-FIP-0005	Cross Passage CDB North FDCIE Panel 1	No modbus gateway connection	2024.08.29 10:03:42.097	kai_longley		0	SDU
+ACK Med	2024.08.26 09:47:12.607	TSC-FIP-0006	Town Hall Station SHCIE Panel 6	No modbus gateway connection	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 09:47:12.174	TSC-FIP-0005	Town Hall Station SHCIE Panel 5	No modbus gateway connection	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 09:47:11.738	TSC-FIP-0004	Town Hall Station SHCIE Panel 4	No modbus gateway connection	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 09:47:11.304	TSC-FIP-0003	Town Hall Station SHCIE Panel 3	No modbus gateway connection	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 09:47:10.869	TSC-FIP-0002	Town Hall Station SHCIE Panel 2	No modbus gateway connection	2024.08.29 10:03:42.125	kai_longley		0	THL
+ACK Med	2024.08.26 09:28:35.448	SKP-PLC-0001	South Kensington PLC	PLC system fault	2024.08.29 10:03:42.169	kai_longley		0	SDU
+ACK Med	2024.08.26 09:28:35.414	SKP-PLC-0001	South Kensington PLC	TIAS PLC power supply fault	2024.08.29 10:03:42.169	kai_longley		0	SDU
+ACK Low	2024.09.04 15:23:25.138	AEN_DOR_GF_405-2_1	Ground floor east - emergency escape ramp	Unauthorised access	2024.09.04 15:23:34.353	kai_longley		0	ARN
+ACK Low	2024.09.04 15:17:00.533	PKV_DOR_GF_PKV-S-04_2	Security Door (PUBLIC REALM)	Unauthorised access	2024.09.04 15:23:37.643	kai_longley		0	PKV
+ACK Low	2024.09.04 15:09:48.317	AEN_ESC_0003	Escalator 3 Bank 3 (Platforms to Concourse)	Escalator failed to transition to the commanded state	2024.09.04 15:23:39.372	kai_longley		0	ARN
+ACK Low	2024.09.04 15:03:59.245	AEN_DOR_GF_151-12_1	Ground floor east - office stairs	Unauthorised access	2024.09.04 15:23:41.205	kai_longley		0	ARN
+ACK Low	2024.09.04 10:39:08.289	AEN_DOR_GF_ESC_STAIR_9_1	Ground floor east - after hours stairs	Unauthorised access	2024.09.04 14:21:39.005	kai_longley		0	ARN
+ACK Low	2024.09.04 10:33:43.032	MDE_ESL_1201	Cross Passage Strobe Light Door Entry - Eastbound Tunnel at CP12	Strobe light in manual mode	2024.09.04 14:21:40.650	kai_longley		0	SDU
+ACK Low	2024.09.04 08:45:00.304	PKV_LFT_0011	Lift 11 BOH (B1 Basement to Ground Floor)	Lift General Fault	2024.09.04 14:21:42.291	kai_longley		0	PKV
+ACK Low	2024.09.04 08:44:59.282	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.04 08:45:41.191	harsimran_virk		0	PKV
+ACK Low	2024.09.04 08:44:59.282	PKV_LFT_0005	Lift 5 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.04 08:45:14.391	harsimran_virk		0	PKV
+ACK Low	2024.09.04 08:44:59.282	PKV_LFT_0006	Lift 6 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.04 14:21:43.918	kai_longley		0	PKV
+ACK Low	2024.09.04 08:44:59.282	PKV_LFT_0007	Lift 7 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.04 14:21:45.484	kai_longley		0	PKV
+ACK Low	2024.09.04 08:44:58.304	PKV_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift General Fault	2024.09.04 14:21:47.091	kai_longley		0	PKV
+ACK Low	2024.09.04 08:44:58.304	PKV_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.04 08:45:26.091	harsimran_virk		0	PKV
+ACK Low	2024.09.04 08:42:24.587	AEN_DOR_B1_ESC_STAIRS_04_2	Concourse east  - back of house emergency stairs	Unauthorised access	2024.09.04 14:21:48.669	kai_longley		0	ARN
+ACK Low	2024.09.04 08:16:28.276	PKV_ESC_0010	Escalator 10 Bank 5 (Concourse to Ground Floor)	Escalator General Fault	2024.09.04 08:33:12.556	harsimran_virk		0	PKV
+ACK Low	2024.09.04 08:15:08.287	PKV_ESC_0012	Escalator 12 Bank 6 (Concourse to Ground Floor)	Escalator General Fault	2024.09.04 08:33:12.556	harsimran_virk		0	PKV
+ACK Low	2024.09.04 07:31:30.454	AEN_DOR_B1_ESC_STAIRS_03_2	Concourse west - back of house emergency stairs	Unauthorised access	2024.09.04 14:21:50.231	kai_longley		0	ARN
+ACK Low	2024.09.03 16:52:43.622	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	PSD isolated	2024.09.04 08:33:12.556	harsimran_virk		0	PKV
+ACK Low	2024.09.03 16:49:37.621	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	PSD isolated	2024.09.04 08:33:12.556	harsimran_virk		0	PKV
+ACK Low	2024.09.03 14:54:45.205	AEN_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault	2024.09.04 14:21:51.755	kai_longley		0	ARN
+ACK Low	2024.09.03 11:44:26.067	MDW_ESL_1201	Cross Passage Strobe Light Door Entry - Westbound Tunnel at CP12	Strobe light in manual mode	2024.09.04 14:21:53.630	kai_longley		0	SDU
+ACK Low	2024.09.03 11:44:26.067	TNC_ESL_0001	Strobe Light - CBD North Station S06B -Westbound Tunnel West Entrance	Strobe light in manual mode	2024.09.04 14:21:55.529	kai_longley		0	SDU
+ACK Low	2024.09.03 11:44:26.067	TNC_ESL_0003	Strobe Light - CBD North Station S06A -Eastbound Tunnel West Entrance	Strobe light in manual mode	2024.09.04 14:21:57.408	kai_longley		0	SDU
+ACK Low	2024.09.03 11:25:39.429	PKV_DOR_B2_PKV-S-03_1	Security Door (B2 WEST)	Unauthorised access	2024.09.04 08:33:12.566	harsimran_virk		0	PKV
+ACK Low	2024.09.03 11:10:17.299	PKV_ESC_0002	Escalator 2 Bank 1 (Platforms to Concourse)	Escalator communications lost	2024.09.04 08:33:12.556	harsimran_virk		0	PKV
+ACK Low	2024.09.03 11:07:26.284	PKV_ESC_0001	Escalator 1 Bank 1 (Platforms to Concourse)	Escalator communications lost	2024.09.04 08:33:12.556	harsimran_virk		0	PKV
+ACK Low	2024.09.03 11:06:40.159	PKV_DOR_B3_151-18_1	Security Door (B3 WEST)	Unauthorised access	2024.09.04 08:33:12.566	harsimran_virk		0	PKV
+ACK Low	2024.09.03 09:50:33.040	AEN_DOR_B2_ESC_STAIRS_03_2	Platform 1 west - double emergency door	Unauthorised access	2024.09.04 14:21:59.062	kai_longley		0	ARN
+ACK Low	2024.09.03 07:38:59.784	PKV_DOR_B2_406-14_2	Security Door (B2 EAST)	Unauthorised access	2024.09.03 09:02:29.737	kai_longley		0	PKV
+ACK Low	2024.09.02 19:12:51.756	DMA_LFT_0003	Lift 3 FOH (B1 Basement to GF Gound Floor)	Lift General Fault	2024.09.03 09:02:32.936	kai_longley		0	AZC
+ACK Low	2024.09.02 16:29:59.369	PKV_LFT_0009	Lift 9 BOH (B3 Basement to Ground Floor)	Lift General Fault	2024.09.03 09:02:36.817	kai_longley		0	PKV
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 	2024.09.02 13:04:41.037	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:39.785	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:38.450	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 	2024.09.02 13:04:48.766	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:04:47.486	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:46.054	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:04:44.091	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.372	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:42.683	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:08.147	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:05.068	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:03.142	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:59.651	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:04:58.232	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:56.836	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 	2024.09.02 13:04:55.431	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:53.633	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 	2024.09.02 13:04:52.249	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.362	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:04:50.875	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.361	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:15.640	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.361	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:11.300	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.361	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:09.505	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.351	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:32.074	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.351	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:28.755	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.351	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:20.302	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.351	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:18.491	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.351	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:16.996	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:55.492	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:52.146	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:50.331	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:48.463	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:46.959	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:45.706	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:44.213	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:42.289	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:40.585	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:39.234	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:37.410	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:05:35.005	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.340	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:33.498	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:18.592	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:16.674	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:13.997	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:11.848	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:10.639	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:09.289	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:07.807	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:06.200	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:04.785	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:02.639	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:00.964	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:59.142	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.329	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:05:57.297	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.328	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:22.035	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.328	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:20.351	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:39.023	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:39.023	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:25.378	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.318	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:23.317	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.315	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.315	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.315	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:46.143	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:46.143	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:46.143	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 11:44:33.304	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)	2024.09.02 13:06:41.595	kai_longley		0	THL
+ACK Low	2024.09.02 10:06:55.727	_ReduManager_2	Anzac Server 2	Server 2 - Set active automatically	2024.09.03 09:02:42.555	kai_longley		0	ARN
+ACK Low	2024.09.02 07:10:41.134	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:40.035	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:40.035	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:39.165	DMA_ESC_0007	Escalator 7 Bank 5 (B1 Basement to GF Gound Floor)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:39.153	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:38.015	DMA_ESC_0002	Escalator 2 Bank 2 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:38.005	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:37.082	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:37.058	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.09.02 07:10:37.058	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost	2024.09.02 08:15:35.216	kai_longley		0	AZC
+ACK Low	2024.08.31 11:35:12.962	DMA_DOR_B2_402-4_1	East Emergency Stairs - Platform	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	AZC
+ACK Low	2024.08.31 09:32:15.255	SYP-PSU-1030	PLC 24V Power supply 2 alarm	PLC Power Supply fault	2024.09.02 08:15:35.201	kai_longley		0	SDU
+ACK Low	2024.08.31 09:09:14.528	DMA_DOR_B1_406-3_1	South Fire Escape Corridor - Concourse	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	AZC
+ACK Low	2024.08.31 06:48:37.039	PKV_DOR_B2_402-3_2	Security Door (B2 EAST)	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	PKV
+ACK Low	2024.08.31 06:44:41.265	DMA_DOR_B2_402-4_4	East Emergency Stairs - Platform	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	AZC
+ACK Low	2024.08.31 06:41:24.831	DMA_DOR_B1_406-3_2	South Fire Lobby - Concourse	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	AZC
+ACK Low	2024.08.30 17:13:39.136	DMA_DOR_B1_212-1_1	Access to Office - Concourse	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	AZC
+ACK Low	2024.08.30 13:31:23.871	DMA_ROL_GF_DMA-DMARD_1	Domain Road Station Entry Roller Door	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	AZC
+ACK Low	2024.08.30 11:48:31.381	AEN_DOR_B1_151-4_1	Concourse east  - back of house emergency corridor	Unauthorised access	2024.09.02 08:15:35.201	kai_longley		0	ARN
+ACK Low	2024.08.30 08:14:32.615	PKV_DOR_B4_PKV-S-01_1	Security Door (B4 WEST)	Unauthorised access	2024.08.30 10:06:57.230	kasturi_jathar		0	PKV
+ACK Low	2024.08.29 10:27:35.987	PKV_DOR_B4_PKV-S-02_2	Security Door (B4 EAST)	Unauthorised access	2024.08.29 10:39:27.468	kai_longley		0	PKV
+ACK Low	2024.08.29 07:36:16.038	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator communications lost	2024.08.29 10:05:04.878	kai_longley		0	AZC
+ACK Low	2024.08.29 07:35:53.153	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator General Fault	2024.08.29 10:05:04.878	kai_longley		0	AZC
+ACK Low	2024.08.29 07:32:07.149	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator communications lost	2024.08.29 10:05:04.878	kai_longley		0	AZC
+ACK Low	2024.08.29 07:31:47.058	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator General Fault	2024.08.29 10:05:04.878	kai_longley		0	AZC
+ACK Low	2024.08.29 07:02:00.706	PKV_DOR_B4_PKV-S-02_3	Security Door (B4 EAST)	Unauthorised access	2024.08.29 07:08:12.863	harsimran_virk		0	PKV
+ACK Low	2024.08.28 12:18:32.029	TNC_TEXB	Tunnel Ambient Temperature Control	Tunnel B - Ambient Temperature Control Unavailable 	2024.08.29 10:05:04.882	kai_longley		0	SDU
+ACK Low	2024.08.28 07:22:25.867	TNC_LFT_0019	Lift 19 BOH (B5 Basement to B7 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0010	Lift 10 FOH (B2 Basement to Ground Floor)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0011	Lift 11 BOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0012	Lift 12 BOH (B7 Basement to Ground Floor)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0013	Lift 13 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0014	Lift 14 BOH (B5 Basement to Ground Floor)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0015	Lift 15 BOH (B7 Basement to Ground Floor)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0016	Lift 16 BOH (B7 Basement to Level 1)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.856	TNC_LFT_0017	Lift 17 BOH (Ground Floor to Level 3)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.855	TNC_LFT_0009	Lift 9 FOH (B2 Basement to Ground Floor)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.845	TNC_LFT_0005	Lift 5 FOH (B5 Basement to Ground Floor)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.845	TNC_LFT_0006	Lift 6 FOH (B5 Basement to Ground Floor)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.845	TNC_LFT_0007	Lift 7 FOH (B4 Basement to B1 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.845	TNC_LFT_0008	Lift 8 FOH (B4 Basement to B1 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.842	TNC_LFT_0004	Lift 4 FOH (B6 Basement to B4 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.841	TNC_LFT_0002	Lift 2 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.841	TNC_LFT_0003	Lift 3 FOH (B6 Basement to B4 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.829	TNC_LFT_0001	Lift 1 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.786	TNC_ESC_0023	Escalator 23 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.786	TNC_ESC_0024	Escalator 24 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.786	TNC_ESC_0025	Escalator 25 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.778	TNC_ESC_0018	Escalator 18 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.778	TNC_ESC_0019	Escalator 19 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.778	TNC_ESC_0020	Escalator 20 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.778	TNC_ESC_0021	Escalator 21 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.778	TNC_ESC_0022	Escalator 22 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.767	TNC_ESC_0013	Escalator 13 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.767	TNC_ESC_0014	Escalator 14 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.767	TNC_ESC_0015	Escalator 15 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.767	TNC_ESC_0016	Escalator 16 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.767	TNC_ESC_0017	Escalator 17 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.756	TNC_ESC_0004	Escalator 4 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.756	TNC_ESC_0005	Escalator 5 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.756	TNC_ESC_0006	Escalator 6 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.756	TNC_ESC_0007	Escalator 7 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.756	TNC_ESC_0008	Escalator 8 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.756	TNC_ESC_0009	Escalator 9 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.742	TNC_ESC_0001	Escalator 1 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.742	TNC_ESC_0002	Escalator 2 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:25.742	TNC_ESC_0003	Escalator 3 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.831	TNC_LFT_0012	Lift 12 BOH (B7 Basement to Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.831	TNC_LFT_0013	Lift 13 FOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.831	TNC_LFT_0014	Lift 14 BOH (B5 Basement to Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.831	TNC_LFT_0015	Lift 15 BOH (B7 Basement to Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.831	TNC_LFT_0016	Lift 16 BOH (B7 Basement to Level 1)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.831	TNC_LFT_0017	Lift 17 BOH (Ground Floor to Level 3)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.831	TNC_LFT_0019	Lift 19 BOH (B5 Basement to B7 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0004	Lift 4 FOH (B6 Basement to B4 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0005	Lift 5 FOH (B5 Basement to Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0006	Lift 6 FOH (B5 Basement to Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0007	Lift 7 FOH (B4 Basement to B1 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0008	Lift 8 FOH (B4 Basement to B1 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0009	Lift 9 FOH (B2 Basement to Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0010	Lift 10 FOH (B2 Basement to Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.820	TNC_LFT_0011	Lift 11 BOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.817	TNC_LFT_0001	Lift 1 FOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.817	TNC_LFT_0002	Lift 2 FOH (B6 Basement to B5 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.28 07:22:15.817	TNC_LFT_0003	Lift 3 FOH (B6 Basement to B4 Basement)	Lift safety feature fault	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.26 11:51:54.034	TNC-E-PSD-026	State Library Platform 2 Zone 3 PSD 26	PSD isolated	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.26 11:45:16.168	_ReduManager	Distributed Server 1	Server 1 - Preferred active	2024.08.29 10:05:04.938	kai_longley		0	ARN
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.650	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.649	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.645	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 11:19:57.633	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 10:33:46.757	_TSC-TVC-PLC_2	MTTHL:_TSC-TVC-PLC_2.	Link Failure - Town Hall Server 2 to Town Hall TVCS CPU 2	2024.08.29 10:05:04.855	kai_longley		0	AZC
+ACK Low	2024.08.26 10:33:46.750	_TSC-TVC-PLC	MTTHL:_TSC-TVC-PLC.	Link Failure - Town Hall Server 1 to Town Hall TVCS CPU 2	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 10:31:47.010	_Conn_event_0_2_to_dist_1_2	Distributed Server 2	Connection lost - Event to Distribution Manager - Link 1	2024.08.29 10:05:04.938	kai_longley		0	THL
+ACK Low	2024.08.26 10:31:47.007	_Conn_event_0_1_to_dist_1_1	Distributed Server 1	Connection lost - Event to Distribution Manager - Link 1	2024.08.29 10:05:04.938	kai_longley		0	ARN
+ACK Low	2024.08.26 10:31:46.999	_Conn_event_0_2_to_redu_1_2	Distributed Server 2	Connection lost - Event to Redundancy Manager - Link 1	2024.08.29 10:05:04.938	kai_longley		0	THL
+ACK Low	2024.08.26 10:31:46.996	_Conn_event_0_1_to_redu_1_1	Distributed Server 1	Connection lost - Event to Redundancy Manager - Link 1	2024.08.29 10:05:04.938	kai_longley		0	ARN
+ACK Low	2024.08.26 09:50:13.941	TNC_TEXA	Tunnel Ambient Temperature Control	Tunnel A  - Ambient Temperature Control Unavailable 	2024.08.29 10:05:04.882	kai_longley		0	SDU
+ACK Low	2024.08.26 09:49:40.371	TSC_TEXB	Tunnel Ambient Temperature Control	Tunnel B - Ambient Temperature Control Unavailable 	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:49:39.680	TSC_TEXA	Tunnel Ambient Temperature Control	Tunnel A  - Ambient Temperature Control Unavailable 	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:49:21.388	TNC-E-PSD-003	State Library Platform 2 Zone 1 PSD 03	PSD isolated	2024.08.29 10:05:04.882	kai_longley		0	STL
+ACK Low	2024.08.26 09:47:48.078	WPZ-FIP-0001	Western Portal Main Fire Panel	Fire panels in the station have a fault	2024.08.26 12:57:51.385	operator		0	SDU
+ACK Low	2024.08.26 09:47:47.699	AEN-FIP-0001	Arden Main Fire Panel	Fire panels in the station have a fault	2024.08.27 14:01:03.620	kai_longley		0	ARN
+ACK Low	2024.08.26 09:44:06.223	TSC_LFT_0016	Lift 16 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:05.843	TSC_LFT_0015	Lift 15 BOH (B4 Basement to GF Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:05.460	TSC_LFT_0014	Lift 14 BOH (B6 Basement to B3 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:05.078	TSC_LFT_0013	Lift 13 BOH (B4 Basement to GF Ground Floor)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:04.700	TSC_LFT_0012	Lift 12 BOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:04.315	TSC_LFT_0008	Lift 8 FOH (B3 Basement to B2 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:03.930	TSC_LFT_0007	Lift 7 FOH (B3 Basement to B2 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:03.541	TSC_LFT_0004	Lift 4 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:03.155	TSC_LFT_0003	Lift 3 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:02.771	TSC_LFT_0002	Lift 2 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:44:02.388	TSC_LFT_0001	Lift 1 FOH (B4 Basement to B3 Basement)	Lift safety feature fault	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:35.950	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:35.223	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:34.750	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:34.455	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:33.726	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:33.240	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:32.952	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:32.222	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:31.755	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:31.463	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:30.735	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:30.264	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:29.974	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:29.254	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:28.779	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:28.492	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:27.766	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:27.297	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:27.011	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:26.292	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:25.834	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:25.546	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:24.812	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:24.347	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:24.061	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:23.342	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:22.884	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:22.597	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:21.856	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:21.383	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:21.093	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:20.374	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:19.912	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:19.629	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:18.902	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:18.445	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:18.162	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:17.456	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:16.998	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:16.716	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:16.004	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:15.548	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:15.261	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:14.532	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:14.058	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:13.763	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:13.052	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:12.593	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:12.306	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:11.595	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:11.134	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:10.848	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:10.135	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:09.669	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:09.377	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:08.663	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:08.204	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:07.919	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:07.203	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:06.741	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:06.452	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:05.735	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:05.274	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:04.993	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:04.285	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:03.829	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:03.547	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:02.839	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:02.382	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:02.102	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:01.389	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:00.933	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:43:00.655	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:59.944	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:59.495	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:59.212	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:58.516	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:58.066	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:57.788	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:57.091	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:56.644	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:56.365	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:55.673	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:55.214	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:54.933	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:54.236	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:53.790	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:53.512	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:52.807	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:52.331	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:52.046	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:51.322	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:50.862	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:50.582	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:49.875	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:49.426	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:49.146	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:48.442	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:47.991	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:47.714	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:47.015	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:46.564	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:46.280	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:45.574	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:45.120	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:44.841	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:44.142	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:43.691	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:43.412	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:42.712	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:42.262	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:41.983	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:41.285	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:40.836	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:40.559	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:39.854	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:39.393	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:39.115	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:38.414	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:37.966	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:37.689	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:36.991	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:36.542	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:36.262	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:35.559	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:35.106	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:34.825	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:34.108	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:33.648	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:33.371	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:32.671	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator communications lost	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:42:32.219	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)	2024.08.29 10:05:04.855	kai_longley		0	THL
+ACK Low	2024.08.26 09:28:40.607	SKP-PSU-1027	PLC 24V Power supply 2 alarm	PLC Power Supply fault	2024.08.29 10:05:04.938	kai_longley		0	SDU
+ACK Low	2024.08.26 09:28:40.549	SKP-PSU-1026	PLC 24V Power supply 1 alarm	PLC Power Supply fault	2024.08.29 10:05:04.938	kai_longley		0	SDU
+ACK Low	2024.08.26 09:28:28.539	PKV_DOR_B2_405-5_1	Security Door (B2 WEST)	Unauthorised access	2024.08.26 12:57:51.399	operator		0	PKV
+ACK Low	2024.08.26 09:28:28.501	PKV_DOR_B1_PKV-S-02_1	Security Door (B1 EAST)	Unauthorised access	2024.08.26 12:57:51.399	operator		0	PKV
+ACK Low	2024.08.26 09:28:27.959	DMA_DOR_B1_ST01_1	West Emergency Stairs - Concourse	Unauthorised access	2024.08.26 12:57:51.399	operator		0	AZC
+ACK Low	2024.08.26 09:28:27.931	DMA_DOR_B1_151-5_4	East BOH Corridor - Concourse	Unauthorised access	2024.08.26 12:57:51.399	operator		0	AZC
+ACK Low	2024.08.26 09:28:27.840	AEN_DOR_LG_405-3_2	Lower ground east - back of house emergency stairs	Unauthorised access	2024.08.28 10:48:09.266	kasturi_jathar		0	ARN
+ACK Low	2024.08.26 09:28:27.821	AEN_DOR_LG_405-3_1	Lower ground east - back of house emergency corridor	Unauthorised access	2024.08.28 10:48:09.266	kasturi_jathar		0	ARN
+ACK Low	2024.08.26 09:23:42.546	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	Speaker fault	2024.08.26 12:57:51.356	operator		0	PKV

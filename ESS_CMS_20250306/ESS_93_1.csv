@@ -1,0 +1,25 @@
+Time,Asset ID,Asset Name,Type,Event Description,Location,Triggered By
+2025.03.06 12:47:19.493,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (Alarm Acknowledged),SDU,kai_longley
+2025.03.06 13:11:29.506,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (0),SDU,system
+2025.03.06 13:11:29.514,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (1),SDU,system
+2025.03.06 13:11:29.965,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (5),SDU,system
+2025.03.06 13:11:29.971,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (0),SDU,system
+2025.03.06 13:11:30.007,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (1),SDU,system
+2025.03.06 13:11:30.060,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (0),SDU,system
+2025.03.06 13:13:29.000,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (1),SDU,system
+2025.03.06 13:13:29.357,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (0),SDU,system
+2025.03.06 13:13:29.428,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (5),SDU,system
+2025.03.06 13:13:30.156,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (0),SDU,system
+2025.03.06 13:14:32.261,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (0),SDU,system
+2025.03.06 13:14:32.262,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (1),SDU,system
+2025.03.06 13:14:32.316,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (1),SDU,system
+2025.03.06 13:14:32.321,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (0),SDU,system
+2025.03.06 13:24:55.974,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (0),SDU,system
+2025.03.06 13:24:55.977,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (1),SDU,system
+2025.03.06 13:24:56.128,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (1),SDU,system
+2025.03.06 13:24:56.134,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (0),SDU,system
+2025.03.06 13:27:56.815,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (0),SDU,system
+2025.03.06 13:27:56.822,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (1),SDU,system
+2025.03.06 13:27:57.481,S_93_1_14711,Traction Section Parkville Station section B,STS,Traction Power Status (1),SDU,system
+2025.03.06 13:27:57.481,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (0),SDU,system
+2025.03.06 13:31:32.000,S_93_1_14711,Traction Section Parkville Station section B,ALM,Traction Power Unknown (1),SDU,system
