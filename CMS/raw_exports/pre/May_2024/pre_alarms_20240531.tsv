@@ -1,0 +1,560 @@
+Severity	Alarm Raised	Asset ID	Asset Name	Alarm Description	Acknowledged	By	Cleared	Comments	Location
+CAME UNACK High	2024.05.31 06:58:16.126	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door opened!				0	THL
+CAME UNACK High	2024.05.31 06:03:15.726	DMA_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!				0	AZC
+CAME UNACK High	2024.05.31 06:02:53.732	DMA_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!				0	AZC
+CAME UNACK High	2024.05.30 16:03:22.801	SYP-ZONE-0003	Westbound Detection Zone 1	TIAS activated! 				0	SDU
+CAME UNACK High	2024.05.30 15:08:08.815	SKP-ZONE-0002	Eastbound Detection Zone 2	TIAS activated! 				0	SDU
+CAME UNACK High	2024.05.30 13:18:21.774	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.30 12:07:19.678	AEN-E-EED-012	Arden Platform 2 Zone 1 EED 12	EED Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.05.30 12:06:59.677	AEN-E-EED-011	Arden Platform 2 Zone 1 EED 11	EED Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.05.29 18:17:53.592	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.05.29 18:17:53.592	PKV_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.05.29 18:17:53.592	PKV_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.05.29 11:10:15.565	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.05.29 11:10:15.565	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.05.29 11:10:15.565	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.05.29 11:10:15.565	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.05.29 11:04:17.595	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.05.29 11:01:43.593	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.05.29 10:59:28.684	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.05.29 10:59:13.692	AEN_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Arden - East End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.05.29 10:59:01.692	AEN_OFN_0101_02_DS	Over Track Exhaust Fan - West End - Duty Selection	Arden - West End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.05.29 10:58:49.708	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.05.28 18:33:09.661	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.05.28 13:53:50.117	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.28 13:33:50.128	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.28 09:15:33.992	PKV-E-PSD-027	Parkville Platform 2 Zone 3 PSD 27	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.28 08:51:24.148	TSC-E-EED-017	Town Hall Platform 2 Zone 1 EED 17	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.28 08:42:32.141	TSC-E-EED-016	Town Hall Platform 2 Zone 1 EED 16	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.27 17:04:27.660	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.05.27 15:38:22.124	TSC-E-PED-002	Town Hall Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.27 15:33:56.122	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.27 14:12:46.468	TSC-E-PSD-029	Town Hall Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.27 14:12:46.439	TSC-W-PSD-023	Town Hall Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.27 14:12:46.363	TSC-E-PSD-010	Town Hall Platform 2 Zone 2 PSD 10	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.05.27 12:30:45.663	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.05.27 11:20:56.116	TNC-E-PED-001	State Library Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.05.27 10:47:26.125	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.05.25 22:03:44.140	TNC-W-EED-040	State Library Platform 1 Zone 3 EED 40	EED Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.05.25 14:44:39.658	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.05.24 11:46:40.119	TNC-W-PED-002	State Library Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.05.24 07:34:28.117	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.05.23 18:01:49.773	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:46:19.773	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.969	PKV-E-PSD-021	Parkville Platform 2 Zone 2 PSD 21	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.968	PKV-E-PSD-019	Parkville Platform 2 Zone 2 PSD 19	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.968	PKV-E-PSD-020	Parkville Platform 2 Zone 2 PSD 20	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.965	PKV-E-PSD-018	Parkville Platform 2 Zone 2 PSD 18	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-005	Parkville Platform 2 Zone 1 PSD 05	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-006	Parkville Platform 2 Zone 1 PSD 06	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-007	Parkville Platform 2 Zone 1 PSD 07	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-008	Parkville Platform 2 Zone 1 PSD 08	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-009	Parkville Platform 2 Zone 1 PSD 09	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-010	Parkville Platform 2 Zone 2 PSD 10	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-011	Parkville Platform 2 Zone 2 PSD 11	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-012	Parkville Platform 2 Zone 2 PSD 12	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-013	Parkville Platform 2 Zone 2 PSD 13	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-014	Parkville Platform 2 Zone 2 PSD 14	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-015	Parkville Platform 2 Zone 2 PSD 15	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-016	Parkville Platform 2 Zone 2 PSD 16	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.778	PKV-E-PSD-017	Parkville Platform 2 Zone 2 PSD 17	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.777	PKV-E-PSD-001	Parkville Platform 2 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.777	PKV-E-PSD-002	Parkville Platform 2 Zone 1 PSD 02	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.777	PKV-E-PSD-003	Parkville Platform 2 Zone 1 PSD 03	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.23 12:08:19.777	PKV-E-PSD-004	Parkville Platform 2 Zone 1 PSD 04	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.969	PKV-W-PSD-021	Parkville Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.968	PKV-W-PSD-019	Parkville Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.953	PKV-W-PSD-018	Parkville Platform 1 Zone 2 PSD 18	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.865	PKV-W-PSD-016	Parkville Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.865	PKV-W-PSD-017	Parkville Platform 1 Zone 2 PSD 17	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.833	PKV-W-PSD-015	Parkville Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.823	PKV-W-PSD-012	Parkville Platform 1 Zone 2 PSD 12	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.823	PKV-W-PSD-013	Parkville Platform 1 Zone 2 PSD 13	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.790	PKV-W-PSD-004	Parkville Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.790	PKV-W-PSD-005	Parkville Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.790	PKV-W-PSD-006	Parkville Platform 1 Zone 1 PSD 06	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.790	PKV-W-PSD-007	Parkville Platform 1 Zone 1 PSD 07	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.790	PKV-W-PSD-008	Parkville Platform 1 Zone 1 PSD 08	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.790	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.790	PKV-W-PSD-010	Parkville Platform 1 Zone 2 PSD 10	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.789	PKV-W-PSD-001	Parkville Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:25:45.789	PKV-W-PSD-003	Parkville Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:15:37.765	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:11:37.792	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 18:11:37.774	PKV-W-PSD-002	Parkville Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 16:39:37.789	PKV-W-PSD-029	Parkville Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.22 16:39:37.772	PKV-W-PSD-011	Parkville Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.05.20 11:36:37.323	DMA-W-PSD-003	Anzac Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.05.20 11:36:32.084	DMA-E-PSD-028	Anzac Platform 2 Zone 3 PSD 28	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK Med	2024.05.31 06:58:06.128	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door alarm bypassed!				0	THL
+CAME UNACK Med	2024.05.29 18:17:53.592	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.05.29 11:10:15.565	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.05.29 11:10:15.565	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK Med	2024.05.29 11:01:43.593	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK Med	2024.05.29 10:59:13.692	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Unavailable				0	SDU
+CAME UNACK Med	2024.05.29 10:58:49.708	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Unavailable				0	SDU
+CAME UNACK Med	2024.05.27 14:12:46.129	TSC-S-STN	Town Hall Station PSD System	PSD lost connection to signalling system!				0	THL
+CAME UNACK Med	2024.05.25 09:27:48.714	AEN_ATSComm	RSG Modbus	HCS/ATS communication fault				0	ARN
+CAME UNACK Med	2024.05.20 11:37:01.190	AEN_TSCComm	CBD South TVCS PLC	HCS/ATS communication fault				0	ARN
+CAME UNACK Med	2024.05.20 11:37:01.179	AEN_TNCComm	CBS North TVCS PLC	HCS/ATS communication fault				0	ARN
+CAME UNACK Low	2024.05.31 07:54:27.059	PKV_LFT_0007	Lift 7 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.31 07:49:51.036	PAE_LFT_0002	Lift 2 BOH (Ground Floor to Level 1)	Lift General Fault				0	SDU
+CAME UNACK Low	2024.05.31 07:49:15.704	DMA_LFT_0006	Lift 6 FOH (B1 Basement to GF Gound Floor)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.31 07:35:58.141	PKV-FPD-0020	B3, PKV-FPD-0020 (SPF-0301) STAIR  	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:58.141	PKV-FPD-0021	B3, PKV-FPD-0021 (SPF-0302) STAIR 	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:58.141	PKV-IVM-0037	B3, PKV-IVM-0037 S-03 Escape Stair 3 M/V	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:58.141	PKV-IVM-0038	B3, PKV-IVM-0038 S-03 Escape Stair 3 M/V	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:58.141	PKV-IVM-0039	B3, PKV-IVM-0039 405-4 Esc Corridor M/V	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:58.141	PKV-IVM-0040	B3, PKV-IVM-0040 405-4 Esc Corridor M/V	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:58.141	PKV-IVM-0041	B3, PKV-IVM-0041 405-4 Esc Corridor M/V	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.452	PKV-ASD-0024	B3 PKV-ASD-0024 BOH CORRIDOR 151-18 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-0731	B3, PKV-SPE-0731 BOH CORRIDOR 151-34	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-0732	B3, PKV-SPE-0732 BOH CORRIDOR 151-18	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1202	B3, PKV-SPE-1202 FIRE LOBBY 406-6 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1203	B3 PKV-SPE-1203 FIRE ESC.C'DOR 405-5 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1205	B3, PKV-SPE-1205 FIRE LOBBY 406-6 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1206	B3, PKV-SPE-1206 FIRE LOBBY 406-21 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1207	B3, PKV-SPE-1207 FIRE LOBBY 406-6 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1208	B3 PKV-SPE-1208 FIRE ESC.C'DOR 405-5 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1210	B3 PKV-SPE-1210 FIRE ESC.C'DOR 405-5 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1211	B3 PKV-SPE-1211 FIRE ESC.C'DOR 405-4 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1212	B3 PKV-SPE-1212 FIRE ESC.C'DOR 405-4 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.283	PKV-SPE-1213	B3 PKV-SPE-1213 FIRE ESC.C'DOR 405-4 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0652	B3, PKV-SPE-0652 HYDRAULIC RISER 890-11	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0653	B3, PKV-SPE-0653 LV DB RM 653-2	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0654	B3, PKV-SPE-0654 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0655	B3, PKV-SPE-0655 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0656	B3, PKV-SPE-0656 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0657	B3, PKV-SPE-0657 BOH CORRIDOR 151-18	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0658	B3, PKV-SPE-0658 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0660	B3, PKV-SPE-0660 STAFF BIKE STORE 290-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0661	B3, PKV-SPE-0661 FIRE LOBBY 406-6	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0662	B3, PKV-SPE-0662 FIRE LOBBY 406-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0663	B3, PKV-SPE-0663 FIRE LOBBY 406-7	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0664	B3, PKV-SPE-0664 FIRE LOBBY 406-7	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0666	B3, PKV-SPE-0666 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0667	B3, PKV-SPE-0667 FIRE LOBBY 406-21	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0681	B3, PKV-SPE-0681 FIRE ESC.C'DOR 405-4	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0682	B3, PKV-SPE-0682 BOH CORRIDOR 151-18	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0697	B3, PKV-SPE-0697 BOH CORRIDOR 151-18	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0698	B3, PKV-SPE-0698 BOH CORRIDOR 151-18	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0720	B3, PKV-SPE-0720 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0721	B3, PKV-SPE-0721 LIFT 9 LIFT LOBBY	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0722	B3, PKV-SPE-0722 FIRE LOBBY 406-9	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0726	B3, PKV-SPE-0726 BOH CORRIDOR 151-33	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0727	B3, PKV-SPE-0727 BOH CORRIDOR 151-34	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0728	B3, PKV-SPE-0728 UNALLOCATED ROOM 299-3	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0729	B3, PKV-SPE-0729 DRAIN PUMP ROOM	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.282	PKV-SPE-0730	B3, PKV-SPE-0730 LIFT 8 PKV-LFT-0008	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.281	PKV-SPE-0646	B3, PKV-SPE-0646 FIRE LOBBY 402-6	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.281	PKV-SPE-0650	B3, PKV-SPE-0650 BOH CORRIDOR 151-18	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:55.281	PKV-SPE-0651	B3, PKV-SPE-0651 MECH RISER 821-18	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:53.130	PKV-SPE-0665	B3, PKV-SPE-0665 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:35:53.130	PKV-SPE-1204	B3 PKV-SPE-1204 FIRE ESC.C'DOR 405-5 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.31 07:34:19.566	AEN_DOR_GF_405-2_1	Ground floor east - emergency escape ramp	Door open too long				0	ARN
+CAME UNACK Low	2024.05.31 06:57:57.047	PKV_LFT_0007	Lift 7 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.31 06:46:55.024	PKV-FIP-0001	Parkville Station FDCIE Panel 	Fire panels in the station have a fault				0	PKV
+CAME UNACK Low	2024.05.31 06:46:36.191	PKV-SPE-0725	B3, PKV-SPE-0725 FIRE LOBBY 406-6	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.05.30 23:13:09.983	PKV_LFT_0006	Lift 6 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.30 23:13:09.983	PKV_LFT_0006	Lift 6 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.30 23:09:31.069	PKV_LFT_0011	Lift 11 BOH (B1 Basement to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.30 23:09:31.069	PKV_LFT_0011	Lift 11 BOH (B1 Basement to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.30 23:07:07.006	PKV_ESC_0005	Escalator 5 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 23:06:27.018	PKV_ESC_0006	Escalator 6 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 23:04:07.050	PKV_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.30 23:04:07.050	PKV_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.30 23:03:14.012	S_93_1_14702	Traction Section Parkville Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_94_1_14750	Traction Section State Library Station	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_94_3_14752	Traction Section Town Hall Station	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_95_1_14753	Traction Section State Library Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_95_3_14755	Traction Section Town Hall Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_96_1_14800	Traction Section Town Hall to Anzac	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_97_1_14802	Traction Section Town Hall to Anzac section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_98_1_14850	Traction Section Anzac to South Yarra	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.012	S_99_1_14851	Traction Section Anzac to South yarra section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.011	S_88_1_14600	Traction Section Footscray west to Arden	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.011	S_89_1_14603	Traction Section Footscray west to Arden section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.011	S_90_1_14650	Traction Section Arden Station	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.011	S_90_2_14651	Traction Section Arden to Parkville	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.011	S_91_1_14652	Traction Section Arden Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.011	S_91_2_14653	Traction Section Arden to Parkville section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.011	S_92_1_14700	Traction Section Parkville Station	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.30 23:03:14.009	essGeneral	ESS Overall health Status	ELECTROL SCADA System Timeout. All Traction Power State Unknown.				0	SDU
+CAME UNACK Low	2024.05.30 23:00:09.006	PKV_ESC_0003	Escalator 3 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:59:39.016	PKV_ESC_0004	Escalator 4 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:58:39.958	PKV_ESC_0001	Escalator 1 Bank 1 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:58:09.037	PKV_ESC_0002	Escalator 2 Bank 1 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:56:56.061	PKV_LFT_0005	Lift 5 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.30 22:56:56.061	PKV_LFT_0005	Lift 5 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.30 22:55:27.982	PKV_LFT_0008	Lift 8 BOH (Platforms to B3 Basement)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.30 22:55:27.982	PKV_LFT_0008	Lift 8 BOH (Platforms to B3 Basement)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.30 22:53:03.955	PKV_ESC_0014	Escalator 14 Bank 7 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:52:47.017	PKV_ESC_0015	Escalator 15 Bank 7 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:52:27.036	PKV_ESC_0016	Escalator 16 Bank 7 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:49:53.968	PKV_ESC_0013	Escalator 13 Bank 6 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:49:33.037	PKV_ESC_0012	Escalator 12 Bank 6 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:48:41.017	PKV_ESC_0010	Escalator 10 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:48:23.960	PKV_ESC_0011	Escalator 11 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.088	PKV_ESC_0001	Escalator 1 Bank 1 (Platforms to Concourse)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.088	PKV_ESC_0002	Escalator 2 Bank 1 (Platforms to Concourse)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.088	PKV_ESC_0003	Escalator 3 Bank 2 (Platforms to Concourse)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.088	PKV_ESC_0004	Escalator 4 Bank 2 (Platforms to Concourse)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.088	PKV_ESC_0005	Escalator 5 Bank 3 (Platforms to Concourse)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.088	PKV_ESC_0006	Escalator 6 Bank 3 (Platforms to Concourse)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.088	PKV_ESC_0007	Escalator 7 Bank 4 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.024	PKV_ESC_0013	Escalator 13 Bank 6 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.024	PKV_ESC_0014	Escalator 14 Bank 7 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.024	PKV_ESC_0015	Escalator 15 Bank 7 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:18.024	PKV_ESC_0016	Escalator 16 Bank 7 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:16.020	PKV_ESC_0008	Escalator 8 Bank 4 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:16.020	PKV_ESC_0009	Escalator 9 Bank 4 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:16.020	PKV_ESC_0010	Escalator 10 Bank 5 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:16.020	PKV_ESC_0011	Escalator 11 Bank 5 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:48:16.020	PKV_ESC_0012	Escalator 12 Bank 6 (Concourse to Ground Floor)	Escalator fire response isolated				0	PKV
+CAME UNACK Low	2024.05.30 22:47:27.059	PKV_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.30 22:47:27.059	PKV_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.30 22:46:39.984	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.05.30 22:46:39.984	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.05.30 16:18:54.488	AEN_DOR_B1_ESC_STAIRS_03_2	Concourse west - back of house emergency stairs	Unauthorised access				0	ARN
+CAME UNACK Low	2024.05.30 16:07:23.733	AEN_DOR_GF_246-1_2	Ground floor west - loading dock 2	Unauthorised access				0	ARN
+CAME UNACK Low	2024.05.30 14:21:43.483	AEN_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault				0	ARN
+CAME UNACK Low	2024.05.30 14:21:40.408	AEN_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault				0	ARN
+CAME UNACK Low	2024.05.30 13:51:04.873	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.05.30 13:50:58.819	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.30 13:45:32.827	DMA_LFT_0002	Lift 2 FOH (B2 Basement to B1 Basement)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.05.30 13:45:23.743	DMA_LFT_0002	Lift 2 FOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.30 13:43:15.740	DMA_LFT_0007	Lift 7 BOH (B1 Basement to GF Gound Floor)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.30 13:20:53.720	DMA_LFT_0005	Lift 5 FOH (B1 Basement to GF Gound Floor)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.05.30 13:20:32.717	DMA_LFT_0005	Lift 5 FOH (B1 Basement to GF Gound Floor)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.30 12:36:34.867	DMA_LFT_0008	Lift 8 BOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.30 12:31:38.704	AEN-SPE-0095	B1, AEN-SPE-0095, 103-2 PAID CONC	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.05.30 12:31:38.704	AEN-SPE-0400	B1, AEN-SPE-0400, 103-2 PAID CONC	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.05.30 12:31:38.704	AEN-SPE-0403	B1, AEN-SPE-0403, 103-2 PAID CONC	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.05.30 12:31:38.704	AEN-SPE-0404	B1, AEN-SPE-0404, 151-10 BOH Corridor	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.05.30 12:31:35.648	AEN-SPE-0090	B1, AEN-SPE-0090, 151-10 BOH Corridor	Heat or smoke detector fault				0	ARN
+CAME UNACK Low	2024.05.30 11:42:59.607	PKV_DOR_B2_406-14_2	Security Door (B2 EAST)	Unauthorised access				0	PKV
+CAME UNACK Low	2024.05.30 10:21:37.002	AEN_DOR_L1_ESC_STAIRS_5_1	Level 1 east - office stairs	Unauthorised access				0	ARN
+CAME UNACK Low	2024.05.30 08:05:03.512	AEN_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift General Fault				0	ARN
+CAME UNACK Low	2024.05.30 08:04:57.501	AEN_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift General Fault				0	ARN
+CAME UNACK Low	2024.05.30 07:08:52.770	PKV_DOR_B2_151-10_1	Security Door (B2 EAST)	Unauthorised access				0	PKV
+CAME UNACK Low	2024.05.30 06:56:45.094	AEN_DOR_B1_ESC_STAIRS_04_2	Concourse east  - back of house emergency stairs	Unauthorised access				0	ARN
+CAME UNACK Low	2024.05.29 11:10:15.565	DMA_TEXA	Tunnel Ambient Temperature Control	Temperature Sensors A - Discrepancy 				0	AZC
+CAME UNACK Low	2024.05.28 12:24:02.310	DMA_ESC_0002	Escalator 2 Bank 2 (B2 Basement to B1 Basement)	Escalator stopped(tension fault - right) 				0	AZC
+CAME UNACK Low	2024.05.28 12:18:50.090	PKV_DOR_B4_PKV-S-01_4	West Emergency Stairs - Platform	Unauthorised access				0	PKV
+CAME UNACK Low	2024.05.28 10:21:09.705	AEN_TEXA	Tunnel Ambient Temperature Control - Eastbound	Temperature Sensors A - Discrepancy 				0	SDU
+CAME UNACK Low	2024.05.28 09:15:33.794	PKV-E-PSD-027	Parkville Platform 2 Zone 3 PSD 27	PSD isolated				0	PKV
+CAME UNACK Low	2024.05.28 09:15:33.778	PKV-W-PSD-004	Parkville Platform 1 Zone 1 PSD 04	PSD isolated				0	PKV
+CAME UNACK Low	2024.05.27 16:35:57.664	AEN-E-PSD-023	Arden Platform 2 Zone 3 PSD 23	PSD isolated				0	ARN
+CAME UNACK Low	2024.05.27 15:05:01.009	DMA_LFT_0009	Lift 9 BOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.27 14:12:46.146	TSC-E-PSD-029	Town Hall Platform 2 Zone 3 PSD 29	PSD isolated				0	THL
+CAME UNACK Low	2024.05.27 14:12:46.142	TSC-E-PSD-016	Town Hall Platform 2 Zone 2 PSD 16	PSD isolated				0	THL
+CAME UNACK Low	2024.05.27 14:12:46.141	TSC-E-PSD-010	Town Hall Platform 2 Zone 2 PSD 10	PSD isolated				0	THL
+CAME UNACK Low	2024.05.27 14:12:46.135	TSC-W-PSD-023	Town Hall Platform 1 Zone 3 PSD 23	PSD isolated				0	THL
+CAME UNACK Low	2024.05.27 11:30:14.697	_ReduManager	Distributed Server 1	Server 1 - Set active automatically				0	ARN
+CAME UNACK Low	2024.05.27 10:09:35.857	_ReduManager_2	Town Hall Server 2	Server 2 - Set active automatically				0	AZC
+CAME UNACK Low	2024.05.27 08:41:02.124	TNC-W-PSD-025	State Library Platform 1 Zone 3 PSD 25	PSD isolated				0	STL
+CAME UNACK Low	2024.05.27 08:31:44.122	TNC-E-PSD-025	State Library Platform 2 Zone 3 PSD 25	PSD isolated				0	STL
+CAME UNACK Low	2024.05.27 07:49:28.401	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.05.27 07:29:37.658	AEN-W-PSD-009	Arden Platform 1 Zone 1 PSD 09	PSD isolated				0	ARN
+CAME UNACK Low	2024.05.27 06:19:48.395	DMA_LFT_0003	Lift 3 FOH (B1 Basement to GF Gound Floor)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.05.20 11:40:59.840	S_97_2_14803	Traction Section Anzac Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.20 11:40:59.814	S_96_2_14801	Traction Section Anzac Station	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.20 11:40:59.771	S_95_2_14754	Traction Section State Library to Town hall section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.20 11:40:59.732	S_94_2_14751	Traction Section State Library to Town Hall	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.20 11:40:59.703	S_93_2_14703	Traction Section Parkville to State Library section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.20 11:40:59.676	S_92_2_14701	Traction Section Parkville to State Library	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.05.20 11:36:36.736	DMA-W-PSD-003	Anzac Platform 1 Zone 1 PSD 03	PSD isolated				0	AZC
+CAME UNACK Low	2024.05.20 11:36:31.515	DMA-E-PSD-028	Anzac Platform 2 Zone 3 PSD 28	PSD isolated				0	AZC
+CAME UNACK Low	2024.05.20 11:36:22.801	PKV-W-PSD-024	Parkville Platform 1 Zone 3 PSD 24	PSD isolated				0	PKV
+CAME UNACK Low	2024.05.20 11:36:00.473	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	PSD isolated				0	STL
+WENT UNACK High	2024.05.30 15:42:52.044	PKV_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.05.30 15:42:55.246	0	PKV
+WENT UNACK High	2024.05.30 15:40:01.579	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Smoke detected in shaft!			2024.05.30 15:40:17.562	0	SDU
+WENT UNACK High	2024.05.30 15:24:36.557	_Driver2	MTPKV:_Driver2.				2024.05.30 15:25:28.159	0	STL
+WENT UNACK High	2024.05.30 15:20:41.573	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!			2024.05.30 15:20:57.560	0	SDU
+WENT UNACK High	2024.05.30 15:04:57.954	PKV_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.05.30 15:05:07.954	0	PKV
+WENT UNACK High	2024.05.30 14:29:43.769	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door opened!			2024.05.30 14:32:41.769	0	PKV
+WENT UNACK High	2024.05.30 14:22:33.769	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door opened!			2024.05.30 14:22:39.769	0	PKV
+WENT UNACK High	2024.05.30 14:11:46.550	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!			2024.05.30 14:12:48.568	0	SDU
+WENT UNACK High	2024.05.30 13:39:41.770	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door opened!			2024.05.30 13:40:47.771	0	PKV
+WENT UNACK High	2024.05.30 13:24:23.765	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door opened!			2024.05.30 13:28:11.766	0	PKV
+WENT UNACK High	2024.05.30 12:33:11.579	DMA-FIP-0001	Anzac Station FDCIE Panel	Smoke or heat detected! Extend timer within 30s to investigate!!			2024.05.30 12:36:34.566	0	AZC
+WENT UNACK High	2024.05.30 12:33:11.579	DMA-FIP-0001	Anzac Station FDCIE Panel	Smoke detected! Confirm Station Evac within 5 mins!!			2024.05.30 12:33:27.580	0	AZC
+WENT UNACK High	2024.05.30 12:13:13.654	AEN-E-EED-011	Arden Platform 2 Zone 1 EED 11	EED opened!			2024.05.30 12:13:39.654	0	ARN
+WENT UNACK High	2024.05.30 12:07:19.662	AEN-E-EED-012	Arden Platform 2 Zone 1 EED 12	EED opened!			2024.05.30 12:07:47.655	0	ARN
+WENT UNACK High	2024.05.30 11:54:34.926	_Driver2	MTAZC:_Driver2.				2024.05.30 11:54:38.902	0	ARN
+WENT UNACK High	2024.05.30 11:47:28.121	TNC-W-PED-002	State Library Platform 1 PED 02	Platform End Door opened!			2024.05.30 13:25:56.116	0	STL
+WENT UNACK High	2024.05.30 10:50:03.562	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!			2024.05.30 10:50:08.636	0	SDU
+WENT UNACK High	2024.05.30 09:45:29.657	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door opened!			2024.05.30 09:46:35.657	0	ARN
+WENT UNACK High	2024.05.30 08:38:43.659	AEN-W-PSD-014	Arden Platform 1 Zone 2 PSD 14	Manual release activated!			2024.05.30 08:39:15.659	0	ARN
+WENT UNACK High	2024.05.30 07:19:34.127	TSC-E-EED-016	Town Hall Platform 2 Zone 1 EED 16	EED opened!			2024.05.30 07:19:36.119	0	THL
+WENT UNACK High	2024.05.30 07:06:34.126	TSC-E-EED-017	Town Hall Platform 2 Zone 1 EED 17	EED opened!			2024.05.30 07:20:10.126	0	THL
+WENT UNACK High	2024.05.29 17:23:09.605	PKV_StationFunc	TVCS Operator Fire Emergency Section 04 - Parkville Station	Operator initiated emergency ventilation mode Is active In the station!			2024.05.29 17:24:12.604	0	SDU
+WENT UNACK High	2024.05.29 16:02:37.557	SDU_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.05.29 16:02:38.446	0	SDU
+WENT UNACK High	2024.05.29 15:06:06.120	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door opened!			2024.05.29 15:07:12.119	0	STL
+WENT UNACK High	2024.05.29 15:02:30.115	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door opened!			2024.05.29 15:04:12.115	0	STL
+WENT UNACK High	2024.05.29 14:52:40.121	TNC-E-PED-001	State Library Platform 2 PED 01	Platform End Door opened!			2024.05.29 14:54:30.115	0	STL
+WENT UNACK High	2024.05.29 14:16:23.003	_Driver2	MTARD:_Driver2.				2024.05.29 14:16:26.093	0	PKV
+WENT UNACK High	2024.05.29 14:16:16.124	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door opened!			2024.05.29 14:16:36.128	0	THL
+WENT UNACK High	2024.05.29 13:30:42.125	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door opened!			2024.05.29 13:31:02.123	0	THL
+WENT UNACK High	2024.05.29 09:42:49.659	AEN-W-PSD-015	Arden Platform 1 Zone 2 PSD 15	Manual release activated!			2024.05.29 09:43:21.661	0	ARN
+WENT UNACK High	2024.05.29 09:37:26.600	PKV_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!			2024.05.29 09:37:42.600	0	SDU
+WENT UNACK High	2024.05.29 09:25:17.661	AEN-W-PSD-025	Arden Platform 1 Zone 3 PSD 25	Manual release activated!			2024.05.29 09:25:47.662	0	ARN
+WENT UNACK High	2024.05.29 09:13:09.656	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door opened!			2024.05.29 09:31:53.659	0	ARN
+WENT UNACK Med	2024.05.31 07:51:47.969	PKV_ESC_0007	Escalator 7 Bank 4 (Concourse to Ground Floor)	Escalator stopped(emergency stop button activated!)			2024.05.31 07:51:57.958	0	PKV
+WENT UNACK Med	2024.05.31 07:49:25.040	PAE_LFT_0002	Lift 2 BOH (Ground Floor to Level 1)	Emergency Intercom Activated Level 2			2024.05.31 07:49:26.038	0	SDU
+WENT UNACK Med	2024.05.31 01:18:30.008	_ForcefieldDriver	Distributed Servers	Communications Fault to Forcefield Server			2024.05.31 02:12:00.013	0	ARN
+WENT UNACK Med	2024.05.30 22:44:01.142	PKV_FCU_0309_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 22:45:31.148	0	PKV
+WENT UNACK Med	2024.05.30 22:44:00.038	PKV_FCU_1201_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 22:45:31.159	0	PKV
+WENT UNACK Med	2024.05.30 22:44:00.024	PKV_FCU_1107_08_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 22:45:31.136	0	PKV
+WENT UNACK Med	2024.05.30 22:44:00.024	PKV_FCU_1105_06_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 22:45:31.136	0	PKV
+WENT UNACK Med	2024.05.30 22:43:57.153	PKV_FCU_0211_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 22:45:29.165	0	PKV
+WENT UNACK Med	2024.05.30 22:43:57.130	PKV_FCU_1219_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 22:45:29.130	0	PKV
+WENT UNACK Med	2024.05.30 22:43:57.130	PKV_FCU_0213_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 22:45:29.130	0	PKV
+WENT UNACK Med	2024.05.30 20:09:35.280	PKV_FCU_1109_10_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 20:13:39.996	0	PKV
+WENT UNACK Med	2024.05.30 19:58:58.980	_Mod_Plc_2_2	MTARD:_Mod_Plc_2_2.	Communications Fault - Arden Server 2 to Arden FDS Gateway			2024.05.30 19:58:59.989	0	PKV
+WENT UNACK Med	2024.05.30 19:58:58.719	_Mod_Plc_2	MTARD:_Mod_Plc_2.	Communications Fault - Arden Server 1 to Arden FDS Gateway			2024.05.30 19:58:59.439	0	PKV
+WENT UNACK Med	2024.05.30 15:24:36.587	_PKV-BMS-PLC_2	MTPKV:_PKV-BMS-PLC_2.	Communications Fault - Parkville Server 2 to Parkville BMS PLC			2024.05.30 15:25:28.322	0	STL
+WENT UNACK Med	2024.05.30 15:24:36.570	_PKV-BMS-PLC	MTPKV:_PKV-BMS-PLC.	Communications Fault - Parkville Server 1 to Parkville BMS PLC			2024.05.30 15:25:28.066	0	PKV
+WENT UNACK Med	2024.05.30 14:59:16.450	AEN_SPP_0203_04_FG	Sewer Drainage Pit - Function Group	Sewer drainage pit not dropping!			2024.05.30 15:00:09.554	0	ARN
+WENT UNACK Med	2024.05.30 14:29:35.769	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door alarm bypassed!			2024.05.30 14:32:43.770	0	PKV
+WENT UNACK Med	2024.05.30 13:51:49.743	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped(emergency stop button activated!)			2024.05.30 13:52:01.736	0	AZC
+WENT UNACK Med	2024.05.30 13:39:31.770	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door alarm bypassed!			2024.05.30 13:40:49.770	0	PKV
+WENT UNACK Med	2024.05.30 13:24:05.765	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door alarm bypassed!			2024.05.30 13:28:11.766	0	PKV
+WENT UNACK Med	2024.05.30 13:09:15.502	_PDM-BMS-PLC	MTAZC:_PDM-BMS-PLC.	Communications Fault - Anzac Server 1 to Eastern Portal BMS PLC			2024.05.30 13:25:07.635	0	AZC
+WENT UNACK Med	2024.05.30 13:05:39.976	_PDM-BMS-PLC_2	MTAZC:_PDM-BMS-PLC_2.	Communications Fault - Anzac Server 2 to Eastern Portal BMS PLC			2024.05.30 13:05:44.299	0	ARN
+WENT UNACK Med	2024.05.30 12:33:29.778	DMA_FCU_1115_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 12:36:42.826	0	AZC
+WENT UNACK Med	2024.05.30 12:33:29.778	DMA_FCU_1111_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 12:36:43.787	0	AZC
+WENT UNACK Med	2024.05.30 12:02:40.074	_Conn_event_0_2_to_ctrl_3_2	Anzac Server 2	Control Manager Not Running - mtazc_scripts.lst			2024.05.30 12:02:40.386	0	ARN
+WENT UNACK Med	2024.05.30 12:00:53.332	_Conn_event_0_1_to_ctrl_3_1	Anzac Server 1	Control Manager Not Running - mtazc_scripts.lst			2024.05.30 12:00:53.579	0	AZC
+WENT UNACK Med	2024.05.30 11:54:46.362	_DMA-BMS-PLC_2	MTAZC:_DMA-BMS-PLC_2.	Communications Fault - Anzac Server 2 to Anzac BMS PLC			2024.05.30 11:54:46.549	0	ARN
+WENT UNACK Med	2024.05.30 11:54:34.952	_DMA-BMS-PLC	MTAZC:_DMA-BMS-PLC.	Communications Fault - Anzac Server 1 to Anzac BMS PLC			2024.05.30 11:54:38.899	0	AZC
+WENT UNACK Med	2024.05.30 11:53:16.178	_DMA-TVC-PLC_2	MTAZC:_DMA-TVC-PLC_2.	Communication Fault - Anzac Server 2 to Anzac TVCS PLC			2024.05.30 11:53:16.228	0	ARN
+WENT UNACK Med	2024.05.30 11:53:14.927	_Conn_event_0_2_to_event_0_1	Anzac Server 2	Connection lost to Server 2 - Link 0			2024.05.30 11:53:35.792	0	AZC
+WENT UNACK Med	2024.05.30 11:53:14.927	_Conn_event_0_2_to_event_0_1	Anzac Server 2	Connection lost to Server 2 - Link 1			2024.05.30 11:53:55.786	0	AZC
+WENT UNACK Med	2024.05.30 11:51:27.906	_Conn_event_0_1_to_event_0_2	Anzac Server 1	Connection lost to Server 2 - Link 0			2024.05.30 11:53:35.794	0	ARN
+WENT UNACK Med	2024.05.30 11:51:27.906	_Conn_event_0_1_to_event_0_2	Anzac Server 1	Connection lost to Server 2 - Link 1			2024.05.30 11:53:55.787	0	ARN
+WENT UNACK Med	2024.05.30 11:51:27.886	_Conn_dist_1_1_to_dist_7_2	Distributed Server 1	Connection lost to Anzac Server 2 - Link 1			2024.05.30 11:53:45.476	0	THL
+WENT UNACK Med	2024.05.30 11:51:27.885	_Conn_dist_1_1_to_dist_7_2	Distributed Server 1	Connection lost to Anzac Server 2 - Link 0			2024.05.30 11:53:25.863	0	THL
+WENT UNACK Med	2024.05.30 11:51:27.885	_Conn_dist_1_2_to_dist_7_2	Distributed Server 2	Connection lost to Anzac Server 2 - Link 0			2024.05.30 11:53:33.922	0	THL
+WENT UNACK Med	2024.05.30 11:51:27.885	_Conn_dist_1_2_to_dist_7_2	Distributed Server 2	Connection lost to Anzac Server 2 - Link 1			2024.05.30 11:53:53.913	0	THL
+WENT UNACK Med	2024.05.30 11:50:58.174	_Conn_event_0_2_to_driver_1_2	Anzac Server 2	TVCS PLC Driver Not Running (S7)			2024.05.30 11:53:16.119	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.872	_Conn_event_0_2_to_driver_2_2	Anzac Server 2	BMS PLC Driver Not Running (S7+)			2024.05.30 11:53:16.507	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.872	_Conn_event_0_2_to_ctrl_2_2	Anzac Server 2	Control Manager Not Running - mtlib_scripts.lst			2024.05.30 11:53:17.947	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.813	_Conn_event_0_2_to_ctrl_1_2	Anzac Server 2	Control Manager Not Running - pvss_scripts.lst			2024.05.30 11:53:15.324	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.763	_Mod_Plc_4_2	MTAZC:_Mod_Plc_4_2.	Communications Fault - Anzac Server 2 to Anzac EWIS			2024.05.30 11:53:18.679	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.763	_Mod_Plc_3_2	MTAZC:_Mod_Plc_3_2.	Communications Fault - Anzac Server 2 to Anzac EWIS			2024.05.30 11:53:18.544	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.753	_DMA-BMS-PLC3_2	MTAZC:_DMA-BMS-PLC3_2.	Communications Fault - Anzac Server 2 to Anzac BMS Gateway PLC			2024.05.30 11:53:17.204	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.753	_DMA-FDS-S7PLUS_2	MTAZC:_DMA-FDS-S7PLUS_2.	Communications Fault - Anzac Server 2 to Anzac FDS PLC			2024.05.30 11:53:19.507	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.748	_Mod_Plc_2_2	MTAZC:_Mod_Plc_2_2.	Communications Fault - Anzac Server 2 to Anzac FDS Gateway			2024.05.30 11:53:18.085	0	ARN
+WENT UNACK Med	2024.05.30 11:50:57.743	_RDBArchive_2	Anzac Server 2	RDB Connection Lost			2024.05.30 11:53:13.249	0	ARN
+WENT UNACK Med	2024.05.30 11:47:04.124	TNC-W-PED-002	State Library Platform 1 PED 02	Platform End Door alarm bypassed!			2024.05.30 13:26:00.118	0	STL
+WENT UNACK Med	2024.05.30 11:31:40.298	_Conn_event_0_1_to_ctrl_2_1	Anzac Server 1	Control Manager Not Running - mtlib_scripts.lst			2024.05.30 11:31:40.545	0	AZC
+WENT UNACK Med	2024.05.30 10:39:20.220	_Conn_event_0_1_to_driver_2_1	Anzac Server 1	BMS PLC Driver Not Running (S7+)			2024.05.30 10:39:20.568	0	AZC
+WENT UNACK Med	2024.05.30 10:39:20.180	_DMA-BMS-PLC3	MTAZC:_DMA-BMS-PLC3.	Communications Fault - Anzac Server 1 to Anzac BMS Gateway PLC			2024.05.30 10:39:21.161	0	AZC
+WENT UNACK Med	2024.05.30 10:31:27.659	AEN-E-PSD-018	Arden Platform 2 Zone 2 PSD 18	Door control unit communication lost			2024.05.30 10:32:25.658	0	ARN
+WENT UNACK Med	2024.05.30 08:40:25.661	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door alarm bypassed!			2024.05.30 09:13:07.659	0	ARN
+WENT UNACK Med	2024.05.30 07:34:25.135	PKV-FIP-0005	Parkville Station SHCIE Panel 4	Power supply to gas supression panel fault			2024.05.30 08:23:59.118	0	PKV
+WENT UNACK Med	2024.05.29 18:46:46.303	DMA_FCU_0103_04_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.05.30 17:12:17.732	0	AZC
+WENT UNACK Med	2024.05.29 17:24:12.604	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	Degraded fans			2024.05.29 17:39:17.602	0	PKV
+WENT UNACK Med	2024.05.29 16:32:43.688	_Conn_event_0_1_to_ctrl_3_1	Distributed Server 1	Control Manager Not Running - mtdist_scripts.lst			2024.05.29 16:32:44.561	0	ARN
+WENT UNACK Med	2024.05.29 15:05:58.124	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door alarm bypassed!			2024.05.29 15:07:14.117	0	STL
+WENT UNACK Med	2024.05.29 15:02:26.116	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door alarm bypassed!			2024.05.29 15:04:12.115	0	STL
+WENT UNACK Med	2024.05.29 14:52:34.124	TNC-E-PED-001	State Library Platform 2 PED 01	Platform End Door alarm bypassed!			2024.05.29 14:54:30.115	0	STL
+WENT UNACK Med	2024.05.29 14:43:13.008	PKV_SPP_0201_02_FG	Sewer Pump Pit - Function Group	Sewer drainage pit not dropping!			2024.05.29 14:43:21.011	0	PKV
+WENT UNACK Med	2024.05.29 14:17:17.277	_AEN-BMS-PLC	Arden BMS PLC	Communications Fault - Arden Server 1 to Arden BMS PLC			2024.05.29 14:17:59.141	0	ARN
+WENT UNACK Med	2024.05.29 14:17:17.274	_AEN-BMS-PLC_2	Arden BMS PLC	Communications Fault - Arden Server 2 to Arden BMS PLC			2024.05.29 14:17:59.159	0	PKV
+WENT UNACK Med	2024.05.29 13:47:56.082	_AEN-BMS-PLC3	MTARD:_AEN-BMS-PLC3.	Communications Fault - Arden Server 1 to Arden BMS Gateway PLC			2024.05.29 13:47:56.200	0	ARN
+WENT UNACK Med	2024.05.29 13:41:08.248	_AEN-TVC-PLC_2	Arden Server 2	Communications Fault - Arden Server 2 to Arden TVCS PLC			2024.05.29 13:47:32.245	0	PKV
+WENT UNACK Med	2024.05.29 13:41:07.718	_AEN-TVC-PLC	Arden Server 1	Communications Fault - Arden Server 1 to Arden TVCS PLC			2024.05.29 13:47:56.649	0	ARN
+WENT UNACK Med	2024.05.29 13:41:07.619	_PKV-TVC-PLC	MTPKV:_PKV-TVC-PLC.	Communications Fault - Parkville Server 1 to Parkville TVCS PLC			2024.05.29 13:47:48.118	0	PKV
+WENT UNACK Med	2024.05.29 13:41:07.585	_DMA-TVC-PLC	MTAZC:_DMA-TVC-PLC.	Communications Fault - Anzac Server 1 to Anzac TVCS PLC			2024.05.29 13:47:45.494	0	AZC
+WENT UNACK Med	2024.05.29 13:41:07.476	_PKV-TVC-PLC_2	MTPKV:_PKV-TVC-PLC_2.	Communications Fault - Parkville Server 2 to Parkville TVCS PLC			2024.05.29 13:47:37.013	0	STL
+WENT UNACK Med	2024.05.29 13:40:50.373	_PAE-BMS-PLC_2	MTARD:_PAE-BMS-PLC_2.	Communications Fault - Arden Server 2 to Western Portal BMS PLC			2024.05.29 13:47:50.052	0	PKV
+WENT UNACK Med	2024.05.29 13:40:49.292	_AEN-BMS-PLC3_2	MTARD:_AEN-BMS-PLC3_2.	Communications Fault - Arden Server 2 to Arden BMS Gateway PLC			2024.05.29 13:47:49.855	0	PKV
+WENT UNACK Med	2024.05.29 13:40:48.866	_PKV-BMS-PLC3	MTPKV:_PKV-BMS-PLC3.	Communications Fault - Parkville Server 1 to Parkville BMS Gateway PLC			2024.05.29 13:47:48.714	0	PKV
+WENT UNACK Med	2024.05.29 13:40:48.545	_PAE-BMS-PLC	MTARD:_PAE-BMS-PLC.	Communications Fault - Arden Server 1 to Western Portal BMS PLC			2024.05.29 13:47:48.051	0	ARN
+WENT UNACK Med	2024.05.29 13:40:44.550	_PKV-BMS-PLC3_2	MTPKV:_PKV-BMS-PLC3_2.	Communications Fault - Parkville Server 2 to Parkville BMS Gateway PLC			2024.05.29 13:47:44.869	0	STL
+WENT UNACK Med	2024.05.29 11:04:04.597	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	Degraded fans			2024.05.29 11:04:17.595	0	PKV
+WENT UNACK Med	2024.05.29 11:01:37.585	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	Degraded fans			2024.05.29 11:01:43.593	0	PKV
+WENT UNACK Med	2024.05.29 10:59:23.694	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Degraded			2024.05.29 10:59:29.705	0	SDU
+WENT UNACK Med	2024.05.29 10:58:46.687	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Degraded			2024.05.29 10:58:49.708	0	SDU
+WENT UNACK Med	2024.05.29 10:43:20.392	PKV_UPS_0402	Uninterruptible Power Supply	UPS internal diagnostic fault			2024.05.29 13:18:06.396	0	PKV
+WENT UNACK Med	2024.05.29 10:43:02.392	PKV_UPS_0402	Uninterruptible Power Supply	UPS general fault			2024.05.29 13:18:06.396	0	PKV
+WENT UNACK Med	2024.05.29 10:34:06.390	PKV_UPS_0401	Uninterruptible Power Supply	UPS internal diagnostic fault			2024.05.29 13:17:45.389	0	PKV
+WENT UNACK Med	2024.05.29 10:34:06.390	PKV_UPS_0401	Uninterruptible Power Supply	UPS general fault			2024.05.29 13:17:45.389	0	PKV
+WENT UNACK Med	2024.05.29 09:12:59.664	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door alarm bypassed!			2024.05.29 09:32:03.658	0	ARN
+WENT UNACK Med	2024.05.27 17:20:42.561	AEN_TEP_0303_05_DS	Tunnel Drainage Pump - Duty Selection	Tunnel drainage pit - reduced capability!			2024.05.30 08:02:02.559	0	ARN
+WENT UNACK Med	2024.05.27 13:39:54.788	_Mod_Plc_1_2	Parkville Server 2	Communications Fault - Parkville Server 2 to Parkville PSD Servers			2024.05.28 09:15:30.830	0	STL
+WENT UNACK Med	2024.05.27 13:39:54.773	_Mod_Plc_1	Parkville Server 1	Communications Fault - Parkville Server 1 to Parkville PSD Servers			2024.05.28 09:15:33.778	0	PKV
+WENT UNACK Low	2024.05.31 08:00:54.687	PKV_DOR_B4_PKV-S-02_3	Security Door (B4 EAST)	Unauthorised access			2024.05.31 08:01:01.030	0	PKV
+WENT UNACK Low	2024.05.31 07:57:17.037	PAE_LFT_0001	Lift 1 BOH (B1 Basement to Level 1)	Lift General Fault			2024.05.31 07:58:07.037	0	SDU
+WENT UNACK Low	2024.05.31 07:51:51.836	PKV_DOR_B4_PKV-S-02_4	Security Door (B4 EAST)	Unauthorised access			2024.05.31 07:51:58.817	0	PKV
+WENT UNACK Low	2024.05.31 07:47:18.948	PKV_DOR_B4_PKV-S-02_2	Security Door (B4 EAST)	Unauthorised access			2024.05.31 07:47:27.928	0	PKV
+WENT UNACK Low	2024.05.31 07:47:10.933	PKV_DOR_B4_PKV-S-02_1	Security Door (B4 EAST)	Unauthorised access			2024.05.31 07:47:16.623	0	PKV
+WENT UNACK Low	2024.05.31 07:08:30.736	AEN_DOR_B1_151-3_1	Concourse west - back of house corridor	Unauthorised access			2024.05.31 07:08:38.609	0	ARN
+WENT UNACK Low	2024.05.31 07:00:40.170	AEN_DOR_GF_401-1_1	Ground floor east - fire control room	Unauthorised access			2024.05.31 07:00:44.817	0	ARN
+WENT UNACK Low	2024.05.31 06:44:15.389	AEN_DOR_B2_ESC_STAIRS_04_2	Platform 2 east - single emergency door	Unauthorised access			2024.05.31 06:44:22.561	0	ARN
+WENT UNACK Low	2024.05.31 04:18:38.872	_Mod_Plc_1_2	Distributed Server 1	Communications Fault - Distributed Server 2 to RSG			2024.05.31 04:18:39.974	0	THL
+WENT UNACK Low	2024.05.31 01:26:35.772	Cameras	CCTV Camera	Lost connection to Genetec camera status service			2024.05.31 02:14:39.361	0	ARN
+WENT UNACK Low	2024.05.31 01:22:13.622	Cameras	CCTV Camera	Lost connection to Genetec media streaming service			2024.05.31 02:12:28.364	0	ARN
+WENT UNACK Low	2024.05.31 01:15:11.870	PKV_DOR_B4_PKV-S-01_1	Security Door (B4 WEST)	Unauthorised access			2024.05.31 01:15:17.458	0	PKV
+WENT UNACK Low	2024.05.30 23:16:17.964	PKV_ESC_0007	Escalator 7 Bank 4 (Concourse to Ground Floor)	Escalator communications lost			2024.05.31 07:38:41.960	0	PKV
+WENT UNACK Low	2024.05.30 23:16:05.093	PKV_ESC_0008	Escalator 8 Bank 4 (Concourse to Ground Floor)	Escalator communications lost			2024.05.31 07:39:41.960	0	PKV
+WENT UNACK Low	2024.05.30 23:15:43.032	PKV_ESC_0009	Escalator 9 Bank 4 (Concourse to Ground Floor)	Escalator communications lost			2024.05.31 07:39:49.033	0	PKV
+WENT UNACK Low	2024.05.30 22:44:01.155	PKV_FCU_1303_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:31.159	0	PKV
+WENT UNACK Low	2024.05.30 22:44:01.155	PKV_FCU_0305_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:32.042	0	PKV
+WENT UNACK Low	2024.05.30 22:44:01.155	PKV_FCU_0303_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:32.042	0	PKV
+WENT UNACK Low	2024.05.30 22:44:01.155	PKV_FCU_0301_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:32.042	0	PKV
+WENT UNACK Low	2024.05.30 22:44:00.038	PKV_FCU_1209_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:32.042	0	PKV
+WENT UNACK Low	2024.05.30 22:44:00.038	PKV_FCU_1203_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:31.159	0	PKV
+WENT UNACK Low	2024.05.30 22:44:00.024	PKV_FCU_1305_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:31.148	0	PKV
+WENT UNACK Low	2024.05.30 22:44:00.024	PKV_FCU_1211_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:32.030	0	PKV
+WENT UNACK Low	2024.05.30 22:44:00.024	PKV_FCU_1123_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:31.148	0	PKV
+WENT UNACK Low	2024.05.30 22:44:00.024	PKV_FCU_1121_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:31.148	0	PKV
+WENT UNACK Low	2024.05.30 22:43:57.142	PKV_FCU_0217_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:29.143	0	PKV
+WENT UNACK Low	2024.05.30 22:43:57.142	PKV_FCU_0215_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:28.022	0	PKV
+WENT UNACK Low	2024.05.30 22:43:57.130	PKV_FCU_1119_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:28.008	0	PKV
+WENT UNACK Low	2024.05.30 22:43:57.130	PKV_FCU_0205_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:29.130	0	PKV
+WENT UNACK Low	2024.05.30 22:43:57.130	PKV_FCU_0203_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 22:45:29.130	0	PKV
+WENT UNACK Low	2024.05.30 21:25:34.024	PKV_FCU_0201_02_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 21:31:23.133	0	PKV
+WENT UNACK Low	2024.05.30 17:42:14.179	AEN_DOR_B2_403-1_2	Platform 1 west - single emergency door	Unauthorised access			2024.05.30 17:42:17.924	0	ARN
+WENT UNACK Low	2024.05.30 16:07:22.992	PKV_MCC_0401_ATS_01	PKV-MCC-0401-ESB-03 ATS	Automatic transfer switch unhealthy			2024.05.30 16:11:37.976	0	PKV
+WENT UNACK Low	2024.05.30 15:56:21.118	AEN_DOR_B2_ESC_STAIRS_03_1	Platform 2 west - single emergency door	Unauthorised access			2024.05.30 15:56:52.000	0	ARN
+WENT UNACK Low	2024.05.30 15:51:04.937	DMA_FCU_1123_24_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 15:51:38.744	0	AZC
+WENT UNACK Low	2024.05.30 15:38:54.255	AEN_DOR_B2_ESC_STAIRS_04_3	Platform 1 east - double emergency door	Unauthorised access			2024.05.31 07:22:57.343	0	ARN
+WENT UNACK Low	2024.05.30 15:15:04.209	PKV-IVM-0049	B4, PKV-IVM-0049 S-02 Escape Stair 2 M/V	Heat or smoke detector fault			2024.05.30 15:28:49.300	0	PKV
+WENT UNACK Low	2024.05.30 15:15:04.209	PKV-IVM-0050	B4, PKV-IVM-0050 S-02 Escape Stair 2 M/V	Heat or smoke detector fault			2024.05.30 15:28:49.300	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-IVM-0044	B3, PKV-IVM-0044 S-02 Escape Stair 2 M/V	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-IVM-0045	B3, PKV-IVM-0045 S-02 Escape Stair 2 M/V	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-SPE-0602	B3, PKV-SPE-0602 EQUIP ROOM 234-2	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-SPE-0603	B3, PKV-SPE-0603 CLEANER'S STORE 236-2	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-SPE-0615	B3, PKV-SPE-0615 HVAC PUMP ROOM 806-1	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-SPE-0673	B3, PKV-SPE-0673 EXHAUST FAN ROOM 803-1	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-SPE-0674	B3, PKV-SPE-0674 EXHAUST FAN ROOM 803-1	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.149	PKV-SPE-0676	B3, PKV-SPE-0676 HVAC PUMP ROOM 806-1	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.148	PKV-FLS-0023	B3, PKV-FLS-0023 BOH F/Sw	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:02.148	PKV-IVM-0043	B3, PKV-IVM-0043 S-02 Escape Stair 2 M/V	Heat or smoke detector fault			2024.05.30 15:28:44.388	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0600	B3, PKV-SPE-0600 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:42.136	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0601	B3, PKV-SPE-0601 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:42.136	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0604	B3, PKV-SPE-0604 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:42.136	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0607	B3, PKV-SPE-0607 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:42.136	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0608	B3, PKV-SPE-0608 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:42.137	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0609	B3, PKV-SPE-0609 HVAC PLANT ROOM 811-7	Heat or smoke detector fault			2024.05.30 15:28:42.137	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0616	B3, PKV-SPE-0616 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:40.141	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0617	B3, PKV-SPE-0617 BOH CORRIDOR 151-20	Heat or smoke detector fault			2024.05.30 15:28:40.141	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0668	B3, PKV-SPE-0668 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:40.141	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0669	B3, PKV-SPE-0669 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:38.147	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0671	B3, PKV-SPE-0671 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:42.137	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0672	B3, PKV-SPE-0672 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:40.141	0	PKV
+WENT UNACK Low	2024.05.30 15:15:00.187	PKV-SPE-0738	B3, PKV-SPE-0738 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.05.30 15:28:42.137	0	PKV
+WENT UNACK Low	2024.05.30 15:14:57.201	PKV-SPE-0670	B3, PKV-SPE-0670 FIRE/GOODS LOBBY 402-7	Heat or smoke detector fault			2024.05.30 15:28:33.178	0	PKV
+WENT UNACK Low	2024.05.30 15:00:15.411	AEN_DOR_B2_ESC_STAIRS_03_2	Platform 1 west - double emergency door	Unauthorised access			2024.05.30 15:00:20.622	0	ARN
+WENT UNACK Low	2024.05.30 14:54:57.528	PKV_DOR_B4_PKV-S-01_2	Security Door (B4 WEST)	Unauthorised access			2024.05.30 14:55:02.149	0	PKV
+WENT UNACK Low	2024.05.30 14:19:26.802	DMA_LFT_0007	Lift 7 BOH (B1 Basement to GF Gound Floor)	Lift safety feature fault			2024.05.31 07:01:48.713	0	AZC
+WENT UNACK Low	2024.05.30 13:26:53.039	PAE_LFT_0001	Lift 1 BOH (B1 Basement to Level 1)	Lift monitoring lost 			2024.05.30 13:27:30.036	0	SDU
+WENT UNACK Low	2024.05.30 13:24:41.710	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift monitoring lost 			2024.05.30 13:24:57.711	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.778	DMA_FCU_1101_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:43.787	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.778	DMA_FCU_1103_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:43.787	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.778	DMA_FCU_1105_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:43.787	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.778	DMA_FCU_1117_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.826	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.778	DMA_FCU_1121_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.826	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.767	DMA_FCU_0121_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.813	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.767	DMA_FCU_0127_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:43.774	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.767	DMA_FCU_1001_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.813	0	AZC
+WENT UNACK Low	2024.05.30 12:33:29.767	DMA_FCU_1145_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.813	0	AZC
+WENT UNACK Low	2024.05.30 12:33:28.817	DMA_FCU_1119_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.830	0	AZC
+WENT UNACK Low	2024.05.30 12:33:28.817	DMA_FCU_0123_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.813	0	AZC
+WENT UNACK Low	2024.05.30 12:33:28.817	DMA_FCU_1125_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 12:36:42.813	0	AZC
+WENT UNACK Low	2024.05.30 12:26:40.745	PKV_DOR_B4_PKV-S-01_3	Security Door (B4 WEST)	Unauthorised access			2024.05.30 12:26:48.265	0	PKV
+WENT UNACK Low	2024.05.30 12:12:59.654	AEN-E-PSD-005	Arden Platform 2 Zone 1 PSD 05	PSD isolated			2024.05.30 12:14:11.657	0	ARN
+WENT UNACK Low	2024.05.30 11:53:15.392	_ReduManager_2	Anzac Server 2	Server 2 - Passive			2024.05.30 11:53:35.138	0	ARN
+WENT UNACK Low	2024.05.30 11:41:57.704	AEN_DOR_B2_ESC_STAIRS_04_1	Platform 2 east - single emergency door	Unauthorised access			2024.05.30 11:42:15.190	0	ARN
+WENT UNACK Low	2024.05.30 11:24:19.779	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped.(combplate bottom right)			2024.05.30 11:24:27.772	0	AZC
+WENT UNACK Low	2024.05.30 10:10:50.993	AEN_DOR_GF_405-2_2	Ground floor east - back of house emergency corridor	Unauthorised access			2024.05.30 10:21:37.597	0	ARN
+WENT UNACK Low	2024.05.30 10:02:06.412	DMA_FCU_1127_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.05.30 17:12:17.742	0	AZC
+WENT UNACK Low	2024.05.30 09:48:24.233	DMA_LFT_0009	Lift 9 BOH (B2 Basement to B1 Basement)	Lift safety feature fault			2024.05.30 09:48:58.214	0	AZC
+WENT UNACK Low	2024.05.30 08:38:27.659	AEN-W-PSD-014	Arden Platform 1 Zone 2 PSD 14	PSD isolated			2024.05.30 15:17:05.660	0	ARN
+WENT UNACK Low	2024.05.30 07:50:19.545	AEN_DOR_GF_405-2_1	Ground floor east - emergency escape ramp	Unauthorised access			2024.05.30 07:56:16.372	0	ARN
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0041	B4U, PKV-ASD-0041 U/P WEST 1 - F1 	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0043	B4U, PKV-ASD-0043 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0044	B4U, PKV-ASD-0044 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0045	B4U, PKV-ASD-0045 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:05.351	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0046	B4U, PKV-ASD-0046 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0047	B4U, PKV-ASD-0047 U/P CENTRE F1	Aspirating smoke detector fault			2024.05.30 08:24:57.218	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0048	B4U, PKV-ASD-0048 U/P CENTRE F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0055	B4U, PKV-ASD-0055 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0056	B4U, PKV-ASD-0056 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0057	B4U, PKV-ASD-0057 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:59.208	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0058	B4U, PKV-ASD-0058 U/P CENTRE WEST F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0059	B4U, PKV-ASD-0059 U/P CENTRE F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0060	B4U, PKV-ASD-0060 U/P CENTRE F1	Aspirating smoke detector fault			2024.05.30 08:24:08.145	0	PKV
+WENT UNACK Low	2024.05.30 07:33:40.286	PKV-ASD-0011	B4, PKV-ASD-0011 TIE STATION 603-1 - F1	Aspirating smoke detector fault			2024.05.30 08:24:10.321	0	PKV
+WENT UNACK Low	2024.05.30 07:33:37.285	PKV-ASD-0042	B4U, PKV-ASD-0042 U/P WEST 2 - F1 	Aspirating smoke detector fault			2024.05.30 08:24:05.350	0	PKV
+WENT UNACK Low	2024.05.30 07:33:37.285	PKV-ASD-0053	B4U, PKV-ASD-0053 U/P WEST 3 - F1	Aspirating smoke detector fault			2024.05.30 08:24:05.351	0	PKV
+WENT UNACK Low	2024.05.30 07:33:37.285	PKV-ASD-0054	B4U, PKV-ASD-0054 U/P WEST 4 - F1	Aspirating smoke detector fault			2024.05.30 08:24:05.351	0	PKV
+WENT UNACK Low	2024.05.30 06:59:16.128	TSC-E-PSD-007	Town Hall Platform 2 Zone 1 PSD 07	PSD isolated			2024.05.30 07:20:22.123	0	THL
+WENT UNACK Low	2024.05.30 05:08:30.994	AEN_DOR_GF_ESC_STAIR_9_1	Ground floor east - after hours stairs	Unauthorised access			2024.05.30 05:11:55.275	0	ARN
+WENT UNACK Low	2024.05.29 18:17:14.603	PKV_StationFunc	TVCS Operator Fire Emergency Section 04 - Parkville Station	Station Fire Ventilation Mode still active			2024.05.29 18:17:53.592	0	SDU
+WENT UNACK Low	2024.05.29 18:14:29.604	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	Loss of redundancy (fans)			2024.05.29 18:17:53.592	0	PKV
+WENT UNACK Low	2024.05.29 17:24:12.604	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Degraded			2024.05.29 17:39:17.602	0	SDU
+WENT UNACK Low	2024.05.29 16:35:34.199	PKV-SPE-0408	B2, PKV-SPE-0408 RETAIL UNIT 901-2	Heat or smoke detector fault			2024.05.29 16:37:17.155	0	PKV
+WENT UNACK Low	2024.05.29 16:33:28.937	AEN_DOR_B2_403-1_1	Platform 2 west - single emergency door	Unauthorised access			2024.05.29 16:33:35.245	0	ARN
+WENT UNACK Low	2024.05.29 16:30:30.166	AEN_DOR_B2_ESC_STAIRS_04_4	Platform 1 east - single emergency door	Unauthorised access			2024.05.29 16:30:37.900	0	ARN
+WENT UNACK Low	2024.05.29 16:20:09.766	AEN-SPE-0401	B1, AEN-SPE-0401, 103-2 PAID CONC	Heat or smoke detector fault			2024.05.30 12:30:56.655	0	ARN
+WENT UNACK Low	2024.05.29 16:20:09.766	AEN-SPE-0402	B1, AEN-SPE-0402, 103-2 PAID CONC	Heat or smoke detector fault			2024.05.30 12:30:56.655	0	ARN
+WENT UNACK Low	2024.05.29 13:53:24.427	WPZ-FIP-0001	Western Portal Main Fire Panel	Fire panels in the station have a fault			2024.05.30 19:59:53.465	0	SDU
+WENT UNACK Low	2024.05.29 13:41:08.243	_AEN-TVC-PLC_2	Arden Server 2	Link Failure - Arden Server 2 to Arden TVCS CPU 2			2024.05.29 13:47:32.245	0	PKV
+WENT UNACK Low	2024.05.29 13:41:07.713	_AEN-TVC-PLC	Arden Server 1	Link Failure - Arden Server 1 to Arden TVCS CPU 1			2024.05.29 13:47:56.649	0	ARN
+WENT UNACK Low	2024.05.29 13:41:07.619	_PKV-TVC-PLC	MTPKV:_PKV-TVC-PLC.	Link Failure - Parkville Server 1 to Parkville TVCS CPU 1			2024.05.29 13:47:48.118	0	PKV
+WENT UNACK Low	2024.05.29 13:41:07.476	_PKV-TVC-PLC_2	MTPKV:_PKV-TVC-PLC_2.	Link Failure - Parkville Server 2 to Parkville TVCS CPU 1			2024.05.29 13:47:37.013	0	STL
+WENT UNACK Low	2024.05.29 13:41:06.596	_AEN-TVC-PLC	Arden Server 1	Link Failure - Arden Server 1 to Arden TVCS CPU 2			2024.05.29 13:47:56.659	0	ARN
+WENT UNACK Low	2024.05.29 13:40:39.106	_AEN-TVC-PLC_2	Arden Server 2	Link Failure - Arden Server 2 to Arden TVCS CPU 1			2024.05.29 13:47:32.256	0	PKV
+WENT UNACK Low	2024.05.29 12:55:11.017	PKV_SDP_0101_02_FG	Station Drainage Pump - Function Group	Station drainage pit not dropping!			2024.05.29 12:55:13.957	0	PKV
+WENT UNACK Low	2024.05.29 12:30:22.583	DMA_HCS_0001	Staff Protection/Rail Occupancy Status - Anzac Signal 01	Staff Protection Switch fault			2024.05.29 12:31:37.554	0	AZC
+WENT UNACK Low	2024.05.29 11:01:34.634	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	Loss of redundancy (fans)			2024.05.29 11:01:37.585	0	PKV
+WENT UNACK Low	2024.05.29 10:59:01.692	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Degraded			2024.05.29 10:59:13.692	0	SDU
+WENT UNACK Low	2024.05.29 10:58:46.687	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Degraded			2024.05.29 10:58:49.708	0	SDU
+WENT UNACK Low	2024.05.29 10:57:16.681	S03_TunnelFunc	TVCS Operator Fire Emergency Section 03	Train Fire Ventilation Mode Still On Without An Active Train Fire			2024.05.29 10:57:43.692	0	SDU
+WENT UNACK Low	2024.05.29 10:38:54.600	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	Loss of redundancy (fans)			2024.05.29 11:04:04.597	0	PKV
+WENT UNACK Low	2024.05.29 10:37:57.595	PKV_StationFunc	TVCS Operator Fire Emergency Section 04 - Parkville Station	Train Fire Ventilation Mode still active 			2024.05.29 10:38:20.618	0	SDU
+WENT UNACK Low	2024.05.29 09:42:39.659	AEN-W-PSD-015	Arden Platform 1 Zone 2 PSD 15	PSD isolated			2024.05.30 07:56:11.653	0	ARN
+WENT UNACK Low	2024.05.29 08:48:34.417	AEN_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift monitoring lost 			2024.05.29 09:08:46.421	0	ARN
+WENT UNACK Low	2024.05.29 08:19:45.659	AEN-W-PSD-025	Arden Platform 1 Zone 3 PSD 25	PSD isolated			2024.05.30 07:57:25.659	0	ARN
+WENT UNACK Low	2024.05.29 08:18:01.598	AEN_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift safety feature fault			2024.05.29 08:18:04.423	0	ARN
+WENT UNACK Low	2024.05.29 08:04:03.801	AEN_DOR_LG_ESC_STAIR_07_1	Lower ground west - back of house stairs	Unauthorised access			2024.05.29 08:04:10.627	0	ARN
+WENT UNACK Low	2024.05.28 16:44:37.450	PAE-ASD-0003	B1U, PAE-ASD-0003 Under Platform F1	Aspirating smoke detector fault			2024.05.29 10:00:50.440	0	SDU
+ACK High	2024.05.20 08:23:30.503	_Driver2	MTTHL:_Driver2.	Driver overloaded	2024.05.20 15:17:54.449	eric_maddocks		0	AZC
+ACK High	2024.05.13 17:25:33.702	_Driver1_2	MTAZC:_Driver1_2.	Driver overloaded	2024.05.17 08:14:22.995	dominic_dlasselle		0	ARN
+ACK High	2024.05.10 08:49:20.968	_Driver2_2	MTTHL:_Driver2_2.	Driver overloaded	2024.05.20 15:17:59.449	eric_maddocks		0	AZC
+ACK High	2024.05.08 09:24:26.938	_Driver1_2	MTARD:_Driver1_2.	Driver overloaded	2024.05.20 15:17:40.384	eric_maddocks		0	PKV
+ACK Med	2024.05.20 12:06:59.071	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	THL
+ACK Med	2024.05.20 12:06:59.068	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 0	2024.05.20 15:17:20.301	eric_maddocks		0	THL
+ACK Med	2024.05.20 12:06:59.066	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	THL
+ACK Med	2024.05.20 12:06:59.064	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 0	2024.05.20 15:17:20.301	eric_maddocks		0	THL
+ACK Med	2024.05.20 12:06:59.062	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	ARN
+ACK Med	2024.05.20 12:06:59.059	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 0	2024.05.20 15:17:20.301	eric_maddocks		0	ARN
+ACK Med	2024.05.20 12:06:59.057	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	ARN
+ACK Med	2024.05.20 12:06:59.054	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 0	2024.05.20 15:17:20.301	eric_maddocks		0	ARN
+ACK Med	2024.05.20 12:06:59.001	_Conn_event_0_2_to_driver_1_2	Distributed Server 2	Connection lost	2024.05.20 15:17:20.301	eric_maddocks		0	THL
+ACK Med	2024.05.20 12:06:58.974	_Conn_event_0_1_to_driver_1_1	Distributed Server 1	Connection lost	2024.05.20 15:17:20.301	eric_maddocks		0	ARN
+ACK Med	2024.05.20 12:03:55.572	_TSC-BMS-PLC_2	MTTHL:_TSC-BMS-PLC_2.	Communications Fault - Town Hall Server 2 to Town Hall BMS PLC	2024.05.20 15:18:27.816	eric_maddocks		0	AZC
+ACK Med	2024.05.20 12:03:55.567	_TSC-FDS-S7PLUS_2	MTTHL:_TSC-FDS-S7PLUS_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.05.20 15:18:27.816	eric_maddocks		0	AZC
+ACK Med	2024.05.20 12:03:55.564	_TSC-FDS-S7PLUS	MTTHL:_TSC-FDS-S7PLUS.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.05.20 15:18:27.816	eric_maddocks		0	THL
+ACK Med	2024.05.20 12:03:54.246	_Mod_Plc_4_2	MTTHL:_Mod_Plc_4_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.05.20 15:18:27.816	eric_maddocks		0	AZC
+ACK Med	2024.05.20 12:03:54.234	_Mod_Plc_3_2	MTTHL:_Mod_Plc_3_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.05.20 15:18:07.088	eric_maddocks		0	AZC
+ACK Med	2024.05.20 12:03:54.231	_Mod_Plc_2_2	MTTHL:_Mod_Plc_2_2.	Communications Fault - Town Hall Server 2 to Town Hall FDS Gateway	2024.05.20 15:18:07.088	eric_maddocks		0	AZC
+ACK Med	2024.05.20 12:03:14.933	_Mod_Plc_1_2	Anzac Server 2	Communications Fault - Anzac Server 2 to Anzac PSD	2024.05.20 15:18:07.116	eric_maddocks		0	ARN
+ACK Med	2024.05.20 12:02:23.399	_Mod_Plc_1	Anzac Server 1	Communications Fault - Anzac Server 1 to Anzac PSD	2024.05.20 15:18:07.116	eric_maddocks		0	AZC
+ACK Low	2024.05.30 18:38:47.048	PKV_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift monitoring lost 	2024.05.30 18:49:46.422	emilio_ito		0	PKV
+ACK Low	2024.05.30 17:58:39.059	PKV_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift General Fault	2024.05.30 18:14:02.754	emilio_ito		0	PKV
+ACK Low	2024.05.30 15:04:58.941	PKV_LFT_0009	Lift 9 BOH (B3 Basement to Ground Floor)	Lift General Fault	2024.05.30 15:08:37.278	emilio_ito		0	PKV
+ACK Low	2024.05.21 09:50:11.517	AEN_DOR_B1_151-4_1	Concourse east  - back of house emergency corridor	Unauthorised access	2024.05.21 09:52:39.145	harsimran_virk		0	ARN
+ACK Low	2024.05.20 12:06:59.010	_Conn_event_0_2_to_dist_1_2	Distributed Server 2	Connection lost - Event to Distribution Manager - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	THL
+ACK Low	2024.05.20 12:06:59.006	_Conn_event_0_1_to_dist_1_1	Distributed Server 1	Connection lost - Event to Distribution Manager - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	ARN
+ACK Low	2024.05.20 12:06:58.995	_Conn_event_0_2_to_redu_1_2	Distributed Server 2	Connection lost - Event to Redundancy Manager - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	THL
+ACK Low	2024.05.20 12:06:58.990	_Conn_event_0_1_to_redu_1_1	Distributed Server 1	Connection lost - Event to Redundancy Manager - Link 1	2024.05.20 15:17:20.301	eric_maddocks		0	ARN
+ACK Low	2024.05.20 11:40:53.209	AEN_DOR_L2_ESC_STAIRS_5_2	Level 2 east - back of house stairs	Unauthorised access	2024.05.21 09:43:32.566	harsimran_virk		0	ARN
+ACK Low	2024.05.20 11:40:53.176	AEN_DOR_B2_ESC_STAIRS_04_3	Platform 1 east - double emergency door	Door open too long	2024.05.21 09:43:32.566	harsimran_virk		0	ARN
+ACK Low	2024.05.20 11:37:06.086	AEN_ESC_0007	Escalator 7 Bank 5 (Concourse  to Ground Floor)	Escalator communications lost	2024.05.21 09:43:32.472	harsimran_virk		0	ARN
+ACK Low	2024.05.20 11:37:05.402	AEN_ESC_0006	Escalator 6 Bank 5 (Concourse to Ground Floor)	Escalator communications lost	2024.05.21 09:43:32.472	harsimran_virk		0	ARN
+ACK Low	2024.05.20 11:37:04.724	AEN_ESC_0005	Escalator 5 Bank 5 (Concourse to Ground Floor)	Escalator communications lost	2024.05.21 09:43:32.472	harsimran_virk		0	ARN

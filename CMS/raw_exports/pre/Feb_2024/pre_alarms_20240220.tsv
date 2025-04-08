@@ -1,0 +1,1135 @@
+Severity	Alarm Raised	Asset ID	Asset Name	Alarm Description	Acknowledged	By	Cleared	Comments	Location
+CAME UNACK High	2024.02.21 10:23:00.480	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Smoke detected in shaft!				0	SDU
+CAME UNACK High	2024.02.21 10:23:00.480	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!				0	SDU
+CAME UNACK High	2024.02.21 09:34:17.905	TSC-E-EED-028	Town Hall Platform 2 Zone 3 EED 28	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 09:33:49.902	TSC-E-EED-026	Town Hall Platform 2 Zone 3 EED 26	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 09:20:17.902	TSC-E-EED-025	Town Hall Platform 2 Zone 3 EED 25	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 09:19:55.898	TSC-E-EED-024	Town Hall Platform 2 Zone 3 EED 24	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 09:19:15.898	TSC-E-EED-023	Town Hall Platform 2 Zone 3 EED 23	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 09:19:05.900	TSC-E-EED-022	Town Hall Platform 2 Zone 3 EED 22	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 09:12:11.901	TSC-E-DDX-002	Town Hall Platform 2 Zone 2 DD 02	Driver Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 09:04:05.902	TSC-E-EED-021	Town Hall Platform 2 Zone 2 EED 21	EED Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 08:52:03.874	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	PSD Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.21 08:12:53.850	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.02.21 08:09:49.849	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.02.21 04:39:53.628	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.21 04:36:27.630	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.21 04:22:05.629	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.21 04:21:35.632	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 19:17:39.642	PKV-E-PSD-029	Parkville Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 19:17:39.626	PKV-E-PSD-011	Parkville Platform 2 Zone 2 PSD 11	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.636	PKV-W-PSD-030	Parkville Platform 1 Zone 3 PSD 30	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.635	PKV-W-PSD-022	Parkville Platform 1 Zone 3 PSD 22	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.635	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.635	PKV-W-PSD-025	Parkville Platform 1 Zone 3 PSD 25	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.635	PKV-W-PSD-026	Parkville Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.635	PKV-W-PSD-027	Parkville Platform 1 Zone 3 PSD 27	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.635	PKV-W-PSD-028	Parkville Platform 1 Zone 3 PSD 28	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 12:01:29.635	PKV-W-PSD-029	Parkville Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.792	PKV-W-PSD-021	Parkville Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-013	Parkville Platform 1 Zone 2 PSD 13	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-014	Parkville Platform 1 Zone 2 PSD 14	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-015	Parkville Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-016	Parkville Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-017	Parkville Platform 1 Zone 2 PSD 17	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-018	Parkville Platform 1 Zone 2 PSD 18	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-019	Parkville Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.780	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.771	PKV-W-PSD-012	Parkville Platform 1 Zone 2 PSD 12	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-001	Parkville Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-002	Parkville Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-003	Parkville Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-004	Parkville Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-005	Parkville Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-006	Parkville Platform 1 Zone 1 PSD 06	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-007	Parkville Platform 1 Zone 1 PSD 07	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-008	Parkville Platform 1 Zone 1 PSD 08	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-010	Parkville Platform 1 Zone 2 PSD 10	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 11:25:39.636	PKV-W-PSD-011	Parkville Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.02.20 08:41:05.856	TNC-E-PED-001	State Library Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	STL
+CAME UNACK High	2024.02.20 08:20:31.443	DMA_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!				0	AZC
+CAME UNACK High	2024.02.18 14:26:53.229	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.02.18 14:26:43.583	AEN_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Arden - East End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.18 14:26:36.601	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.18 14:26:12.232	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.02.18 14:26:04.581	AEN_OFN_0101_02_DS	Over Track Exhaust Fan - West End - Duty Selection	Arden - West End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.18 14:25:59.582	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.02.18 14:25:31.230	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-014	Anzac Platform 1 Zone 2 PSD 14	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-016	Anzac Platform 1 Zone 2 PSD 16	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-017	Anzac Platform 1 Zone 2 PSD 17	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-018	Anzac Platform 1 Zone 2 PSD 18	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-019	Anzac Platform 1 Zone 2 PSD 19	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-021	Anzac Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-022	Anzac Platform 1 Zone 3 PSD 22	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-023	Anzac Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-024	Anzac Platform 1 Zone 3 PSD 24	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-025	Anzac Platform 1 Zone 3 PSD 25	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-026	Anzac Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-027	Anzac Platform 1 Zone 3 PSD 27	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-028	Anzac Platform 1 Zone 3 PSD 28	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.886	DMA-W-PSD-030	Anzac Platform 1 Zone 3 PSD 30	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.15 08:04:27.870	DMA-W-PSD-012	Anzac Platform 1 Zone 2 PSD 12	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.14 14:48:38.256	SYP-ZONE-0001	Eastbound Detection Zone 1	TIAS activated! 				0	SDU
+CAME UNACK High	2024.02.14 14:48:38.256	SYP-ZONE-0002	Eastbound Detection Zone 2	TIAS activated! 				0	SDU
+CAME UNACK High	2024.02.14 14:48:37.262	SYP-ZONE-0003	Westbound Detection Zone 1	TIAS activated! 				0	SDU
+CAME UNACK High	2024.02.14 14:48:37.262	SYP-ZONE-0004	Westbound Detection Zone 2	TIAS activated! 				0	SDU
+CAME UNACK High	2024.02.13 19:52:05.994	DMA-E-PSD-019	Anzac Platform 2 Zone 2 PSD 19	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.13 19:52:05.874	DMA-E-PSD-001	Anzac Platform 2 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.13 19:52:05.874	DMA-E-PSD-003	Anzac Platform 2 Zone 1 PSD 03	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:46:46.214	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.12 09:46:46.164	TSC-E-PED-002	Town Hall Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.12 09:46:37.945	DMA-W-PED-002	Anzac Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:46:37.928	DMA-E-PED-002	Anzac Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:42:58.358	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:42:39.538	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	THL
+CAME UNACK High	2024.02.12 09:41:31.860	DMA-W-PSD-029	Anzac Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:25.325	DMA-W-PSD-020	Anzac Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:19.159	DMA-W-PSD-011	Anzac Platform 1 Zone 2 PSD 11	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:18.541	DMA-W-PSD-010	Anzac Platform 1 Zone 2 PSD 10	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:12.625	DMA-W-PSD-002	Anzac Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:11.969	DMA-W-PSD-001	Anzac Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:11.029	DMA-E-PSD-030	Anzac Platform 2 Zone 3 PSD 30	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:10.457	DMA-E-PSD-029	Anzac Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:04.698	DMA-E-PSD-021	Anzac Platform 2 Zone 2 PSD 21	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:41:04.099	DMA-E-PSD-020	Anzac Platform 2 Zone 2 PSD 20	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:40:57.265	DMA-E-PSD-011	Anzac Platform 2 Zone 2 PSD 11	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.02.12 09:40:50.839	DMA-E-PSD-002	Anzac Platform 2 Zone 1 PSD 02	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK High	2024.01.15 14:33:03.316	_Driver2	MTSTL:_Driver2.	Driver overloaded				0	THL
+CAME UNACK Med	2024.02.21 10:27:36.783	_PKV-BMS-PLC3	MTPKV:_PKV-BMS-PLC3.	Communications Fault - Parkville Server 1 to Parkville BMS 3 PLC				0	PKV
+CAME UNACK Med	2024.02.21 10:27:25.734	_Conn_event_0_1_to_driver_2_1	Parkville Server 1	BMS PLC Driver Not Running (S7+)				0	PKV
+CAME UNACK Med	2024.02.21 10:27:25.676	_PKV-BMS-PLC	MTPKV:_PKV-BMS-PLC.	Communications Fault - Parkville Server 1 to Parkville BMS PLC				0	PKV
+CAME UNACK Med	2024.02.21 10:05:51.332	_Mod_Plc_2	MTARD:_Mod_Plc_2.	Communications Fault - Arden Server 1 to Arden FDS Gateway				0	PKV
+CAME UNACK Med	2024.02.21 10:02:22.715	SYP-PLC-0001	South Yarra PLC	TIAS PLC power supply fault				0	SDU
+CAME UNACK Med	2024.02.21 08:33:41.873	_Mod_Plc_1_2	MTSTL:_Mod_Plc_1_2.	Communications Fault - State Library Server 2 to State Library PSD Servers				0	THL
+CAME UNACK Med	2024.02.21 08:33:41.858	_Mod_Plc_1	MTSTL:_Mod_Plc_1.	Communications Fault - State Library Server 1 to State Library PSD Servers				0	STL
+CAME UNACK Med	2024.02.21 07:57:04.013	PKV_UPS_0401	Uninterruptible Power Supply	UPS internal diagnostic fault				0	PKV
+CAME UNACK Med	2024.02.21 07:57:04.013	PKV_UPS_0401	Uninterruptible Power Supply	UPS general fault				0	PKV
+CAME UNACK Med	2024.02.21 07:52:19.017	PKV_UPS_0402	Uninterruptible Power Supply	UPS internal diagnostic fault				0	PKV
+CAME UNACK Med	2024.02.21 07:52:19.017	PKV_UPS_0402	Uninterruptible Power Supply	UPS general fault				0	PKV
+CAME UNACK Med	2024.02.21 07:24:38.731	DMA-FIP-0005	Anzac Station SHCIE Panel 5	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.21 07:15:29.775	DMA-FIP-0006	Anzac Station SHCIE Panel 6	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.21 06:46:04.710	DMA-FIP-0003	Anzac Station SHCIE Panel 3	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.21 06:45:55.691	DMA-FIP-0001	Anzac Station FDCIE Panel	Power supply to fire panel fault				0	AZC
+CAME UNACK Med	2024.02.21 06:38:44.694	DMA-FIP-0002	Anzac Station SHCIE Panel 2	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.21 06:38:08.710	DMA-FIP-0004	Anzac Station SHCIE Panel 4	Power supply to gas supression panel fault				0	AZC
+CAME UNACK Med	2024.02.20 11:24:47.631	PKV-S-STN	Parkville Station PSD System	PSD lost connection to signalling system!				0	PKV
+CAME UNACK Med	2024.02.18 14:26:43.583	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Unavailable				0	SDU
+CAME UNACK Med	2024.02.18 14:26:12.232	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.02.18 14:25:59.582	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Unavailable				0	SDU
+CAME UNACK Med	2024.02.18 14:25:31.230	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK Med	2024.02.15 12:22:13.583	_Mod_Plc_4_2	MTARD:_Mod_Plc_4_2.	Communications Fault - Arden Server 2 to Arden EWIS				0	PKV
+CAME UNACK Med	2024.02.15 12:22:13.583	_Mod_Plc_3_2	MTARD:_Mod_Plc_3_2.	Communications Fault - Arden Server 2 to Arden EWIS				0	PKV
+CAME UNACK Med	2024.02.15 12:22:13.583	_Mod_Plc_2_2	MTARD:_Mod_Plc_2_2.	Communications Fault - Arden Server 2 to Arden FDS Gateway				0	PKV
+CAME UNACK Med	2024.02.13 13:59:52.283	SYP-PLC-0001	South Yarra PLC	PLC system fault				0	SDU
+CAME UNACK Med	2024.02.12 10:56:29.417	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 1				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.416	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 0				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.414	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 1				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.412	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 0				0	THL
+CAME UNACK Med	2024.02.12 10:56:29.361	_Conn_event_0_2_to_driver_1_2	Distributed Server 2	Connection lost				0	THL
+CAME UNACK Med	2024.02.12 10:48:14.750	_Mod_Plc_2_2	MTPKV:_Mod_Plc_2_2.	Communications Fault - Parkville Server 2 to Parkville FDS Gateway				0	STL
+CAME UNACK Med	2024.02.12 09:39:14.042	DMA-S-STN	Anzac Station PSD System	PSD lost connection to signalling system!				0	AZC
+CAME UNACK Med	2024.02.12 09:21:45.289	_Mod_Plc_4_2	MTPKV:_Mod_Plc_4_2.	ommunications Fault - Parkville Server 2 to Parkville EWIS				0	STL
+CAME UNACK Low	2024.02.21 10:13:56.992	AEN_LFT_0006	Lift 6 BOH (Platforms to Level 2)	Lift is not Operational				0	ARN
+CAME UNACK Low	2024.02.21 10:02:35.746	_Mod_Plc_1_2	Distributed Server 1	Communications Fault - Distributed Server 2 to RSG				0	THL
+CAME UNACK Low	2024.02.21 10:02:35.743	_ReduManager	Distributed Server 1	Server 1 - Preferred active				0	ARN
+CAME UNACK Low	2024.02.21 10:02:22.705	SYP-PSU-1030	PLC 24V Power supply 2 alarm	PLC Power Supply fault				0	SDU
+CAME UNACK Low	2024.02.21 10:02:22.705	SYP-PSU-1028	PLC 24V Power supply redundancy alarm	PLC Power Supply fault				0	SDU
+CAME UNACK Low	2024.02.21 09:55:30.003	AEN_LFT_0006	Lift 6 BOH (Platforms to Level 2)	Lift General Fault				0	ARN
+CAME UNACK Low	2024.02.21 09:53:42.500	DMA_LFT_0004	Lift 4 FOH (B1 Basement to GF Gound Floor)	Lift safety feature fault				0	AZC
+CAME UNACK Low	2024.02.21 09:48:52.531	AEN_DOR_GF_405-2_1	Security Door (GF EAST) 	Door open too long				0	ARN
+CAME UNACK Low	2024.02.21 09:48:46.306	PKV_ESC_0002	Escalator 2 Bank 1 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.21 09:46:02.526	WPZ-FIP-0001	Western Portal Station Fire Panel	Fire panels in the station have a power fault				0	SDU
+CAME UNACK Low	2024.02.21 09:46:02.452	AEN-FIP-0001	Arden Main Fire Panel	Fire panels in the station have a power fault				0	ARN
+CAME UNACK Low	2024.02.21 09:38:26.473	DMA_LFT_0004	Lift 4 FOH (B1 Basement to GF Gound Floor)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.555	DMA_FCU_1123_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.555	DMA_FCU_1124_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.543	DMA_FCU_0123_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.543	DMA_FCU_1101_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.543	DMA_FCU_1101_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.543	DMA_FCU_1109_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.543	DMA_FCU_1109_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.543	DMA_FCU_1110_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:22:28.531	DMA_FCU_0110_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:19:43.396	DMA_FCU_1110_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 09:19:41.393	DMA_FCU_0102_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 08:04:47.366	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift General Fault				0	AZC
+CAME UNACK Low	2024.02.21 07:59:45.292	PKV-ASD-0003	B1, PKV-ASD-0003 UPS/BATT A 640-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:59:45.292	PKV-ASD-0004	B1, PKV-ASD-0004 UPS/BATT A 640-2 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:59:45.292	PKV-ASD-0005	B1, PKV-ASD-0005 TEL EQ.RM 706-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:59:45.207	PKV-SPE-0112	B1, PKV-SPE-0112 TELEPH EQUIP.RM 706-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:57:59.265	SDU_FCU_0702	Air Cooled Unit	Communications lost alarm				0	SDU
+CAME UNACK Low	2024.02.21 07:57:59.265	SDU_FCU_0802	Air Cooled Unit	Communications lost alarm				0	SDU
+CAME UNACK Low	2024.02.21 07:57:59.265	SDU_FCU_1002	Air Cooled Unit	Communications lost alarm				0	SDU
+CAME UNACK Low	2024.02.21 07:57:59.265	SDU_FCU_1102	Air Cooled Unit	Communications lost alarm				0	SDU
+CAME UNACK Low	2024.02.21 07:57:58.264	SDU_FCU_0902	Air Cooled Unit	Communications lost alarm				0	SDU
+CAME UNACK Low	2024.02.21 07:55:56.379	PKV_FCU_0403_MVD_02	Fan Coil Unit - Field Modulated Damper	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:54:01.386	PKV_FCU_1401_MVD_03	Fan Coil Unit - Field Modulated Damper	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:53:51.420	PKV_FCU_1201_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:53:51.420	PKV_FCU_1201_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:53:51.397	PKV_FCU_0207_SMD_04	Fan Coil Unit - Field Modulated SA Damper	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:53:51.397	PKV_FCU_0207_SMD_05	Fan Coil Unit - Field Modulated SA Damper	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:52:17.017	PKV_MCC_0401_MFM_01	PKV-TFN-0201-VSD-01  Multi-function Meter	Communications lost alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:51:57.394	PKV_FCU_0211_MVD_02	Fan Coil Unit - Field Modulated Damper	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:51:56.370	PKV_FCU_0211_MVD_01	Fan Coil Unit - Field Modulated Damper	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:51:56.360	PKV_FCU_0403_MVD_03	Fan Coil Unit - Field Modulated Damper	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.21 07:45:52.111	PKV-ASD-0016	B2, PKV-ASD-0016 Concourse - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 07:45:52.111	PKV-ASD-0018	B2, PKV-ASD-0018 Conc Skylight 1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.21 06:46:00.977	DMA-SPE-0324	B1, DMA-SPE-0324 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.977	DMA-SPE-0326	B1, DMA-SPE-0326 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.977	DMA-SPE-0328	B1, DMA-SPE-0328 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.977	DMA-SPE-0329	B1, DMA-SPE-0329 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.977	DMA-SPE-0625	B1, DMA-SPE-0625 RETAIL WC LOBBY 913-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.977	DMA-SPE-0760	B1, DMA-SPE-0760 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.977	DMA-SPE-0764	B1, DMA-SPE-0764 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.976	DMA-SPE-0322	B1, DMA-SPE-0322 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.976	DMA-SPE-0323	B1, DMA-SPE-0323 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.976	DMA-SPE-0579	B1, DMA-SPE-0579 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:46:00.976	DMA-SPE-0762	B1, DMA-SPE-0762 CONC PAID AREA 103-1	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0335	B1, DMA-SPE-0335 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0336	B1, DMA-SPE-0336 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0337	B1, DMA-SPE-0337 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0338	B1, DMA-SPE-0338 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0339	B1, DMA-SPE-0339 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0340	B1, DMA-SPE-0340 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0341	B1, DMA-SPE-0341 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0342	B1, DMA-SPE-0342 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0576	B1, DMA-SPE-0576 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0761	B1, DMA-SPE-0761 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.851	DMA-SPE-0763	B1, DMA-SPE-0763 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.850	DMA-SPE-0320	B1, DMA-SPE-0320 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.850	DMA-SPE-0321	B1, DMA-SPE-0321 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.850	DMA-SPE-0331	B1, DMA-SPE-0331 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.850	DMA-SPE-0332	B1, DMA-SPE-0332 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:59.850	DMA-SPE-0333	B1, DMA-SPE-0333 CONC UNPAID AREA 102-2	Heat or smoke detector fault				0	AZC
+CAME UNACK Low	2024.02.21 06:45:55.764	DMA-FIP-0001	Anzac Station FDCIE Panel	Fire panels in the station have a fault				0	AZC
+CAME UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0109_MCV_01	Fan Coil Unit - Chilled Water Valve	Analogue bad quality alarm 				0	AZC
+CAME UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0109_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_1109_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_1109_MVD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.21 06:38:24.666	EPZ-FIP-0001	Eastern Portal Main Fire Panel	Fire panels in the station have a fault				0	SDU
+CAME UNACK Low	2024.02.20 19:49:03.852	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	Door status indicator fault 				0	STL
+CAME UNACK Low	2024.02.20 14:53:20.386	PKV_FCU_1116_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.19 15:46:53.152	DMA_LFT_0004	Lift 4 FOH (B1 Basement to GF Gound Floor)	Lift Locked out by temperature alarm				0	AZC
+CAME UNACK Low	2024.02.19 07:48:23.373	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift monitoring lost 				0	PKV
+CAME UNACK Low	2024.02.17 11:09:10.342	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.02.17 11:09:05.373	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.02.16 15:34:10.517	DMA_FCU_0118_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	AZC
+CAME UNACK Low	2024.02.16 15:33:40.421	SDU_FCU_1902	Air Cooled Unit	Communications lost alarm				0	SDU
+CAME UNACK Low	2024.02.16 15:32:15.430	DMA_FCU_0118_MCV_01	Fan Coil Unit - Chilled Water Valve	Analogue bad quality alarm 				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.375	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.373	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 15:25:37.362	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.16 13:49:31.443	PKV_FCU_1115_MCV_01	Fan Coil Unit - Chilled Water Valve	Analogue bad quality alarm 				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0055	B4U, PKV-ASD-0055 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0057	B4U, PKV-ASD-0057 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0058	B4U, PKV-ASD-0058 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0060	B4U, PKV-ASD-0060 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0061	B4U, PKV-ASD-0061 U/P CENTRE EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0068	B4U, PKV-ASD-0068 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.220	PKV-ASD-0069	B4U, PKV-ASD-0069 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0045	B4U, PKV-ASD-0045 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0046	B4U, PKV-ASD-0046 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0048	B4U, PKV-ASD-0048 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0049	B4U, PKV-ASD-0049 U/P CENTRE EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:07:22.219	PKV-ASD-0051	B4U, PKV-ASD-0051 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.464	PKV-ASD-0054	B4U, PKV-ASD-0054 U/P WEST 4 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.225	PKV-ASD-0053	B4U, PKV-ASD-0053 U/P WEST 3 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0041	B4U, PKV-ASD-0041 U/P WEST 1 - F1 	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0042	B4U, PKV-ASD-0042 U/P WEST 2 - F1 	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0043	B4U, PKV-ASD-0043 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 12:06:27.224	PKV-ASD-0044	B4U, PKV-ASD-0044 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.16 11:11:47.408	PKV_FCU_1115_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:11:47.397	PKV_AHU_1301_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:11:47.397	PKV_AHU_1303_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:11:47.397	PKV_AHU_1305_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:11:47.397	PKV_FCU_0201_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:11:47.397	PKV_FCU_0203_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:11:47.397	PKV_FCU_0205_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:09:52.377	PKV_FCU_1221_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:09:32.376	PKV_FCU_1119_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.325	PKV_ESC_0007	Escalator 7 Bank 4 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.325	PKV_ESC_0009	Escalator 9 Bank 4 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.314	PKV_ESC_0008	Escalator 8 Bank 4 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.300	PKV_ESC_0011	Escalator 11 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.290	PKV_ESC_0003	Escalator 3 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.290	PKV_ESC_0004	Escalator 4 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.290	PKV_ESC_0006	Escalator 6 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.290	PKV_ESC_0010	Escalator 10 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:43.279	PKV_ESC_0005	Escalator 5 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.02.16 11:04:38.354	PKV_FCU_0209_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.16 11:04:38.354	PKV_FCU_0404_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm				0	PKV
+CAME UNACK Low	2024.02.15 09:10:55.256	DMA_ESC_0007	Escalator 7 Bank 5 (B1 Basement to GF Gound Floor)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.15 09:10:55.243	DMA_ESC_0002	Escalator 2 Bank 2 (B2 Basement to B1 Basement)	Escalator communications lost				0	AZC
+CAME UNACK Low	2024.02.13 13:59:52.273	SYP-LS-1019	Junction Box JB1003 Tamper Input	Tamper detected				0	SDU
+CAME UNACK Low	2024.02.13 13:59:52.273	SYP-LS-1020	Junction Box JB1004 Tamper Input	Tamper detected				0	SDU
+CAME UNACK Low	2024.02.12 10:56:29.368	_Conn_event_0_2_to_dist_1_2	Distributed Server 2	Connection lost - Event to Distribution Manager - Link 1				0	THL
+CAME UNACK Low	2024.02.12 10:56:29.356	_Conn_event_0_2_to_redu_1_2	Distributed Server 2	Connection lost - Event to Redundancy Manager - Link 1				0	THL
+CAME UNACK Low	2024.02.12 09:49:02.999	ESS-Section-09A	Traction Section Town Hall to Anzac	Section A Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.02.12 09:46:45.756	PKV-SPE-0111	B1, PKV-SPE-0111 TELEPH EQUIP.RM 706-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:45:04.966	PKV-FIP-0001	Parkville Station FDCIE Panel 	Fire panels in the station have a power fault				0	PKV
+CAME UNACK Low	2024.02.12 09:40:48.989	PKV-W-PSD-024	Parkville Platform 1 Zone 3 PSD 24	PSD isolated				0	PKV
+CAME UNACK Low	2024.02.12 09:40:48.888	PKV-W-PSD-024	Parkville Platform 1 Zone 3 PSD 24	Speaker fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:47.814	PKV-ASD-0067	B4U, PKV-ASD-0067 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:47.320	PKV-ASD-0065	B4U, PKV-ASD-0065 U/P EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:46.612	PKV-ASD-0062	B4U, PKV-ASD-0062 U/P CENTRE EAST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:45.911	PKV-ASD-0059	B4U, PKV-ASD-0059 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:45.209	PKV-ASD-0056	B4U, PKV-ASD-0056 U/P CENTRE WEST F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:44.293	PKV-ASD-0052	B4, PKV-ASD-0052 OHLE SWITCH 601-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:43.177	PKV-ASD-0047	B4U, PKV-ASD-0047 U/P CENTRE F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:41.641	PKV-ASD-0030	B3, PKV-ASD-0030 TVS MCC B 652-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:38.425	PKV-ASD-0015	B2, PKV-ASD-0015 TVS MCC A 652-2 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:37.722	PKV-ASD-0011	B4, PKV-ASD-0011 TIE STATION 603-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:37.435	PKV-ASD-0010	B3, PKV-ASD-0010 RADIO EQUIP.RM 708-1 F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:37.147	PKV-ASD-0009	B3, PKV-ASD-0009 COMMS EQ.RM 704-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:36.647	PKV-ASD-0007	B2, PKV-ASD-0007 STATN EQ.RM 705-1 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:36.359	PKV-ASD-0006	B2, PKV-ASD-0006 SIGNAL EQ.RM 501-1- F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:35.286	PKV-ASD-0002	B1, PKV-ASD-0002 HV SUB 2 610-2 - F1	Aspirating smoke detector fault				0	PKV
+CAME UNACK Low	2024.02.12 09:39:35.038	PKV-ASD-0001	B1, PKV-ASD-0001 HV SUB 1 610-1 - F1	Aspirating smoke detector fault				0	PKV
+WENT UNACK High	2024.02.21 10:26:55.700	DMA-Z-73011	ZONE 73011: B1, DMA-BGU-0003 WEST FIRE SUP ROOM MCP	Confirmed fire!			2024.02.21 10:27:56.694	0	AZC
+WENT UNACK High	2024.02.21 10:14:13.694	DMA-Z-73143	ZONE 73143: B1, DMA-BC-01 HV SUBSTATION 2 - ASD F1	Confirmed fire!			2024.02.21 10:16:43.779	0	AZC
+WENT UNACK High	2024.02.21 10:05:27.222	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door opened!			2024.02.21 10:32:15.228	0	AZC
+WENT UNACK High	2024.02.21 10:04:00.707	DMA-Z-73141	ZONE 73141: B1, DMA-BC-01 HV SUBSTATION 2	Confirmed fire!			2024.02.21 10:16:41.693	0	AZC
+WENT UNACK High	2024.02.21 10:02:31.728	DMA-Z-73141	ZONE 73141: B1, DMA-BC-01 HV SUBSTATION 2	Smoke or heat detected - fire unconfirmed!			2024.02.21 10:04:00.787	0	AZC
+WENT UNACK High	2024.02.21 10:02:12.676	DMA-FIP-0001	Anzac Station FDCIE Panel	Smoke detected! Confirm Station Evac within 5 mins!!			2024.02.21 10:02:42.676	0	AZC
+WENT UNACK High	2024.02.21 09:38:39.878	TSC-E-EED-026	Town Hall Platform 2 Zone 3 EED 26	EED opened!			2024.02.21 09:40:29.877	0	THL
+WENT UNACK High	2024.02.21 09:36:23.168	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door opened!			2024.02.21 09:36:31.168	0	ARN
+WENT UNACK High	2024.02.21 09:35:21.875	TSC-E-EED-028	Town Hall Platform 2 Zone 3 EED 28	EED opened!			2024.02.21 09:35:33.877	0	THL
+WENT UNACK High	2024.02.21 09:30:23.876	TSC-E-EED-025	Town Hall Platform 2 Zone 3 EED 25	EED opened!			2024.02.21 09:30:33.877	0	THL
+WENT UNACK High	2024.02.21 09:29:21.874	TSC-E-EED-024	Town Hall Platform 2 Zone 3 EED 24	EED opened!			2024.02.21 09:29:33.876	0	THL
+WENT UNACK High	2024.02.21 09:27:59.877	TSC-E-EED-023	Town Hall Platform 2 Zone 3 EED 23	EED opened!			2024.02.21 09:29:11.874	0	THL
+WENT UNACK High	2024.02.21 09:21:39.876	TSC-E-EED-022	Town Hall Platform 2 Zone 3 EED 22	EED opened!			2024.02.21 09:21:51.872	0	THL
+WENT UNACK High	2024.02.21 09:14:51.873	TSC-E-DDX-002	Town Hall Platform 2 Zone 2 DD 02	Driver Door opened!			2024.02.21 09:15:01.873	0	THL
+WENT UNACK High	2024.02.21 09:08:17.874	TSC-E-EED-021	Town Hall Platform 2 Zone 2 EED 21	EED opened!			2024.02.21 09:08:29.875	0	THL
+WENT UNACK High	2024.02.21 09:06:27.626	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door opened!			2024.02.21 09:06:59.630	0	PKV
+WENT UNACK High	2024.02.21 09:05:25.634	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door opened!			2024.02.21 09:05:29.634	0	PKV
+WENT UNACK High	2024.02.21 09:00:37.625	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door opened!			2024.02.21 09:01:13.626	0	PKV
+WENT UNACK High	2024.02.21 09:00:13.625	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door opened!			2024.02.21 09:00:17.630	0	PKV
+WENT UNACK High	2024.02.21 08:56:19.225	DMA-W-PED-001	Anzac Platform 1 PED 01	Platform End Door opened!			2024.02.21 08:58:13.224	0	AZC
+WENT UNACK High	2024.02.21 08:55:45.871	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	Manual release activated!			2024.02.21 08:56:15.871	0	THL
+WENT UNACK High	2024.02.21 08:52:37.869	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	PSD obstructed on opening or closing!			2024.02.21 08:53:27.873	0	THL
+WENT UNACK High	2024.02.21 08:24:51.223	DMA-E-PED-002	Anzac Platform 2 PED 02	Platform End Door opened!			2024.02.21 08:25:07.224	0	AZC
+WENT UNACK High	2024.02.21 08:17:27.849	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door opened!			2024.02.21 08:17:35.858	0	STL
+WENT UNACK High	2024.02.21 08:11:47.848	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door opened!			2024.02.21 08:11:51.847	0	STL
+WENT UNACK High	2024.02.21 06:38:13.262	DMA_FIO_0148_CONC	Tunnel Vent. Zone S10 - Fire Confirmed at Concourse	Shaft smoke detection unavailable!			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK High	2024.02.21 06:38:13.262	DMA_FIO_0148_PLAT	Tunnel Vent. Zone S10 - Fire Confirmed at Platform	Shaft smoke detection unavailable!			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK High	2024.02.21 06:38:13.262	DMA_FIO_0148_RE0101	Tunnel Vent. Zone S10 - Fire Confirmed at Retail Room 901-01	Shaft smoke detection unavailable!			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK High	2024.02.21 06:38:13.262	DMA_FIO_0148_RE0102	Tunnel Vent. Zone S10 - Fire Confirmed at Retail Room 901-02	Shaft smoke detection unavailable!			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK High	2024.02.21 06:38:13.262	DMA_FIO_0148_RE0103	Tunnel Vent. Zone S10 - Fire Confirmed at Retail Room 901-03	Shaft smoke detection unavailable!			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK High	2024.02.21 06:23:23.532	_Driver1	MTAZC:_Driver1.				2024.02.21 06:38:13.265	0	AZC
+WENT UNACK High	2024.02.21 01:04:25.222	DMA-W-PED-002	Anzac Platform 1 PED 02	Platform End Door opened!			2024.02.21 01:04:33.222	0	AZC
+WENT UNACK High	2024.02.21 00:01:03.482	PKV_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.02.21 07:51:52.415	0	PKV
+WENT UNACK High	2024.02.21 00:01:03.482	PKV_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.02.21 07:53:56.426	0	PKV
+WENT UNACK High	2024.02.20 10:32:56.736	DMA-Z-7304	ZONE 7304: B2, DMA-DC-01 STAIR 01	Smoke or heat detected - fire unconfirmed!			2024.02.20 10:33:56.744	0	AZC
+WENT UNACK High	2024.02.20 10:31:57.716	DMA-Z-7301	ZONE 7301: B2, DMA-DB-01 BOH PLANT	Smoke or heat detected - fire unconfirmed!			2024.02.20 10:33:56.744	0	AZC
+WENT UNACK High	2024.02.20 09:50:13.740	DMA-Z-7323	ZONE 7323: B2, DMA-DF-01 PLATFORM AREA	Smoke or heat detected - fire unconfirmed!			2024.02.20 09:52:15.720	0	AZC
+WENT UNACK High	2024.02.20 09:44:44.728	DMA-Z-7323	ZONE 7323: B2, DMA-DF-01 PLATFORM AREA	Confirmed fire!			2024.02.20 09:47:16.747	0	AZC
+WENT UNACK High	2024.02.20 09:19:58.202	PKV-Z-49141	ZONE 49141: B3, PKV-FLS-0023  FSP (SCV3) F/Sw	Confirmed fire!			2024.02.21 07:44:13.196	0	PKV
+WENT UNACK High	2024.02.20 09:18:25.855	TNC-E-PSD-012	State Library Platform 2 Zone 2 PSD 12	PSD obstructed on opening or closing!			2024.02.20 09:18:27.857	0	STL
+WENT UNACK High	2024.02.20 08:59:15.845	TNC-W-LCP	State Library Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.02.20 08:59:29.847	0	STL
+WENT UNACK High	2024.02.20 08:52:15.857	TNC-E-PED-001	State Library Platform 2 PED 01	Platform End Door opened!			2024.02.20 08:52:29.848	0	STL
+WENT UNACK High	2024.02.20 08:08:14.682	DMA-FIP-0001	Anzac Station FDCIE Panel	Smoke or heat detected! Extend timer within 30s to investigate!!			2024.02.20 08:08:15.674	0	AZC
+WENT UNACK High	2024.02.20 07:36:07.851	TNC-E-LCP	State Library Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.02.20 07:36:19.854	0	STL
+WENT UNACK High	2024.02.19 18:55:59.628	PKV-E-LCP	Parkville Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.02.19 18:56:07.629	0	PKV
+WENT UNACK High	2024.02.19 18:55:03.627	PKV-W-LCP	Parkville Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.02.19 18:55:07.627	0	PKV
+WENT UNACK High	2024.02.19 18:54:53.870	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door opened!			2024.02.19 18:55:09.871	0	THL
+WENT UNACK High	2024.02.19 13:06:19.201	PKV-Z-4369	ZONE 4369: B2, PKV-AN-02 STH / EAST COUNCOURSE	Smoke or heat detected - fire unconfirmed!			2024.02.19 13:13:39.201	0	PKV
+WENT UNACK High	2024.02.19 13:05:28.217	PKV-FIP-0001	Parkville Station FDCIE Panel 	Smoke detected! Confirm Station Evac within 5 mins!!			2024.02.19 13:05:58.216	0	PKV
+WENT UNACK High	2024.02.19 12:02:07.852	TNC-E-PSD-001	State Library Platform 2 Zone 1 PSD 01	Manual release activated!			2024.02.19 12:03:49.853	0	STL
+WENT UNACK High	2024.02.19 11:41:37.852	TNC-E-PSD-014	State Library Platform 2 Zone 2 PSD 14	PSD obstructed on opening or closing!			2024.02.19 11:41:39.853	0	STL
+WENT UNACK High	2024.02.19 11:32:07.628	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	PSD obstructed on opening or closing!			2024.02.19 11:32:09.628	0	PKV
+WENT UNACK High	2024.02.19 11:23:19.626	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	PSD obstructed on opening or closing!			2024.02.19 11:23:23.625	0	PKV
+WENT UNACK High	2024.02.19 11:23:19.626	PKV-W-PSD-021	Parkville Platform 1 Zone 2 PSD 21	PSD obstructed on opening or closing!			2024.02.19 11:23:23.625	0	PKV
+WENT UNACK High	2024.02.19 11:23:19.626	PKV-W-PSD-022	Parkville Platform 1 Zone 3 PSD 22	PSD obstructed on opening or closing!			2024.02.19 11:23:23.625	0	PKV
+WENT UNACK High	2024.02.19 11:23:19.626	PKV-W-PSD-025	Parkville Platform 1 Zone 3 PSD 25	PSD obstructed on opening or closing!			2024.02.19 11:23:23.626	0	PKV
+WENT UNACK High	2024.02.19 09:26:15.623	PKV-W-PSD-011	Parkville Platform 1 Zone 2 PSD 11	PSD obstructed on opening or closing!			2024.02.19 09:41:11.627	0	PKV
+WENT UNACK High	2024.02.19 09:26:01.624	PKV-W-PSD-013	Parkville Platform 1 Zone 2 PSD 13	PSD obstructed on opening or closing!			2024.02.19 09:26:03.624	0	PKV
+WENT UNACK High	2024.02.19 09:26:01.624	PKV-W-PSD-014	Parkville Platform 1 Zone 2 PSD 14	PSD obstructed on opening or closing!			2024.02.19 09:26:03.624	0	PKV
+WENT UNACK High	2024.02.19 09:26:01.623	PKV-W-PSD-010	Parkville Platform 1 Zone 2 PSD 10	PSD obstructed on opening or closing!			2024.02.19 09:26:03.624	0	PKV
+WENT UNACK High	2024.02.19 07:24:07.631	PKV-E-LCP	Parkville Platform 2 LCP	LCP Interlock Override fault!			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK High	2024.02.19 07:24:01.632	PKV-E-PLT	Parkville Platform 2	PED safety loop fault!			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK High	2024.02.18 10:21:31.642	S03_TunnelFunc	TVCS Operator Fire Emergency Section 03	Fire Emergency Mode Activated By Operator!			2024.02.18 12:11:55.586	0	SDU
+WENT UNACK High	2024.02.17 12:42:17.893	TNC-W-PSD-020	State Library Platform 1 Zone 2 PSD 20	PSD Unscheduled Door Opening!			2024.02.17 15:36:13.882	0	STL
+WENT UNACK High	2024.02.17 12:42:17.893	TNC-W-PSD-021	State Library Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!			2024.02.17 15:36:13.882	0	STL
+WENT UNACK High	2024.02.17 12:42:17.866	TNC-W-PSD-014	State Library Platform 1 Zone 2 PSD 14	PSD Unscheduled Door Opening!			2024.02.17 15:36:13.881	0	STL
+WENT UNACK High	2024.02.17 12:42:17.866	TNC-W-PSD-015	State Library Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!			2024.02.17 15:36:13.881	0	STL
+WENT UNACK High	2024.02.17 12:42:17.848	TNC-W-PSD-005	State Library Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!			2024.02.17 15:36:13.881	0	STL
+WENT UNACK High	2024.02.16 12:39:23.710	DMA-Z-7218	ZONE 7218: B1, DMA-CA-01 FIRE ESCAPE C'DOR	Smoke or heat detected - fire unconfirmed!			2024.02.19 15:41:28.273	0	AZC
+WENT UNACK Med	2024.02.21 10:03:49.221	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door alarm bypassed!			2024.02.21 10:32:15.228	0	AZC
+WENT UNACK Med	2024.02.21 10:03:10.218	_SYP-TIAS-PLC	MTDIST:_SYP-TIAS-PLC.	Communications Fault - Dist Server 1 to SYP TIAS PLC			2024.02.21 10:03:12.675	0	ARN
+WENT UNACK Med	2024.02.21 10:03:10.218	_SYP-TIAS-PLC_2	MTDIST:_SYP-TIAS-PLC_2.	Communications Fault - Dist Server 2 to SYP TIAS PLC			2024.02.21 10:03:12.677	0	THL
+WENT UNACK Med	2024.02.21 10:03:03.834	_SKP-TIAS-PLC	MTDIST:_SKP-TIAS-PLC.	Communications Fault - Dist Server 1 to SKP TIAS PLC			2024.02.21 10:03:06.142	0	ARN
+WENT UNACK Med	2024.02.21 10:03:03.834	_SKP-TIAS-PLC_2	MTDIST:_SKP-TIAS-PLC_2.	Communications Fault - Dist Server 2 to SKP TIAS PLC			2024.02.21 10:03:06.145	0	THL
+WENT UNACK Med	2024.02.21 09:49:22.423	PKV_TEP_0303_04_FG	Tunnel Drainage Pump - Function Group	Tunnel drainage pit level not dropping!			2024.02.21 09:49:42.427	0	PKV
+WENT UNACK Med	2024.02.21 09:30:07.821	_AEN-BMS-PLC	Arden BMS PLC	Communications Fault - Arden Server 1 to Arden BMS PLC			2024.02.21 09:31:00.635	0	ARN
+WENT UNACK Med	2024.02.21 09:30:07.816	_AEN-BMS-PLC_2	Arden BMS PLC	Communications Fault - Arden Server 2 to Arden BMS PLC			2024.02.21 09:31:00.414	0	PKV
+WENT UNACK Med	2024.02.21 09:12:45.057	_Mod_Plc_3	MTARD:_Mod_Plc_3.	Communications Fault - Arden Server 1 to Arden EWIS			2024.02.21 09:12:45.752	0	ARN
+WENT UNACK Med	2024.02.21 09:12:29.930	_Mod_Plc_4	MTARD:_Mod_Plc_4.	Communications Fault - Arden Server 1 to Arden EWIS			2024.02.21 09:12:45.837	0	ARN
+WENT UNACK Med	2024.02.21 09:06:21.631	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door alarm bypassed!			2024.02.21 09:06:59.630	0	PKV
+WENT UNACK Med	2024.02.21 09:04:01.633	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door alarm bypassed!			2024.02.21 09:05:31.634	0	PKV
+WENT UNACK Med	2024.02.21 09:00:33.626	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door alarm bypassed!			2024.02.21 09:01:15.631	0	PKV
+WENT UNACK Med	2024.02.21 08:59:33.626	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door alarm bypassed!			2024.02.21 09:00:19.630	0	PKV
+WENT UNACK Med	2024.02.21 08:50:09.874	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	Door control unit communication lost			2024.02.21 08:51:59.874	0	THL
+WENT UNACK Med	2024.02.21 08:48:25.221	DMA-W-PED-001	Anzac Platform 1 PED 01	Platform End Door alarm bypassed!			2024.02.21 08:58:15.223	0	AZC
+WENT UNACK Med	2024.02.21 07:58:25.202	PKV-FIP-0005	Parkville Station SHCIE Panel 4	Power supply to gas supression panel fault			2024.02.21 08:08:26.208	0	PKV
+WENT UNACK Med	2024.02.21 07:57:37.192	PKV-FIP-0001	Parkville Station FDCIE Panel 	Power supply to fire panel fault			2024.02.21 08:07:39.196	0	PKV
+WENT UNACK Med	2024.02.21 07:57:33.202	PKV-FIP-0006	Parkville Station SHCIE Panel 5	Power supply to gas supression panel fault			2024.02.21 08:07:35.208	0	PKV
+WENT UNACK Med	2024.02.20 14:56:22.271	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.473	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.271	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.452	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.271	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.452	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.271	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.463	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.271	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.452	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.271	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.463	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.270	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.452	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.266	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.439	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.266	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.439	0	AZC
+WENT UNACK Med	2024.02.20 14:56:22.266	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped(emergency stop button activated!)			2024.02.20 14:56:23.439	0	AZC
+WENT UNACK Med	2024.02.20 13:14:10.428	PKV_SPP_0203_04_FG	Sewer Pump Pit - Function Group	Sewer drainage pit not dropping!			2024.02.20 13:14:36.446	0	PKV
+WENT UNACK Med	2024.02.20 12:21:37.625	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	Door control unit communication lost			2024.02.20 12:22:45.626	0	PKV
+WENT UNACK Med	2024.02.20 12:13:01.623	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	High motor current			2024.02.20 12:22:45.626	0	PKV
+WENT UNACK Med	2024.02.20 11:42:01.625	PKV-W-PSD-015	Parkville Platform 1 Zone 2 PSD 15	Door control unit communication lost			2024.02.20 11:43:15.626	0	PKV
+WENT UNACK Med	2024.02.20 11:40:55.625	PKV-W-PSD-019	Parkville Platform 1 Zone 2 PSD 19	Door control unit communication lost			2024.02.20 11:41:59.626	0	PKV
+WENT UNACK Med	2024.02.20 11:40:07.626	PKV-W-PSD-019	Parkville Platform 1 Zone 2 PSD 19	High motor current			2024.02.20 11:41:59.626	0	PKV
+WENT UNACK Med	2024.02.20 11:39:55.625	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	Door control unit communication lost			2024.02.20 11:41:03.626	0	PKV
+WENT UNACK Med	2024.02.20 11:39:17.625	PKV-W-PSD-015	Parkville Platform 1 Zone 2 PSD 15	High motor current			2024.02.20 11:43:15.626	0	PKV
+WENT UNACK Med	2024.02.20 11:38:53.626	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	Door control unit fault			2024.02.20 11:41:03.626	0	PKV
+WENT UNACK Med	2024.02.20 11:35:43.625	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	High motor current			2024.02.20 11:38:31.625	0	PKV
+WENT UNACK Med	2024.02.20 10:44:57.488	PKV_SPP_0201_02_FG	Sewer Pump Pit - Function Group	Sewer drainage pit not dropping!			2024.02.20 10:45:05.510	0	PKV
+WENT UNACK Med	2024.02.20 10:08:23.633	PKV-E-PSD-024	Parkville Platform 2 Zone 3 PSD 24	Door control unit communication lost			2024.02.20 10:09:37.634	0	PKV
+WENT UNACK Med	2024.02.20 09:25:03.847	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	Door control unit communication lost			2024.02.20 11:27:11.853	0	STL
+WENT UNACK Med	2024.02.20 09:24:35.633	PKV-E-PSD-024	Parkville Platform 2 Zone 3 PSD 24	High motor current			2024.02.20 10:09:37.634	0	PKV
+WENT UNACK Med	2024.02.20 08:55:11.856	TNC-E-PSD-012	State Library Platform 2 Zone 2 PSD 12	Door control unit communication lost			2024.02.20 08:56:21.856	0	STL
+WENT UNACK Med	2024.02.20 08:52:07.852	TNC-E-PED-001	State Library Platform 2 PED 01	Platform End Door alarm bypassed!			2024.02.20 08:52:31.856	0	STL
+WENT UNACK Med	2024.02.20 06:33:57.627	PKV-E-PSD-014	Parkville Platform 2 Zone 2 PSD 14	Door control unit communication lost			2024.02.20 06:35:03.628	0	PKV
+WENT UNACK Med	2024.02.20 06:33:07.627	PKV-E-PSD-013	Parkville Platform 2 Zone 2 PSD 13	Door control unit communication lost			2024.02.20 06:34:09.627	0	PKV
+WENT UNACK Med	2024.02.20 06:31:37.627	PKV-E-PSD-012	Parkville Platform 2 Zone 2 PSD 12	Door control unit communication lost			2024.02.20 06:32:43.627	0	PKV
+WENT UNACK Med	2024.02.20 06:30:37.626	PKV-E-PSD-010	Parkville Platform 2 Zone 2 PSD 10	Door control unit communication lost			2024.02.20 06:31:39.626	0	PKV
+WENT UNACK Med	2024.02.20 06:29:31.626	PKV-E-PSD-009	Parkville Platform 2 Zone 1 PSD 09	Door control unit communication lost			2024.02.20 06:30:33.626	0	PKV
+WENT UNACK Med	2024.02.20 06:28:35.625	PKV-E-PSD-007	Parkville Platform 2 Zone 1 PSD 07	Door control unit communication lost			2024.02.20 06:29:37.626	0	PKV
+WENT UNACK Med	2024.02.20 04:36:07.873	TSC-W-PSD-024	Town Hall Platform 1 Zone 3 PSD 24	Door control unit communication lost			2024.02.20 04:37:05.874	0	THL
+WENT UNACK Med	2024.02.19 21:55:51.228	DMA-W-PED-002	Anzac Platform 1 PED 02	Platform End Door alarm bypassed!			2024.02.19 21:58:33.226	0	AZC
+WENT UNACK Med	2024.02.19 21:29:39.851	TNC-S-STN	State Library Station PSD System	PSD lost connection to signalling system!			2024.02.19 21:35:57.845	0	STL
+WENT UNACK Med	2024.02.19 21:16:07.626	PKV-E-PSD-012	Parkville Platform 2 Zone 2 PSD 12	High motor current			2024.02.20 06:32:41.627	0	PKV
+WENT UNACK Med	2024.02.19 21:16:07.626	PKV-E-PSD-013	Parkville Platform 2 Zone 2 PSD 13	High motor current			2024.02.20 06:34:09.627	0	PKV
+WENT UNACK Med	2024.02.19 20:57:57.631	PKV-E-PSD-014	Parkville Platform 2 Zone 2 PSD 14	High motor current			2024.02.20 06:35:03.628	0	PKV
+WENT UNACK Med	2024.02.19 20:44:43.849	TNC-E-PSD-012	State Library Platform 2 Zone 2 PSD 12	High motor current			2024.02.19 21:19:19.854	0	STL
+WENT UNACK Med	2024.02.19 19:43:35.632	PKV-E-PSD-007	Parkville Platform 2 Zone 1 PSD 07	High motor current			2024.02.20 06:29:37.626	0	PKV
+WENT UNACK Med	2024.02.19 19:43:35.632	PKV-E-PSD-010	Parkville Platform 2 Zone 2 PSD 10	High motor current			2024.02.20 06:31:39.626	0	PKV
+WENT UNACK Med	2024.02.19 18:54:49.871	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door alarm bypassed!			2024.02.19 18:55:05.867	0	THL
+WENT UNACK Med	2024.02.19 16:23:35.628	PKV-E-PSD-009	Parkville Platform 2 Zone 1 PSD 09	High motor current			2024.02.20 06:30:33.626	0	PKV
+WENT UNACK Med	2024.02.19 15:41:08.006	DMA-C-01-EVAC	EWIS device for Anzac	EWIS fault			2024.02.19 15:41:08.986	0	AZC
+WENT UNACK Med	2024.02.19 12:32:05.853	TNC-E-PSD-001	State Library Platform 2 Zone 1 PSD 01	Door control unit communication lost			2024.02.19 12:33:15.851	0	STL
+WENT UNACK Med	2024.02.19 12:02:17.850	TNC-E-PSD-001	State Library Platform 2 Zone 1 PSD 01	Manual release fault			2024.02.19 12:33:15.851	0	STL
+WENT UNACK Med	2024.02.19 11:57:53.624	PKV-W-PSD-017	Parkville Platform 1 Zone 2 PSD 17	Door control unit communication lost			2024.02.19 11:58:57.625	0	PKV
+WENT UNACK Med	2024.02.19 11:54:45.624	PKV-W-PSD-017	Parkville Platform 1 Zone 2 PSD 17	High motor current			2024.02.19 11:58:57.625	0	PKV
+WENT UNACK Med	2024.02.19 11:38:55.630	PKV-W-PSD-028	Parkville Platform 1 Zone 3 PSD 28	Door control unit communication lost			2024.02.19 11:40:07.630	0	PKV
+WENT UNACK Med	2024.02.19 11:38:11.629	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	Door control unit communication lost			2024.02.19 11:39:17.630	0	PKV
+WENT UNACK Med	2024.02.19 11:35:11.629	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	High motor current			2024.02.19 11:39:17.630	0	PKV
+WENT UNACK Med	2024.02.19 11:35:11.629	PKV-W-PSD-028	Parkville Platform 1 Zone 3 PSD 28	High motor current			2024.02.19 11:40:07.630	0	PKV
+WENT UNACK Med	2024.02.19 11:33:03.628	PKV-W-PSD-026	Parkville Platform 1 Zone 3 PSD 26	Door control unit communication lost			2024.02.19 11:34:05.629	0	PKV
+WENT UNACK Med	2024.02.19 11:30:49.628	PKV-W-PSD-026	Parkville Platform 1 Zone 3 PSD 26	High motor current			2024.02.19 11:34:05.629	0	PKV
+WENT UNACK Med	2024.02.19 09:54:49.631	PKV-W-PSD-004	Parkville Platform 1 Zone 1 PSD 04	Door control unit communication lost			2024.02.19 09:55:59.631	0	PKV
+WENT UNACK Med	2024.02.19 09:24:23.622	PKV-W-PSD-004	Parkville Platform 1 Zone 1 PSD 04	High motor current			2024.02.19 09:55:59.631	0	PKV
+WENT UNACK Med	2024.02.19 08:04:35.631	PKV-W-PSD-025	Parkville Platform 1 Zone 3 PSD 25	Door control unit communication lost			2024.02.19 08:06:13.632	0	PKV
+WENT UNACK Med	2024.02.19 08:02:41.632	PKV-W-PSD-025	Parkville Platform 1 Zone 3 PSD 25	High motor current			2024.02.19 08:06:13.632	0	PKV
+WENT UNACK Med	2024.02.19 07:24:05.631	PKV-E-PLT	Parkville Platform 2	PSD signalling order fault!			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK Med	2024.02.19 07:23:57.631	PKV-E-PLT	Parkville Platform 2	Zone 1 PSD/EED safety loop failure			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK Med	2024.02.19 07:23:53.631	PKV-E-PLT	Parkville Platform 2	Zone 3 PSD/EED safety loop failure			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK Med	2024.02.19 07:23:47.631	PKV-E-PLT	Parkville Platform 2	Zone 2 PSD/EED safety loop failure			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK Med	2024.02.18 14:26:38.273	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	Degraded fans			2024.02.18 14:26:54.229	0	PKV
+WENT UNACK Med	2024.02.18 14:26:23.586	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Degraded			2024.02.18 14:26:36.601	0	SDU
+WENT UNACK Med	2024.02.18 14:26:08.248	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	Degraded fans			2024.02.18 14:26:13.228	0	PKV
+WENT UNACK Med	2024.02.18 14:25:51.622	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Degraded			2024.02.18 14:26:00.583	0	SDU
+WENT UNACK Med	2024.02.18 14:25:29.226	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	Degraded fans			2024.02.18 14:25:32.230	0	PKV
+WENT UNACK Med	2024.02.18 02:37:44.649	_Mod_Plc_1_2	Parkville Server 2	Communications Fault - Parkville Server 2 to Parkville PSD Servers			2024.02.18 02:37:45.647	0	STL
+WENT UNACK Med	2024.02.17 19:59:13.877	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door alarm bypassed!			2024.02.17 20:16:03.868	0	THL
+WENT UNACK Med	2024.02.17 16:16:09.850	TNC-W-PSD-025	State Library Platform 1 Zone 3 PSD 25	Door control unit communication lost			2024.02.17 16:17:35.847	0	STL
+WENT UNACK Med	2024.02.17 15:56:51.857	TNC-W-PSD-025	State Library Platform 1 Zone 3 PSD 25	Door control unit fault			2024.02.17 16:17:35.847	0	STL
+WENT UNACK Low	2024.02.21 10:01:53.752	_ReduManager_2	Distributed Server 2	Server 2 - Passive			2024.02.21 10:02:35.743	0	THL
+WENT UNACK Low	2024.02.21 09:48:43.725	AEN_DOR_B1_ESC_STAIRS_04_2	East Emergency Stairs - Concourse	Unauthorised access			2024.02.21 09:48:44.704	0	ARN
+WENT UNACK Low	2024.02.21 09:28:10.994	AEN_LFT_0005	Lift 5 BOH (Platforms to Ground Floor)	Lift General Fault			2024.02.21 09:31:00.876	0	ARN
+WENT UNACK Low	2024.02.21 09:27:16.466	DMA_FCU_0201_MVD_05	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:27:31.397	0	AZC
+WENT UNACK Low	2024.02.21 08:51:57.871	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	Maintenance mode activated			2024.02.21 08:53:13.874	0	THL
+WENT UNACK Low	2024.02.21 08:20:33.871	TSC-E-PSD-023	Town Hall Platform 2 Zone 3 PSD 23	Maintenance mode activated			2024.02.21 08:20:35.878	0	THL
+WENT UNACK Low	2024.02.21 08:16:43.371	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift monitoring lost 			2024.02.21 08:19:04.470	0	AZC
+WENT UNACK Low	2024.02.21 07:45:51.387	PKV-SPE-0186	B1, PKV-SPE-0186 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.387	PKV-SPE-0187	B1, PKV-SPE-0187 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.387	PKV-SPE-0189	B1, PKV-SPE-0189 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.387	PKV-SPE-0190	B1, PKV-SPE-0190 SERV HATCH-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.387	PKV-SPE-0194	B1, PKV-SPE-0194 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.455	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.387	PKV-SPE-0205	B1, PKV-SPE-0205 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:01:25.694	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.387	PKV-SPE-1022	B1, PKV-SPE-1022 FIRE LOBBY 406-1	Heat or smoke detector fault			2024.02.21 08:00:34.455	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-FPD-0010	B1, PKV-FPD-0010 (FCU-1113) S/A FAN 	Heat or smoke detector fault			2024.02.21 08:00:34.453	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-FPD-0011	B1, PKV-FPD-0011 (FCU-1114) S/A FAN 	Heat or smoke detector fault			2024.02.21 08:00:34.453	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0107	B1, PKV-SPE-0107 FIRE CONTROL ROOM 401-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0108	B1, PKV-SPE-0108 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0109	B1, PKV-SPE-0109 FIRE SPF ROOM 3 802-3	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0110	B1, PKV-SPE-0110 FIRE LOBBY 406-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0113	B1, PKV-SPE-0113 HVAC PLANT ROOM 811-3	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0114	B1, PKV-SPE-0114 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0115	B1, PKV-SPE-0115 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0116	B1, PKV-SPE-0116 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0117	B1, PKV-SPE-0117 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0121	B1, PKV-SPE-0121 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0122	B1, PKV-SPE-0122 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0123	B1, PKV-SPE-0123 HYDRAULIC RISER 890-8	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0132	B1, PKV-SPE-0132 CLEANER'S STORE 236-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0133	B1, PKV-SPE-0133 SERV HATCH-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0134	B1, PKV-SPE-0134 BOH CORRIDOR 151-3	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0135	B1, PKV-SPE-0135 BOH CORRIDOR 151-3	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0136	B1, PKV-SPE-0136 UNALLOCATED ROOM 299-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0138	B1, PKV-SPE-0138 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0139	B1, PKV-SPE-0139 FIELD DEV. RM 7 710-7	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0140	B1, PKV-SPE-0140 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:01:25.694	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0142	B1, PKV-SPE-0142 HVAC PLANT ROOM 811-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0150	B1, PKV-SPE-0150 HVAC PLANT ROOM 811-2	Heat or smoke detector fault			2024.02.21 08:01:25.694	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0169	B1, PKV-SPE-0169 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0173	B1, PKV-SPE-0173 MECH PLANT ROOM 812-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0176	B1, PKV-SPE-0176 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0177	B1, PKV-SPE-0177 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0184	B1, PKV-SPE-0184 UNALLOCATED ROOM 299-1	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.386	PKV-SPE-0185	B1, PKV-SPE-0185 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.454	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.385	PKV-SPE-0192	B1, PKV-SPE-0192 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:01:25.210	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.385	PKV-SPE-0193	B1, PKV-SPE-0193 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:01:25.210	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.384	PKV-SPE-0145	B1, PKV-SPE-0145 LV SWITCHROOM A1 650-1	Heat or smoke detector fault			2024.02.21 08:00:34.211	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.384	PKV-SPE-0146	B1, PKV-SPE-0146 LV SWITCHROOM A1 650-1	Heat or smoke detector fault			2024.02.21 08:00:34.211	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.384	PKV-SPE-0147	B1, PKV-SPE-0147 LV SWITCHROOM B1 650-2	Heat or smoke detector fault			2024.02.21 08:01:25.210	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.384	PKV-SPE-0148	B1, PKV-SPE-0148 LV SWITCHROOM B1 650-2	Heat or smoke detector fault			2024.02.21 08:01:25.210	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.384	PKV-SPE-0151	B1, PKV-SPE-0151 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:00:34.211	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.384	PKV-SPE-0152	B1, PKV-SPE-0152 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:01:25.210	0	PKV
+WENT UNACK Low	2024.02.21 07:45:51.384	PKV-SPE-0153	B1, PKV-SPE-0153 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 08:01:25.210	0	PKV
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1103_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:42.526	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1103_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:42.526	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1105_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:42.526	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1105_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:42.537	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1107_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1107_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1108_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1108_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1111_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1111_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.468	DMA_FCU_1113_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0105_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.399	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0105_SMD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.399	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0105_SMD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.399	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0106_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.399	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_0117_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.446	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_1111_MVD_01	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:50.507	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_1111_MVD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:50.507	0	AZC
+WENT UNACK Low	2024.02.21 06:42:56.455	DMA_FCU_1111_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:50.507	0	AZC
+WENT UNACK Low	2024.02.21 06:42:52.492	DMA_FCU_0119_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1137_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1138_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1139_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1140_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.536	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1141_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.536	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1142_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.548	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1143_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.548	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1144_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.548	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1145_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.548	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1201_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.548	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.802	DMA_FCU_1202_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:44.548	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_0101_MVD_02	Air Handling Unit - Return Air Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_0101_MVD_04	Air Handling Unit - CO2 Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_1101_MVD_02	Air Handling Unit - Return Air Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_1101_MVD_03	Air Handling Unit - Outside Air Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.444	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_1101_MVD_04	Air Handling Unit - CO2 Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.444	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_1103_MVD_02	Air Handling Unit - Return Air Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.446	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_1103_MVD_03	Air Handling Unit - Outside Air Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.446	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_AHU_1103_MVD_04	Air Handling Unit - CO2 Modulated Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.446	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0101_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.399	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0111_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.399	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0112_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.399	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0113_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.410	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0114_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.410	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0115_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.410	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0116_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.410	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0117_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:41.410	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0117_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0117_MVD_08	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0119_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0121_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:21:10.541	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0127_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:21:10.541	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0201_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:42.526	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0201_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:49.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0201_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:50.495	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0201_MVD_07	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:50.495	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0201_MVD_08	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:50.495	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_0202_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:42.526	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1115_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1115_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1117_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1117_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1119_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1119_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1121_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.422	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1121_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1125_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1127_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1127_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.433	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1129_SMD_01	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.409	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1129_SMD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:43.409	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1141_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:50.505	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1141_MVD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:51.382	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1141_MVD_05	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:51.382	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1141_MVD_06	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:51.382	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1201_MVD_02	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:51.382	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1201_MVD_03	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:51.382	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1201_MVD_04	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:51.382	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1201_MVD_05	Fan Coil Unit - Field Damper	Modulated device position discrepancy fault alarm			2024.02.21 09:17:51.382	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.792	DMA_FCU_1001_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.21 09:20:28.536	0	AZC
+WENT UNACK Low	2024.02.21 06:38:40.779	DMA_LFT_0004	Lift 4 FOH (B1 Basement to GF Gound Floor)	Lift monitoring lost 			2024.02.21 06:43:23.370	0	AZC
+WENT UNACK Low	2024.02.21 06:38:13.262	DMA_HCS_0001	Staff Protection Switch - Protection Enabled Signal 01 	Staff Protection Switch fault			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK Low	2024.02.21 06:38:13.262	DMA_TEXA	Tunnel Ambient Temperature Control	Tunnel A  - Ambient Temperature Control Unavailable 			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK Low	2024.02.21 06:38:13.262	DMA_TEXB	Tunnel Ambient Temperature Control	Tunnel B - Ambient Temperature Control Unavailable 			2024.02.21 10:22:55.550	0	AZC
+WENT UNACK Low	2024.02.21 06:02:35.508	DMA_TEXB	Tunnel Ambient Temperature Control	Temperature Sensors B - Discrepancy 			2024.02.21 06:16:56.536	0	AZC
+WENT UNACK Low	2024.02.21 01:14:34.537	DMA_TEXA	Tunnel Ambient Temperature Control	Temperature Sensors A - Discrepancy 			2024.02.21 01:21:33.508	0	AZC
+WENT UNACK Low	2024.02.21 00:33:07.575	AEN_TEXB	Tunnel Ambient Temperature Control - Westbound	Temperature Sensors B - Discrepancy 			2024.02.21 00:36:29.579	0	SDU
+WENT UNACK Low	2024.02.20 23:55:47.568	AEN_TEXA	Tunnel Ambient Temperature Control - Eastbound	Temperature Sensors A - Discrepancy 			2024.02.21 00:35:39.571	0	SDU
+WENT UNACK Low	2024.02.20 19:19:48.214	PKV_TEXA	Tunnel Ambient Temperature Control - Eastbound	Temperature Sensors A - Discrepancy 			2024.02.20 19:43:31.235	0	PKV
+WENT UNACK Low	2024.02.20 14:56:24.310	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.310	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.310	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.310	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.310	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.304	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.310	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.304	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.292	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.292	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.292	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.292	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.299	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.298	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.298	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.288	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.288	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.288	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped.(combplate bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:24.288	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - top left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.473	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.310	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.473	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.304	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.473	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.304	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.463	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.310	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.463	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.463	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.310	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.299	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.299	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.292	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.299	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.299	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.452	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.439	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.298	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.439	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.439	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.288	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.439	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.439	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped. (combplate top left)			2024.02.20 14:56:24.288	0	AZC
+WENT UNACK Low	2024.02.20 14:56:23.439	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(foreign object trapped in handrail entry - bottom left)			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.341	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.271	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.341	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.271	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.341	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.271	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.330	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.270	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.330	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.271	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.330	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.271	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.330	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.271	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.317	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.266	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.317	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.266	0	AZC
+WENT UNACK Low	2024.02.20 14:56:21.317	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped (main drive chain top right)			2024.02.20 14:56:22.266	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.341	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.305	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.330	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.292	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.330	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.341	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.330	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.294	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.341	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.171	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.304	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.317	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.317	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.330	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopeed.(brake mechanism fault)			2024.02.20 14:56:21.317	0	AZC
+WENT UNACK Low	2024.02.20 14:56:16.168	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(tension fault - right) 			2024.02.20 14:56:25.281	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.303	DMA_ESC_0006	Escalator 6 Bank 4 (B1 Basement to GF Gound Floor)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.171	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.303	DMA_ESC_0008	Escalator 8 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.171	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.303	DMA_ESC_0009	Escalator 9 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.171	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.303	DMA_ESC_0010	Escalator 10 Bank 6 (B1 Basement to GF Gound Floor)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.171	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.303	DMA_ESC_0011	Escalator 11 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.171	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.303	DMA_ESC_0012	Escalator 12 Bank 7 (B1 Basement to GF Gound Floor)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.171	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.291	DMA_ESC_0001	Escalator 1 Bank 1 (B2 Basement to B1 Basement)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.168	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.291	DMA_ESC_0003	Escalator 3 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.168	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.291	DMA_ESC_0004	Escalator 4 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.168	0	AZC
+WENT UNACK Low	2024.02.20 14:56:14.291	DMA_ESC_0005	Escalator 5 Bank 3 (B2 Basement to B1 Basement)	Escalator stopped(skirt contact top left/ right alarm)			2024.02.20 14:56:16.168	0	AZC
+WENT UNACK Low	2024.02.20 13:20:24.299	PKV-SPE-0011	B1, PKV-SPE-0011 S-5 Fire Stair 1	Heat or smoke detector fault			2024.02.21 07:59:45.544	0	PKV
+WENT UNACK Low	2024.02.20 13:20:24.212	PKV-IVM-0029	B1, PKV-IVM-0029 931-1 Retail Plant M/V	Heat or smoke detector fault			2024.02.21 08:00:34.453	0	PKV
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0434	B1, DMA-SPE-0434 LV RISER 660-2	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0435	B1, DMA-SPE-0435 COMM'S RISER 701-1	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0436	B1, DMA-SPE-0436 COMM'S RISER 701-2	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0437	B1, DMA-SPE-0437 MECHANICAL RISER 821-1	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0545	B1, DMA-SPE-0545 FIRE SPF ROOM 1 802-1	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0546	B1, DMA-SPE-0546 FIRE SPF ROOM 3 802-3	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0561	B1, DMA-SPE-0561 OCS SPARE ROOM 245-1	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0746	B2, DMA-SPE-0746 AIR LOCK 406-4	Heat or smoke detector fault			2024.02.21 06:36:02.627	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0448	B1, DMA-SPE-0448 RISER	Heat or smoke detector fault			2024.02.21 06:36:02.627	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0580	B1, DMA-SPE-0580 STAFF BIKE STORE 290-1	Heat or smoke detector fault			2024.02.21 06:36:02.633	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0581	B1, DMA-SPE-0581 NON-HABIT VOID 297-1	Heat or smoke detector fault			2024.02.21 06:36:02.633	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0582	B1, DMA-SPE-0582 NON-HABIT VOID 297-1	Heat or smoke detector fault			2024.02.21 06:36:02.633	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0583	B1, DMA-SPE-0583 NON-HABIT VOID 297-1	Heat or smoke detector fault			2024.02.21 06:36:02.633	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0584	B1, DMA-SPE-0584 FIRE LOBBY 406-8	Heat or smoke detector fault			2024.02.21 06:36:02.634	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-FPD-0007	B1, DMA-FPD-0007 FIRE SPF ROOM 1 802-1	Heat or smoke detector fault			2024.02.21 06:36:02.634	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-SPE-0670	GF, DMA-SPE-0670 LIFT DMA-LT-0004	Heat or smoke detector fault			2024.02.21 06:36:02.641	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-FPD-0001	B1, DMA-FPD-0001 ECS PLANTROOM 1 801-1	Heat or smoke detector fault			2024.02.21 06:36:02.641	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.731	DMA-FPD-0006	B1, DMA-FPD-0006 FIRE SPF ROOM 1 802-1	Heat or smoke detector fault			2024.02.21 06:36:02.641	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0195	B1, DMA-SPE-0195 GAS CYLINDER RM 409-2	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0197	B1, DMA-SPE-0197 GEN. EXH FAN RM 803-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0198	B1, DMA-SPE-0198 GEN. EXH FAN RM 803-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0199	B1, DMA-SPE-0199 GEN. EXH FAN RM 803-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0206	B1, DMA-SPE-0206 FIELD DEVICE RM 3 710-3	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0207	B1, DMA-SPE-0207 LV DB ROOM 653-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0210	B1, DMA-SPE-0210 FIRE LOBBY 406-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0211	B1, DMA-SPE-0211 RETAIL PLANT RM 931-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0212	B1, DMA-SPE-0212 ECS PLANTROOM 1 801-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0213	B1, DMA-SPE-0213 ECS PLANTROOM 1 801-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0218	B1, DMA-SPE-0218 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0219	B1, DMA-SPE-0219 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0220	B1, DMA-SPE-0220 HVAC PLANT ROOM 811-3	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0221	B1, DMA-SPE-0221 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0222	B1, DMA-SPE-0222 BOH CORRIDOR 151-2	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0238	B1, DMA-SPE-0238 HVAC PLANT ROOM 811-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0239	B1, DMA-SPE-0239 ECS PLANTROOM 1 801-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0240	B1, DMA-SPE-0240 ECS PLANTROOM 1 801-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0241	B1, DMA-SPE-0241 ECS PLANTROOM 1 801-1	Heat or smoke detector fault			2024.02.21 06:36:02.533	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0242	B1, DMA-SPE-0242 ECS PLANTROOM 1 801-1	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:15.730	DMA-SPE-0430	B1, DMA-SPE-0430 HV RISER 620-1	Heat or smoke detector fault			2024.02.21 06:36:02.534	0	AZC
+WENT UNACK Low	2024.02.20 12:57:13.738	DMA-FLS-0007	B1, DMA-FLS-0007 Sprinkler F/S	Heat or smoke detector fault			2024.02.21 06:36:02.527	0	AZC
+WENT UNACK Low	2024.02.20 12:57:13.738	DMA-IVM-0019	B1, DMA-IVM-0019 Hydrant M/V	Heat or smoke detector fault			2024.02.21 06:36:02.530	0	AZC
+WENT UNACK Low	2024.02.20 12:57:13.738	DMA-IVM-0020	B1, DMA-IVM-0020 Hydrant M/V	Heat or smoke detector fault			2024.02.21 06:36:02.530	0	AZC
+WENT UNACK Low	2024.02.20 12:57:13.738	DMA-IVM-0031	GF, DMA-IVM-0031 Sprinkler M/V	Heat or smoke detector fault			2024.02.21 06:36:02.531	0	AZC
+WENT UNACK Low	2024.02.20 12:57:13.738	DMA-IVM-0032	GF, DMA-IVM-0032 Sprinkler M/V	Heat or smoke detector fault			2024.02.21 06:36:02.531	0	AZC
+WENT UNACK Low	2024.02.20 12:57:13.738	DMA-IVM-0040	B1, DMA-IVM-0040 Sprinkler M/V	Heat or smoke detector fault			2024.02.21 06:36:02.531	0	AZC
+WENT UNACK Low	2024.02.20 12:54:03.764	DMA-SPE-0145	B1, DMA-SPE-0145 LV SWITCHROOM A1 650-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:03.764	DMA-SPE-0231	B1, DMA-SPE-0231 BOH CORRIDOR 151-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:03.764	DMA-SPE-0296	B1, DMA-SPE-0296 LV SWITCHROOM A1 650-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:03.764	DMA-SPE-0558	B1, DMA-SPE-0558 LV SWITCHROOM A2 650-3	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:54:03.764	DMA-SPE-0559	B1, DMA-SPE-0559 LV SWITCHROOM A2 650-3	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:54:03.764	DMA-SPE-0193	B1, DMA-SPE-0193 BOH CORRIDOR 151-1	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.750	DMA-SPE-0233	B1, DMA-SPE-0233 BOH CORRIDOR 151-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.750	DMA-SPE-0234	B1, DMA-SPE-0234 BOH CORRIDOR 151-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.750	DMA-SPE-0297	B1, DMA-SPE-0297 LV SWITCHROOM A1 650-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.750	DMA-SPE-0557	B1, DMA-SPE-0557 LV SWITCHROOM A2 650-3	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.750	DMA-SPE-0560	B1, DMA-SPE-0560 LV SWITCHROOM A2 650-3	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0144	B1, DMA-SPE-0144 LV SWITCHROOM A1 650-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0192	B1, DMA-SPE-0192 GAS CYLINDER RM 409-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0202	B1, DMA-SPE-0202 TUN VENT.FAN RM 830-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0203	B1, DMA-SPE-0203 TUN VENT.FAN RM 830-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0204	B1, DMA-SPE-0204 TUN VENT.FAN RM 830-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0205	B1, DMA-SPE-0205 TUN VENT.FAN RM 830-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0228	B1, DMA-SPE-0228 BOH CORRIDOR 151-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:54:01.749	DMA-SPE-0232	B1, DMA-SPE-0232 BOH CORRIDOR 151-1	Heat or smoke detector fault			2024.02.20 12:55:47.740	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.562	DMA-FPD-0004	B1, DMA-FPD-0004 ECS PLANTROOM 3 801-3	Heat or smoke detector fault			2024.02.20 12:55:22.573	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.562	DMA-SPE-0010	B1, DMA-SPE-0010 LIFT DMA-LT-0009	Heat or smoke detector fault			2024.02.20 12:54:34.161	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.562	DMA-SPE-0752	B1, DMA-SPE-0752 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.322	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.559	DMA-FPD-0002	B1, DMA-FPD-0002 ECS PLANTROOM 3 801-3	Heat or smoke detector fault			2024.02.20 12:55:22.572	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.559	DMA-FPD-0003	B1, DMA-FPD-0003 ECS PLANTROOM 3 801-3	Heat or smoke detector fault			2024.02.20 12:55:22.572	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.555	DMA-SPE-0700	B1, DMA-SPE-0700 ACC TOILET/CHANGE 108-1	Heat or smoke detector fault			2024.02.20 12:53:01.478	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.552	DMA-SPE-0586	B1, DMA-SPE-0586 ACC W/C AIRLOCK 153-3	Heat or smoke detector fault			2024.02.20 12:53:01.478	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.552	DMA-SPE-0653	B1, DMA-SPE-0653 PARENTS ROOM 109-1	Heat or smoke detector fault			2024.02.20 12:53:01.478	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.552	DMA-SPE-0654	B1, DMA-SPE-0654 MALE PUBLIC WC 106-1	Heat or smoke detector fault			2024.02.20 12:53:01.478	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.552	DMA-SPE-0656	B1, DMA-SPE-0656 ACC TOILET/CHANGE 108-2	Heat or smoke detector fault			2024.02.20 12:53:01.478	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.552	DMA-SPE-0657	B1, DMA-SPE-0657 ACC W/C AIRLOCK 153-3	Heat or smoke detector fault			2024.02.20 12:53:01.478	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.552	DMA-SPE-0658	B1, DMA-SPE-0658 MALE PUBLIC WC 106-1	Heat or smoke detector fault			2024.02.20 12:53:01.478	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.547	DMA-SPE-0347	B1, DMA-SPE-0347 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.322	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.542	DMA-SPE-0325	B1, DMA-SPE-0325 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.321	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.542	DMA-SPE-0346	B1, DMA-SPE-0346 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.321	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.541	DMA-SPE-0317	B1, DMA-SPE-0317 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.321	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.541	DMA-SPE-0318	B1, DMA-SPE-0318 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.321	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.541	DMA-SPE-0319	B1, DMA-SPE-0319 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.321	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.538	DMA-SPE-0315	B1, DMA-SPE-0315 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.538	DMA-SPE-0316	B1, DMA-SPE-0316 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.534	DMA-SPE-0311	B1, DMA-SPE-0311 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.534	DMA-SPE-0312	B1, DMA-SPE-0312 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.534	DMA-SPE-0313	B1, DMA-SPE-0313 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.533	DMA-SPE-0310	B1, DMA-SPE-0310 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.532	DMA-SPE-0270	B1, DMA-SPE-0270 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.532	DMA-SPE-0309	B1, DMA-SPE-0309 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.528	DMA-SPE-0269	B1, DMA-SPE-0269 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.320	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.527	DMA-SPE-0268	B1, DMA-SPE-0268 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.319	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.524	DMA-SPE-0001	B1, DMA-SPE-0001 PARENTS ROOM 109-1	Heat or smoke detector fault			2024.02.20 12:53:01.477	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.524	DMA-SPE-0267	B1, DMA-SPE-0267 CONC PAID AREA 103-1	Heat or smoke detector fault			2024.02.20 12:55:21.319	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.519	DMA-HTD-0123	B1, DMA-HTD-0123 MALE PUBLIC WC 106-1	Heat or smoke detector fault			2024.02.20 12:53:01.477	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.516	DMA-HTD-0100	B1, DMA-HTD-0100 MALE PUBLIC WC 106-1	Heat or smoke detector fault			2024.02.20 12:53:01.477	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.516	DMA-HTD-0102	B1, DMA-HTD-0102 CLEANERS STORE 236-1	Heat or smoke detector fault			2024.02.20 12:53:01.477	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.512	DMA-HTD-0002	B1, DMA-HTD-0002 ACC TOILET/CHANGE 108-2	Heat or smoke detector fault			2024.02.20 12:53:01.477	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.509	DMA-HTD-0001	B1, DMA-HTD-0001 ACC TOILET/CHANGE 108-1	Heat or smoke detector fault			2024.02.20 12:53:01.477	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.506	DMA-FPD-0014	B1, DMA-FPD-0014 ECS PLANTROOM 3 801-5	Heat or smoke detector fault			2024.02.20 12:55:22.570	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.506	DMA-FPD-0015	B1, DMA-FPD-0015 ECS PLANTROOM 3 801-5	Heat or smoke detector fault			2024.02.20 12:55:22.572	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.502	DMA-FPD-0012	B1, DMA-FPD-0012 ECS PLANTROOM 2 801-2	Heat or smoke detector fault			2024.02.20 12:54:34.161	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.502	DMA-FPD-0013	B1, DMA-FPD-0013 ECS PLANTROOM 2 801-2	Heat or smoke detector fault			2024.02.20 12:54:34.161	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.499	DMA-SPE-0647	B1, DMA-SPE-0647 AMS M STAFF LOCKR 251-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.498	DMA-SPE-0344	B1, DMA-SPE-0344 CONC UNPAID AREA 102-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.497	DMA-SPE-0254	B1, DMA-SPE-0254 CONC UNPAID AREA 102-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.497	DMA-SPE-0308	B1, DMA-SPE-0308 CONC UNPAID AREA 102-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.497	DMA-SPE-0314	B1, DMA-SPE-0314 CONC UNPAID AREA 102-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.496	DMA-SPE-0252	B1, DMA-SPE-0252 CONC UNPAID AREA 102-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:17.496	DMA-SPE-0253	B1, DMA-SPE-0253 CONC UNPAID AREA 102-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.069	DMA-SPE-0753	B1, DMA-SPE-0753 REFUSE COLLECT RM 238-1	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.068	DMA-SPE-0651	B1, DMA-SPE-0651 MAINT STAFF KITCH 250-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.068	DMA-SPE-0652	B1, DMA-SPE-0652 MAINT OFFICE 230-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.068	DMA-SPE-0710	B1, DMA-SPE-0710 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.504	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0592	B1, DMA-SPE-0592 GOODS LIFT LOBBY 402-3	Heat or smoke detector fault			2024.02.20 12:54:33.045	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0642	B1, DMA-SPE-0642 GENERAL OFFICE 209-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0644	B1, DMA-SPE-0644 PROT.SERV TEAROOM 215-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0645	B1, DMA-SPE-0645 PROT.SERV OFF WC 217-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0646	B1, DMA-SPE-0646 FIRST AID ROOM 105-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0648	B1, DMA-SPE-0648 MAINT M STAFF WC 253-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0649	B1, DMA-SPE-0649 AMS F STAFF LOCKR 252-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.065	DMA-SPE-0650	B1, DMA-SPE-0650 MAINT STAF DDA WC 255-1	Heat or smoke detector fault			2024.02.20 12:51:53.978	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0208	B1, DMA-SPE-0208 LV SWITCHROOM 5 650-5	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0265	B1, DMA-SPE-0265 LV SWITCHROOM 7 650-7	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0266	B1, DMA-SPE-0266 LV SWITCHROOM 7 650-7	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0412	B1, DMA-SPE-0412 FIRE LOBBY 406-6	Heat or smoke detector fault			2024.02.20 12:52:58.969	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0428	B1, DMA-SPE-0428 LV & COMM'S RISER 661-1	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0539	B1, DMA-SPE-0539 HVAC PLANT ROOM 811-4	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0540	B1, DMA-SPE-0540 GAS CYLINDER ROOM 409-3	Heat or smoke detector fault			2024.02.20 12:55:16.744	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0541	B1, DMA-SPE-0541 EMERG WASHDOWN 240-1	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0588	B1, DMA-SPE-0588 LV & COMM'S RISER 661-1	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0589	B1, DMA-SPE-0589 LV & COMM'S RISER 661-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.062	DMA-SPE-0591	B1, DMA-SPE-0591 LV & COMM'S RISER 661-2	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0154	B1, DMA-SPE-0154 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0155	B1, DMA-SPE-0155 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0156	B1, DMA-SPE-0156 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0159	B1, DMA-SPE-0159 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0160	B1, DMA-SPE-0160 FIRE LOBBY 406-9	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0161	B1, DMA-SPE-0161 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0162	B1, DMA-SPE-0162 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0163	B1, DMA-SPE-0163 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0176	B1, DMA-SPE-0176 PROT.SERV HANDOVR 216-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.061	DMA-SPE-0186	B1, DMA-SPE-0186 HVAC PLANT ROOM 811-6	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.060	DMA-SPE-0149	B1, DMA-SPE-0149 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.060	DMA-SPE-0151	B1, DMA-SPE-0151 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.060	DMA-SPE-0152	B1, DMA-SPE-0152 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.060	DMA-SPE-0153	B1, DMA-SPE-0153 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0132	B1, DMA-SPE-0132 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0133	B1, DMA-SPE-0133 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0134	B1, DMA-SPE-0134 MYKI ROOM 306-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0135	B1, DMA-SPE-0135 FIELD DEVICE RM 2 710-2	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0136	B1, DMA-SPE-0136 GENERAL OFFICE 209-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0146	B1, DMA-SPE-0146 PROT.SERV TEAROOM 215-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0147	B1, DMA-SPE-0147 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.059	DMA-SPE-0148	B1, DMA-SPE-0148 FIRE ESCAPE C'DOR 405-5	Heat or smoke detector fault			2024.02.20 12:53:29.296	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.058	DMA-SPE-0128	B1, DMA-SPE-0128 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.058	DMA-SPE-0129	B1, DMA-SPE-0129 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.058	DMA-SPE-0130	B1, DMA-SPE-0130 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.058	DMA-SPE-0131	B1, DMA-SPE-0131 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.747	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.056	DMA-SPE-0126	B1, DMA-SPE-0126 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.056	DMA-SPE-0127	B1, DMA-SPE-0127 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0103	B1, DMA-SPE-0103 EQUIPMENT ROOM 234-1	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0104	B1, DMA-SPE-0104 MAINT WORKSHOP 231-1	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0105	B1, DMA-SPE-0105 HVAC PLANT ROOM 811-4	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0106	B1, DMA-SPE-0106 HVAC PLANT ROOM 811-6	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0107	B1, DMA-SPE-0107 HVAC PLANT ROOM 811-6	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0121	B1, DMA-SPE-0121 MAINT. OFFICE 230-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0122	B1, DMA-SPE-0122 HVAC PLANT ROOM 811-7	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0123	B1, DMA-SPE-0123 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0124	B1, DMA-SPE-0124 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.055	DMA-SPE-0125	B1, DMA-SPE-0125 BOH CORRIDOR 151-5	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.054	DMA-SPE-0102	B1, DMA-SPE-0102 LIFT/ESC STORE 232-1	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.052	DMA-SPE-0002	B1, DMA-SPE-0002 RECYCLED WATER RM 885-1	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.052	DMA-SPE-0003	B1, DMA-SPE-0003 RECYCLED WATER RM 885-1	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.052	DMA-SPE-0008	B1, DMA-SPE-0008 REFUSE COLLECT RM 238-1	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.052	DMA-SPE-0009	B1, DMA-SPE-0009 REFUSE COLLECT RM 238-1	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.052	DMA-SPE-0100	B1, DMA-SPE-0100 ECS PLANTROOM 3 801-3	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.052	DMA-SPE-0101	B1, DMA-SPE-0101 ECS PLANTROOM 3 801-5	Heat or smoke detector fault			2024.02.20 12:55:18.746	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0105	B1, DMA-HTD-0105 FIRST AID ROOM 105-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0106	B1, DMA-HTD-0106 AMS MALE SHOWER 257-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0107	B1, DMA-HTD-0107 MAINT M STAFF WC 253-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0108	B1, DMA-HTD-0108 AMS STAFF F LOCK 252-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0109	B1, DMA-HTD-0109 MAINT STAFF KITCH 250-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0110	B1, DMA-HTD-0110 MAINT STAF DDA WC 255-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0117	B1, DMA-HTD-0117 PROT.SERV OFF WC 217-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.051	DMA-HTD-0130	B1, DMA-HTD-0130 AMS STAFF M LOCK 251-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:12.049	DMA-HTD-0104	B1, DMA-HTD-0104 PROT.SERV TEA PNT 218-1	Heat or smoke detector fault			2024.02.20 12:51:53.977	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.777	DMA-SPE-0708	B1, DMA-SPE-0708 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.777	DMA-SPE-0011	B1, DMA-SPE-0011 ECS PLANTROOM 801-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.777	DMA-SPE-0012	B1, DMA-SPE-0012 ECS PLANTROOM 801-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.777	DMA-SPE-0013	B1, DMA-SPE-0013 SPF ROOM 802-6	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.776	DMA-SPE-0542	B1, DMA-SPE-0542 ECS PLANTROOM 801-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.776	DMA-SPE-0543	B1, DMA-SPE-0543 ECS PLANTROOM 801-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.776	DMA-SPE-0544	B1, DMA-SPE-0544 FIRE LOBBY 406-5	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.776	DMA-SPE-0575	B1, DMA-SPE-0575 HVAC PLANT ROOM 811-5	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.776	DMA-SPE-0590	B1, DMA-SPE-0590 ECS PLANTROOM 801-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.776	DMA-SPE-0640	B1, DMA-SPE-0640 CUST.SERVICE CTR 202-1	Heat or smoke detector fault			2024.02.20 12:51:53.765	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.776	DMA-SPE-0641	B1, DMA-SPE-0641 CUST.SERVICE CTR 202-1	Heat or smoke detector fault			2024.02.20 12:51:53.765	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0108	B1, DMA-SPE-0108 ECS PLANTROOM 3 801-4	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0109	B1, DMA-SPE-0109 ECS PLANTROOM 3 801-4	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0110	B1, DMA-SPE-0110 ECS PLANTROOM 3 801-4	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0111	B1, DMA-SPE-0111 FIRE LOBBY 406-2	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0112	B1, DMA-SPE-0112 BOH CORRIDOR 151-6	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0113	B1, DMA-SPE-0113 BOH CORRIDOR 151-6	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0114	B1, DMA-SPE-0114 BOH CORRIDOR 151-6	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0115	B1, DMA-SPE-0115 BOH CORRIDOR 151-6	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0116	B1, DMA-SPE-0116 BOH CORRIDOR 151-6	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0117	B1, DMA-SPE-0117 ECS PLANTROOM 2 801-2	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0118	B1, DMA-SPE-0118 ECS PLANTROOM 801-2	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0119	B1, DMA-SPE-0119 SPF ROOM 802-5	Heat or smoke detector fault			2024.02.20 12:54:32.151	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0120	B1, DMA-SPE-0120 NON HAB VOID 297-4	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0137	B1, DMA-SPE-0137 CUST.SERVICE CTR 202-1	Heat or smoke detector fault			2024.02.20 12:51:53.765	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0138	B1, DMA-SPE-0138 CUST.SERVICE CTR 202-1	Heat or smoke detector fault			2024.02.20 12:51:50.776	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0164	B1, DMA-SPE-0164 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0165	B1, DMA-SPE-0165 FIRE ESCAPE C'DOR 405-2	Heat or smoke detector fault			2024.02.20 12:52:58.968	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0179	B1, DMA-SPE-0179 TUN VENT FAN ROOM 830-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0180	B1, DMA-SPE-0180 TUN VENT FAN ROOM 830-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0181	B1, DMA-SPE-0181 TUN VENT FAN ROOM 830-3	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0182	B1, DMA-SPE-0182 TUN VENT FAN ROOM 830-3	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0183	B1, DMA-SPE-0183 OTE EXH.FAN EAST 831-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0184	B1, DMA-SPE-0184 OTE EXH.FAN EAST 831-2	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.775	DMA-SPE-0185	B1, DMA-SPE-0185 ECS PLANTROOM 3 801-4	Heat or smoke detector fault			2024.02.20 12:54:32.152	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-SPE-0566	GF, DMA-SPE-0566 BOILER PLANT ROOM 808-2	Heat or smoke detector fault			2024.02.20 12:55:07.757	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-SPE-0567	GF, DMA-SPE-0567 RETAIL UNIT 901-4	Heat or smoke detector fault			2024.02.20 12:55:07.757	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0007	B1, DMA-IVM-0007 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0008	B1, DMA-IVM-0008 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0016	B1, DMA-IVM-0016 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:54:31.727	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0029	B2, DMA-IVM-0029 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:54:31.727	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0033	B2, DMA-IVM-0033 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:55:05.727	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0035	B2, DMA-IVM-0035 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:52:58.757	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0036	B2, DMA-IVM-0036 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:52:58.757	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0037	B2, DMA-IVM-0037 Hydrant M/V	Heat or smoke detector fault			2024.02.20 12:52:58.757	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0038	B1, DMA-IVM-0038 Sprinkler M/V	Heat or smoke detector fault			2024.02.20 12:52:55.856	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-IVM-0039	B1, DMA-IVM-0039 Sprinkler M/V	Heat or smoke detector fault			2024.02.20 12:54:31.728	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.774	DMA-HTD-0103	B1, DMA-HTD-0103 CUST.SERVICE CTR 202-1	Heat or smoke detector fault			2024.02.20 12:51:50.776	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.773	DMA-HTD-0124	GF, DMA-HTD-0124 REFUSE ROOM 239-1	Heat or smoke detector fault			2024.02.20 12:55:07.757	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.773	DMA-HTD-0129	GF, DMA-HTD-0129 FIELD DEVICE RM 5 710-5	Heat or smoke detector fault			2024.02.20 12:55:07.757	0	AZC
+WENT UNACK Low	2024.02.20 12:49:04.773	DMA-SPE-0229	B1, DMA-SPE-0229 BOH CORRIDOR 151-1	Heat or smoke detector fault			2024.02.20 12:53:25.848	0	AZC
+WENT UNACK Low	2024.02.20 12:49:03.776	DMA-FLS-0001	GF, DMA-FLS-0001 Sprinkler F/S	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:49:03.776	DMA-FLS-0002	GF, DMA-FLS-0002 Sprinkler F/S	Heat or smoke detector fault			2024.02.20 12:55:47.741	0	AZC
+WENT UNACK Low	2024.02.20 12:49:03.776	DMA-FLS-0004	GF, DMA-FLS-0004 Sprinkler F/S	Heat or smoke detector fault			2024.02.20 12:52:55.856	0	AZC
+WENT UNACK Low	2024.02.20 12:49:03.776	DMA-FLS-0005	GF, DMA-FLS-0005 Sprinkler F/S	Heat or smoke detector fault			2024.02.20 12:54:31.727	0	AZC
+WENT UNACK Low	2024.02.20 12:49:03.776	DMA-FLS-0010	B2, DMA-FLS-0010 Sprinkler F/S	Heat or smoke detector fault			2024.02.20 12:54:31.727	0	AZC
+WENT UNACK Low	2024.02.20 12:49:03.776	DMA-FLS-0011	B2, DMA-FLS-0011 Sprinkler F/S	Heat or smoke detector fault			2024.02.20 12:54:31.727	0	AZC
+WENT UNACK Low	2024.02.20 12:30:31.239	PKV_TEXB	Tunnel Ambient Temperature Control - Westbound	Temperature Sensors B - Discrepancy 			2024.02.20 12:33:55.239	0	PKV
+WENT UNACK Low	2024.02.20 12:13:01.624	PKV-W-PSD-019	Parkville Platform 1 Zone 2 PSD 19	PSD isolated			2024.02.20 12:18:25.625	0	PKV
+WENT UNACK Low	2024.02.20 11:43:40.097	DMA_FCU_1136_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.665	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.146	DMA_FCU_1129_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.654	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.146	DMA_FCU_1130_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.654	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.146	DMA_FCU_1131_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.654	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.146	DMA_FCU_1132_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.665	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.146	DMA_FCU_1133_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.665	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.146	DMA_FCU_1135_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.665	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.133	DMA_AHU_1101_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.633	0	AZC
+WENT UNACK Low	2024.02.20 11:43:39.133	DMA_AHU_1103_MCV_01	Air Handling Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 12:37:13.633	0	AZC
+WENT UNACK Low	2024.02.20 11:41:39.830	DMA_MCC_0402_ATS_01	DMA-MCC-0402-ESB-03 ATS	Automatic transfer switch unhealthy			2024.02.20 12:37:07.737	0	AZC
+WENT UNACK Low	2024.02.20 11:00:17.625	PKV-W-PSD-011	Parkville Platform 1 Zone 2 PSD 11	PSD isolated			2024.02.20 11:02:23.625	0	PKV
+WENT UNACK Low	2024.02.20 10:34:47.984	ESS-Section-05A	Traction Section Parkville to State Library	Section A Traction Power status Unknown			2024.02.20 10:35:28.983	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.984	ESS-Section-05B	Traction Section Parkville to State Library section B	Section A Traction Power status Unknown			2024.02.20 10:35:28.984	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.984	ESS-Section-06A	Traction Section State Library Station	Section A Traction Power status Unknown			2024.02.20 10:35:28.984	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.984	ESS-Section-06B	Traction Section State Library Station section B	Section A Traction Power status Unknown			2024.02.20 10:35:28.984	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.984	ESS-Section-07A	Traction Section State Library to Town Hall	Section A Traction Power status Unknown			2024.02.20 10:35:28.984	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.984	ESS-Section-07B	Traction Section State Library to Town hall section B	Section A Traction Power status Unknown			2024.02.20 10:35:28.984	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.984	ESS-Section-08A	Traction Section Town Hall Station	Section A Traction Power status Unknown			2024.02.20 10:35:28.984	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.983	ESS-Section-03A	Traction Section Arden to Parkville	Section A Traction Power status Unknown			2024.02.20 10:35:28.983	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.983	ESS-Section-03B	Traction Section Arden to Parkville section B	Section A Traction Power status Unknown			2024.02.20 10:35:28.983	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.983	ESS-Section-04A	Traction Section Parkville Station	Section A Traction Power status Unknown			2024.02.20 10:35:28.983	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.983	ESS-Section-04B	Traction Section Parkville Station section B	Section A Traction Power status Unknown			2024.02.20 10:35:28.983	0	SDU
+WENT UNACK Low	2024.02.20 10:34:47.980	essGeneral	ESS Overall health Status	ELECTROL SCADA System Timeout. All Traction Power State Unknown.			2024.02.20 10:35:28.980	0	SDU
+WENT UNACK Low	2024.02.20 09:55:15.839	DMA-SPE-0742	B2, DMA-SPE-0742 PLATFORM AREA 104-1	Heat or smoke detector fault			2024.02.20 09:55:52.821	0	AZC
+WENT UNACK Low	2024.02.20 09:28:49.352	DMA_LFT_0001	Lift 1 FOH (B2 Basement to B1 Basement)	Lift safety feature fault			2024.02.21 08:04:47.366	0	AZC
+WENT UNACK Low	2024.02.20 08:54:47.848	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	Speaker fault			2024.02.20 11:27:11.853	0	STL
+WENT UNACK Low	2024.02.20 07:39:15.330	DMA_FCU_0107_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.20 07:49:03.516	0	AZC
+WENT UNACK Low	2024.02.19 17:06:16.328	PAE-ASD-0003	B1U, PAE-ASD-0003 Under Platform F1	Aspirating smoke detector fault			2024.02.19 17:06:55.328	0	SDU
+WENT UNACK Low	2024.02.19 13:22:16.578	AEN_StationFunc	TVCS Operator Fire Emergency Section 02 - Arden Station	Station Fire Ventilation Mode Still On Without An Active Fire Alarm			2024.02.19 17:03:11.579	0	SDU
+WENT UNACK Low	2024.02.19 11:18:56.408	PKV_FCU_1219_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.19 11:19:00.403	0	PKV
+WENT UNACK Low	2024.02.19 11:18:56.408	PKV_FCU_0211_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.19 11:19:03.443	0	PKV
+WENT UNACK Low	2024.02.19 11:18:56.408	PKV_FCU_0211_MCV_02	Fan Coil Unit - Hot Water Valve	Modulated device position discrepancy fault alarm			2024.02.19 11:19:06.409	0	PKV
+WENT UNACK Low	2024.02.19 11:18:56.408	PKV_FCU_0402_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm			2024.02.19 11:19:25.442	0	PKV
+WENT UNACK Low	2024.02.19 09:48:47.504	PKV_SDP_0103_04_FG	Station Drainage Pump - Function Group	Station drainage pit not dropping!			2024.02.19 09:49:02.437	0	PKV
+WENT UNACK Low	2024.02.19 07:40:47.299	PKV-IVM-0039	B3, PKV-IVM-0039 405-4 Esc Corridor M/V	Heat or smoke detector fault			2024.02.19 13:18:37.220	0	PKV
+WENT UNACK Low	2024.02.19 07:40:47.218	PKV-ASD-0024	B3, PKV-ASD-0024 BOH CORRIDOR - F1	Aspirating smoke detector fault			2024.02.19 13:18:37.220	0	PKV
+WENT UNACK Low	2024.02.19 07:36:52.204	PKV-SPE-0118	B1, PKV-SPE-0118 UPS/BATT ROOM B 640-2	Heat or smoke detector fault			2024.02.19 10:28:47.217	0	PKV
+WENT UNACK Low	2024.02.19 07:36:52.204	PKV-SPE-0119	B1, PKV-SPE-0119 UPS/BATT ROOM B 640-2	Heat or smoke detector fault			2024.02.19 10:28:47.217	0	PKV
+WENT UNACK Low	2024.02.19 07:36:52.204	PKV-SPE-0174	B1, PKV-SPE-0174 UPS/BATT ROOM A 640-1	Heat or smoke detector fault			2024.02.19 10:28:47.217	0	PKV
+WENT UNACK Low	2024.02.19 07:36:52.204	PKV-SPE-0175	B1, PKV-SPE-0175 UPS/BATT ROOM B 640-2	Heat or smoke detector fault			2024.02.19 10:28:47.217	0	PKV
+WENT UNACK Low	2024.02.19 07:36:52.204	PKV-SPE-0178	B1, PKV-SPE-0178 UPS/BATT ROOM A 640-1	Heat or smoke detector fault			2024.02.19 10:28:47.217	0	PKV
+WENT UNACK Low	2024.02.19 07:36:52.204	PKV-SPE-0179	B1, PKV-SPE-0179 UPS/BATT ROOM A 640-1	Heat or smoke detector fault			2024.02.19 10:28:47.217	0	PKV
+WENT UNACK Low	2024.02.19 07:36:52.204	PKV-SPE-0180	B1, PKV-SPE-0180 UPS/BATT ROOM A 640-1	Heat or smoke detector fault			2024.02.19 10:28:47.217	0	PKV
+WENT UNACK Low	2024.02.19 07:24:17.631	PKV-E-PLT	Parkville Platform 2	PSI falsely illuminated			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK Low	2024.02.19 07:24:13.631	PKV-E-PLT	Parkville Platform 2	Remote LCP fault			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK Low	2024.02.19 07:24:09.631	PKV-E-PLT	Parkville Platform 2	Driver Control Panel fault 			2024.02.19 07:24:21.631	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.929	PKV-IVM-0037	B3, PKV-IVM-0037 S-03 Escape Stair 3 M/V	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.929	PKV-IVM-0038	B3, PKV-IVM-0038 S-03 Escape Stair 3 M/V	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.929	PKV-IVM-0040	B3, PKV-IVM-0040 405-4 Esc Corridor M/V	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.929	PKV-IVM-0041	B3, PKV-IVM-0041 405-4 Esc Corridor M/V	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.852	PKV-SPE-1210	B3 PKV-SPE-1210 FIRE ESC.C'DOR 405-5 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.852	PKV-SPE-1211	B3, PKV-SPE-1211 FIRE ESC.C'DOR 405-4	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.852	PKV-SPE-1212	B3, PKV-SPE-1212 FIRE ESC.C'DOR 405-4	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.852	PKV-SPE-1213	B3 PKV-SPE-1213 FIRE ESC.C'DOR 405-4 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.852	PKV-FPD-0020	B3, PKV-FPD-0020 (SPF-0301) STAIR  	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.852	PKV-FPD-0021	B3, PKV-FPD-0021 (SPF-0302) STAIR 	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-0728	B3, PKV-SPE-0728 UNALLOCATED ROOM 299-4	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-0729	B3, PKV-SPE-0729 DRAIN PUMP ROOM	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-0730	B3, PKV-SPE-0730 LIFT 8 PKV-LFT-0008	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-0731	B3, PKV-SPE-0731 BOH CORRIDOR 151-34	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-0732	B3, PKV-SPE-0732 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-1202	B3, PKV-SPE-1202 FIRE LOBBY 406-7 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-1203	B3 PKV-SPE-1203 FIRE ESC.C'DOR 405-5 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-1204	B3 PKV-SPE-1204 FIRE ESC.C'DOR 405-5 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-1205	B3, PKV-SPE-1205 FIRE LOBBY 406-6 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-1206	B3, PKV-SPE-1206 FIRE LOBBY 406-21 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-1207	B3, PKV-SPE-1207 FIRE LOBBY 406-8 C/S	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.224	PKV-SPE-1208	B3, PKV-SPE-1208 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.221	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0655	B3, PKV-SPE-0655 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0656	B3, PKV-SPE-0656 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0657	B3, PKV-SPE-0657 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0658	B3, PKV-SPE-0658 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0660	B3, PKV-SPE-0660 STAFF BIKE STORE 290-1	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0661	B3, PKV-SPE-0661 FIRE LOBBY 406-8	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0662	B3, PKV-SPE-0662 FIRE LOBBY 406-7	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0663	B3, PKV-SPE-0663 FIRE LOBBY 406-7	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0664	B3, PKV-SPE-0664 FIRE LOBBY 406-7	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0665	B3, PKV-SPE-0665 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0666	B3, PKV-SPE-0666 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0667	B3, PKV-SPE-0667 FIRE LOBBY 406-21	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0681	B3, PKV-SPE-0681 FIRE ESC.C'DOR 405-4	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0682	B3, PKV-SPE-0682 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0697	B3, PKV-SPE-0697 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0698	B3, PKV-SPE-0698 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0720	B3, PKV-SPE-0720 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0721	B3, PKV-SPE-0721 LIFT 9 LIFT LOBBY	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0722	B3, PKV-SPE-0722 FIRE LOBBY 406-9	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0725	B3, PKV-SPE-0725 FIRE LOBBY 406-6	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0726	B3, PKV-SPE-0726 BOH CORRIDOR 151-33	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.223	PKV-SPE-0727	B3, PKV-SPE-0727 BOH CORRIDOR 151-34	Heat or smoke detector fault			2024.02.19 07:39:58.220	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.222	PKV-SPE-0646	B3, PKV-SPE-0646 FIRE LOBBY 402-6	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.222	PKV-SPE-0650	B3, PKV-SPE-0650 BOH CORRIDOR 151-18	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.222	PKV-SPE-0651	B3, PKV-SPE-0651 MECH RISER 821-18	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.222	PKV-SPE-0652	B3, PKV-SPE-0652 HYDRAULIC RISER 890-11	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.222	PKV-SPE-0653	B3, PKV-SPE-0653 HYDRAULIC RISER 890-3	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.19 07:05:32.222	PKV-SPE-0654	B3, PKV-SPE-0654 FIRE ESC.C'DOR 405-5	Heat or smoke detector fault			2024.02.19 07:39:58.219	0	PKV
+WENT UNACK Low	2024.02.18 14:26:34.242	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	Loss of redundancy (fans)			2024.02.18 14:26:39.229	0	PKV
+WENT UNACK Low	2024.02.18 14:26:04.581	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Degraded			2024.02.18 14:26:43.583	0	SDU
+WENT UNACK Low	2024.02.18 14:26:02.230	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	Loss of redundancy (fans)			2024.02.18 14:26:08.248	0	PKV
+WENT UNACK Low	2024.02.18 14:25:51.622	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Degraded			2024.02.18 14:26:00.583	0	SDU
+WENT UNACK Low	2024.02.18 14:25:19.225	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	Loss of redundancy (fans)			2024.02.18 14:25:29.226	0	PKV
+WENT UNACK Low	2024.02.18 14:22:20.588	S03_TunnelFunc	TVCS Operator Fire Emergency Section 03	Train Fire Ventilation Mode Still On Without An Active Train Fire			2024.02.18 14:22:47.589	0	SDU
+WENT UNACK Low	2024.02.18 14:10:35.229	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Degraded			2024.02.18 14:26:13.228	0	SDU
+WENT UNACK Low	2024.02.17 15:44:43.848	TNC-E-PSD-030	State Library Platform 2 Zone 3 PSD 30	PSD isolated			2024.02.17 20:00:21.848	0	STL
+WENT UNACK Low	2024.02.17 15:44:09.851	TNC-E-PSD-026	State Library Platform 2 Zone 3 PSD 26	PSD isolated			2024.02.17 19:59:39.852	0	STL
+WENT UNACK Low	2024.02.17 15:43:41.857	TNC-E-PSD-023	State Library Platform 2 Zone 3 PSD 23	PSD isolated			2024.02.17 19:59:11.853	0	STL
+WENT UNACK Low	2024.02.17 15:43:05.855	TNC-E-PSD-020	State Library Platform 2 Zone 2 PSD 20	PSD isolated			2024.02.17 19:58:45.856	0	STL
+WENT UNACK Low	2024.02.17 15:42:39.850	TNC-E-PSD-017	State Library Platform 2 Zone 2 PSD 17	PSD isolated			2024.02.17 19:58:09.853	0	STL
+WENT UNACK Low	2024.02.17 15:42:19.849	TNC-E-PSD-014	State Library Platform 2 Zone 2 PSD 14	PSD isolated			2024.02.17 19:57:43.850	0	STL
+WENT UNACK Low	2024.02.17 15:41:59.849	TNC-E-PSD-011	State Library Platform 2 Zone 2 PSD 11	PSD isolated			2024.02.17 19:57:05.847	0	STL
+WENT UNACK Low	2024.02.17 15:41:35.854	TNC-E-PSD-008	State Library Platform 2 Zone 1 PSD 08	PSD isolated			2024.02.17 19:56:43.850	0	STL
+WENT UNACK Low	2024.02.17 15:40:53.848	TNC-E-PSD-005	State Library Platform 2 Zone 1 PSD 05	PSD isolated			2024.02.17 19:56:21.849	0	STL
+WENT UNACK Low	2024.02.17 15:38:37.848	TNC-E-PSD-001	State Library Platform 2 Zone 1 PSD 01	PSD isolated			2024.02.17 19:55:47.850	0	STL
+WENT UNACK Low	2024.02.16 08:10:10.364	PAE-SPE-0024	L1, PAE-SPE-0024 Airlock 153-1	Point Alarm			2024.02.19 09:35:47.366	0	SDU
+WENT UNACK Low	2024.02.12 09:40:45.660	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	PSD isolated			2024.02.19 07:41:31.625	0	PKV
+ACK High	2024.02.21 08:08:59.180	AEN-W-EED-040	Arden Platform 1 Zone 3 EED 40	EED Unscheduled Door Opening!	2024.02.21 08:37:20.486	operator		0	ARN
+ACK High	2024.02.21 03:47:17.169	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.21 08:36:33.671	operator		0	ARN
+ACK High	2024.02.20 23:36:29.170	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door Unscheduled Door Opening!	2024.02.21 08:35:03.487	operator		0	ARN
+ACK High	2024.02.20 13:26:31.168	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.21 08:36:31.397	operator		0	ARN
+ACK High	2024.02.20 13:25:33.170	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.21 08:36:29.419	operator		0	ARN
+ACK High	2024.02.16 02:25:31.220	DMA-W-PED-001	Anzac Platform 1 PED 01	Platform End Door Unscheduled Door Opening!	2024.02.17 09:31:20.196	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:51:11.524	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	All fans inoperative!	2024.02.17 08:10:16.999	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:49:00.536	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	All fans inoperative!	2024.02.17 08:10:16.700	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:46:33.537	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	All fans inoperative!	2024.02.17 08:10:41.653	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:46:16.534	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!	2024.02.17 08:10:02.867	sergio_paniagua		0	AZC
+ACK High	2024.02.15 15:30:54.539	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!	2024.02.17 08:10:03.227	sergio_paniagua		0	SDU
+ACK High	2024.02.15 15:30:54.539	DMA_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!	2024.02.17 08:10:21.556	sergio_paniagua		0	SDU
+ACK High	2024.02.15 09:10:46.397	DMA_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!	2024.02.17 09:31:41.867	sergio_paniagua		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-013	Anzac Platform 1 Zone 2 PSD 13	PSD Unscheduled Door Opening!	2024.02.17 09:31:44.400	sergio_paniagua		0	AZC
+ACK High	2024.02.15 08:04:27.886	DMA-W-PSD-015	Anzac Platform 1 Zone 2 PSD 15	PSD Unscheduled Door Opening!	2024.02.17 09:31:45.832	sergio_paniagua		0	AZC
+ACK High	2024.01.15 14:33:26.677	_Driver2	MTTHL:_Driver2.	Driver overloaded	2024.01.18 09:02:39.998	himanshu_kakkad		0	AZC
+ACK Med	2024.02.15 15:51:11.524	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Unavailable	2024.02.17 08:10:16.470	sergio_paniagua		0	SDU
+ACK Med	2024.02.15 15:46:16.534	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Tunnel section ventilation unavailable	2024.02.17 08:10:16.157	sergio_paniagua		0	SDU
+ACK Med	2024.02.12 10:56:29.410	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 1	2024.02.17 09:40:23.432	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.408	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 0	2024.02.17 09:40:26.058	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.406	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 1	2024.02.17 09:40:28.465	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.404	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 0	2024.02.17 09:40:30.691	sergio_pareja		0	ARN
+ACK Med	2024.02.12 10:56:29.339	_Conn_event_0_1_to_driver_1_1	Distributed Server 1	Connection lost	2024.02.17 09:40:34.980	sergio_pareja		0	ARN
+ACK Med	2023.11.06 09:46:20.181	_RDBArchive_2	Anzac Server 2	RDB Connection Lost	2023.11.27 11:09:34.324	farrell_atlas		0	ARN
+ACK Med	2023.11.06 09:46:20.180	_RDBArchive	Anzac Server 1	RDB Connection Lost	2023.11.28 08:35:41.426	chris_lawson		0	AZC
+ACK Med	2023.10.21 17:29:12.128	_RDBArchive_2	Parkville Server 2	RDB Connection Lost	2023.11.28 08:35:41.462	chris_lawson		0	STL
+ACK Med	2023.10.21 17:29:12.125	_RDBArchive	Parkville Server 1	RDB Connection Lost	2023.11.28 08:35:41.462	chris_lawson		0	PKV
+ACK Med	2023.10.10 08:29:54.232	_RDBArchive_2	Town Hall Server 2	RDB Connection Lost	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:54.231	_RDBArchive	Town Hall Server 1	RDB Connection Lost	2023.11.28 08:35:41.398	chris_lawson		0	THL
+ACK Med	2023.10.10 08:29:53.877	_TSC-BMS-PLC_2	MTTHL:_TSC-BMS-PLC_2.	Communications Fault - Town Hall Server 2 to Town Hall BMS PLC	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:53.243	_TSC-FDS-S7PLUS_2	MTTHL:_TSC-FDS-S7PLUS_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:52.927	_TSC-FDS-S7PLUS	MTTHL:_TSC-FDS-S7PLUS.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2023.11.28 08:35:41.398	chris_lawson		0	THL
+ACK Med	2023.10.10 08:29:50.304	_Mod_Plc_4_2	MTTHL:_Mod_Plc_4_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:49.671	_Mod_Plc_3_2	MTTHL:_Mod_Plc_3_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:29:49.030	_Mod_Plc_2_2	MTTHL:_Mod_Plc_2_2.	Communications Fault - Town Hall Server 2 to Town Hall FDS Gateway	2023.11.28 08:35:41.398	chris_lawson		0	AZC
+ACK Med	2023.10.10 08:12:51.271	_RDBArchive_2	State Library Server 2	RDB Connection Lost	2023.11.28 08:35:41.432	chris_lawson		0	THL
+ACK Med	2023.10.10 08:12:51.268	_RDBArchive	State Library Server 1	RDB Connection Lost	2023.11.28 08:35:41.432	chris_lawson		0	STL
+ACK Low	2024.02.21 07:46:27.084	AEN_DOR_GF_151-12_1	Access to office - Ground Floor	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.21 02:52:45.925	AEN_DOR_GF_246-1_2	Security Door (GF WEST) 	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 18:23:33.528	AEN_DOR_L1_ESC_STAIRS_5_1	Security Door (L1 EAST) 	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 14:21:41.845	AEN_DOR_LG_ESC_STAIR_07_1	Security Door (LG WEST) 	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 14:21:11.411	AEN_DOR_LG_ESC_STAIR_07_1	Security Door (LG WEST) 	Unauthorised access	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 14:07:41.479	AEN_DOR_GF_405-2_2	East Emergency Stairs - Ground Floor	Door open too long	2024.02.20 14:08:09.287	eric_maddocks		0	ARN
+ACK Low	2024.02.20 14:07:11.713	AEN_DOR_GF_405-2_2	East Emergency Stairs - Ground Floor	Unauthorised access	2024.02.20 14:08:08.957	eric_maddocks		0	ARN
+ACK Low	2024.02.20 13:51:10.237	AEN_DOR_B1_ESC_STAIR_04_1	Security Door (B1 EAST) 	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 13:50:40.672	AEN_DOR_B1_ESC_STAIR_04_1	Security Door (B1 EAST) 	Unauthorised access	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 13:45:06.923	AEN_DOR_B1_151-3_1	West BOH Corridor Entry - Concourse	Unauthorised access	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 11:54:53.220	AEN_DOR_B1_151-4_1	Security Door (B1 EAST) 	Door open too long	2024.02.20 11:57:24.331	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 10:11:45.723	AEN_DOR_LG_405-3_1	Fire escape Corridor - Lower Ground Floor	Door open too long	2024.02.21 08:32:52.964	operator		0	ARN
+ACK Low	2024.02.20 10:08:10.723	AEN_DOR_LG_405-3_2	Fire escape Corridor - Lower Ground Floor	Door open too long	2024.02.20 10:19:40.026	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 10:01:07.641	AEN_DOR_B2_ESC_STAIRS_04_3	Security Door (B2 EAST) 	Door open too long	2024.02.20 11:42:43.562	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 10:00:52.630	AEN_DOR_B2_ESC_STAIRS_04_3	Security Door (B2 EAST) 	Unauthorised access	2024.02.20 11:42:43.428	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.864	AEN_DOR_L2_ESC_STAIRS_5_2	Security Door (L2 EAST) 	Door open too long	2024.02.20 11:49:23.395	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.820	AEN_DOR_GF_ESC_STAIR_9_1	Security Door (GF EAST) 	Door open too long	2024.02.20 11:06:02.096	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.727	AEN_DOR_GF_246-2_1	Security Door (GF EAST) 	Door open too long	2024.02.20 11:38:32.110	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.684	AEN_DOR_GF_246-1_1	Security Door (GF WEST) 	Door open too long	2024.02.20 11:37:42.998	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.616	AEN_DOR_B2_ESC_STAIRS_04_2	Security Door (B2 EAST) 	Door open too long	2024.02.20 11:42:17.532	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.559	AEN_DOR_B2_ESC_STAIRS_03_2	Security Door (B2 WEST) 	Door open too long	2024.02.20 11:40:46.943	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.540	AEN_DOR_B2_ESC_STAIRS_03_1	Security Door (B2 WEST) 	Door open too long	2024.02.20 11:43:27.868	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.528	AEN_DOR_B2_ESC_STAIRS_03_1	Security Door (B2 WEST) 	Unauthorised access	2024.02.20 11:43:27.731	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.504	AEN_DOR_B2_403-1_2	Security Door (B2 WEST) 	Door open too long	2024.02.20 11:48:34.065	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.483	AEN_DOR_B2_403-1_1	Security Door (B2 WEST) 	Door open too long	2024.02.20 11:48:05.496	dominic_dlasselle		0	ARN
+ACK Low	2024.02.20 09:50:36.385	AEN_DOR_B1_151-3_1	West BOH Corridor Entry - Concourse	Door open too long	2024.02.20 10:55:02.281	eric_maddocks		0	ARN
+ACK Low	2024.02.19 10:35:50.142	AEN_FCU_1911_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.21 08:30:02.264	operator		0	ARN
+ACK Low	2024.02.19 10:35:50.131	AEN_FCU_0107_MCV_01	Fan Coil Unit - Chilled Water Valve	Modulated device position discrepancy fault alarm	2024.02.21 08:30:10.776	operator		0	ARN
+ACK Low	2024.02.19 10:35:20.039	SDU_FCU_0402	Air Cooled Unit	Communications lost alarm	2024.02.21 08:42:11.468	kai_longley		0	SDU
+ACK Low	2024.02.19 10:35:20.039	SDU_FCU_0602	Air Cooled Unit	Communications lost alarm	2024.02.21 08:42:22.265	kai_longley		0	SDU
+ACK Low	2024.02.17 13:12:25.119	AEN_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault	2024.02.21 08:32:52.897	operator		0	ARN
+ACK Low	2024.02.17 13:12:24.090	AEN_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault	2024.02.21 08:32:52.897	operator		0	ARN
+ACK Low	2024.02.17 13:09:51.116	AEN_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift General Fault	2024.02.17 13:10:00.454	sergio_paniagua		0	ARN
+ACK Low	2024.02.17 13:09:13.060	AEN_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift General Fault	2024.02.17 13:09:41.264	sergio_paniagua		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0403_MFM_02	AEN-LFT-0003 Multi-function Meter	Communications lost alarm	2024.02.17 09:40:48.272	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_00	AEN-MSB-0401-ESB-01 Multi-function Meter	Communications lost alarm	2024.02.17 09:40:53.465	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_01	AEN-MCC-0401 Multi-function Meter	Communications lost alarm	2024.02.17 09:40:55.825	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_02	AEN-SPF-0001-VSD-01 Multi-function Meter	Communications lost alarm	2024.02.17 09:40:58.565	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_03	AEN-LFT-0005 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:03.044	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_04	AEN-LFT-0005 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:05.467	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_05	AEN-LFT-0001 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:09.364	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_14	AEN-MSS-0401 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:17.849	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_17	AEN-TEP-0301-PCP-01 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:20.028	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_18	SDU-TEP-0301-PCP-01 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:22.267	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0401_MFM_19	PAE-MDB-0401 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:24.577	sergio_pareja		0	ARN
+ACK Low	2024.02.15 16:28:28.921	AEN_MSB_0402_MFM_19	PAE-MDB-0402 Multi-function Meter	Communications lost alarm	2024.02.17 09:41:26.776	sergio_pareja		0	ARN
+ACK Low	2024.02.12 10:56:29.365	_Conn_event_0_1_to_dist_1_1	Distributed Server 1	Connection lost - Event to Distribution Manager - Link 1	2024.02.17 09:41:31.617	sergio_pareja		0	ARN
+ACK Low	2024.02.12 10:56:29.352	_Conn_event_0_1_to_redu_1_1	Distributed Server 1	Connection lost - Event to Redundancy Manager - Link 1	2024.02.17 09:41:33.866	sergio_pareja		0	ARN
+ACK Low	2024.02.12 09:49:03.094	ESS-Section-11B	Traction Section Anzac to South yarra section B	Section A Traction Power status Unknown	2024.02.15 10:37:14.883	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.074	ESS-Section-11A	Traction Section Anzac to South Yarra	Section A Traction Power status Unknown	2024.02.17 08:10:33.072	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.055	ESS-Section-10B	Traction Section Anzac Station section B	Section A Traction Power status Unknown	2024.02.17 08:10:15.506	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.038	ESS-Section-10A	Traction Section Anzac Station	Section A Traction Power status Unknown	2024.02.17 08:10:41.268	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:03.021	ESS-Section-09B	Traction Section Town Hall to Anzac section B	Section A Traction Power status Unknown	2024.02.17 08:10:02.205	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.985	ESS-Section-08B	Traction Section Town Hall Station section B	Section A Traction Power status Unknown	2024.02.17 08:09:44.087	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.765	ESS-Section-02B	Traction Section Arden Station section B	Section A Traction Power status Unknown	2024.02.17 07:55:29.988	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.743	ESS-Section-02A	Traction Section Arden Station	Section A Traction Power status Unknown	2024.02.17 07:55:21.783	sergio_paniagua		0	SDU
+ACK Low	2024.02.12 09:49:02.724	ESS-Section-01B	Traction Section Footscray west to Arden section B	Section A Traction Power status Unknown	2024.02.14 08:39:05.144	sergio_pareja		0	SDU
+ACK Low	2024.02.12 09:49:02.709	ESS-Section-01A	Traction Section Footscray west to Arden	Section A Traction Power status Unknown	2024.02.14 08:38:03.255	sergio_pareja		0	SDU

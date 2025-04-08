@@ -1,0 +1,1385 @@
+Severity	Alarm Raised	Asset ID	Asset Name	Alarm Description	Acknowledged	By	Cleared	Comments	Location
+ACK Low	2024.07.29 09:55:13.600	_ReduManager	Distributed Server 1	Server 1 - Set active automatically	2024.07.29 10:40:37.811	eric_maddocks		0	ARN
+CAME UNACK Med	2024.07.16 09:41:04.692	_Conn_event_0_1_to_driver_1_1	Distributed Server 1	Connection lost				0	ARN
+CAME UNACK Low	2024.07.16 09:41:04.700	_Conn_event_0_1_to_redu_1_1	Distributed Server 1	Connection lost - Event to Redundancy Manager - Link 1				0	ARN
+CAME UNACK Low	2024.07.16 09:41:04.703	_Conn_event_0_2_to_redu_1_2	Distributed Server 2	Connection lost - Event to Redundancy Manager - Link 1				0	THL
+ACK Med	2024.07.16 09:41:04.706	_Conn_event_0_2_to_driver_1_2	Distributed Server 2	Connection lost	2024.07.29 10:17:08.738	eric_maddocks		0	THL
+CAME UNACK Low	2024.07.16 09:41:04.708	_Conn_event_0_1_to_dist_1_1	Distributed Server 1	Connection lost - Event to Distribution Manager - Link 1				0	ARN
+CAME UNACK Low	2024.07.16 09:41:04.710	_Conn_event_0_2_to_dist_1_2	Distributed Server 2	Connection lost - Event to Distribution Manager - Link 1				0	THL
+ACK Med	2024.07.16 09:41:04.730	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 0	2024.07.29 10:17:27.053	eric_maddocks		0	ARN
+ACK Med	2024.07.16 09:41:04.731	_Conn_dist_1_1_to_dist_2_1	Distributed Server 1	Connection lost to Sunshine Server 1 - Link 1	2024.07.29 10:17:27.053	eric_maddocks		0	ARN
+ACK Med	2024.07.16 09:41:04.732	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 0	2024.07.29 10:17:27.053	eric_maddocks		0	ARN
+ACK Med	2024.07.16 09:41:04.733	_Conn_dist_1_2_to_dist_2_1	Distributed Server 2	Connection lost to Sunshine Server 1 - Link 1	2024.07.29 10:17:27.053	eric_maddocks		0	ARN
+ACK Med	2024.07.16 09:41:04.734	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 0	2024.07.29 10:17:27.053	eric_maddocks		0	THL
+ACK Med	2024.07.16 09:41:04.735	_Conn_dist_1_1_to_dist_2_2	Distributed Server 1	Connection lost to Sunshine Server 2 - Link 1	2024.07.29 10:17:27.053	eric_maddocks		0	THL
+ACK Med	2024.07.16 09:41:04.736	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 0	2024.07.29 10:17:27.053	eric_maddocks		0	THL
+ACK Med	2024.07.16 09:41:04.738	_Conn_dist_1_2_to_dist_2_2	Distributed Server 2	Connection lost to Sunshine Server 2 - Link 1	2024.07.29 10:17:27.053	eric_maddocks		0	THL
+ACK Low	2024.07.29 08:57:44.807	AEN_DOR_GF_151-12_1	Ground floor east - office stairs	Unauthorised access	2024.07.31 12:55:16.701	leanne_schwabe		0	ARN
+CAME UNACK Low	2024.07.29 08:57:45.611	PKV_DOR_B1_PKV-S-02_1	Security Door (B1 EAST)	Unauthorised access				0	PKV
+CAME UNACK Low	2024.07.29 08:57:45.924	PKV_DOR_B4_PKV-S-01_3	Security Door (B4 WEST)	Unauthorised access				0	PKV
+CAME UNACK Low	2024.07.16 08:52:04.866	S_95_2_14754	Traction Section State Library to Town hall section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK High	2024.07.29 08:57:46.158	PKV_ROL_RNERV_W	RNERV Enclosure Door - Parkville, West Tunnel	RNERV crane arm extended over tracks!				0	SDU
+CAME UNACK Low	2024.07.29 10:00:45.902	S_88_1_14601	Traction Section Footscray west to Arden section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:45.989	S_89_1_14611	Traction Section Footscray west to Arden section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.063	S_90_1_14651	Traction Section Arden Station section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.223	S_90_3_14653	Traction Section Arden to Parkville section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.386	S_91_1_14661	Traction Section Arden Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.431	S_91_3_14663	Traction Section Arden to Parkville section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.510	S_92_1_14701	Traction Section Parkville Station section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.627	S_92_3_14703	Traction Section Parkville to State Library section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.672	S_93_1_14711	Traction Section Parkville Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:46.957	S_93_3_14713	Traction Section Parkville to State Library section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:47.291	S_94_1_14751	Traction Section State Library Station section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:47.594	S_94_3_14753	Traction Section State Library to Town hall section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:47.696	S_94_5_14755	Traction Section Town Hall Station section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:47.776	S_95_1_14761	Traction Section State Library Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.233	S_95_3_14763	Traction Section State Library to Town hall section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.340	S_95_5_14765	Traction Section Town Hall Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.614	S_96_1_14801	Traction Section Town Hall to Anzac section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.731	S_96_3_14803	Traction Section Anzac Station section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.746	S_97_1_14811	Traction Section Town Hall to Anzac section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.758	S_97_3_14813	Traction Section Anzac Station section B	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.772	S_98_1_14851	Traction Section Anzac to South yarra section A	Section Traction Power status Unknown				0	SDU
+CAME UNACK Low	2024.07.29 10:00:48.788	S_99_1_14861	Traction Section Anzac to South yarra section B	Section Traction Power status Unknown				0	SDU
+ACK Low	2024.07.30 16:53:33.932	AEN_DOR_LG_405-3_2	Lower ground east - back of house emergency stairs	Unauthorised access	2024.07.31 12:55:16.701	leanne_schwabe		0	ARN
+WENT UNACK Low	2024.08.01 09:08:13.752	AEN_DOR_GF_246-1_1	Ground floor west - loading dock 1	Unauthorised access			2024.08.01 09:09:20.479	0	ARN
+WENT UNACK Low	2024.08.01 09:21:54.582	_Mod_Plc_1_2	Distributed Server 1	Communications Fault - Distributed Server 2 to RSG			2024.08.01 09:33:55.528	0	THL
+CAME UNACK Low	2024.08.01 09:25:04.038	PKV_DOR_B4_PKV-S-01_4	West Emergency Stairs - Platform	Unauthorised access				0	PKV
+CAME UNACK Low	2024.08.01 09:29:51.871	PKV_DOR_B4_PKV-S-01_1	Security Door (B4 WEST)	Unauthorised access				0	PKV
+WENT UNACK Low	2024.08.01 09:30:59.871	PKV_DOR_B4_PKV-S-01_2	Security Door (B4 WEST)	Unauthorised access			2024.08.01 09:31:07.143	0	PKV
+CAME UNACK Low	2024.08.01 09:38:45.619	PKV_DOR_B3_151-18_1	Security Door (B3 WEST)	Unauthorised access				0	PKV
+CAME UNACK Low	2024.08.01 09:48:16.914	PKV_DOR_B2_PKV-S-03_1	Security Door (B2 WEST)	Unauthorised access				0	PKV
+CAME UNACK Low	2024.08.01 09:55:04.082	DMA_DOR_B1_406-3_1	South Fire Escape Corridor - Concourse	Unauthorised access				0	AZC
+WENT UNACK Med	2024.08.01 11:41:21.199	_SYP-TIAS-PLC	MTDIST:_SYP-TIAS-PLC.	Communications Fault - Dist Server 1 to SYP TIAS PLC			2024.08.01 11:44:51.135	0	ARN
+WENT UNACK Med	2024.08.01 11:41:24.506	_SYP-TIAS-PLC_2	MTDIST:_SYP-TIAS-PLC_2.	Communications Fault - Dist Server 2 to SYP TIAS PLC			2024.08.01 11:44:19.217	0	THL
+WENT UNACK Low	2024.08.01 12:14:41.156	AEN_DOR_L2_ESC_STAIRS_5_2	Level 2 east - back of house stairs	Unauthorised access			2024.08.01 12:15:17.048	0	ARN
+CAME UNACK Low	2024.08.01 12:40:58.713	PKV_DOR_B4_PKV-S-02_2	Security Door (B4 EAST)	Unauthorised access				0	PKV
+WENT UNACK Low	2024.08.01 13:26:21.605	essGeneral	ESS Overall health Status	ELECTROL SCADA System Timeout. All Traction Power State Unknown.			2024.08.01 13:26:21.810	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.609	S_88_1_14600	Traction Section Footscray west to Arden section A	Section Traction Power status Unknown			2024.08.01 13:26:21.813	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.609	S_89_1_14603	Traction Section Footscray west to Arden section B	Section Traction Power status Unknown			2024.08.01 13:26:21.813	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.609	S_90_1_14650	Traction Section Arden Station section A	Section Traction Power status Unknown			2024.08.01 13:26:21.813	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.609	S_90_2_14651	Traction Section Arden to Parkville section A	Section Traction Power status Unknown			2024.08.01 13:26:21.813	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.609	S_91_1_14652	Traction Section Arden Station section B	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.609	S_91_2_14653	Traction Section Arden to Parkville section B	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_92_1_14700	Traction Section Parkville Station section A	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_92_2_14701	Traction Section Parkville to State Library section A	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_93_1_14702	Traction Section Parkville Station section B	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_93_2_14703	Traction Section Parkville to State Library section B	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_94_1_14750	Traction Section State Library Station section A	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_94_2_14751	Traction Section State Library to Town hall section A	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_94_3_14752	Traction Section Town Hall Station section A	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_95_1_14753	Traction Section State Library Station section B	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.610	S_95_3_14755	Traction Section Town Hall Station section B	Section Traction Power status Unknown			2024.08.01 13:26:21.814	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.611	S_96_1_14800	Traction Section Town Hall to Anzac section A	Section Traction Power status Unknown			2024.08.01 13:26:21.815	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.611	S_96_2_14801	Traction Section Anzac Station section A	Section Traction Power status Unknown			2024.08.01 13:26:21.815	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.611	S_97_1_14802	Traction Section Town Hall to Anzac section B	Section Traction Power status Unknown			2024.08.01 13:26:21.815	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.611	S_97_2_14803	Traction Section Anzac Station section B	Section Traction Power status Unknown			2024.08.01 13:26:21.815	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.611	S_98_1_14850	Traction Section Anzac to South yarra section A	Section Traction Power status Unknown			2024.08.01 13:26:21.815	0	SDU
+WENT UNACK Low	2024.08.01 13:26:21.611	S_99_1_14851	Traction Section Anzac to South yarra section B	Section Traction Power status Unknown			2024.08.01 13:26:21.815	0	SDU
+WENT UNACK High	2024.08.01 13:28:25.181	PKV_ROL_RNERV_E	RNERV Enclosure Door - Parkville, East Tunnel 	RNERV crane arm extended over tracks!			2024.08.01 13:44:21.123	0	SDU
+WENT UNACK Low	2024.08.01 13:35:01.479	PKV_DOR_B4_PKV-S-02_3	Security Door (B4 EAST)	Unauthorised access			2024.08.01 13:44:21.386	0	PKV
+ACK Low	2024.08.01 13:50:19.067	DMA_DOR_B1_151-5_2	East BOH Corridor - Concourse	Unauthorised access	2024.08.02 09:22:53.165	nigin_balakrishnan		0	AZC
+WENT UNACK Med	2024.08.01 14:36:28.208	_SKP-TIAS-PLC	MTDIST:_SKP-TIAS-PLC.	Communications Fault - Dist Server 1 to SKP TIAS PLC			2024.08.01 14:39:23.369	0	ARN
+WENT UNACK Med	2024.08.01 14:36:54.447	_SKP-TIAS-PLC_2	MTDIST:_SKP-TIAS-PLC_2.	Communications Fault - Dist Server 2 to SKP TIAS PLC			2024.08.01 14:39:42.256	0	THL
+WENT UNACK Low	2024.08.01 16:04:46.286	AEN_DOR_GF_246-2_2	Ground floor east - loading dock 2	Unauthorised access			2024.08.01 16:05:41.901	0	ARN
+WENT UNACK Low	2024.08.02 08:32:48.741	AEN_DOR_B2_403-1_1	Platform 2 west - single emergency door	Unauthorised access			2024.08.02 08:32:55.477	0	ARN
+WENT UNACK Low	2024.08.02 08:37:06.951	PKV_DOR_GF_PKV-S-04_1	Security Door (PUBLIC REALM)	Unauthorised access			2024.08.02 08:37:16.748	0	PKV
+ACK Low	2024.08.02 09:14:39.316	DMA_DOR_B1_212-1_1	Access to Office - Concourse	Unauthorised access	2024.08.02 09:14:53.213	nigin_balakrishnan		0	AZC
+CAME UNACK Low	2024.08.02 10:22:08.248	AEN_DOR_B1_ESC_STAIRS_04_2	Concourse east  - back of house emergency stairs	Unauthorised access				0	ARN
+WENT UNACK Low	2024.08.02 11:16:35.972	DMA_DOR_GF_GF_3	Albert Rd Emergency Egress - Ground	Unauthorised access			2024.08.02 11:16:45.187	0	AZC
+CAME UNACK Low	2024.08.02 11:48:43.909	DMA_DOR_B1_ST05_1	East Emergency Stairs - Concourse	Unauthorised access				0	AZC
+WENT UNACK Low	2024.08.02 12:09:40.233	DMA_DOR_B1_406-3_2	South Fire Lobby - Concourse	Unauthorised access			2024.08.02 13:22:00.249	0	AZC
+WENT UNACK Low	2024.08.02 12:41:18.185	AEN_DOR_L1_ESC_STAIRS_5_1	Level 1 east - office stairs	Unauthorised access			2024.08.02 12:41:22.312	0	ARN
+CAME UNACK Low	2024.08.02 12:53:19.226	DMA_DOR_B1_151-5_1	East BOH Corridor - Concourse	Unauthorised access				0	AZC
+CAME UNACK Low	2024.08.02 13:18:41.954	DMA_DOR_GF_GF_2	Shrine Emergency Stairs - Ground	Unauthorised access				0	AZC
+WENT UNACK Low	2024.08.02 13:47:36.617	DMA_DOR_GF_GF_4	Albert Rd Emergency Egress - Ground	Unauthorised access			2024.08.02 13:49:42.580	0	AZC
+CAME UNACK Low	2024.08.02 14:52:51.010	DMA_DOR_GF_GF_1	Shrine Emergency Stairs - Ground	Unauthorised access				0	AZC
+WENT UNACK Low	2024.08.02 15:00:59.145	PAE_DOR_E_2	PAE East Tunnel Door 2	Unauthorised access			2024.08.02 15:37:33.748	0	SDU
+WENT UNACK Low	2024.08.03 07:12:41.598	PKV_DOR_GF_PKV-S-04_2	Security Door (PUBLIC REALM)	Unauthorised access			2024.08.03 07:16:33.311	0	PKV
+WENT UNACK Low	2024.08.03 07:48:49.273	AEN_DOR_GF_246-1_2	Ground floor west - loading dock 2	Unauthorised access			2024.08.03 13:26:52.675	0	ARN
+WENT UNACK Low	2024.08.03 08:00:49.171	PKV_DOR_B2_402-3_3	Security Door (B2 EAST)	Unauthorised access			2024.08.03 08:01:14.324	0	PKV
+CAME UNACK Low	2024.08.03 08:11:05.168	AEN_DOR_B1_ESC_STAIRS_03_2	Concourse west - back of house emergency stairs	Unauthorised access				0	ARN
+WENT UNACK Low	2024.08.03 09:18:14.392	PKV_DOR_B3_PKV-S-01_2	Security Door (B3 WEST)	Unauthorised access			2024.08.03 09:18:22.829	0	PKV
+WENT UNACK Low	2024.08.03 10:40:06.095	AEN_DOR_GF_ESC_STAIR_9_1	Ground floor east - after hours stairs	Unauthorised access			2024.08.03 13:33:50.847	0	ARN
+CAME UNACK Low	2024.08.03 11:03:22.798	PKV_DOR_B3_PKV-S-03_1	Security Door (B3 WEST)	Unauthorised access				0	PKV
+CAME UNACK Low	2024.08.03 15:04:48.686	DMA_DOR_B2_402-4_4	East Emergency Stairs - Platform	Unauthorised access				0	AZC
+WENT UNACK Low	2024.08.03 16:51:23.172	AEN_DOR_B1_ESC_STAIRS_03_1	Concourse west - back of house emergency corridor	Unauthorised access			2024.08.03 16:52:51.338	0	ARN
+WENT UNACK Low	2024.08.03 17:59:54.087	DMA_DOR_B2_402-4_3	East Emergency Stairs - Platform	Unauthorised access			2024.08.03 17:59:58.265	0	AZC
+WENT UNACK Low	2024.08.04 04:22:11.242	DMA_DOR_B2_402-4_2	East Emergency Stairs - Platform	Unauthorised access			2024.08.04 04:22:16.580	0	AZC
+WENT UNACK Low	2024.08.04 04:22:46.320	DMA_DOR_B1_ST05_2	East Emergency Stairs - Concourse	Unauthorised access			2024.08.04 04:22:54.050	0	AZC
+WENT UNACK Low	2024.08.04 06:30:37.635	AEN_DOR_B2_ESC_STAIRS_04_1	Platform 2 east - single emergency door	Unauthorised access			2024.08.04 06:30:47.182	0	ARN
+WENT UNACK Low	2024.08.04 07:05:03.569	PKV_DOR_B4_PKV-S-02_1	Security Door (B4 EAST)	Unauthorised access			2024.08.04 07:05:10.760	0	PKV
+CAME UNACK Low	2024.08.04 07:55:24.940	AEN_DOR_B2_ESC_STAIRS_04_3	Platform 1 east - double emergency door	Unauthorised access				0	ARN
+WENT UNACK Low	2024.08.04 09:49:21.013	PKV_DOR_B3_PKV-S-02_1	Security Door (B3 EAST)	Unauthorised access			2024.08.04 09:49:29.507	0	PKV
+CAME UNACK Low	2024.08.04 11:34:14.617	AEN_DOR_B2_ESC_STAIRS_04_2	Platform 2 east - single emergency door	Unauthorised access				0	ARN
+CAME UNACK High	2024.08.04 12:57:08.921	SYP-ZONE-0003	Westbound Detection Zone 1	TIAS activated! 				0	SDU
+CAME UNACK High	2024.08.04 13:47:48.921	SYP-ZONE-0004	Westbound Detection Zone 2	TIAS activated! 				0	SDU
+WENT UNACK Low	2024.08.04 21:01:54.381	AEN_DOR_B2_403-1_2	Platform 1 west - single emergency door	Unauthorised access			2024.08.04 21:02:01.988	0	ARN
+WENT UNACK Low	2024.08.05 08:33:15.792	PKV_DOR_GF_PKV-S-03_1	Security Door (PUBLIC REALM WEST)	Unauthorised access			2024.08.05 08:33:34.654	0	PKV
+WENT UNACK Low	2024.08.05 09:31:05.103	AEN_DOR_LG_ESC_STAIR_07_1	Lower ground west - back of house stairs	Unauthorised access			2024.08.05 09:31:10.753	0	ARN
+WENT UNACK Med	2024.08.05 15:14:01.666	_Conn_dist_1_1_to_dist_4_1	Distributed Server 1	Connection lost to Parkville Server 1 - Link 0			2024.08.05 15:16:45.735	0	ARN
+WENT UNACK Med	2024.08.05 15:14:01.666	_Conn_dist_1_1_to_dist_4_1	Distributed Server 1	Connection lost to Parkville Server 1 - Link 1			2024.08.05 15:17:04.782	0	ARN
+WENT UNACK Med	2024.08.05 15:14:01.665	_Conn_dist_1_2_to_dist_4_1	Distributed Server 2	Connection lost to Parkville Server 1 - Link 0			2024.08.05 15:16:55.916	0	ARN
+WENT UNACK Med	2024.08.05 15:14:01.666	_Conn_dist_1_2_to_dist_4_1	Distributed Server 2	Connection lost to Parkville Server 1 - Link 1			2024.08.05 15:17:15.917	0	ARN
+WENT UNACK Low	2024.08.05 15:33:50.080	PKV_DOR_B4_PKV-S-02_4	Security Door (B4 EAST)	Unauthorised access			2024.08.05 15:33:56.404	0	PKV
+ACK Med	2024.06.03 10:50:15.741	_Driver1_2	Anzac Server 2	PSS2 S7 Driver 1 overloaded (TVCS PLC)	2024.06.25 13:27:25.359	eric_maddocks		0	ARN
+CAME UNACK Low	2024.07.29 08:51:10.902	DMA-E-PSD-023	Anzac Platform 2 Zone 3 PSD 23	PSD isolated				0	AZC
+WENT UNACK Low	2024.07.29 08:51:11.275	DMA-E-PSD-023	Anzac Platform 2 Zone 3 PSD 23	Speaker fault			2024.08.04 08:34:28.558	0	AZC
+WENT UNACK Med	2024.07.29 08:51:11.367	DMA-E-PSD-023	Anzac Platform 2 Zone 3 PSD 23	Door control unit communication lost			2024.08.04 08:34:28.558	0	AZC
+CAME UNACK Low	2024.07.29 08:51:14.101	DMA-E-PSD-027	Anzac Platform 2 Zone 3 PSD 27	PSD isolated				0	AZC
+WENT UNACK Med	2024.07.29 08:51:14.474	DMA-E-PSD-027	Anzac Platform 2 Zone 3 PSD 27	Door control unit communication lost			2024.08.04 08:17:26.561	0	AZC
+CAME UNACK Low	2024.07.29 08:51:18.507	DMA-W-PSD-003	Anzac Platform 1 Zone 1 PSD 03	PSD isolated				0	AZC
+ACK High	2024.07.29 08:51:19.026	DMA-W-PSD-004	Anzac Platform 1 Zone 1 PSD 04	PSD Right leaf lock switch fault!	2024.07.30 12:08:45.585	devin_long		0	AZC
+CAME UNACK High	2024.07.29 08:50:39.050	DMA_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK High	2024.07.29 08:50:39.834	DMA_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK Med	2024.07.29 08:52:37.138	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK Low	2024.07.29 08:52:11.658	DMA_TEXA	Tunnel Ambient Temperature Control	Temperature Sensors A - Discrepancy 				0	AZC
+WENT UNACK Med	2024.08.01 10:24:29.798	DMA_FCU_0105_06_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.08.01 10:26:09.801	0	AZC
+WENT UNACK Low	2024.08.01 11:54:20.355	DMA-ASD-0015	B2U, DMA-ASD-0015 Under Platform - F1	Aspirating smoke detector fault			2024.08.01 11:54:52.358	0	AZC
+WENT UNACK Med	2024.08.01 12:03:38.405	DMA_BMSComm	Domain TVCS BMS PLC	Lost communication between the DMA TVCS PLC and the BMS PLC.			2024.08.01 12:04:44.406	0	AZC
+WENT UNACK Med	2024.08.01 12:06:50.813	_Driver2	Anzac Server 1	PSS1 S7Plus Driver 2 overloaded (BMS PLC)			2024.08.01 12:07:40.498	0	ARN
+CAME UNACK Low	2024.08.02 09:20:28.552	DMA-E-PSD-018	Anzac Platform 2 Zone 2 PSD 18	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:20:36.552	DMA-W-PSD-015	Anzac Platform 1 Zone 2 PSD 15	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:20:44.556	DMA-E-PSD-017	Anzac Platform 2 Zone 2 PSD 17	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:20:50.552	DMA-W-PSD-016	Anzac Platform 1 Zone 2 PSD 16	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:20:54.551	DMA-E-PSD-016	Anzac Platform 2 Zone 2 PSD 16	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:00.555	DMA-W-PSD-017	Anzac Platform 1 Zone 2 PSD 17	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:10.559	DMA-E-PSD-015	Anzac Platform 2 Zone 2 PSD 15	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:12.558	DMA-W-PSD-018	Anzac Platform 1 Zone 2 PSD 18	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:24.559	DMA-E-PSD-014	Anzac Platform 2 Zone 2 PSD 14	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:26.551	DMA-W-PSD-019	Anzac Platform 1 Zone 2 PSD 19	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:34.554	DMA-E-PSD-013	Anzac Platform 2 Zone 2 PSD 13	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:38.560	DMA-W-PSD-020	Anzac Platform 1 Zone 2 PSD 20	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:44.556	DMA-E-PSD-012	Anzac Platform 2 Zone 2 PSD 12	PSD isolated				0	AZC
+WENT UNACK Low	2024.08.02 09:21:48.555	DMA-W-PSD-021	Anzac Platform 1 Zone 2 PSD 21	PSD isolated			2024.08.02 09:25:14.556	0	AZC
+CAME UNACK Low	2024.08.02 09:21:56.551	DMA-E-PSD-011	Anzac Platform 2 Zone 2 PSD 11	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:21:58.558	DMA-W-PSD-022	Anzac Platform 1 Zone 3 PSD 22	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:06.557	DMA-E-PSD-010	Anzac Platform 2 Zone 2 PSD 10	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:08.553	DMA-W-PSD-023	Anzac Platform 1 Zone 3 PSD 23	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:16.556	DMA-W-PSD-024	Anzac Platform 1 Zone 3 PSD 24	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:18.554	DMA-E-PSD-009	Anzac Platform 2 Zone 1 PSD 09	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:26.557	DMA-W-PSD-025	Anzac Platform 1 Zone 3 PSD 25	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:28.555	DMA-E-PSD-008	Anzac Platform 2 Zone 1 PSD 08	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:34.558	DMA-W-PSD-026	Anzac Platform 1 Zone 3 PSD 26	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:38.558	DMA-E-PSD-007	Anzac Platform 2 Zone 1 PSD 07	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:46.557	DMA-W-PSD-027	Anzac Platform 1 Zone 3 PSD 27	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:50.553	DMA-E-PSD-006	Anzac Platform 2 Zone 1 PSD 06	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:22:56.552	DMA-W-PSD-028	Anzac Platform 1 Zone 3 PSD 28	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:23:04.555	DMA-E-PSD-005	Anzac Platform 2 Zone 1 PSD 05	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:23:16.557	DMA-E-PSD-004	Anzac Platform 2 Zone 1 PSD 04	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:23:28.556	DMA-E-PSD-003	Anzac Platform 2 Zone 1 PSD 03	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:23:36.559	DMA-W-PSD-029	Anzac Platform 1 Zone 3 PSD 29	PSD isolated				0	AZC
+WENT UNACK Low	2024.08.02 09:23:46.554	DMA-W-PSD-030	Anzac Platform 1 Zone 3 PSD 30	PSD isolated			2024.08.04 02:53:02.556	0	AZC
+ACK Low	2024.08.02 09:23:48.552	DMA-E-PSD-002	Anzac Platform 2 Zone 1 PSD 02	PSD isolated	2024.08.05 10:12:04.655	fadi_duqman		0	AZC
+CAME UNACK Low	2024.08.02 09:26:24.555	DMA-W-PSD-014	Anzac Platform 1 Zone 2 PSD 14	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:26:34.550	DMA-W-PSD-013	Anzac Platform 1 Zone 2 PSD 13	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:26:38.561	DMA-E-PSD-019	Anzac Platform 2 Zone 2 PSD 19	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:26:46.557	DMA-W-PSD-012	Anzac Platform 1 Zone 2 PSD 12	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:26:56.551	DMA-W-PSD-011	Anzac Platform 1 Zone 2 PSD 11	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:26:56.553	DMA-E-PSD-020	Anzac Platform 2 Zone 2 PSD 20	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:27:04.551	DMA-W-PSD-010	Anzac Platform 1 Zone 2 PSD 10	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:27:14.554	DMA-W-PSD-009	Anzac Platform 1 Zone 1 PSD 09	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:27:24.556	DMA-W-PSD-008	Anzac Platform 1 Zone 1 PSD 08	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:27:30.553	DMA-E-PSD-022	Anzac Platform 2 Zone 3 PSD 22	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:27:38.557	DMA-W-PSD-007	Anzac Platform 1 Zone 1 PSD 07	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:27:50.556	DMA-W-PSD-006	Anzac Platform 1 Zone 1 PSD 06	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:27:58.552	DMA-W-PSD-005	Anzac Platform 1 Zone 1 PSD 05	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:29:06.559	DMA-E-PSD-024	Anzac Platform 2 Zone 3 PSD 24	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:29:18.556	DMA-E-PSD-025	Anzac Platform 2 Zone 3 PSD 25	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:29:20.552	DMA-W-PSD-002	Anzac Platform 1 Zone 1 PSD 02	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:29:30.560	DMA-E-PSD-026	Anzac Platform 2 Zone 3 PSD 26	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:30:10.560	DMA-E-PSD-028	Anzac Platform 2 Zone 3 PSD 28	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:30:16.558	DMA-E-PSD-029	Anzac Platform 2 Zone 3 PSD 29	PSD isolated				0	AZC
+CAME UNACK Low	2024.08.02 09:30:28.557	DMA-E-PSD-030	Anzac Platform 2 Zone 3 PSD 30	PSD isolated				0	AZC
+ACK Low	2024.08.02 09:43:18.595	DMA_LFT_0009	Lift 9 BOH (B2 Basement to B1 Basement)	Lift General Fault	2024.08.05 09:20:49.754	devin_long		0	AZC
+WENT UNACK Med	2024.08.02 09:52:06.689	_Mod_Plc_1	Anzac Server 1	Communications Fault - Anzac Server 1 to Anzac PSD			2024.08.02 09:52:08.564	0	AZC
+WENT UNACK Med	2024.08.02 09:52:06.691	_Mod_Plc_1_2	Anzac Server 2	Communications Fault - Anzac Server 2 to Anzac PSD			2024.08.02 09:52:07.353	0	ARN
+CAME UNACK Med	2024.08.02 09:52:08.564	DMA-S-STN	Anzac Station PSD System	PSD lost connection to signalling system!				0	AZC
+WENT UNACK Med	2024.08.02 09:57:01.327	_Mod_Plc_2_2	MTAZC:_Mod_Plc_2_2.	Communications Fault - Anzac Server 2 to Anzac FDS Gateway			2024.08.02 09:57:01.373	0	ARN
+WENT UNACK Low	2024.08.02 10:42:59.817	_ReduManager_2	Anzac Server 2	Server 2 - Passive			2024.08.02 10:44:32.823	0	ARN
+WENT UNACK Med	2024.08.02 10:44:14.251	_Mod_Plc_2	MTAZC:_Mod_Plc_2.	Communications Fault - Anzac Server 1 to Anzac FDS Gateway			2024.08.02 10:44:15.369	0	ARN
+CAME UNACK Low	2024.08.02 10:44:34.844	EPZ-FIP-0001	Eastern Portal Main Fire Panel	Fire panels in the station have a fault				0	SDU
+ACK Low	2024.08.02 10:44:35.273	DMA-FIP-0001	Anzac Station FDCIE Panel	Fire panels in the station have a fault	2024.08.02 10:49:44.822	fadi_duqman		0	AZC
+WENT UNACK Med	2024.08.02 10:51:32.869	_DMA-FDS-S7PLUS	MTAZC:_DMA-FDS-S7PLUS.	Communications Fault - Anzac Server 1 to Anzac FDS PLC			2024.08.02 10:52:15.084	0	AZC
+WENT UNACK Med	2024.08.02 10:51:53.487	_DMA-FDS-S7PLUS_2	MTAZC:_DMA-FDS-S7PLUS_2.	Communications Fault - Anzac Server 2 to Anzac FDS PLC			2024.08.02 10:52:01.660	0	ARN
+WENT UNACK Med	2024.08.02 10:54:54.428	_Mod_Plc_4	MTAZC:_Mod_Plc_4.	Communications Fault - Anzac Server 1 to Anzac EWIS			2024.08.02 10:57:12.412	0	AZC
+WENT UNACK Med	2024.08.02 10:54:54.473	_Mod_Plc_4_2	MTAZC:_Mod_Plc_4_2.	Communications Fault - Anzac Server 2 to Anzac EWIS			2024.08.02 10:57:12.462	0	ARN
+WENT UNACK Med	2024.08.02 10:55:04.438	_Mod_Plc_3	MTAZC:_Mod_Plc_3.	Communications Fault - Anzac Server 1 to Anzac EWIS			2024.08.02 10:57:13.367	0	AZC
+WENT UNACK Med	2024.08.02 10:55:04.480	_Mod_Plc_3_2	MTAZC:_Mod_Plc_3_2.	Communications Fault - Anzac Server 2 to Anzac EWIS			2024.08.02 10:57:13.427	0	ARN
+WENT UNACK Med	2024.08.02 13:17:23.672	DMA_FCU_1201_02_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.08.02 13:17:45.611	0	AZC
+WENT UNACK High	2024.08.04 02:27:54.555	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door Unscheduled Door Opening!			2024.08.04 07:03:04.583	0	AZC
+WENT UNACK Med	2024.08.04 04:58:28.557	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door alarm bypassed!			2024.08.04 04:58:50.552	0	AZC
+WENT UNACK High	2024.08.04 04:58:32.552	DMA-E-PED-001	Anzac Platform 2 PED 01	Platform End Door opened!			2024.08.04 04:58:48.554	0	AZC
+WENT UNACK Low	2024.08.04 05:35:25.410	DMA_TEXB	Tunnel Ambient Temperature Control	Temperature Sensors B - Discrepancy 			2024.08.04 05:39:14.410	0	AZC
+WENT UNACK High	2024.08.04 07:03:04.559	DMA-E-LCP	Anzac Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.08.04 07:03:24.561	0	AZC
+WENT UNACK High	2024.08.04 08:20:28.575	DMA-W-PSD-021	Anzac Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!			2024.08.04 16:22:30.582	0	AZC
+CAME UNACK High	2024.08.04 08:32:14.560	DMA-E-PSD-001	Anzac Platform 2 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	AZC
+ACK High	2024.08.04 08:32:14.578	DMA-E-PSD-021	Anzac Platform 2 Zone 2 PSD 21	PSD Unscheduled Door Opening!	2024.08.05 09:33:49.338	fadi_duqman		0	AZC
+WENT UNACK High	2024.08.04 11:25:38.558	DMA-W-PED-001	Anzac Platform 1 PED 01	Platform End Door Unscheduled Door Opening!			2024.08.04 16:22:30.580	0	AZC
+WENT UNACK High	2024.08.04 11:38:08.557	DMA-W-PED-002	Anzac Platform 1 PED 02	Platform End Door Unscheduled Door Opening!			2024.08.04 16:22:30.580	0	AZC
+CAME UNACK High	2024.08.04 11:47:12.553	DMA-E-PED-002	Anzac Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	AZC
+WENT UNACK Med	2024.08.04 14:19:12.555	DMA-E-PED-002	Anzac Platform 2 PED 02	Platform End Door alarm bypassed!			2024.08.04 14:21:42.555	0	AZC
+WENT UNACK High	2024.08.04 14:19:38.557	DMA-E-PED-002	Anzac Platform 2 PED 02	Platform End Door opened!			2024.08.04 14:21:38.555	0	AZC
+WENT UNACK Med	2024.08.04 16:01:06.552	DMA-W-PED-001	Anzac Platform 1 PED 01	Platform End Door alarm bypassed!			2024.08.04 16:03:16.551	0	AZC
+WENT UNACK High	2024.08.04 16:01:10.555	DMA-W-PED-001	Anzac Platform 1 PED 01	Platform End Door opened!			2024.08.04 16:03:14.551	0	AZC
+WENT UNACK Med	2024.08.04 16:01:20.561	DMA-W-PED-002	Anzac Platform 1 PED 02	Platform End Door alarm bypassed!			2024.08.04 16:05:40.557	0	AZC
+WENT UNACK High	2024.08.04 16:01:24.560	DMA-W-PED-002	Anzac Platform 1 PED 02	Platform End Door opened!			2024.08.04 16:05:40.557	0	AZC
+WENT UNACK Low	2024.08.04 16:25:02.553	DMA-W-PSD-004	Anzac Platform 1 Zone 1 PSD 04	Maintenance mode activated			2024.08.04 17:43:40.556	0	AZC
+WENT UNACK High	2024.08.04 16:26:08.557	DMA-W-LCP	Anzac Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.08.04 16:26:22.554	0	AZC
+CAME UNACK High	2024.08.04 16:26:22.577	DMA-W-PSD-004	Anzac Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!				0	AZC
+CAME UNACK Low	2024.08.04 17:43:40.556	DMA-W-PSD-004	Anzac Platform 1 Zone 1 PSD 04	PSD isolated				0	AZC
+WENT UNACK Low	2024.08.04 22:51:45.621	DMA_SDP_0101_02_FG	Station Drainage Pump - Function Group	Station drainage pit not dropping!			2024.08.04 22:59:18.701	0	AZC
+WENT UNACK Low	2024.08.05 11:56:39.405	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	Loss of redundancy (fans)			2024.08.05 12:03:29.405	0	AZC
+WENT UNACK High	2024.08.05 12:03:29.405	DMA_FIO_0148_RE0101	Tunnel Vent. Zone S10 - Fire Confirmed at Retail Room 901-01	Smoke detected in shaft!			2024.08.05 12:07:59.407	0	AZC
+WENT UNACK Low	2024.08.05 12:06:17.408	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Degraded			2024.08.05 13:40:58.407	0	SDU
+WENT UNACK High	2024.08.05 12:11:46.413	DMA_FIO_0148_PLAT	Tunnel Vent. Zone S10 - Fire Confirmed at Platform	Smoke detected in shaft!			2024.08.05 12:14:35.428	0	AZC
+WENT UNACK Low	2024.08.05 12:14:36.411	DMA_StationFunc	Operator Fire Emergency Mode Selection - Domain Station	Station Fire Ventilation Mode still active			2024.08.05 12:16:14.409	0	SDU
+WENT UNACK Low	2024.08.05 12:16:14.409	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Loss of redundancy (fans)			2024.08.05 13:40:57.411	0	AZC
+CAME UNACK High	2024.08.05 12:16:14.409	DMA_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.08.05 12:16:15.407	DMA_OFN_0101_02_DS	Over Track Exhaust Fan 01 - West End - Duty Selection	All fans inoperative!				0	AZC
+WENT UNACK Med	2024.08.05 12:43:13.650	DMA_SPP_0203_04_FG	Sewer Pump Pit - Function Group	Sewer drainage pit not dropping!			2024.08.05 12:44:49.615	0	AZC
+CAME UNACK High	2024.08.05 13:40:57.411	DMA_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	All fans inoperative!				0	AZC
+CAME UNACK Med	2024.08.05 13:40:57.411	DMA_ModeSts	TVCS Mode Status - Domain Station S10	Over Track Exhaust Unavailable				0	SDU
+ACK Med	2024.06.03 10:48:16.689	_Driver1_2	MTARD:_Driver1_2.	PSS2 S7 Driver 1 overloaded (TVCS PLC)	2024.06.04 08:54:10.389	sergio_paniagua		0	PKV
+ACK Low	2024.07.29 08:54:24.578	AEN_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift General Fault	2024.07.31 12:55:16.696	leanne_schwabe		0	ARN
+ACK Med	2024.07.29 08:54:23.573	AEN-FIP-0001	Arden Main Fire Panel	No modbus server/gateway connection	2024.07.30 12:16:14.872	devin_long		0	ARN
+CAME UNACK Low	2024.07.29 08:57:21.340	WPZ-FIP-0001	Western Portal Main Fire Panel	Fire panels in the station have a fault				0	SDU
+CAME UNACK Med	2024.07.29 08:57:21.417	WPZ-FIP-0001	Western Portal Main Fire Panel	No modbus server/gateway connection				0	SDU
+CAME UNACK Med	2024.07.29 08:52:41.019	AEN_ATSComm	RSG Modbus	HCS/ATS communication fault				0	ARN
+CAME UNACK Med	2024.07.29 08:52:41.059	AEN_TNCComm	CBS North TVCS PLC	AEN-TNC TVCS communication link failure.				0	ARN
+CAME UNACK High	2024.07.29 08:52:41.859	SDU_STP_0401_02_DS	Stormwater Pump - Duty Selection	Risk of track flooding!				0	SDU
+CAME UNACK High	2024.07.31 01:01:06.669	AEN_TFN_0101_03_DS	Tunnel Ventilation Fan - West End - Duty Selection	Tunnel Section 01 - Ventilation Unavailable!				0	SDU
+CAME UNACK Med	2024.07.31 01:01:06.669	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Tunnel Section Ventilation (TVS) Unavailable				0	SDU
+CAME UNACK High	2024.07.31 01:01:18.680	AEN_OFN_0101_02_DS	Over Track Exhaust Fan - West End - Duty Selection	Arden - West End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK High	2024.07.31 01:01:49.704	AEN_OFN_0201_02_DS	Over Track Exhaust Fan - East End - Duty Selection	Arden - East End Over Track Ventilation Unavailable!				0	SDU
+CAME UNACK Med	2024.07.31 01:01:49.704	AEN_ModeSts	TVCS Section 02 Arden Station mode status	Station Ventilation (OTE) Unavailable				0	SDU
+CAME UNACK High	2024.07.31 01:02:12.706	AEN_TFN_0201_03_DS	Tunnel Ventilation Fan - East End - Duty Selection	Tunnel Section 03 Arden End - Ventilation Unavailable!				0	SDU
+ACK Low	2024.07.31 10:51:24.802	AEN_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift monitoring lost 	2024.07.31 12:55:16.696	leanne_schwabe		0	ARN
+WENT UNACK Med	2024.08.01 09:26:14.546	_Mod_Plc_1_2	Arden Server 2	Communications Fault - Arden Server 2 to Arden PSD Servers			2024.08.01 09:33:55.546	0	PKV
+WENT UNACK Med	2024.08.01 09:26:37.981	_AEN-BMS-PLC_2	Arden BMS PLC	Communications Fault - Arden Server 2 to Arden BMS PLC			2024.08.01 09:34:26.791	0	PKV
+WENT UNACK Med	2024.08.01 09:26:37.981	_AEN-BMS-PLC3_2	MTARD:_AEN-BMS-PLC3_2.	Communications Fault - Arden Server 2 to Arden BMS Gateway PLC			2024.08.01 09:34:19.915	0	PKV
+WENT UNACK Low	2024.08.01 09:26:38.394	_AEN-TVC-PLC_2	Arden Server 2	Link Failure - Arden Server 2 to Arden TVCS CPU 2			2024.08.01 09:33:58.520	0	PKV
+WENT UNACK Med	2024.08.01 09:26:49.251	_PAE-BMS-PLC_2	MTARD:_PAE-BMS-PLC_2.	Communications Fault - Arden Server 2 to Western Portal BMS PLC			2024.08.01 09:33:56.163	0	PKV
+WENT UNACK Low	2024.08.01 09:26:52.702	_AEN-TVC-PLC_2	Arden Server 2	Link Failure - Arden Server 2 to Arden TVCS CPU 1			2024.08.01 09:33:58.488	0	PKV
+WENT UNACK Med	2024.08.01 09:26:52.706	_AEN-TVC-PLC_2	Arden Server 2	Communications Fault - Arden Server 2 to Arden TVCS PLC			2024.08.01 09:33:58.488	0	PKV
+WENT UNACK Med	2024.08.01 10:05:52.350	_Mod_Plc_2	MTARD:_Mod_Plc_2.	Communications Fault - Arden Server 1 to Arden FDS Gateway			2024.08.01 10:07:56.352	0	PKV
+WENT UNACK Med	2024.08.01 10:05:52.554	_Mod_Plc_2_2	MTARD:_Mod_Plc_2_2.	Communications Fault - Arden Server 2 to Arden FDS Gateway			2024.08.01 10:07:55.552	0	PKV
+WENT UNACK Med	2024.08.01 10:06:01.428	_Mod_Plc_3	MTARD:_Mod_Plc_3.	Communications Fault - Arden Server 1 to Arden EWIS			2024.08.01 10:07:52.524	0	ARN
+WENT UNACK Med	2024.08.01 10:06:01.554	_Mod_Plc_3_2	MTARD:_Mod_Plc_3_2.	Communications Fault - Arden Server 2 to Arden EWIS			2024.08.01 10:07:52.769	0	PKV
+WENT UNACK Med	2024.08.01 10:06:02.463	_AEN-FDS-S7PLUS	MTARD:_AEN-FDS-S7PLUS.	Communications Fault - Arden Server 1 to Arden FDS PLC			2024.08.01 10:08:09.044	0	ARN
+WENT UNACK Med	2024.08.01 10:06:08.743	_AEN-FDS-S7PLUS_2	MTARD:_AEN-FDS-S7PLUS_2.	Communications Fault - Arden Server 2 to Arden FDS PLC			2024.08.01 10:08:15.111	0	PKV
+WENT UNACK Med	2024.08.01 10:06:11.438	_Mod_Plc_4	MTARD:_Mod_Plc_4.	Communications Fault - Arden Server 1 to Arden EWIS			2024.08.01 10:07:52.629	0	ARN
+WENT UNACK Med	2024.08.01 10:06:11.564	_Mod_Plc_4_2	MTARD:_Mod_Plc_4_2.	Communications Fault - Arden Server 2 to Arden EWIS			2024.08.01 10:07:52.679	0	PKV
+WENT UNACK Med	2024.08.01 10:07:52.719	AEN-C-01-EVAC	EWIS device for Arden	EWIS fault			2024.08.01 10:07:53.594	0	ARN
+WENT UNACK High	2024.08.01 10:22:11.425	AEN-Z-3101	ZONE 3101: LEVEL 2, AEN-D-16 BOH	Smoke or heat detected - fire unconfirmed!			2024.08.01 10:24:22.404	0	ARN
+WENT UNACK High	2024.08.01 10:31:47.419	AEN-Z-3201	ZONE 3201: L1, AEN-D-15 BOH EAST	Smoke or heat detected - fire unconfirmed!			2024.08.01 10:51:34.410	0	ARN
+WENT UNACK Low	2024.08.01 10:56:12.446	AEN_ESC_0003	Escalator 3 Bank 3 (Platforms to Concourse)	Escalator fire response isolated			2024.08.01 11:06:15.432	0	ARN
+WENT UNACK Low	2024.08.01 10:56:12.446	AEN_ESC_0001	Escalator 1 Bank 1 (Platforms to Concourse)	Escalator fire response isolated			2024.08.01 11:06:15.432	0	ARN
+WENT UNACK Low	2024.08.01 10:56:12.446	AEN_ESC_0005	Escalator 5 Bank 5 (Concourse to Ground Floor)	Escalator fire response isolated			2024.08.01 11:06:15.432	0	ARN
+WENT UNACK Low	2024.08.01 10:56:12.491	AEN_ESC_0002	Escalator 2 Bank 2 (Platforms to Concourse)	Escalator fire response isolated			2024.08.01 11:06:15.473	0	ARN
+WENT UNACK Low	2024.08.01 10:56:12.491	AEN_ESC_0004	Escalator 4 Bank 4 (Platforms to Concourse)	Escalator fire response isolated			2024.08.01 11:06:15.473	0	ARN
+WENT UNACK Low	2024.08.01 10:56:12.491	AEN_ESC_0006	Escalator 6 Bank 5 (Concourse to Ground Floor)	Escalator fire response isolated			2024.08.01 11:06:15.474	0	ARN
+WENT UNACK Low	2024.08.01 10:56:12.491	AEN_ESC_0007	Escalator 7 Bank 5 (Concourse  to Ground Floor)	Escalator fire response isolated			2024.08.01 11:06:15.474	0	ARN
+WENT UNACK High	2024.08.01 10:59:55.386	AEN-Z-3302	ZONE 3302: GF, AEN-D-02 BOH EAST	Smoke or heat detected - fire unconfirmed!			2024.08.01 11:00:43.425	0	ARN
+WENT UNACK Med	2024.08.02 07:58:05.528	AEN-S-STN	Arden Station PSD System	PSD lost connection to signalling system!			2024.08.02 08:11:11.523	0	ARN
+CAME UNACK Low	2024.08.02 10:10:03.522	AEN-W-PSD-010	Arden Platform 1 Zone 2 PSD 10	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:11:03.521	AEN-W-PSD-002	Arden Platform 1 Zone 1 PSD 02	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:11:13.523	AEN-W-PSD-003	Arden Platform 1 Zone 1 PSD 03	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:11:41.524	AEN-W-PSD-004	Arden Platform 1 Zone 1 PSD 04	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:12:03.522	AEN-W-PSD-005	Arden Platform 1 Zone 1 PSD 05	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:12:15.524	AEN-W-PSD-006	Arden Platform 1 Zone 1 PSD 06	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:12:31.525	AEN-W-PSD-007	Arden Platform 1 Zone 1 PSD 07	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:12:49.524	AEN-W-PSD-008	Arden Platform 1 Zone 1 PSD 08	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:13:05.525	AEN-W-PSD-009	Arden Platform 1 Zone 1 PSD 09	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:13:39.524	AEN-W-PSD-012	Arden Platform 1 Zone 2 PSD 12	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:13:49.526	AEN-W-PSD-013	Arden Platform 1 Zone 2 PSD 13	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:13:59.525	AEN-W-PSD-014	Arden Platform 1 Zone 2 PSD 14	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:14:11.524	AEN-W-PSD-015	Arden Platform 1 Zone 2 PSD 15	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:14:23.525	AEN-W-PSD-016	Arden Platform 1 Zone 2 PSD 16	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:14:37.524	AEN-W-PSD-017	Arden Platform 1 Zone 2 PSD 17	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:14:51.525	AEN-W-PSD-018	Arden Platform 1 Zone 2 PSD 18	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:15:05.525	AEN-W-PSD-019	Arden Platform 1 Zone 2 PSD 19	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:15:15.525	AEN-W-PSD-020	Arden Platform 1 Zone 2 PSD 20	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:15:31.525	AEN-W-PSD-022	Arden Platform 1 Zone 3 PSD 22	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:15:45.525	AEN-W-PSD-023	Arden Platform 1 Zone 3 PSD 23	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:15:57.525	AEN-W-PSD-024	Arden Platform 1 Zone 3 PSD 24	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:16:09.526	AEN-W-PSD-025	Arden Platform 1 Zone 3 PSD 25	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:16:19.525	AEN-W-PSD-026	Arden Platform 1 Zone 3 PSD 26	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:16:31.525	AEN-W-PSD-027	Arden Platform 1 Zone 3 PSD 27	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:16:43.526	AEN-W-PSD-028	Arden Platform 1 Zone 3 PSD 28	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:16:55.526	AEN-W-PSD-029	Arden Platform 1 Zone 3 PSD 29	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:17:05.526	AEN-W-PSD-030	Arden Platform 1 Zone 3 PSD 30	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:17:51.527	AEN-E-PSD-002	Arden Platform 2 Zone 1 PSD 02	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:18:13.526	AEN-E-PSD-003	Arden Platform 2 Zone 1 PSD 03	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:18:25.526	AEN-E-PSD-004	Arden Platform 2 Zone 1 PSD 04	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:18:39.527	AEN-E-PSD-005	Arden Platform 2 Zone 1 PSD 05	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:18:49.528	AEN-E-PSD-006	Arden Platform 2 Zone 1 PSD 06	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:19:01.528	AEN-E-PSD-007	Arden Platform 2 Zone 1 PSD 07	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:19:17.527	AEN-E-PSD-008	Arden Platform 2 Zone 1 PSD 08	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:19:31.527	AEN-E-PSD-009	Arden Platform 2 Zone 1 PSD 09	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:19:43.528	AEN-E-PSD-010	Arden Platform 2 Zone 2 PSD 10	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:19:53.528	AEN-E-PSD-011	Arden Platform 2 Zone 2 PSD 11	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:20:05.528	AEN-E-PSD-012	Arden Platform 2 Zone 2 PSD 12	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:20:17.528	AEN-E-PSD-013	Arden Platform 2 Zone 2 PSD 13	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:20:29.528	AEN-E-PSD-014	Arden Platform 2 Zone 2 PSD 14	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:20:43.528	AEN-E-PSD-015	Arden Platform 2 Zone 2 PSD 15	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:20:55.528	AEN-E-PSD-016	Arden Platform 2 Zone 2 PSD 16	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:21:07.528	AEN-E-PSD-017	Arden Platform 2 Zone 2 PSD 17	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:21:17.528	AEN-E-PSD-018	Arden Platform 2 Zone 2 PSD 18	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:21:27.529	AEN-E-PSD-019	Arden Platform 2 Zone 2 PSD 19	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:21:39.528	AEN-E-PSD-020	Arden Platform 2 Zone 2 PSD 20	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:22:09.528	AEN-E-PSD-022	Arden Platform 2 Zone 3 PSD 22	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:22:23.529	AEN-E-PSD-023	Arden Platform 2 Zone 3 PSD 23	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:22:33.524	AEN-E-PSD-024	Arden Platform 2 Zone 3 PSD 24	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:22:47.529	AEN-E-PSD-025	Arden Platform 2 Zone 3 PSD 25	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:23:17.529	AEN-E-PSD-026	Arden Platform 2 Zone 3 PSD 26	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:23:33.525	AEN-E-PSD-027	Arden Platform 2 Zone 3 PSD 27	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:23:45.529	AEN-E-PSD-028	Arden Platform 2 Zone 3 PSD 28	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:24:01.529	AEN-E-PSD-029	Arden Platform 2 Zone 3 PSD 29	PSD isolated				0	ARN
+CAME UNACK Low	2024.08.02 10:24:23.529	AEN-E-PSD-030	Arden Platform 2 Zone 3 PSD 30	PSD isolated				0	ARN
+WENT UNACK Low	2024.08.02 10:41:37.531	AEN-W-PSD-011	Arden Platform 1 Zone 2 PSD 11	Maintenance mode activated			2024.08.02 10:42:01.530	0	ARN
+CAME UNACK Low	2024.08.02 10:42:15.531	AEN-W-PSD-011	Arden Platform 1 Zone 2 PSD 11	PSD isolated				0	ARN
+CAME UNACK Med	2024.08.02 10:42:41.531	AEN-W-PSD-011	Arden Platform 1 Zone 2 PSD 11	Door control unit communication lost				0	ARN
+WENT UNACK Low	2024.08.02 11:09:50.680	AEN_ESC_0003	Escalator 3 Bank 3 (Platforms to Concourse)	Escalator stopped (combplate bottom left)			2024.08.02 11:10:00.675	0	ARN
+WENT UNACK Med	2024.08.02 11:51:05.716	AEN_BMSComm	Arden TVCS BMS PLC	Lost communication between the AEN TVCS PLC and the BMS PLC.			2024.08.02 12:04:05.709	0	ARN
+WENT UNACK Low	2024.08.02 18:23:23.681	AEN-ASD-0056	B1, AEN-ASD-0056, 602-3 TRAC SUB 3 - F1	Aspirating smoke detector fault			2024.08.02 18:24:49.591	0	ARN
+WENT UNACK Low	2024.08.03 04:09:50.713	AEN_SDP_0101_02_FG	Station Drainage Pit - Function Group	Station drainage pit not dropping!			2024.08.03 04:10:02.904	0	ARN
+WENT UNACK Low	2024.08.03 08:00:19.594	AEN-ASD-0043	B1, AEN-ASD-0043, 705-1 STER - F1	Aspirating smoke detector fault			2024.08.03 08:01:04.628	0	ARN
+WENT UNACK High	2024.08.04 06:25:13.529	AEN-E-LCP	Arden Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.08.04 06:25:17.529	0	ARN
+WENT UNACK High	2024.08.04 06:26:45.528	AEN-W-LCP	Arden Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.08.04 06:26:47.528	0	ARN
+WENT UNACK Low	2024.08.04 08:32:44.705	AEN_TEXB	Tunnel Ambient Temperature Control - Westbound	Temperature Sensors B - Discrepancy 			2024.08.04 08:32:58.683	0	SDU
+WENT UNACK Med	2024.08.04 09:22:02.625	AEN_TSCComm	CBD South TVCS PLC	AEN-TSC TVCS communication link failure.			2024.08.04 13:40:50.637	0	ARN
+WENT UNACK Med	2024.08.04 13:33:09.608	_Mod_Plc_1	Arden Server 1	Communications Fault - Arden Server 1 to Arden PSD Servers			2024.08.04 13:33:11.539	0	ARN
+WENT UNACK Low	2024.08.04 16:44:54.689	AEN_TEXA	Tunnel Ambient Temperature Control - Eastbound	Temperature Sensors A - Discrepancy 			2024.08.04 16:46:24.687	0	SDU
+CAME UNACK High	2024.08.04 16:48:07.528	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	ARN
+CAME UNACK High	2024.08.04 16:50:21.526	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	ARN
+WENT UNACK Med	2024.08.04 17:50:47.522	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door alarm bypassed!			2024.08.04 17:53:49.523	0	ARN
+WENT UNACK High	2024.08.04 17:51:11.523	AEN-W-PED-001	Arden Platform 1 PED 01	Platform End Door opened!			2024.08.04 17:53:45.524	0	ARN
+WENT UNACK Med	2024.08.04 17:56:51.525	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door alarm bypassed!			2024.08.04 17:59:45.526	0	ARN
+CAME UNACK High	2024.08.04 17:57:23.524	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	ARN
+WENT UNACK High	2024.08.04 17:59:33.526	AEN-W-PED-002	Arden Platform 1 PED 02	Platform End Door opened!			2024.08.04 17:59:41.526	0	ARN
+WENT UNACK Med	2024.08.04 18:00:49.527	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door alarm bypassed!			2024.08.04 18:02:53.528	0	ARN
+CAME UNACK High	2024.08.04 18:01:01.527	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	ARN
+WENT UNACK High	2024.08.04 18:02:47.528	AEN-E-PED-001	Arden Platform 2 PED 01	Platform End Door opened!			2024.08.04 18:02:53.528	0	ARN
+WENT UNACK Low	2024.07.29 08:50:56.053	PKV-E-PSD-001	Parkville Platform 2 Zone 1 PSD 01	Door status indicator fault 			2024.08.02 09:01:59.232	0	PKV
+WENT UNACK High	2024.07.29 08:51:02.488	PKV-E-PSD-010	Parkville Platform 2 Zone 2 PSD 10	PSD Unscheduled Door Opening!			2024.08.04 01:22:01.888	0	PKV
+WENT UNACK High	2024.07.29 08:51:11.019	PKV-E-PSD-021	Parkville Platform 2 Zone 2 PSD 21	PSD Unscheduled Door Opening!			2024.08.04 01:22:01.889	0	PKV
+CAME UNACK Low	2024.07.29 08:51:15.288	PKV-E-PSD-027	Parkville Platform 2 Zone 3 PSD 27	PSD isolated				0	PKV
+WENT UNACK High	2024.07.29 08:51:17.762	PKV-E-PSD-030	Parkville Platform 2 Zone 3 PSD 30	PSD Unscheduled Door Opening!			2024.08.04 01:22:01.889	0	PKV
+CAME UNACK Low	2024.07.29 08:51:20.261	PKV-W-PSD-004	Parkville Platform 1 Zone 1 PSD 04	PSD isolated				0	PKV
+CAME UNACK Low	2024.07.29 08:51:34.730	PKV-W-PSD-023	Parkville Platform 1 Zone 3 PSD 23	PSD isolated				0	PKV
+CAME UNACK Low	2024.07.29 08:52:36.111	PKV_ESC_0004	Escalator 4 Bank 2 (Platforms to Concourse)	Escalator stopped (brake mechanism fault)				0	PKV
+CAME UNACK Low	2024.07.29 08:54:50.951	PKV_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.29 08:54:51.643	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.29 08:54:51.736	PKV_LFT_0004	Lift 4 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.07.29 08:54:51.911	PKV_LFT_0005	Lift 5 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.29 08:54:52.562	PKV_LFT_0008	Lift 8 BOH (Platforms to B3 Basement)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.29 08:54:53.228	PKV_LFT_0011	Lift 11 BOH (B1 Basement to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.29 08:54:53.321	PKV_LFT_0011	Lift 11 BOH (B1 Basement to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK High	2024.07.29 08:50:41.315	PKV_OFN_0001_03_DS	Over Track Exhaust Fan 01 - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.07.29 08:50:41.823	PKV_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - West End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK High	2024.07.29 08:50:42.339	PKV_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - East End - Duty Selection	All fans inoperative!				0	PKV
+CAME UNACK Med	2024.07.29 08:52:08.004	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.07.29 08:52:08.025	PKV_ModeSts	TVCS Section 04 Parkville Station mode status	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK High	2024.07.29 08:52:53.353	PKV_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!				0	SDU
+WENT UNACK Med	2024.07.29 09:54:19.347	_Mod_Plc_2	MTPKV:_Mod_Plc_2.	Communications Fault - Parkville Server 1 to Parkville FDS Gateway			2024.08.05 15:16:48.313	0	STL
+ACK Low	2024.07.29 08:54:49.651	PKV-FIP-0001	Parkville Station FDCIE Panel 	Fire panels in the station have a fault	2024.08.06 08:21:34.071	emilio_ito		0	PKV
+ACK Med	2024.07.29 08:54:49.954	PKV-FIP-0001	Parkville Station FDCIE Panel 	No modbus server/gateway connection	2024.08.06 08:21:34.071	emilio_ito		0	PKV
+WENT UNACK Med	2024.07.29 23:53:07.230	PKV-S-STN	Parkville Station PSD System	PSD lost connection to signalling system!			2024.08.02 08:53:05.228	0	PKV
+CAME UNACK Low	2024.07.30 05:41:43.338	PKV_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.30 05:41:43.338	PKV_LFT_0003	Lift 3 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.07.30 05:41:43.355	PKV_LFT_0009	Lift 9 BOH (B3 Basement to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.30 15:14:33.342	PKV_LFT_0007	Lift 7 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+CAME UNACK Low	2024.07.30 15:14:54.338	PKV_LFT_0007	Lift 7 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+CAME UNACK Low	2024.07.30 15:15:34.336	PKV_LFT_0006	Lift 6 FOH (Concourse to Ground Floor)	Lift General Fault				0	PKV
+WENT UNACK Med	2024.08.01 09:26:43.594	_PKV-BMS-PLC3_2	MTPKV:_PKV-BMS-PLC3_2.	Communications Fault - Parkville Server 2 to Parkville BMS Gateway PLC			2024.08.01 09:34:25.048	0	STL
+WENT UNACK Med	2024.08.01 09:26:44.304	_PKV-BMS-PLC_2	MTPKV:_PKV-BMS-PLC_2.	Communications Fault - Parkville Server 2 to Parkville BMS PLC			2024.08.01 09:34:26.167	0	STL
+WENT UNACK Low	2024.08.01 09:26:52.336	_PKV-TVC-PLC_2	MTPKV:_PKV-TVC-PLC_2.	Link Failure - Parkville Server 2 to Parkville TVCS CPU 1			2024.08.01 09:33:54.729	0	STL
+WENT UNACK Med	2024.08.01 09:26:52.336	_PKV-TVC-PLC_2	MTPKV:_PKV-TVC-PLC_2.	Communications Fault - Parkville Server 2 to Parkville TVCS PLC			2024.08.01 09:33:54.729	0	STL
+CAME UNACK Low	2024.08.01 11:47:04.346	PKV_LFT_0006	Lift 6 FOH (Concourse to Ground Floor)	Lift safety feature fault				0	PKV
+WENT UNACK Med	2024.08.01 23:32:29.230	PKV-E-PSD-019	Parkville Platform 2 Zone 2 PSD 19	Door control unit communication lost			2024.08.01 23:33:27.230	0	PKV
+CAME UNACK Low	2024.08.02 08:47:25.228	PKV-E-PSD-002	Parkville Platform 2 Zone 1 PSD 02	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:47:37.235	PKV-E-PSD-003	Parkville Platform 2 Zone 1 PSD 03	PSD isolated				0	PKV
+WENT UNACK Low	2024.08.02 08:48:13.229	PKV-E-PSD-001	Parkville Platform 2 Zone 1 PSD 01	PSD isolated			2024.08.02 09:00:29.232	0	PKV
+CAME UNACK Low	2024.08.02 08:48:41.230	PKV-E-PSD-004	Parkville Platform 2 Zone 1 PSD 04	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:49:05.230	PKV-E-PSD-005	Parkville Platform 2 Zone 1 PSD 05	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:49:17.235	PKV-E-PSD-006	Parkville Platform 2 Zone 1 PSD 06	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:49:29.229	PKV-E-PSD-007	Parkville Platform 2 Zone 1 PSD 07	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:49:49.229	PKV-E-PSD-008	Parkville Platform 2 Zone 1 PSD 08	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:50:41.229	PKV-E-PSD-009	Parkville Platform 2 Zone 1 PSD 09	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:50:55.230	PKV-E-PSD-010	Parkville Platform 2 Zone 2 PSD 10	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:51:01.230	PKV-E-PSD-011	Parkville Platform 2 Zone 2 PSD 11	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:51:11.230	PKV-E-PSD-012	Parkville Platform 2 Zone 2 PSD 12	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:51:21.231	PKV-E-PSD-013	Parkville Platform 2 Zone 2 PSD 13	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:51:33.231	PKV-E-PSD-014	Parkville Platform 2 Zone 2 PSD 14	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:51:49.230	PKV-E-PSD-015	Parkville Platform 2 Zone 2 PSD 15	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:51:59.230	PKV-E-PSD-016	Parkville Platform 2 Zone 2 PSD 16	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:52:09.231	PKV-E-PSD-017	Parkville Platform 2 Zone 2 PSD 17	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:52:19.231	PKV-E-PSD-018	Parkville Platform 2 Zone 2 PSD 18	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:52:27.234	PKV-E-PSD-019	Parkville Platform 2 Zone 2 PSD 19	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:52:37.231	PKV-E-PSD-020	Parkville Platform 2 Zone 2 PSD 20	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:52:53.231	PKV-E-PSD-022	Parkville Platform 2 Zone 3 PSD 22	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:53:01.230	PKV-E-PSD-023	Parkville Platform 2 Zone 3 PSD 23	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:53:15.231	PKV-E-PSD-024	Parkville Platform 2 Zone 3 PSD 24	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:53:25.231	PKV-E-PSD-025	Parkville Platform 2 Zone 3 PSD 25	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:53:33.231	PKV-E-PSD-026	Parkville Platform 2 Zone 3 PSD 26	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:53:53.233	PKV-E-PSD-028	Parkville Platform 2 Zone 3 PSD 28	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:54:15.231	PKV-E-PSD-029	Parkville Platform 2 Zone 3 PSD 29	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:54:23.231	PKV-E-PSD-030	Parkville Platform 2 Zone 3 PSD 30	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:55:03.229	PKV-W-PSD-002	Parkville Platform 1 Zone 1 PSD 02	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:55:15.229	PKV-W-PSD-003	Parkville Platform 1 Zone 1 PSD 03	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:55:29.229	PKV-W-PSD-005	Parkville Platform 1 Zone 1 PSD 05	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:55:39.229	PKV-W-PSD-006	Parkville Platform 1 Zone 1 PSD 06	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:55:47.235	PKV-W-PSD-007	Parkville Platform 1 Zone 1 PSD 07	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:55:57.232	PKV-W-PSD-008	Parkville Platform 1 Zone 1 PSD 08	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:56:05.230	PKV-W-PSD-009	Parkville Platform 1 Zone 1 PSD 09	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:56:15.230	PKV-W-PSD-010	Parkville Platform 1 Zone 2 PSD 10	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:56:23.229	PKV-W-PSD-011	Parkville Platform 1 Zone 2 PSD 11	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:56:35.231	PKV-W-PSD-012	Parkville Platform 1 Zone 2 PSD 12	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:56:43.230	PKV-W-PSD-013	Parkville Platform 1 Zone 2 PSD 13	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:56:55.230	PKV-W-PSD-014	Parkville Platform 1 Zone 2 PSD 14	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:57:03.230	PKV-W-PSD-015	Parkville Platform 1 Zone 2 PSD 15	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:57:11.230	PKV-W-PSD-016	Parkville Platform 1 Zone 2 PSD 16	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:57:21.229	PKV-W-PSD-017	Parkville Platform 1 Zone 2 PSD 17	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:57:29.230	PKV-W-PSD-018	Parkville Platform 1 Zone 2 PSD 18	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:57:43.231	PKV-W-PSD-019	Parkville Platform 1 Zone 2 PSD 19	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:57:51.231	PKV-W-PSD-020	Parkville Platform 1 Zone 2 PSD 20	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:58:09.231	PKV-W-PSD-022	Parkville Platform 1 Zone 3 PSD 22	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:58:25.230	PKV-W-PSD-024	Parkville Platform 1 Zone 3 PSD 24	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:58:37.235	PKV-W-PSD-025	Parkville Platform 1 Zone 3 PSD 25	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:58:45.231	PKV-W-PSD-026	Parkville Platform 1 Zone 3 PSD 26	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:58:59.231	PKV-W-PSD-027	Parkville Platform 1 Zone 3 PSD 27	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:59:11.231	PKV-W-PSD-028	Parkville Platform 1 Zone 3 PSD 28	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:59:21.231	PKV-W-PSD-029	Parkville Platform 1 Zone 3 PSD 29	PSD isolated				0	PKV
+CAME UNACK Low	2024.08.02 08:59:31.232	PKV-W-PSD-030	Parkville Platform 1 Zone 3 PSD 30	PSD isolated				0	PKV
+WENT UNACK Med	2024.08.02 09:00:53.232	PKV-E-PSD-001	Parkville Platform 2 Zone 1 PSD 01	Door control unit communication lost			2024.08.02 09:01:59.232	0	PKV
+WENT UNACK Med	2024.08.03 10:31:09.974	PKV_SPP_0201_02_FG	Sewer Pump Pit - Function Group	Sewer drainage pit not dropping!			2024.08.03 10:49:05.982	0	PKV
+WENT UNACK High	2024.08.03 23:41:27.237	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door Unscheduled Door Opening!			2024.08.04 01:21:25.253	0	PKV
+WENT UNACK High	2024.08.03 23:41:27.238	PKV-W-PED-002	Parkville Platform 1 PED 02	Platform End Door opened!			2024.08.03 23:41:35.235	0	PKV
+WENT UNACK High	2024.08.03 23:42:07.233	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door opened!			2024.08.03 23:42:13.234	0	PKV
+WENT UNACK High	2024.08.03 23:42:07.234	PKV-E-PED-001	Parkville Platform 2 PED 01	Platform End Door Unscheduled Door Opening!			2024.08.04 01:22:01.254	0	PKV
+WENT UNACK High	2024.08.04 01:22:01.234	PKV-E-LCP	Parkville Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.08.04 01:22:09.234	0	PKV
+WENT UNACK High	2024.08.04 09:43:21.228	PKV-W-LCP	Parkville Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.08.04 09:43:29.232	0	PKV
+WENT UNACK High	2024.08.04 10:36:51.967	PKV_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.08.04 10:36:52.895	0	PKV
+WENT UNACK Low	2024.08.04 12:35:37.321	PKV_TEXB	Tunnel Ambient Temperature Control - Westbound	Temperature Sensors B - Discrepancy 			2024.08.04 12:44:15.319	0	PKV
+CAME UNACK High	2024.08.04 17:08:57.235	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	PKV
+CAME UNACK High	2024.08.04 17:44:05.232	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door Unscheduled Door Opening!				0	PKV
+WENT UNACK Med	2024.08.04 17:45:11.233	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door alarm bypassed!			2024.08.04 17:50:43.235	0	PKV
+WENT UNACK High	2024.08.04 17:50:39.235	PKV-E-PED-002	Parkville Platform 2 PED 02	Platform End Door opened!			2024.08.04 17:50:43.235	0	PKV
+WENT UNACK Med	2024.08.04 17:51:25.232	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door alarm bypassed!			2024.08.04 17:57:03.233	0	PKV
+WENT UNACK High	2024.08.04 17:56:55.233	PKV-W-PED-001	Parkville Platform 1 PED 01	Platform End Door opened!			2024.08.04 17:57:01.233	0	PKV
+ACK Low	2024.08.05 13:54:51.870	PKV_ESC_0005	Escalator 5 Bank 3 (Platforms to Concourse)	Escalator stopped (braking distance exceeded)	2024.08.05 13:55:17.585	chris_lawson		0	PKV
+CAME UNACK Low	2024.08.05 14:11:13.885	PKV_ESC_0003	Escalator 3 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.08.05 14:11:13.885	PKV_ESC_0004	Escalator 4 Bank 2 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.08.05 14:11:13.885	PKV_ESC_0006	Escalator 6 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.08.05 14:11:13.933	PKV_LFT_0001	Lift 1 FOH (Platforms to Concourse)	Lift monitoring lost 				0	PKV
+CAME UNACK Low	2024.08.05 14:11:13.944	PKV_LFT_0005	Lift 5 FOH (Concourse to Ground Floor)	Lift monitoring lost 				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.780	PKV-HTD-0003	B2, PKV-HTD-0003 OP STAFF DDA WC 228-2	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-0373	B2, PKV-SPE-0373 CUST SERV.CENTRE 202-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-0374	B2, PKV-SPE-0374 BOH GO 209-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-0376	B2, PKV-SPE-0376 PLANT ENTRY CORD 151-35	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-0377	B2, PKV-SPE-0377 FIRST AID ROOM 105-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-0405	B2, PKV-SPE-0405 PLANT ENTRY CORD 151-35	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-0406	B2, PKV-SPE-0406 PLANT ENTRY CORD 151-35	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-0407	B2, PKV-SPE-0407 CUST AIR-LOCK 153-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-1128	B2, PKV-SPE-1128 BOH GO 209-1 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.781	PKV-SPE-1131	B2, PKV-SPE-1131 BOH TEA RM 229-1 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.782	PKV-SPE-1132	B2, PKV-SPE-1132 STAFF DDA WC 228-2 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.782	PKV-SPE-1133	B2, PKV-SPE-1133 FIRST AID RM 105-1 C/S	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.782	PKV-HTD-0112	B2, PKV-HTD-0112 BOH TEA RM 229-1	Heat or smoke detector fault				0	PKV
+CAME UNACK Low	2024.08.05 15:12:22.786	PKV-SPE-0378	B2, PKV-SPE-0378 LV DIST BOARD RM 653-1	Heat or smoke detector fault				0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.332	_PKV-BMS-PLC	MTPKV:_PKV-BMS-PLC.	Communications Fault - Parkville Server 1 to Parkville BMS PLC			2024.08.05 15:16:47.933	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.332	_PKV-FDS-S7PLUS	MTPKV:_PKV-BMS-PLC.	Communications Fault - Parkville Server 1 to Parkville FDS PLC			2024.08.05 15:16:46.876	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.332	_PKV-BMS-PLC3	MTPKV:_PKV-BMS-PLC3.	Communications Fault - Parkville Server 1 to Parkville BMS Gateway PLC			2024.08.05 15:16:45.456	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.322	_RDBArchive	Parkville Server 1	RDB Connection Lost			2024.08.05 15:16:40.698	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.343	_Mod_Plc_1	Parkville Server 1	Communications Fault - Parkville Server 1 to Parkville PSD Servers			2024.08.05 15:16:46.152	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.342	_Mod_Plc_4	MTPKV:_Mod_Plc_4.	Communications Fault - Parkville Server 1 to Parkville EWIS			2024.08.05 15:16:46.028	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.342	_Mod_Plc_3	MTPKV:_Mod_Plc_3.	Communications Fault - Parkville Server 1 to Parkville EWIS			2024.08.05 15:16:45.933	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.390	_Conn_event_0_1_to_ctrl_1_1	Parkville Server 1	Control Manager Not Running - pvss_scripts.lst			2024.08.05 15:16:42.735	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.390	_Conn_event_0_1_to_ctrl_3_1	Parkville Server 1	Control Manager Not Running - mtpkv_scripts.lst			2024.08.05 15:16:45.354	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.459	_Conn_event_0_1_to_driver_2_1	Parkville Server 1	BMS PLC Driver Not Running (S7+)			2024.08.05 15:16:43.919	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.459	_Conn_event_0_1_to_ctrl_2_1	Parkville Server 1	Control Manager Not Running - mtlib_scripts.lst			2024.08.05 15:16:45.152	0	PKV
+WENT UNACK Med	2024.08.05 15:14:01.680	_Conn_event_0_2_to_event_0_1	MTPKV:_Conn_event_0_2_to_event_0_1.	Connection lost to Server 1 - Link 1			2024.08.05 15:17:22.760	0	PKV
+CAME UNACK Low	2024.08.05 15:17:04.784	_ReduManager_2	Parkville Server 2	Server 2 - Set active automatically				0	STL
+WENT UNACK Med	2024.08.05 15:16:42.322	_Conn_event_0_1_to_driver_1_1	Parkville Server 1	TVCS PLC Driver Not Running (S7)			2024.08.05 15:16:43.534	0	PKV
+WENT UNACK Med	2024.08.05 15:16:42.322	_Conn_event_0_1_to_event_0_2	MTPKV:_Conn_event_0_1_to_event_0_2.	Connection lost to Server 2 - Link 0			2024.08.05 15:17:42.426	0	STL
+WENT UNACK Med	2024.08.05 15:16:42.322	_Conn_event_0_1_to_event_0_2	MTPKV:_Conn_event_0_1_to_event_0_2.	Connection lost to Server 2 - Link 1			2024.08.05 15:17:22.653	0	STL
+WENT UNACK Low	2024.08.05 15:16:43.545	_PKV-TVC-PLC	MTPKV:_PKV-TVC-PLC.	Link Failure - Parkville Server 1 to Parkville TVCS CPU 1			2024.08.05 15:16:43.650	0	PKV
+WENT UNACK Med	2024.08.05 15:16:43.565	_PKV-TVC-PLC	MTPKV:_PKV-TVC-PLC.	Communications Fault - Parkville Server 1 to Parkville TVCS PLC			2024.08.05 15:16:43.650	0	PKV
+ACK Med	2024.06.03 10:49:34.960	_Mod_Plc_2	MTSTL:_Mod_Plc_2.	Communications Fault - State Library Server 1 to State Library FDS Gateway	2024.07.08 10:36:22.015	eric_maddocks		0	THL
+ACK Med	2024.06.03 10:49:34.962	_Mod_Plc_2_2	MTSTL:_Mod_Plc_2_2.	Communications Fault - State Library Server 2 to State Library FDS Gateway	2024.07.08 10:36:22.015	eric_maddocks		0	THL
+CAME UNACK Low	2024.07.29 08:52:06.233	TNC_HCS_0001	Staff Protection/Rail Occupancy Status - State Library Signal 01	Staff Protection Switch fault				0	STL
+CAME UNACK Low	2024.07.29 08:52:06.245	TNC_HCS_0002	Staff Protection/Rail Occupancy Status - State Library Signal 02	Staff Protection Switch fault				0	STL
+CAME UNACK High	2024.07.29 08:50:39.554	TNC_OCN_0101_02_DS	Over Concourse Exhaust Fan 01 - Franklin West Shaft	All fans inoperative!				0	SDU
+CAME UNACK High	2024.07.29 08:50:39.620	TNC_OFN_0001_03_DS	Over Track Exhaust Fan 01 - A'Beckett Shaft	All fans inoperative!				0	SDU
+CAME UNACK High	2024.07.29 08:50:39.652	TNC_TFN_0101_03_DS	Tunnel Ventilation Fan 03 - Franklin West Shaft	All fans inoperative!				0	SDU
+CAME UNACK High	2024.07.29 08:50:39.684	TNC_TFN_0201_03_DS	Tunnel Ventilation Fan - Latrobe Shaft	All fans inoperative!				0	SDU
+CAME UNACK Med	2024.07.29 08:52:48.396	TNC_ModeSts	TVCS CBD North Station mode status S06	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.07.29 08:52:48.410	TNC_ModeSts	TVCS CBD North Station mode status S06	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK High	2024.07.29 08:53:54.315	TNC_FIO_0001_CONC_0102	Fire Confirmed - CBD North Station S06 - Concourse - Cavern B4	Shaft smoke detection unavailable!				0	STL
+CAME UNACK High	2024.07.29 08:53:54.737	TNC_FIO_0001_CONC_0304	Fire Confirmed - CBD North Station S06 - Concourse - Cavern B5	Shaft smoke detection unavailable!				0	STL
+CAME UNACK High	2024.07.29 08:53:55.162	TNC_FIO_0001_PLAT_0102	Fire Confirmed - CBD North Station S06 - Platform South - Cavern B6	Shaft smoke detection unavailable!				0	STL
+CAME UNACK High	2024.07.29 08:53:55.584	TNC_FIO_0001_PLAT_0304	Fire Confirmed - CBD North Station S06 - Platform Middle - Cavern B6	Shaft smoke detection unavailable!				0	STL
+CAME UNACK High	2024.07.29 08:53:56.007	TNC_FIO_0001_PLAT_0506	Fire Confirmed - CBD North Station S06 - Platform North - Cavern B6	Shaft smoke detection unavailable!				0	STL
+CAME UNACK High	2024.07.29 08:53:56.431	TNC_FIO_0001_RE0207	Retail Room 901-05 - Fire Confirmed	Shaft smoke detection unavailable!				0	STL
+CAME UNACK High	2024.07.29 08:53:56.852	TNC_FIO_0001_RE0208	Retail Room 901-06 - Fire Confirmed	Shaft smoke detection unavailable!				0	STL
+CAME UNACK High	2024.07.29 08:53:56.923	TNC_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!				0	SDU
+CAME UNACK High	2024.07.29 08:53:56.931	TNC_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK High	2024.07.29 08:53:56.951	TNC_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!				0	SDU
+CAME UNACK Low	2024.07.29 08:52:27.066	TNC_TEXA	Tunnel Ambient Temperature Control	Tunnel A  - Ambient Temperature Control Unavailable 				0	SDU
+CAME UNACK Low	2024.07.29 08:53:22.260	TNC_TEXB	Tunnel Ambient Temperature Control	Tunnel B - Ambient Temperature Control Unavailable 				0	SDU
+ACK Med	2024.06.03 10:49:36.239	_TNC-FDS-S7PLUS	MTSTL:_TNC-FDS-S7PLUS.	Communications Fault - State Library Server 1 to State Library FDS PLC	2024.07.08 10:36:22.015	eric_maddocks		0	STL
+ACK Med	2024.06.03 10:49:36.241	_TNC-FDS-S7PLUS_2	MTSTL:_TNC-FDS-S7PLUS_2.	Communications Fault - State Library Server 2 to State Library FDS PLC	2024.07.08 10:36:22.015	eric_maddocks		0	THL
+ACK Med	2024.07.29 09:49:08.684	_TNC-TVC-PLC	MTSTL:_TNC-TVC-PLC.	Communications Fault - State Library Server 1 to State Library TVCS PLC	2024.07.29 10:40:37.743	eric_maddocks		0	STL
+ACK Med	2024.07.29 09:54:57.780	_TNC-TVC-PLC_2	MTSTL:_TNC-TVC-PLC_2.	Communications Fault - State Library Server 2 to State Library TVCS PLC	2024.07.29 10:40:37.743	eric_maddocks		0	THL
+ACK Med	2024.06.03 10:49:34.964	_Mod_Plc_3	MTSTL:_Mod_Plc_3.	Communications Fault - State Library Server 1 to State Library EWIS	2024.07.08 10:36:22.015	eric_maddocks		0	STL
+ACK Med	2024.06.03 10:49:34.967	_Mod_Plc_3_2	MTSTL:_Mod_Plc_3_2.	Communications Fault - State Library Server 2 to State Library EWIS	2024.07.08 10:36:22.015	eric_maddocks		0	THL
+ACK Med	2024.06.03 10:49:34.968	_Mod_Plc_4	MTSTL:_Mod_Plc_4.	Communications Fault - State Library Server 1 to State Library EWIS	2024.07.08 10:36:22.015	eric_maddocks		0	STL
+ACK Med	2024.06.03 10:49:34.970	_Mod_Plc_4_2	MTSTL:_Mod_Plc_4_2.	Communications Fault - State Library Server 2 to State Library EWIS	2024.07.08 10:36:22.015	eric_maddocks		0	THL
+CAME UNACK Med	2024.07.29 08:56:08.565	TNC-FIP-0001	State Library Station FDCIE Panel	No modbus server/gateway connection				0	STL
+CAME UNACK Med	2024.07.29 08:53:25.781	TNC_BMSComm	CBD North TVCS BMS PLC	Lost communication between the TNC TVCS PLC and the BMS PLC.				0	STL
+WENT UNACK High	2024.07.30 07:49:13.793	TNC-W-PSD-021	State Library Platform 1 Zone 2 PSD 21	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 08:07:53.796	TNC-W-PSD-022	State Library Platform 1 Zone 3 PSD 22	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 08:31:27.797	TNC-W-PSD-023	State Library Platform 1 Zone 3 PSD 23	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 08:44:27.797	TNC-W-PSD-024	State Library Platform 1 Zone 3 PSD 24	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 09:17:59.796	TNC-W-PSD-025	State Library Platform 1 Zone 3 PSD 25	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 09:32:21.799	TNC-W-PSD-026	State Library Platform 1 Zone 3 PSD 26	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 11:06:41.793	TNC-W-PSD-027	State Library Platform 1 Zone 3 PSD 27	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 11:14:33.793	TNC-W-PSD-028	State Library Platform 1 Zone 3 PSD 28	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.846	0	STL
+WENT UNACK High	2024.07.30 11:27:41.795	TNC-W-PSD-029	State Library Platform 1 Zone 3 PSD 29	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.936	0	STL
+WENT UNACK High	2024.07.30 11:38:21.800	TNC-W-PSD-030	State Library Platform 1 Zone 3 PSD 30	PSD Unscheduled Door Opening!			2024.07.31 08:37:41.936	0	STL
+WENT UNACK High	2024.07.30 11:58:27.795	TNC-E-PSD-001	State Library Platform 2 Zone 1 PSD 01	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.827	0	STL
+WENT UNACK High	2024.07.30 12:09:01.793	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.827	0	STL
+CAME UNACK Low	2024.07.30 12:13:31.794	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	Speaker fault				0	STL
+CAME UNACK Low	2024.07.30 12:13:33.797	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	Door status indicator fault 				0	STL
+CAME UNACK Low	2024.07.30 12:13:49.793	TNC-E-PSD-002	State Library Platform 2 Zone 1 PSD 02	PSD isolated				0	STL
+WENT UNACK High	2024.07.30 12:23:45.794	TNC-E-PSD-003	State Library Platform 2 Zone 1 PSD 03	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.827	0	STL
+WENT UNACK High	2024.07.30 12:32:47.794	TNC-E-PSD-004	State Library Platform 2 Zone 1 PSD 04	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.827	0	STL
+WENT UNACK High	2024.07.30 12:40:31.799	TNC-E-PSD-005	State Library Platform 2 Zone 1 PSD 05	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.827	0	STL
+WENT UNACK High	2024.07.30 12:49:09.798	TNC-E-PSD-006	State Library Platform 2 Zone 1 PSD 06	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.827	0	STL
+WENT UNACK High	2024.07.30 12:56:37.799	TNC-E-PSD-007	State Library Platform 2 Zone 1 PSD 07	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.827	0	STL
+WENT UNACK High	2024.07.30 13:04:03.798	TNC-E-PSD-008	State Library Platform 2 Zone 1 PSD 08	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.30 13:12:27.798	TNC-E-PSD-009	State Library Platform 2 Zone 1 PSD 09	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.30 13:18:47.799	TNC-E-PSD-010	State Library Platform 2 Zone 2 PSD 10	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 07:20:27.799	TNC-E-PSD-011	State Library Platform 2 Zone 2 PSD 11	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 07:21:07.794	TNC-E-PSD-011	State Library Platform 2 Zone 2 PSD 11	PSD obstructed on opening or closing!			2024.07.31 07:21:29.799	0	STL
+WENT UNACK High	2024.07.31 07:29:37.790	TNC-E-PSD-012	State Library Platform 2 Zone 2 PSD 12	Manual release activated!			2024.07.31 07:30:09.796	0	STL
+WENT UNACK High	2024.07.31 07:30:29.796	TNC-E-PSD-012	State Library Platform 2 Zone 2 PSD 12	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 07:31:41.795	TNC-E-PSD-012	State Library Platform 2 Zone 2 PSD 12	PSD obstructed on opening or closing!			2024.07.31 07:31:53.795	0	STL
+WENT UNACK High	2024.07.31 07:36:47.795	TNC-E-PSD-013	State Library Platform 2 Zone 2 PSD 13	Manual release activated!			2024.07.31 07:37:25.799	0	STL
+WENT UNACK High	2024.07.31 07:37:57.794	TNC-E-PSD-013	State Library Platform 2 Zone 2 PSD 13	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 07:39:53.798	TNC-E-PSD-013	State Library Platform 2 Zone 2 PSD 13	PSD obstructed on opening or closing!			2024.07.31 07:40:05.799	0	STL
+WENT UNACK High	2024.07.31 07:45:47.796	TNC-E-PSD-014	State Library Platform 2 Zone 2 PSD 14	Manual release activated!			2024.07.31 07:46:17.798	0	STL
+WENT UNACK High	2024.07.31 07:46:41.795	TNC-E-PSD-014	State Library Platform 2 Zone 2 PSD 14	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 07:47:27.794	TNC-E-PSD-014	State Library Platform 2 Zone 2 PSD 14	PSD obstructed on opening or closing!			2024.07.31 07:47:41.794	0	STL
+WENT UNACK High	2024.07.31 07:52:39.796	TNC-E-PSD-015	State Library Platform 2 Zone 2 PSD 15	Manual release activated!			2024.07.31 07:53:09.796	0	STL
+WENT UNACK High	2024.07.31 07:53:31.800	TNC-E-PSD-015	State Library Platform 2 Zone 2 PSD 15	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 07:56:15.795	TNC-E-PSD-015	State Library Platform 2 Zone 2 PSD 15	PSD obstructed on opening or closing!			2024.07.31 07:56:31.799	0	STL
+WENT UNACK High	2024.07.31 08:04:01.797	TNC-E-PSD-016	State Library Platform 2 Zone 2 PSD 16	Manual release activated!			2024.07.31 08:04:31.795	0	STL
+WENT UNACK High	2024.07.31 08:04:53.795	TNC-E-PSD-016	State Library Platform 2 Zone 2 PSD 16	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 08:05:51.800	TNC-E-PSD-016	State Library Platform 2 Zone 2 PSD 16	PSD obstructed on opening or closing!			2024.07.31 08:06:07.794	0	STL
+CAME UNACK Low	2024.07.31 08:06:53.796	TNC-E-PSD-016	State Library Platform 2 Zone 2 PSD 16	PSD isolated				0	STL
+WENT UNACK High	2024.07.31 08:14:19.793	TNC-E-PSD-017	State Library Platform 2 Zone 2 PSD 17	Manual release activated!			2024.07.31 08:14:51.796	0	STL
+WENT UNACK High	2024.07.31 08:15:43.797	TNC-E-PSD-017	State Library Platform 2 Zone 2 PSD 17	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 08:16:37.797	TNC-E-PSD-017	State Library Platform 2 Zone 2 PSD 17	PSD obstructed on opening or closing!			2024.07.31 08:16:57.797	0	STL
+WENT UNACK High	2024.07.31 08:21:43.795	TNC-E-PSD-018	State Library Platform 2 Zone 2 PSD 18	Manual release activated!			2024.07.31 08:22:19.792	0	STL
+WENT UNACK High	2024.07.31 08:22:41.795	TNC-E-PSD-018	State Library Platform 2 Zone 2 PSD 18	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.828	0	STL
+WENT UNACK High	2024.07.31 08:23:21.793	TNC-E-PSD-018	State Library Platform 2 Zone 2 PSD 18	PSD obstructed on opening or closing!			2024.07.31 08:23:39.796	0	STL
+WENT UNACK High	2024.07.31 08:27:35.795	TNC-E-PSD-019	State Library Platform 2 Zone 2 PSD 19	Manual release activated!			2024.07.31 08:28:15.793	0	STL
+WENT UNACK High	2024.07.31 08:28:53.793	TNC-E-PSD-019	State Library Platform 2 Zone 2 PSD 19	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.829	0	STL
+WENT UNACK High	2024.07.31 08:30:37.800	TNC-E-PSD-019	State Library Platform 2 Zone 2 PSD 19	PSD obstructed on opening or closing!			2024.07.31 08:31:09.797	0	STL
+WENT UNACK High	2024.07.31 08:34:41.793	TNC-E-PSD-020	State Library Platform 2 Zone 2 PSD 20	Manual release activated!			2024.07.31 08:35:15.791	0	STL
+WENT UNACK High	2024.07.31 08:35:35.793	TNC-E-PSD-020	State Library Platform 2 Zone 2 PSD 20	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.829	0	STL
+WENT UNACK High	2024.07.31 08:36:53.794	TNC-E-PSD-020	State Library Platform 2 Zone 2 PSD 20	PSD obstructed on opening or closing!			2024.07.31 08:37:11.795	0	STL
+WENT UNACK High	2024.07.31 08:37:51.820	TNC-W-EED-009	State Library Platform 1 Zone 1 EED 09	EED Unscheduled Door Opening!			2024.07.31 08:38:29.821	0	STL
+WENT UNACK High	2024.07.31 08:38:03.792	TNC-W-EED-009	State Library Platform 1 Zone 1 EED 09	EED opened!			2024.07.31 08:38:39.794	0	STL
+WENT UNACK High	2024.07.31 08:38:55.790	TNC-W-EED-010	State Library Platform 1 Zone 1 EED 10	EED opened!			2024.07.31 08:39:33.789	0	STL
+WENT UNACK High	2024.07.31 08:39:13.820	TNC-W-EED-010	State Library Platform 1 Zone 1 EED 10	EED Unscheduled Door Opening!			2024.07.31 08:39:29.815	0	STL
+WENT UNACK High	2024.07.31 08:40:41.812	TNC-W-EED-007	State Library Platform 1 Zone 1 EED 07	EED Unscheduled Door Opening!			2024.07.31 08:48:09.820	0	STL
+WENT UNACK High	2024.07.31 08:40:47.796	TNC-W-EED-007	State Library Platform 1 Zone 1 EED 07	EED opened!			2024.07.31 08:40:51.792	0	STL
+WENT UNACK High	2024.07.31 08:41:45.791	TNC-W-EED-014	State Library Platform 1 Zone 1 EED 14	EED opened!			2024.07.31 08:41:47.791	0	STL
+WENT UNACK High	2024.07.31 08:41:45.811	TNC-W-EED-014	State Library Platform 1 Zone 1 EED 14	EED Unscheduled Door Opening!			2024.07.31 08:48:09.820	0	STL
+WENT UNACK High	2024.07.31 08:41:49.818	TNC-W-EED-013	State Library Platform 1 Zone 1 EED 13	EED Unscheduled Door Opening!			2024.07.31 08:48:09.819	0	STL
+WENT UNACK High	2024.07.31 08:42:11.795	TNC-E-PSD-021	State Library Platform 2 Zone 2 PSD 21	Manual release activated!			2024.07.31 08:42:45.794	0	STL
+WENT UNACK High	2024.07.31 08:43:13.797	TNC-E-PSD-021	State Library Platform 2 Zone 2 PSD 21	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.829	0	STL
+WENT UNACK High	2024.07.31 08:44:01.792	TNC-E-PSD-021	State Library Platform 2 Zone 2 PSD 21	PSD obstructed on opening or closing!			2024.07.31 08:44:15.797	0	STL
+WENT UNACK High	2024.07.31 08:45:05.793	TNC-W-EED-013	State Library Platform 1 Zone 1 EED 13	EED opened!			2024.07.31 08:45:11.794	0	STL
+WENT UNACK High	2024.07.31 08:46:01.812	TNC-W-EED-020	State Library Platform 1 Zone 2 EED 20	EED Unscheduled Door Opening!			2024.07.31 08:48:09.820	0	STL
+WENT UNACK High	2024.07.31 08:46:27.792	TNC-W-EED-020	State Library Platform 1 Zone 2 EED 20	EED opened!			2024.07.31 08:46:33.797	0	STL
+WENT UNACK High	2024.07.31 08:47:29.789	TNC-W-DDX-001	State Library Platform 1 Zone 2 DD 01	Driver Door opened!			2024.07.31 08:48:33.791	0	STL
+WENT UNACK High	2024.07.31 08:48:27.820	TNC-W-DDX-001	State Library Platform 1 Zone 2 DD 01	Driver Door Unscheduled Door Opening!			2024.07.31 08:49:37.816	0	STL
+WENT UNACK High	2024.07.31 08:50:09.798	TNC-E-PSD-022	State Library Platform 2 Zone 3 PSD 22	Manual release activated!			2024.07.31 08:50:43.796	0	STL
+WENT UNACK High	2024.07.31 08:51:01.792	TNC-W-DDX-002	State Library Platform 1 Zone 2 DD 02	Driver Door opened!			2024.07.31 08:51:13.793	0	STL
+WENT UNACK High	2024.07.31 08:51:01.812	TNC-W-DDX-002	State Library Platform 1 Zone 2 DD 02	Driver Door Unscheduled Door Opening!			2024.07.31 08:52:11.816	0	STL
+WENT UNACK High	2024.07.31 08:51:01.833	TNC-E-PSD-022	State Library Platform 2 Zone 3 PSD 22	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.829	0	STL
+WENT UNACK High	2024.07.31 08:51:49.792	TNC-E-PSD-022	State Library Platform 2 Zone 3 PSD 22	PSD obstructed on opening or closing!			2024.07.31 08:52:27.795	0	STL
+WENT UNACK High	2024.07.31 08:52:43.799	TNC-W-EED-025	State Library Platform 1 Zone 3 EED 25	EED opened!			2024.07.31 08:53:09.795	0	STL
+WENT UNACK High	2024.07.31 08:52:43.821	TNC-W-EED-025	State Library Platform 1 Zone 3 EED 25	EED Unscheduled Door Opening!			2024.07.31 08:53:57.823	0	STL
+WENT UNACK High	2024.07.31 08:53:33.796	TNC-W-EED-024	State Library Platform 1 Zone 3 EED 24	EED opened!			2024.07.31 08:53:43.790	0	STL
+WENT UNACK High	2024.07.31 08:53:33.820	TNC-W-EED-024	State Library Platform 1 Zone 3 EED 24	EED Unscheduled Door Opening!			2024.07.31 08:53:57.824	0	STL
+WENT UNACK High	2024.07.31 08:53:59.796	TNC-W-LCP	State Library Platform 1 LCP	Emergency Stop activated from LCP!			2024.07.31 08:54:03.799	0	STL
+WENT UNACK High	2024.07.31 09:00:55.797	TNC-E-PSD-023	State Library Platform 2 Zone 3 PSD 23	Manual release activated!			2024.07.31 09:01:27.797	0	STL
+WENT UNACK High	2024.07.31 09:01:51.800	TNC-E-PSD-023	State Library Platform 2 Zone 3 PSD 23	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 09:02:29.796	TNC-E-PSD-023	State Library Platform 2 Zone 3 PSD 23	PSD obstructed on opening or closing!			2024.07.31 09:02:45.792	0	STL
+WENT UNACK High	2024.07.31 09:08:33.796	TNC-E-PSD-024	State Library Platform 2 Zone 3 PSD 24	Manual release activated!			2024.07.31 09:09:05.793	0	STL
+WENT UNACK High	2024.07.31 09:09:35.798	TNC-E-PSD-024	State Library Platform 2 Zone 3 PSD 24	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 09:10:11.794	TNC-E-PSD-024	State Library Platform 2 Zone 3 PSD 24	PSD obstructed on opening or closing!			2024.07.31 09:10:25.793	0	STL
+WENT UNACK High	2024.07.31 09:15:47.795	TNC-E-PSD-025	State Library Platform 2 Zone 3 PSD 25	Manual release activated!			2024.07.31 09:16:23.798	0	STL
+WENT UNACK High	2024.07.31 09:17:03.793	TNC-E-PSD-025	State Library Platform 2 Zone 3 PSD 25	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 09:17:39.797	TNC-E-PSD-025	State Library Platform 2 Zone 3 PSD 25	PSD obstructed on opening or closing!			2024.07.31 09:17:51.798	0	STL
+WENT UNACK High	2024.07.31 10:53:25.801	TNC-E-PSD-026	State Library Platform 2 Zone 3 PSD 26	Manual release activated!			2024.07.31 10:53:57.794	0	STL
+WENT UNACK High	2024.07.31 10:54:15.796	TNC-E-PSD-026	State Library Platform 2 Zone 3 PSD 26	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 10:54:51.795	TNC-E-PSD-026	State Library Platform 2 Zone 3 PSD 26	PSD obstructed on opening or closing!			2024.07.31 10:55:13.796	0	STL
+WENT UNACK High	2024.07.31 11:00:47.796	TNC-E-PSD-027	State Library Platform 2 Zone 3 PSD 27	Manual release activated!			2024.07.31 11:01:19.799	0	STL
+WENT UNACK High	2024.07.31 11:01:45.795	TNC-E-PSD-027	State Library Platform 2 Zone 3 PSD 27	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 11:02:25.796	TNC-E-PSD-027	State Library Platform 2 Zone 3 PSD 27	PSD obstructed on opening or closing!			2024.07.31 11:02:41.796	0	STL
+WENT UNACK High	2024.07.31 11:11:03.791	TNC-E-PSD-028	State Library Platform 2 Zone 3 PSD 28	Manual release activated!			2024.07.31 11:11:35.796	0	STL
+WENT UNACK High	2024.07.31 11:11:57.794	TNC-E-PSD-028	State Library Platform 2 Zone 3 PSD 28	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 11:12:37.801	TNC-E-PSD-028	State Library Platform 2 Zone 3 PSD 28	PSD obstructed on opening or closing!			2024.07.31 11:12:53.793	0	STL
+WENT UNACK High	2024.07.31 11:16:57.801	TNC-E-PSD-029	State Library Platform 2 Zone 3 PSD 29	Manual release activated!			2024.07.31 11:17:33.795	0	STL
+WENT UNACK High	2024.07.31 11:17:57.794	TNC-E-PSD-029	State Library Platform 2 Zone 3 PSD 29	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 11:18:33.795	TNC-E-PSD-029	State Library Platform 2 Zone 3 PSD 29	PSD obstructed on opening or closing!			2024.07.31 11:19:21.796	0	STL
+WENT UNACK High	2024.07.31 11:23:31.795	TNC-E-PSD-030	State Library Platform 2 Zone 3 PSD 30	Manual release activated!			2024.07.31 11:24:03.798	0	STL
+WENT UNACK High	2024.07.31 11:24:25.794	TNC-E-PSD-030	State Library Platform 2 Zone 3 PSD 30	PSD Unscheduled Door Opening!			2024.08.04 01:16:45.830	0	STL
+WENT UNACK High	2024.07.31 11:25:01.793	TNC-E-PSD-030	State Library Platform 2 Zone 3 PSD 30	PSD obstructed on opening or closing!			2024.07.31 11:25:13.797	0	STL
+WENT UNACK High	2024.07.31 11:29:57.788	TNC-W-PSD-001	State Library Platform 1 Zone 1 PSD 01	Manual release activated!			2024.07.31 11:30:29.789	0	STL
+WENT UNACK High	2024.07.31 11:30:47.794	TNC-W-PSD-001	State Library Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!			2024.08.04 01:18:39.824	0	STL
+WENT UNACK High	2024.07.31 11:36:49.791	TNC-W-PSD-002	State Library Platform 1 Zone 1 PSD 02	Manual release activated!			2024.07.31 11:37:49.793	0	STL
+WENT UNACK High	2024.07.31 11:37:53.794	TNC-W-PSD-002	State Library Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!			2024.08.04 01:18:39.824	0	STL
+WENT UNACK High	2024.07.31 11:38:45.795	TNC-W-PSD-002	State Library Platform 1 Zone 1 PSD 02	PSD obstructed on opening or closing!			2024.07.31 11:39:07.793	0	STL
+WENT UNACK High	2024.07.31 11:44:25.792	TNC-W-PSD-003	State Library Platform 1 Zone 1 PSD 03	Manual release activated!			2024.07.31 11:45:03.791	0	STL
+WENT UNACK High	2024.07.31 11:45:35.792	TNC-W-PSD-003	State Library Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!			2024.08.04 01:18:39.824	0	STL
+WENT UNACK High	2024.07.31 11:46:23.791	TNC-W-PSD-003	State Library Platform 1 Zone 1 PSD 03	PSD obstructed on opening or closing!			2024.07.31 11:46:45.792	0	STL
+WENT UNACK High	2024.07.31 11:51:09.795	TNC-W-PSD-004	State Library Platform 1 Zone 1 PSD 04	Manual release activated!			2024.07.31 11:51:41.793	0	STL
+WENT UNACK High	2024.07.31 11:52:05.797	TNC-W-PSD-004	State Library Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!			2024.08.04 01:18:39.824	0	STL
+WENT UNACK High	2024.07.31 11:52:45.794	TNC-W-PSD-004	State Library Platform 1 Zone 1 PSD 04	PSD obstructed on opening or closing!			2024.07.31 11:52:59.789	0	STL
+WENT UNACK High	2024.07.31 11:58:11.793	TNC-W-PSD-005	State Library Platform 1 Zone 1 PSD 05	Manual release activated!			2024.07.31 11:58:47.795	0	STL
+WENT UNACK High	2024.07.31 11:59:05.795	TNC-W-PSD-005	State Library Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!			2024.08.04 01:18:39.824	0	STL
+WENT UNACK High	2024.07.31 11:59:57.791	TNC-W-PSD-005	State Library Platform 1 Zone 1 PSD 05	PSD obstructed on opening or closing!			2024.07.31 12:00:11.793	0	STL
+WENT UNACK High	2024.07.31 12:09:39.796	TNC-W-PSD-006	State Library Platform 1 Zone 1 PSD 06	Manual release activated!			2024.07.31 12:10:11.793	0	STL
+WENT UNACK High	2024.07.31 12:10:15.823	TNC-W-PSD-006	State Library Platform 1 Zone 1 PSD 06	PSD Unscheduled Door Opening!			2024.08.04 01:18:39.824	0	STL
+WENT UNACK High	2024.07.31 12:11:23.789	TNC-W-PSD-006	State Library Platform 1 Zone 1 PSD 06	PSD obstructed on opening or closing!			2024.07.31 12:11:41.794	0	STL
+WENT UNACK High	2024.07.31 12:15:09.816	TNC-W-EED-011	State Library Platform 1 Zone 1 EED 11	EED Unscheduled Door Opening!			2024.08.04 01:18:39.822	0	STL
+WENT UNACK High	2024.07.31 12:17:05.795	TNC-W-EED-011	State Library Platform 1 Zone 1 EED 11	EED opened!			2024.07.31 12:17:25.789	0	STL
+WENT UNACK Med	2024.08.01 21:13:35.794	TNC-S-STN	State Library Station PSD System	PSD lost connection to signalling system!			2024.08.01 21:23:17.790	0	STL
+CAME UNACK Low	2024.08.02 07:36:21.791	TNC-W-PSD-002	State Library Platform 1 Zone 1 PSD 02	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:36:41.794	TNC-W-PSD-003	State Library Platform 1 Zone 1 PSD 03	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:36:53.793	TNC-W-PSD-004	State Library Platform 1 Zone 1 PSD 04	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:37:19.792	TNC-W-PSD-005	State Library Platform 1 Zone 1 PSD 05	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:37:31.796	TNC-W-PSD-006	State Library Platform 1 Zone 1 PSD 06	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:37:39.797	TNC-W-PSD-007	State Library Platform 1 Zone 1 PSD 07	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:37:47.797	TNC-W-PSD-008	State Library Platform 1 Zone 1 PSD 08	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:37:57.795	TNC-W-PSD-009	State Library Platform 1 Zone 1 PSD 09	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:38:13.796	TNC-W-PSD-010	State Library Platform 1 Zone 2 PSD 10	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:38:21.789	TNC-W-PSD-011	State Library Platform 1 Zone 2 PSD 11	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:38:29.796	TNC-W-PSD-012	State Library Platform 1 Zone 2 PSD 12	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:38:37.794	TNC-W-PSD-013	State Library Platform 1 Zone 2 PSD 13	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:38:45.794	TNC-W-PSD-014	State Library Platform 1 Zone 2 PSD 14	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:38:55.792	TNC-W-PSD-015	State Library Platform 1 Zone 2 PSD 15	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:39:05.796	TNC-W-PSD-016	State Library Platform 1 Zone 2 PSD 16	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:39:15.795	TNC-W-PSD-017	State Library Platform 1 Zone 2 PSD 17	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:39:33.789	TNC-W-PSD-018	State Library Platform 1 Zone 2 PSD 18	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:39:43.799	TNC-W-PSD-019	State Library Platform 1 Zone 2 PSD 19	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:39:51.794	TNC-W-PSD-020	State Library Platform 1 Zone 2 PSD 20	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:40:05.790	TNC-W-PSD-022	State Library Platform 1 Zone 3 PSD 22	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:40:13.796	TNC-W-PSD-023	State Library Platform 1 Zone 3 PSD 23	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:40:19.792	TNC-W-PSD-024	State Library Platform 1 Zone 3 PSD 24	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:40:37.795	TNC-W-PSD-025	State Library Platform 1 Zone 3 PSD 25	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:40:45.795	TNC-W-PSD-026	State Library Platform 1 Zone 3 PSD 26	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:40:57.791	TNC-W-PSD-027	State Library Platform 1 Zone 3 PSD 27	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:41:07.795	TNC-W-PSD-028	State Library Platform 1 Zone 3 PSD 28	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:41:17.798	TNC-W-PSD-029	State Library Platform 1 Zone 3 PSD 29	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:41:31.798	TNC-W-PSD-030	State Library Platform 1 Zone 3 PSD 30	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:42:01.797	TNC-E-PSD-003	State Library Platform 2 Zone 1 PSD 03	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:42:19.792	TNC-E-PSD-004	State Library Platform 2 Zone 1 PSD 04	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:42:33.794	TNC-E-PSD-005	State Library Platform 2 Zone 1 PSD 05	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:42:43.797	TNC-E-PSD-006	State Library Platform 2 Zone 1 PSD 06	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:42:55.799	TNC-E-PSD-007	State Library Platform 2 Zone 1 PSD 07	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:43:01.796	TNC-E-PSD-008	State Library Platform 2 Zone 1 PSD 08	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:43:11.796	TNC-E-PSD-009	State Library Platform 2 Zone 1 PSD 09	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:43:59.799	TNC-E-PSD-010	State Library Platform 2 Zone 2 PSD 10	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:44:07.796	TNC-E-PSD-011	State Library Platform 2 Zone 2 PSD 11	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:44:17.796	TNC-E-PSD-012	State Library Platform 2 Zone 2 PSD 12	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:44:25.799	TNC-E-PSD-013	State Library Platform 2 Zone 2 PSD 13	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:44:33.797	TNC-E-PSD-014	State Library Platform 2 Zone 2 PSD 14	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:44:43.800	TNC-E-PSD-015	State Library Platform 2 Zone 2 PSD 15	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:45:15.796	TNC-E-PSD-017	State Library Platform 2 Zone 2 PSD 17	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:45:23.796	TNC-E-PSD-018	State Library Platform 2 Zone 2 PSD 18	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:45:31.800	TNC-E-PSD-019	State Library Platform 2 Zone 2 PSD 19	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:46:47.800	TNC-E-PSD-020	State Library Platform 2 Zone 2 PSD 20	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:47:05.793	TNC-E-PSD-022	State Library Platform 2 Zone 3 PSD 22	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:47:11.796	TNC-E-PSD-023	State Library Platform 2 Zone 3 PSD 23	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:47:19.793	TNC-E-PSD-024	State Library Platform 2 Zone 3 PSD 24	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:47:27.793	TNC-E-PSD-025	State Library Platform 2 Zone 3 PSD 25	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:47:37.795	TNC-E-PSD-026	State Library Platform 2 Zone 3 PSD 26	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:47:47.799	TNC-E-PSD-027	State Library Platform 2 Zone 3 PSD 27	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:47:55.794	TNC-E-PSD-028	State Library Platform 2 Zone 3 PSD 28	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:48:07.794	TNC-E-PSD-029	State Library Platform 2 Zone 3 PSD 29	PSD isolated				0	STL
+CAME UNACK Low	2024.08.02 07:48:15.797	TNC-E-PSD-030	State Library Platform 2 Zone 3 PSD 30	PSD isolated				0	STL
+WENT UNACK Med	2024.08.03 16:19:35.941	_Driver2	MTSTL:_Driver2.	PSS1 S7Plus Driver 2 overloaded (BMS PLC)			2024.08.03 16:19:57.837	0	THL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0001	Lift 1 FOH (B6 Basement to B5 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0002	Lift 2 FOH (B6 Basement to B5 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0003	Lift 3 FOH (B6 Basement to B4 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0004	Lift 4 FOH (B6 Basement to B4 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0005	Lift 5 FOH (B5 Basement to Ground Floor)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0006	Lift 6 FOH (B5 Basement to Ground Floor)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0007	Lift 7 FOH (B4 Basement to B1 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0008	Lift 8 FOH (B4 Basement to B1 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0009	Lift 9 FOH (B2 Basement to Ground Floor)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0010	Lift 10 FOH (B2 Basement to Ground Floor)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0011	Lift 11 BOH (B6 Basement to B5 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0012	Lift 12 BOH (B7 Basement to Ground Floor)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0013	Lift 13 FOH (B6 Basement to B5 Basement)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0014	Lift 14 BOH (B5 Basement to Ground Floor)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0015	Lift 15 BOH (B7 Basement to Ground Floor)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0016	Lift 16 BOH (B7 Basement to Level 1)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0017	Lift 17 BOH (Ground Floor to Level 3)	Lift safety feature fault				0	STL
+CAME UNACK Low	2024.08.03 16:19:57.977	TNC_LFT_0019	Lift 19 BOH (B5 Basement to B7 Basement)	Lift safety feature fault				0	STL
+CAME UNACK High	2024.08.03 16:20:07.904	TNC_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0001	Escalator 1 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0002	Escalator 2 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0003	Escalator 3 Bank 1 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0004	Escalator 4 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0005	Escalator 5 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0006	Escalator 6 Bank 2 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0007	Escalator 7 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0008	Escalator 8 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0009	Escalator 9 Bank 3 (B6 Basement to B5 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.945	TNC_ESC_0010	Escalator 10 Bank 4 (B5 Basement to B3 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0011	Escalator 11 Bank 4 (B5 Basement to B3 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0012	Escalator 12 Bank 4 (B5 Basement to B3 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0013	Escalator 13 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0014	Escalator 14 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0015	Escalator 15 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0016	Escalator 16 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0017	Escalator 17 Bank 5 (B5 Basement to B2 Basement)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.955	TNC_ESC_0018	Escalator 18 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.959	TNC_ESC_0019	Escalator 19 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.959	TNC_ESC_0020	Escalator 20 Bank 6 (B3 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.959	TNC_ESC_0021	Escalator 21 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.959	TNC_ESC_0022	Escalator 22 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.959	TNC_ESC_0023	Escalator 23 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.959	TNC_ESC_0024	Escalator 24 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.959	TNC_ESC_0025	Escalator 25 Bank 7 (B2 Basement to Ground Floor)	Escalator communications lost				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0001	Lift 1 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0002	Lift 2 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0003	Lift 3 FOH (B6 Basement to B4 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0004	Lift 4 FOH (B6 Basement to B4 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0005	Lift 5 FOH (B5 Basement to Ground Floor)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0006	Lift 6 FOH (B5 Basement to Ground Floor)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0007	Lift 7 FOH (B4 Basement to B1 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0008	Lift 8 FOH (B4 Basement to B1 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0009	Lift 9 FOH (B2 Basement to Ground Floor)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0010	Lift 10 FOH (B2 Basement to Ground Floor)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0011	Lift 11 BOH (B6 Basement to B5 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0012	Lift 12 BOH (B7 Basement to Ground Floor)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0013	Lift 13 FOH (B6 Basement to B5 Basement)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0014	Lift 14 BOH (B5 Basement to Ground Floor)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.974	TNC_LFT_0015	Lift 15 BOH (B7 Basement to Ground Floor)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.984	TNC_LFT_0016	Lift 16 BOH (B7 Basement to Level 1)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.984	TNC_LFT_0017	Lift 17 BOH (Ground Floor to Level 3)	Lift monitoring lost 				0	STL
+CAME UNACK Low	2024.08.03 16:20:07.984	TNC_LFT_0019	Lift 19 BOH (B5 Basement to B7 Basement)	Lift monitoring lost 				0	STL
+WENT UNACK High	2024.08.03 23:26:11.795	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door Unscheduled Door Opening!			2024.08.04 01:16:45.826	0	STL
+WENT UNACK High	2024.08.03 23:27:21.791	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door Unscheduled Door Opening!			2024.08.04 01:18:39.823	0	STL
+WENT UNACK High	2024.08.03 23:27:21.791	TNC-W-PED-001	State Library Platform 1 PED 01	Platform End Door opened!			2024.08.03 23:27:29.792	0	STL
+WENT UNACK High	2024.08.03 23:55:15.795	TNC-E-PED-002	State Library Platform 2 PED 02	Platform End Door opened!			2024.08.03 23:55:23.796	0	STL
+WENT UNACK High	2024.08.04 01:16:45.798	TNC-E-LCP	State Library Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.08.04 01:17:11.795	0	STL
+WENT UNACK High	2024.08.04 01:18:39.797	TNC-W-LCP	State Library Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.08.04 01:19:03.795	0	STL
+WENT UNACK Med	2024.08.04 07:06:53.174	_TNC-BMS-PLC	MTSTL:_TNC-BMS-PLC.	Communications Fault - State Library Server 1 to State Library BMS PLC			2024.08.04 13:40:59.158	0	STL
+WENT UNACK Med	2024.08.04 07:07:09.232	_TNC-BMS-PLC_2	MTSTL:_TNC-BMS-PLC_2.	Communications Fault - State Library Server 2 to State Library BMS PLC			2024.08.04 13:41:15.177	0	THL
+WENT UNACK Med	2024.08.04 07:07:09.232	_TNC-BMS-PLC3_2	MTSTL:_TNC-BMS-PLC3_2.	Communications Fault - State Library Server 2 to State Library BMS Gateway PLC			2024.08.04 13:41:15.047	0	THL
+WENT UNACK High	2024.08.04 09:13:31.795	TNC-W-PSD-001	State Library Platform 1 Zone 1 PSD 01	PSD obstructed on opening or closing!			2024.08.04 09:13:47.791	0	STL
+WENT UNACK Low	2024.08.04 09:17:33.791	TNC-W-PSD-001	State Library Platform 1 Zone 1 PSD 01	PSD isolated			2024.08.04 11:53:49.788	0	STL
+WENT UNACK Med	2024.08.04 13:41:00.006	_TNC-BMS-PLC3	MTSTL:_TNC-BMS-PLC3.	Communications Fault - State Library Server 1 to State Library BMS Gateway PLC			2024.08.04 13:41:00.042	0	STL
+WENT UNACK Med	2024.08.04 21:34:49.792	TNC-W-PED-002	State Library Platform 1 PED 02	Platform End Door alarm bypassed!			2024.08.04 22:06:33.793	0	STL
+CAME UNACK High	2024.08.04 21:35:15.794	TNC-W-PED-002	State Library Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	STL
+WENT UNACK High	2024.08.04 22:06:09.798	TNC-W-PED-002	State Library Platform 1 PED 02	Platform End Door opened!			2024.08.04 22:06:31.799	0	STL
+ACK Med	2024.06.03 10:49:52.192	_Mod_Plc_2_2	MTTHL:_Mod_Plc_2_2.	Communications Fault - Town Hall Server 2 to Town Hall FDS Gateway	2024.07.08 10:36:22.046	eric_maddocks		0	AZC
+WENT UNACK High	2024.07.29 08:56:21.904	TSC-E-PED-002	Town Hall Platform 2 PED 02	Platform End Door Unscheduled Door Opening!			2024.08.04 01:48:16.337	0	THL
+ACK Med	2024.06.03 10:49:53.694	_TSC-FDS-S7PLUS	MTTHL:_TSC-FDS-S7PLUS.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.07.08 10:36:22.046	eric_maddocks		0	THL
+ACK Med	2024.06.03 10:49:53.699	_TSC-FDS-S7PLUS_2	MTTHL:_TSC-FDS-S7PLUS_2.	Communications Fault - Town Hall Server 1 to Town Hall FDS PLC	2024.07.08 10:36:22.046	eric_maddocks		0	AZC
+CAME UNACK Low	2024.07.29 08:53:04.516	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:04.698	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:05.053	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:06.117	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:06.304	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:06.649	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:07.662	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:07.839	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:08.185	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:09.210	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:09.392	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:09.725	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:10.742	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:10.918	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:11.283	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:12.322	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:12.514	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:12.863	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:13.911	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:14.101	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:14.461	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:23.293	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:23.473	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:23.808	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:24.813	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:24.988	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:25.341	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:26.350	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:26.528	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:26.868	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:27.893	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:28.069	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:28.428	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:29.437	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:29.613	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:29.945	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:30.948	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:31.128	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:31.468	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:32.477	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:32.650	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:32.983	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:33.986	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:34.169	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:34.509	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:35.507	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:35.681	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:36.011	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:37.007	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:37.193	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:37.538	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:38.539	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:38.714	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:39.049	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:40.051	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:40.233	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:40.572	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:41.585	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:41.760	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:42.095	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:43.106	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:43.289	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:43.625	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:44.626	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:44.804	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:45.147	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:46.163	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:46.341	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:46.678	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:47.686	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:47.860	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:48.198	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:49.192	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:49.374	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:49.705	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:50.696	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:50.869	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:51.207	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:52.212	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:52.401	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:52.736	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:53.733	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:53.906	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:54.245	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:55.235	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:55.416	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:55.747	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:56.744	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:56.917	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:57.262	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:58.268	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:58.447	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:58.780	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:59.783	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:59.956	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:00.297	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:54:01.297	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:54:01.480	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:01.813	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:54:02.829	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:54:03.004	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:03.366	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:54:04.360	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:54:04.537	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:04.869	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:54:05.865	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:54:06.039	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:06.380	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:54:07.387	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:54:07.562	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:07.893	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:54:08.886	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:54:09.114	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:09.494	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:54:10.534	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:54:10.715	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:54:11.052	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Med	2024.07.29 08:56:09.945	TSC-FIP-0001	Town Hall Station FDCIE Panel	No modbus server/gateway connection				0	THL
+CAME UNACK Low	2024.07.29 08:56:11.182	TSC_LFT_0001	Lift 1 FOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:11.560	TSC_LFT_0002	Lift 2 FOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:11.920	TSC_LFT_0003	Lift 3 FOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:12.296	TSC_LFT_0004	Lift 4 FOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:12.670	TSC_LFT_0007	Lift 7 FOH (B3 Basement to B2 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:13.028	TSC_LFT_0008	Lift 8 FOH (B3 Basement to B2 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:13.412	TSC_LFT_0012	Lift 12 BOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:13.773	TSC_LFT_0013	Lift 13 BOH (B4 Basement to GF Ground Floor)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:14.138	TSC_LFT_0014	Lift 14 BOH (B6 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:14.511	TSC_LFT_0015	Lift 15 BOH (B4 Basement to GF Ground Floor)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:14.872	TSC_LFT_0016	Lift 16 FOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK Low	2024.07.29 08:56:15.243	TSC_LFT_0017	Lift 17 BOH (B4 Basement to B3 Basement)	Lift safety feature fault				0	THL
+CAME UNACK High	2024.07.29 09:00:14.852	TSC_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!				0	THL
+CAME UNACK Low	2024.07.29 08:53:15.496	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:15.679	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:16.020	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:17.045	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:17.238	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:17.591	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:18.613	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:18.794	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:19.139	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:20.169	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:20.351	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:20.698	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+CAME UNACK Low	2024.07.29 08:53:21.721	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (tension fault - right) 				0	THL
+CAME UNACK Low	2024.07.29 08:53:21.897	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - bottom left)				0	THL
+CAME UNACK Low	2024.07.29 08:53:22.247	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (skirt contact top left/right alarm)				0	THL
+ACK Med	2024.06.03 10:49:52.195	_Mod_Plc_3_2	MTTHL:_Mod_Plc_3_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.07.08 10:36:22.046	eric_maddocks		0	AZC
+ACK Med	2024.06.03 10:49:52.198	_Mod_Plc_4_2	MTTHL:_Mod_Plc_4_2.	Communications Fault - Town Hall Server 2 to Town Hall EWIS	2024.07.08 10:36:22.046	eric_maddocks		0	AZC
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_OCN_0101_02_DS	Over Concourse Exhaust Fan 01 - City Square Shaft	All fans inoperative!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_OFN_0001_03_DS	Over Track Exhaust Fan 01 - OSD Shaft - Variable Speed Drive 	All fans inoperative!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_TFN_0101_03_DS	Tunnel Ventilation Fan 01 - City Square Shaft - Variable Speed Drive	All fans inoperative!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_TFN_0201_03_DS	Tunnel Ventilation Fan 01 - OSD Shaft - Variable Speed Drive	All fans inoperative!				0	THL
+CAME UNACK Med	2024.07.29 16:26:56.361	TSC_ModeSts	TVCS CBD South Station mode status S08	Over Track Exhaust Unavailable				0	SDU
+CAME UNACK Med	2024.07.29 16:26:56.361	TSC_ModeSts	TVCS CBD South Station mode status S08	Tunnel section ventilation unavailable				0	SDU
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_SSX_0001	TVCS Shaft Smoke Detection System 01	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_SSX_0002	TVCS Shaft Smoke Detection System 02	Shaft smoke detection unavailable!				0	THL
+CAME UNACK Low	2024.07.29 16:26:56.361	TSC_TEXA	Tunnel Ambient Temperature Control	Tunnel A  - Ambient Temperature Control Unavailable 				0	THL
+CAME UNACK Low	2024.07.29 16:26:56.361	TSC_TEXB	Tunnel Ambient Temperature Control	Tunnel B - Ambient Temperature Control Unavailable 				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_FIO_0148_CONC_0102	Fire Confirmed - CBD South Station S08 Concourse City Square Crypt B3	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_FIO_0148_CONC_0304	Fire Confirmed - CBD South Station S08 Concourse OSD B2	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_FIO_0148_PLAT_0102	Fire Confirmed - CBD South Station S08 - Plat Mid EB Plat B4	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_FIO_0148_PLAT_0304	Fire Confirmed - CBD South Station S08 - Plat Mid Fed Sq OSD EB B4	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_FIO_0148_PLAT_0506	Fire Confirmed - CBD South Station S08 - Plat Mid City Square EB B4	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_FIO_0148_PLAT_0708	Fire Confirmed - CBD South Station S08 - Plat Mid North WB Plat B4	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:26:56.361	TSC_FIO_0148_PLAT_0910	Fire Confirmed - CBD South Station S08 - Plat Mid North EB Plat B4	Shaft smoke detection unavailable!				0	THL
+CAME UNACK High	2024.07.29 16:27:02.362	TSC_SSX_0001	TVCS Shaft Smoke Detection System 01	Smoke detected in shaft!				0	THL
+CAME UNACK Med	2024.07.29 16:27:06.353	TSC_BMSComm	CBD South TVCS BMS PLC	Lost communication between the TSC TVCS PLC and the BMS PLC.				0	THL
+CAME UNACK Low	2024.07.29 16:27:26.364	TSC_HCS_0001	Staff Protection/Rail Occupancy Status - Town Hall Signal 01	Staff Protection Switch fault				0	THL
+CAME UNACK Low	2024.07.29 16:27:26.364	TSC_HCS_0002	Staff Protection/Rail Occupancy Status - Town Hall Signal 02	Staff Protection Switch fault				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.537	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.537	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.537	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.537	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.537	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.548	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.548	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.551	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.561	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.561	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.563	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.573	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.575	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator communications lost				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.597	TSC_LFT_0001	Lift 1 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0002	Lift 2 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0003	Lift 3 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0004	Lift 4 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0007	Lift 7 FOH (B3 Basement to B2 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0008	Lift 8 FOH (B3 Basement to B2 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0012	Lift 12 BOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0013	Lift 13 BOH (B4 Basement to GF Ground Floor)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0014	Lift 14 BOH (B6 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0015	Lift 15 BOH (B4 Basement to GF Ground Floor)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0016	Lift 16 FOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 12:10:57.598	TSC_LFT_0017	Lift 17 BOH (B4 Basement to B3 Basement)	Lift monitoring lost 				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0001	Escalator 1 Bank 1 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0002	Escalator 2 Bank 2 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0003	Escalator 3 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0004	Escalator 4 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0005	Escalator 5 Bank 3 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0006	Escalator 6 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0007	Escalator 7 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0008	Escalator 8 Bank 4 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0009	Escalator 9 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.475	TSC_ESC_0010	Escalator 10 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.481	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.481	TSC_ESC_0011	Escalator 11 Bank 5 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.481	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.481	TSC_ESC_0012	Escalator 12 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0013	Escalator 13 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0014	Escalator 14 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0015	Escalator 15 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0016	Escalator 16 Bank 6 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0017	Escalator 17 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0018	Escalator 18 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0019	Escalator 19 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0020	Escalator 20 Bank 7 (B4 Basement to B3 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0021	Escalator 21 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0022	Escalator 22 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0023	Escalator 23 Bank 8 (B2 Basement to B1 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0024	Escalator 24 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0025	Escalator 25 Bank 9 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0026	Escalator 26 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0027	Escalator 27 Bank 10 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0028	Escalator 28 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0029	Escalator 29 Bank 11 (B1 Basement to B1M Basement Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0030	Escalator 30 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0031	Escalator 31 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0032	Escalator 32 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0033	Escalator 33 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0034	Escalator 34 Bank 12 (B1M Basement Mezzanine to GFM Ground Floor Mezzanine)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0035	Escalator 35 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0036	Escalator 36 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0037	Escalator 37 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0038	Escalator 38 Bank 13 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.482	TSC_ESC_0039	Escalator 39 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0040	Escalator 40 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0041	Escalator 41 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0042	Escalator 42 Bank 14 (B2 Basement to GF Ground Floor)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0043	Escalator 43 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (combplate bottom left)				0	THL
+CAME UNACK Low	2024.07.30 16:24:42.492	TSC_ESC_0044	Escalator 44 Bank 15 (B3 Basement to B2 Basement)	Escalator stopped (foreign object trapped in handrail entry - top left)				0	THL
+WENT UNACK High	2024.08.01 07:28:12.323	TSC-W-EED-001	Town Hall Platform 1 Zone 1 EED 01	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:33:26.308	TSC-W-EED-001	Town Hall Platform 1 Zone 1 EED 01	EED opened!			2024.08.01 07:34:22.305	0	THL
+WENT UNACK High	2024.08.01 07:34:52.330	TSC-W-EED-005	Town Hall Platform 1 Zone 1 EED 05	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:35:30.329	TSC-W-EED-006	Town Hall Platform 1 Zone 1 EED 06	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:36:22.327	TSC-W-EED-002	Town Hall Platform 1 Zone 1 EED 02	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:37:10.326	TSC-W-EED-003	Town Hall Platform 1 Zone 1 EED 03	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:38:18.301	TSC-W-EED-002	Town Hall Platform 1 Zone 1 EED 02	EED opened!			2024.08.01 07:38:26.305	0	THL
+WENT UNACK High	2024.08.01 07:39:20.299	TSC-W-EED-003	Town Hall Platform 1 Zone 1 EED 03	EED opened!			2024.08.01 07:39:24.307	0	THL
+WENT UNACK High	2024.08.01 07:39:56.327	TSC-W-EED-004	Town Hall Platform 1 Zone 1 EED 04	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:41:04.308	TSC-W-EED-004	Town Hall Platform 1 Zone 1 EED 04	EED opened!			2024.08.01 07:41:08.300	0	THL
+WENT UNACK High	2024.08.01 07:43:30.308	TSC-W-EED-005	Town Hall Platform 1 Zone 1 EED 05	EED opened!			2024.08.01 07:44:12.306	0	THL
+WENT UNACK High	2024.08.01 07:50:38.307	TSC-W-EED-006	Town Hall Platform 1 Zone 1 EED 06	EED opened!			2024.08.01 07:50:58.299	0	THL
+WENT UNACK High	2024.08.01 07:51:14.325	TSC-W-EED-007	Town Hall Platform 1 Zone 1 EED 07	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:52:14.300	TSC-W-EED-007	Town Hall Platform 1 Zone 1 EED 07	EED opened!			2024.08.01 07:52:24.307	0	THL
+WENT UNACK High	2024.08.01 07:52:36.322	TSC-W-EED-008	Town Hall Platform 1 Zone 1 EED 08	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:53:40.305	TSC-W-EED-008	Town Hall Platform 1 Zone 1 EED 08	EED opened!			2024.08.01 07:53:44.304	0	THL
+WENT UNACK High	2024.08.01 07:55:00.325	TSC-W-EED-009	Town Hall Platform 1 Zone 1 EED 09	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:56:34.328	TSC-W-EED-010	Town Hall Platform 1 Zone 1 EED 10	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 07:58:56.307	TSC-W-EED-009	Town Hall Platform 1 Zone 1 EED 09	EED opened!			2024.08.01 07:59:08.305	0	THL
+WENT UNACK High	2024.08.01 07:59:40.322	TSC-W-EED-011	Town Hall Platform 1 Zone 1 EED 11	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:01:38.328	TSC-W-EED-012	Town Hall Platform 1 Zone 1 EED 12	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:03:24.299	TSC-W-EED-012	Town Hall Platform 1 Zone 1 EED 12	EED opened!			2024.08.01 08:03:28.308	0	THL
+WENT UNACK High	2024.08.01 08:08:44.331	TSC-W-EED-013	Town Hall Platform 1 Zone 1 EED 13	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:10:40.324	TSC-W-EED-014	Town Hall Platform 1 Zone 1 EED 14	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:11:26.307	TSC-W-EED-014	Town Hall Platform 1 Zone 1 EED 14	EED opened!			2024.08.01 08:11:44.308	0	THL
+WENT UNACK High	2024.08.01 08:12:02.300	TSC-W-EED-013	Town Hall Platform 1 Zone 1 EED 13	EED opened!			2024.08.01 08:12:18.301	0	THL
+WENT UNACK High	2024.08.01 08:13:20.321	TSC-W-EED-015	Town Hall Platform 1 Zone 1 EED 15	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:15:22.306	TSC-W-EED-015	Town Hall Platform 1 Zone 1 EED 15	EED opened!			2024.08.01 08:15:40.304	0	THL
+WENT UNACK High	2024.08.01 08:17:56.328	TSC-W-EED-016	Town Hall Platform 1 Zone 1 EED 16	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:18:26.329	TSC-W-EED-017	Town Hall Platform 1 Zone 1 EED 17	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:20:58.331	TSC-W-EED-018	Town Hall Platform 1 Zone 1 EED 18	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:21:58.330	TSC-W-EED-019	Town Hall Platform 1 Zone 1 EED 19	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:23:28.304	TSC-W-EED-018	Town Hall Platform 1 Zone 1 EED 18	EED opened!			2024.08.01 08:23:38.302	0	THL
+WENT UNACK High	2024.08.01 08:24:50.309	TSC-W-EED-019	Town Hall Platform 1 Zone 1 EED 19	EED opened!			2024.08.01 08:24:54.308	0	THL
+WENT UNACK High	2024.08.01 08:25:56.305	TSC-W-EED-017	Town Hall Platform 1 Zone 1 EED 17	EED opened!			2024.08.01 08:26:04.306	0	THL
+WENT UNACK High	2024.08.01 08:26:30.306	TSC-W-EED-016	Town Hall Platform 1 Zone 1 EED 16	EED opened!			2024.08.01 08:26:38.299	0	THL
+WENT UNACK High	2024.08.01 08:29:08.326	TSC-W-DDX-001	Town Hall Platform 1 Zone 2 DD 01	Driver Door Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:29:36.326	TSC-W-EED-020	Town Hall Platform 1 Zone 2 EED 20	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:32:20.299	TSC-W-DDX-001	Town Hall Platform 1 Zone 2 DD 01	Driver Door opened!			2024.08.01 08:32:24.308	0	THL
+WENT UNACK High	2024.08.01 08:32:48.302	TSC-W-EED-020	Town Hall Platform 1 Zone 2 EED 20	EED opened!			2024.08.01 08:32:52.307	0	THL
+WENT UNACK High	2024.08.01 08:41:12.329	TSC-W-EED-021	Town Hall Platform 1 Zone 2 EED 21	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:42:12.326	TSC-W-DDX-002	Town Hall Platform 1 Zone 2 DD 02	Driver Door Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:46:10.305	TSC-W-EED-021	Town Hall Platform 1 Zone 2 EED 21	EED opened!			2024.08.01 08:46:14.307	0	THL
+WENT UNACK High	2024.08.01 08:46:42.300	TSC-W-DDX-002	Town Hall Platform 1 Zone 2 DD 02	Driver Door opened!			2024.08.01 08:46:44.305	0	THL
+WENT UNACK High	2024.08.01 08:50:16.329	TSC-W-EED-022	Town Hall Platform 1 Zone 3 EED 22	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:50:48.302	TSC-W-EED-022	Town Hall Platform 1 Zone 3 EED 22	EED opened!			2024.08.01 08:51:10.305	0	THL
+WENT UNACK High	2024.08.01 08:51:22.328	TSC-W-EED-023	Town Hall Platform 1 Zone 3 EED 23	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:54:04.303	TSC-W-EED-023	Town Hall Platform 1 Zone 3 EED 23	EED opened!			2024.08.01 08:54:54.300	0	THL
+WENT UNACK High	2024.08.01 08:55:24.331	TSC-W-EED-024	Town Hall Platform 1 Zone 3 EED 24	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:56:36.325	TSC-W-EED-025	Town Hall Platform 1 Zone 3 EED 25	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 08:58:24.300	TSC-W-EED-024	Town Hall Platform 1 Zone 3 EED 24	EED opened!			2024.08.01 08:58:50.300	0	THL
+WENT UNACK High	2024.08.01 08:59:20.300	TSC-W-EED-025	Town Hall Platform 1 Zone 3 EED 25	EED opened!			2024.08.01 08:59:38.309	0	THL
+WENT UNACK High	2024.08.01 11:20:16.329	TSC-W-EED-026	Town Hall Platform 1 Zone 3 EED 26	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:20:54.331	TSC-W-EED-027	Town Hall Platform 1 Zone 3 EED 27	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:21:32.329	TSC-W-EED-028	Town Hall Platform 1 Zone 3 EED 28	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:24:28.301	TSC-W-EED-026	Town Hall Platform 1 Zone 3 EED 26	EED opened!			2024.08.01 11:24:30.309	0	THL
+WENT UNACK High	2024.08.01 11:25:18.304	TSC-W-EED-027	Town Hall Platform 1 Zone 3 EED 27	EED opened!			2024.08.01 11:25:22.300	0	THL
+WENT UNACK High	2024.08.01 11:25:48.304	TSC-W-EED-028	Town Hall Platform 1 Zone 3 EED 28	EED opened!			2024.08.01 11:25:52.309	0	THL
+WENT UNACK High	2024.08.01 11:28:52.330	TSC-W-EED-029	Town Hall Platform 1 Zone 3 EED 29	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:30:58.332	TSC-W-EED-030	Town Hall Platform 1 Zone 3 EED 30	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:31:54.325	TSC-W-EED-031	Town Hall Platform 1 Zone 3 EED 31	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:32:54.325	TSC-W-EED-032	Town Hall Platform 1 Zone 3 EED 32	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:34:16.306	TSC-W-EED-029	Town Hall Platform 1 Zone 3 EED 29	EED opened!			2024.08.01 11:34:18.304	0	THL
+WENT UNACK High	2024.08.01 11:34:34.304	TSC-W-EED-030	Town Hall Platform 1 Zone 3 EED 30	EED opened!			2024.08.01 11:34:40.309	0	THL
+WENT UNACK High	2024.08.01 11:35:04.300	TSC-W-EED-031	Town Hall Platform 1 Zone 3 EED 31	EED opened!			2024.08.01 11:35:06.308	0	THL
+WENT UNACK High	2024.08.01 11:35:28.308	TSC-W-EED-032	Town Hall Platform 1 Zone 3 EED 32	EED opened!			2024.08.01 11:35:30.306	0	THL
+WENT UNACK High	2024.08.01 11:37:00.331	TSC-W-EED-033	Town Hall Platform 1 Zone 3 EED 33	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:38:36.327	TSC-W-EED-034	Town Hall Platform 1 Zone 3 EED 34	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:39:48.327	TSC-W-EED-035	Town Hall Platform 1 Zone 3 EED 35	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:41:20.302	TSC-W-EED-033	Town Hall Platform 1 Zone 3 EED 33	EED opened!			2024.08.01 11:41:32.309	0	THL
+WENT UNACK High	2024.08.01 11:41:38.300	TSC-W-EED-034	Town Hall Platform 1 Zone 3 EED 34	EED opened!			2024.08.01 11:42:00.302	0	THL
+WENT UNACK High	2024.08.01 11:42:26.308	TSC-W-EED-035	Town Hall Platform 1 Zone 3 EED 35	EED opened!			2024.08.01 11:42:28.302	0	THL
+WENT UNACK High	2024.08.01 11:44:34.326	TSC-W-EED-036	Town Hall Platform 1 Zone 3 EED 36	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:46:04.325	TSC-W-EED-037	Town Hall Platform 1 Zone 3 EED 37	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:46:56.308	TSC-W-EED-036	Town Hall Platform 1 Zone 3 EED 36	EED opened!			2024.08.01 11:47:02.302	0	THL
+WENT UNACK High	2024.08.01 11:48:42.325	TSC-W-EED-038	Town Hall Platform 1 Zone 3 EED 38	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:49:10.329	TSC-W-EED-039	Town Hall Platform 1 Zone 3 EED 39	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:50:18.304	TSC-W-EED-040	Town Hall Platform 1 Zone 3 EED 40	EED opened!			2024.08.01 11:50:24.304	0	THL
+WENT UNACK High	2024.08.01 11:50:18.327	TSC-W-EED-040	Town Hall Platform 1 Zone 3 EED 40	EED Unscheduled Door Opening!			2024.08.02 07:30:20.327	0	THL
+WENT UNACK High	2024.08.01 11:50:50.301	TSC-W-EED-037	Town Hall Platform 1 Zone 3 EED 37	EED opened!			2024.08.01 11:51:10.302	0	THL
+WENT UNACK High	2024.08.01 11:51:16.302	TSC-W-EED-038	Town Hall Platform 1 Zone 3 EED 38	EED opened!			2024.08.01 11:51:36.301	0	THL
+WENT UNACK High	2024.08.01 11:51:56.308	TSC-W-EED-039	Town Hall Platform 1 Zone 3 EED 39	EED opened!			2024.08.01 11:51:58.302	0	THL
+WENT UNACK High	2024.08.01 12:02:14.305	TSC-W-EED-010	Town Hall Platform 1 Zone 1 EED 10	EED opened!			2024.08.01 12:02:24.299	0	THL
+WENT UNACK High	2024.08.01 12:02:52.308	TSC-W-EED-011	Town Hall Platform 1 Zone 1 EED 11	EED opened!			2024.08.01 12:03:00.308	0	THL
+WENT UNACK Med	2024.08.01 23:38:36.304	TSC-W-PSD-010	Town Hall Platform 1 Zone 2 PSD 10	Door control unit communication lost			2024.08.01 23:39:34.308	0	THL
+CAME UNACK Low	2024.08.02 07:18:42.306	TSC-E-PSD-029	Town Hall Platform 2 Zone 3 PSD 29	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:19:16.302	TSC-E-PSD-030	Town Hall Platform 2 Zone 3 PSD 30	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:20:20.311	TSC-E-PSD-028	Town Hall Platform 2 Zone 3 PSD 28	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:20:32.306	TSC-E-PSD-027	Town Hall Platform 2 Zone 3 PSD 27	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:20:44.307	TSC-E-PSD-026	Town Hall Platform 2 Zone 3 PSD 26	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:20:54.311	TSC-E-PSD-025	Town Hall Platform 2 Zone 3 PSD 25	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:21:08.309	TSC-E-PSD-024	Town Hall Platform 2 Zone 3 PSD 24	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:21:20.311	TSC-E-PSD-023	Town Hall Platform 2 Zone 3 PSD 23	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:21:36.302	TSC-E-PSD-022	Town Hall Platform 2 Zone 3 PSD 22	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:22:04.308	TSC-E-PSD-020	Town Hall Platform 2 Zone 2 PSD 20	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:22:36.309	TSC-E-PSD-019	Town Hall Platform 2 Zone 2 PSD 19	PSD isolated				0	THL
+WENT UNACK Low	2024.08.02 07:22:38.299	TSC-W-PSD-006	Town Hall Platform 1 Zone 1 PSD 06	PSD isolated			2024.08.06 08:38:18.301	0	THL
+CAME UNACK Low	2024.08.02 07:23:02.304	TSC-E-PSD-018	Town Hall Platform 2 Zone 2 PSD 18	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:23:04.304	TSC-W-PSD-008	Town Hall Platform 1 Zone 1 PSD 08	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:23:14.308	TSC-W-PSD-009	Town Hall Platform 1 Zone 1 PSD 09	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:23:14.310	TSC-E-PSD-017	Town Hall Platform 2 Zone 2 PSD 17	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:23:26.308	TSC-W-PSD-010	Town Hall Platform 1 Zone 2 PSD 10	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:23:28.303	TSC-E-PSD-016	Town Hall Platform 2 Zone 2 PSD 16	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:23:38.300	TSC-W-PSD-011	Town Hall Platform 1 Zone 2 PSD 11	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:23:46.303	TSC-W-PSD-012	Town Hall Platform 1 Zone 2 PSD 12	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:24:02.300	TSC-W-PSD-013	Town Hall Platform 1 Zone 2 PSD 13	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:24:14.299	TSC-W-PSD-014	Town Hall Platform 1 Zone 2 PSD 14	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:24:24.301	TSC-W-PSD-015	Town Hall Platform 1 Zone 2 PSD 15	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:24:50.301	TSC-E-PSD-015	Town Hall Platform 2 Zone 2 PSD 15	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:24:58.310	TSC-E-PSD-014	Town Hall Platform 2 Zone 2 PSD 14	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:06.305	TSC-W-PSD-016	Town Hall Platform 1 Zone 2 PSD 16	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:06.307	TSC-E-PSD-013	Town Hall Platform 2 Zone 2 PSD 13	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:16.306	TSC-E-PSD-012	Town Hall Platform 2 Zone 2 PSD 12	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:22.307	TSC-W-PSD-017	Town Hall Platform 1 Zone 2 PSD 17	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:28.310	TSC-E-PSD-011	Town Hall Platform 2 Zone 2 PSD 11	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:32.302	TSC-W-PSD-018	Town Hall Platform 1 Zone 2 PSD 18	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:40.305	TSC-E-PSD-010	Town Hall Platform 2 Zone 2 PSD 10	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:42.301	TSC-W-PSD-019	Town Hall Platform 1 Zone 2 PSD 19	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:50.301	TSC-E-PSD-009	Town Hall Platform 2 Zone 1 PSD 09	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:25:54.299	TSC-W-PSD-020	Town Hall Platform 1 Zone 2 PSD 20	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:00.308	TSC-E-PSD-008	Town Hall Platform 2 Zone 1 PSD 08	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:10.307	TSC-E-PSD-007	Town Hall Platform 2 Zone 1 PSD 07	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:20.300	TSC-E-PSD-006	Town Hall Platform 2 Zone 1 PSD 06	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:30.300	TSC-E-PSD-005	Town Hall Platform 2 Zone 1 PSD 05	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:32.307	TSC-W-PSD-022	Town Hall Platform 1 Zone 3 PSD 22	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:40.307	TSC-E-PSD-004	Town Hall Platform 2 Zone 1 PSD 04	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:46.306	TSC-W-PSD-023	Town Hall Platform 1 Zone 3 PSD 23	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:26:52.308	TSC-E-PSD-003	Town Hall Platform 2 Zone 1 PSD 03	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:02.305	TSC-E-PSD-002	Town Hall Platform 2 Zone 1 PSD 02	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:08.305	TSC-W-PSD-024	Town Hall Platform 1 Zone 3 PSD 24	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:22.307	TSC-W-PSD-025	Town Hall Platform 1 Zone 3 PSD 25	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:30.308	TSC-W-PSD-026	Town Hall Platform 1 Zone 3 PSD 26	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:42.304	TSC-W-PSD-030	Town Hall Platform 1 Zone 3 PSD 30	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:46.305	TSC-W-PSD-027	Town Hall Platform 1 Zone 3 PSD 27	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:56.306	TSC-W-PSD-029	Town Hall Platform 1 Zone 3 PSD 29	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:27:58.308	TSC-W-PSD-028	Town Hall Platform 1 Zone 3 PSD 28	PSD isolated				0	THL
+CAME UNACK Low	2024.08.02 07:31:46.306	TSC-W-PSD-007	Town Hall Platform 1 Zone 1 PSD 07	PSD isolated				0	THL
+WENT UNACK High	2024.08.03 23:47:00.309	TSC-E-PED-002	Town Hall Platform 2 PED 02	Platform End Door opened!			2024.08.03 23:47:12.307	0	THL
+WENT UNACK High	2024.08.04 01:46:44.305	TSC-W-LCP	Town Hall Platform 1 LCP	LCP Interlock Override keyswitch activated			2024.08.04 01:47:04.306	0	THL
+CAME UNACK High	2024.08.04 04:57:50.305	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door Unscheduled Door Opening!				0	THL
+WENT UNACK High	2024.08.04 05:08:20.303	TSC-E-LCP	Town Hall Platform 2 LCP	LCP Interlock Override keyswitch activated			2024.08.04 05:08:38.309	0	THL
+WENT UNACK Low	2024.08.04 09:18:48.308	TSC-W-PSD-021	Town Hall Platform 1 Zone 2 PSD 21	PSD isolated			2024.08.04 12:01:06.303	0	THL
+WENT UNACK Med	2024.08.04 09:22:33.102	_TSC-BMS-PLC_2	MTTHL:_TSC-BMS-PLC_2.	Communications Fault - Town Hall Server 2 to Town Hall BMS PLC			2024.08.04 13:40:56.595	0	AZC
+WENT UNACK High	2024.08.04 09:30:26.309	TSC-E-PSD-001	Town Hall Platform 2 Zone 1 PSD 01	PSD obstructed on opening or closing!			2024.08.04 09:30:42.309	0	THL
+WENT UNACK Low	2024.08.04 09:33:02.303	TSC-E-PSD-001	Town Hall Platform 2 Zone 1 PSD 01	PSD isolated			2024.08.04 12:02:44.302	0	THL
+WENT UNACK Med	2024.08.04 13:40:48.442	TSC_AENComm	TSC-AEN  TVCS PLC	TSC-AEN TVCS communication link failure.			2024.08.04 13:40:51.352	0	THL
+WENT UNACK Med	2024.08.04 14:43:50.310	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door alarm bypassed!			2024.08.04 14:45:02.308	0	THL
+WENT UNACK High	2024.08.04 14:44:30.308	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door opened!			2024.08.04 14:45:00.301	0	THL
+CAME UNACK High	2024.08.04 14:44:30.308	TSC-E-PED-001	Town Hall Platform 2 PED 01	Platform End Door Unscheduled Door Opening!				0	THL
+WENT UNACK Med	2024.08.04 14:45:50.309	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door alarm bypassed!			2024.08.04 14:52:42.308	0	THL
+WENT UNACK High	2024.08.04 14:52:26.304	TSC-W-PED-002	Town Hall Platform 1 PED 02	Platform End Door opened!			2024.08.04 14:52:40.301	0	THL
+WENT UNACK Med	2024.08.04 21:26:10.311	TSC-E-PED-002	Town Hall Platform 2 PED 02	Platform End Door alarm bypassed!			2024.08.04 21:37:56.308	0	THL
+WENT UNACK Med	2024.08.04 21:39:22.308	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door alarm bypassed!			2024.08.04 21:57:28.300	0	THL
+CAME UNACK High	2024.08.04 21:43:10.299	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door Unscheduled Door Opening!				0	THL
+WENT UNACK High	2024.08.04 21:57:16.308	TSC-W-PED-001	Town Hall Platform 1 PED 01	Platform End Door opened!			2024.08.04 21:57:26.307	0	THL
+WENT UNACK High	2024.08.05 12:31:27.676	TSC_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.08.05 12:33:29.689	0	THL
+WENT UNACK Med	2024.08.05 13:07:10.330	TSC_UPS_0411	Uninterruptible Power Supply	UPS internal diagnostic fault			2024.08.05 13:07:24.333	0	THL
+WENT UNACK Med	2024.08.05 13:07:10.330	TSC_UPS_0411	Uninterruptible Power Supply	UPS general fault			2024.08.05 13:07:24.333	0	THL
+WENT UNACK Med	2024.08.05 13:07:17.334	TSC_UPS_0412	Uninterruptible Power Supply	UPS internal diagnostic fault			2024.08.05 13:07:33.331	0	THL
+WENT UNACK Med	2024.08.05 13:07:17.334	TSC_UPS_0412	Uninterruptible Power Supply	UPS general fault			2024.08.05 13:07:33.331	0	THL
+WENT UNACK Low	2024.08.05 15:58:41.647	PKV_DOR_GF_PKV-S-03_2	Security Door (PUBLIC REALM WEST)	Unauthorised access			2024.08.05 15:59:16.156	0	PKV
+WENT UNACK Med	2024.08.05 16:34:17.929	DMA_AENComm	DMA-AEN  TVCS PLC	DMA-AEN TVCS communication link failure.			2024.08.05 16:34:21.409	0	AZC
+WENT UNACK Med	2024.08.05 16:39:37.797	_PDM-BMS-PLC	MTAZC:_PDM-BMS-PLC.	Communications Fault - Anzac Server 1 to Eastern Portal BMS PLC			2024.08.05 16:57:07.043	0	AZC
+WENT UNACK Med	2024.08.05 16:39:37.909	_DMA-BMS-PLC	MTAZC:_DMA-BMS-PLC.	Communications Fault - Anzac Server 1 to Anzac BMS PLC			2024.08.05 16:57:07.190	0	AZC
+WENT UNACK Med	2024.08.05 16:39:54.492	_PDM-BMS-PLC_2	MTAZC:_PDM-BMS-PLC_2.	Communications Fault - Anzac Server 2 to Eastern Portal BMS PLC			2024.08.05 16:57:24.046	0	ARN
+WENT UNACK Med	2024.08.05 16:39:54.668	_DMA-BMS-PLC_2	MTAZC:_DMA-BMS-PLC_2.	Communications Fault - Anzac Server 2 to Anzac BMS PLC			2024.08.05 16:57:24.202	0	ARN
+WENT UNACK Med	2024.08.05 16:39:56.419	_DMA-TVC-PLC	MTAZC:_DMA-TVC-PLC.	Communications Fault - Anzac Server 1 to Anzac TVCS PLC			2024.08.05 16:57:17.826	0	AZC
+WENT UNACK Med	2024.08.05 16:39:56.428	_DMA-TVC-PLC_2	MTAZC:_DMA-TVC-PLC_2.	Communication Fault - Anzac Server 2 to Anzac TVCS PLC			2024.08.05 16:57:13.701	0	ARN
+WENT UNACK Med	2024.08.05 16:40:22.636	AEN_DMAComm	Domain TVCS PLC	AEN-DMA TVCS communication link failure.			2024.08.05 16:57:08.659	0	ARN
+WENT UNACK Med	2024.08.05 16:57:11.346	_DMA-BMS-PLC3	MTAZC:_DMA-BMS-PLC3.	Communications Fault - Anzac Server 1 to Anzac BMS Gateway PLC			2024.08.05 16:57:11.560	0	AZC
+WENT UNACK Med	2024.08.05 16:57:24.003	_DMA-BMS-PLC3_2	MTAZC:_DMA-BMS-PLC3_2.	Communications Fault - Anzac Server 2 to Anzac BMS Gateway PLC			2024.08.05 16:57:24.048	0	ARN
+WENT UNACK Med	2024.08.05 23:12:33.795	TNC-W-PSD-014	State Library Platform 1 Zone 2 PSD 14	Door control unit communication lost			2024.08.05 23:13:31.793	0	STL
+WENT UNACK High	2024.08.06 00:01:03.609	DMA_TEP_0303_04_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.08.06 07:28:17.582	0	AZC
+WENT UNACK High	2024.08.06 00:01:03.609	DMA_TEP_0301_02_DS	Tunnel Drainage Pump - Duty Selection	Risk of track flooding!			2024.08.06 03:46:39.586	0	AZC
+WENT UNACK Med	2024.08.06 03:07:52.333	SDU_STP_0403_04_FG	Stormwater Pump - Function Group	Tunnel stormwater pit level not dropping!			2024.08.06 03:14:43.333	0	SDU
+WENT UNACK Low	2024.08.06 06:19:41.738	AEN_FCU_0008_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 06:19:50.728	0	ARN
+WENT UNACK Low	2024.08.06 06:19:41.750	AEN_FCU_0111_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 06:21:16.729	0	ARN
+WENT UNACK Low	2024.08.06 06:19:46.676	AEN_ESC_0001	Escalator 1 Bank 1 (Platforms to Concourse)	Escalator communications lost			2024.08.06 06:20:15.698	0	ARN
+WENT UNACK Low	2024.08.06 06:19:48.692	AEN_LFT_0002	Lift 2 FOH (Platforms to Concourse)	Lift monitoring lost 			2024.08.06 06:20:24.691	0	ARN
+WENT UNACK Med	2024.08.06 06:20:04.182	AEN_UPS_0402	Uninterruptible Power Supply	UPS general fault			2024.08.06 06:20:18.181	0	ARN
+WENT UNACK Low	2024.08.06 06:20:35.558	PAE_LFT_0002	Lift 2 BOH (Ground Floor to Level 1)	Lift General Fault			2024.08.06 06:20:37.555	0	SDU
+WENT UNACK Med	2024.08.06 06:20:35.733	AEN_FCU_1005_06_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.08.06 06:20:44.715	0	ARN
+WENT UNACK Med	2024.08.06 06:20:35.747	AEN_FCU_1909_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.08.06 06:21:46.728	0	ARN
+WENT UNACK Low	2024.08.06 06:20:39.711	AEN_LFT_0006	Lift 6 BOH (Platforms to Level 2)	Lift monitoring lost 			2024.08.06 06:21:19.711	0	ARN
+WENT UNACK Low	2024.08.06 06:20:41.696	AEN_ESC_0006	Escalator 6 Bank 5 (Concourse to Ground Floor)	Escalator communications lost			2024.08.06 06:21:05.698	0	ARN
+WENT UNACK Low	2024.08.06 06:20:41.714	AEN_SPF_1902_VSD_01	Stair Pressurisation Fan (VSD)	General VSD fault alarm			2024.08.06 06:20:44.705	0	ARN
+WENT UNACK Low	2024.08.06 06:20:42.767	AEN_ESC_0004	Escalator 4 Bank 4 (Platforms to Concourse)	Escalator communications lost			2024.08.06 06:21:05.698	0	ARN
+WENT UNACK Med	2024.08.06 06:20:45.178	AEN_UPS_0404	Uninterruptible Power Supply	UPS general fault			2024.08.06 06:21:13.173	0	ARN
+WENT UNACK Med	2024.08.06 06:20:45.178	AEN_UPS_0404	Uninterruptible Power Supply	UPS internal diagnostic fault			2024.08.06 06:20:57.173	0	ARN
+WENT UNACK Med	2024.08.06 06:36:59.247	PKV-E-PSD-010	Parkville Platform 2 Zone 2 PSD 10	Door control unit communication lost			2024.08.06 06:37:57.247	0	PKV
+WENT UNACK Low	2024.08.06 06:41:27.745	AEN_FCU_0007_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 08:14:58.734	0	ARN
+CAME UNACK Low	2024.08.06 06:55:40.339	PKV_ESC_0011	Escalator 11 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.08.06 06:57:27.344	PKV_ESC_0010	Escalator 10 Bank 5 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.08.06 06:58:03.173	AEN_DOR_GF_401-1_1	Ground floor east - fire control room	Unauthorised access				0	ARN
+CAME UNACK Low	2024.08.06 07:02:01.343	PKV_ESC_0012	Escalator 12 Bank 6 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.08.06 07:04:32.334	PKV_ESC_0013	Escalator 13 Bank 6 (Concourse to Ground Floor)	Escalator communications lost				0	PKV
+CAME UNACK Low	2024.08.06 07:17:30.336	PKV_ESC_0005	Escalator 5 Bank 3 (Platforms to Concourse)	Escalator communications lost				0	PKV
+WENT UNACK Low	2024.08.06 07:21:02.657	DMA_FCU_1125_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:41.594	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.657	DMA_FCU_1001_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:41.594	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.657	DMA_FCU_0127_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:42.677	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.657	DMA_FCU_0123_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:41.594	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.657	DMA_FCU_0121_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:41.594	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.668	DMA_FCU_1121_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:41.596	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.668	DMA_FCU_1117_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:41.596	0	AZC
+WENT UNACK Med	2024.08.06 07:21:02.668	DMA_FCU_1115_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.08.06 07:24:41.596	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.668	DMA_FCU_1105_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:42.677	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.668	DMA_FCU_1103_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:42.677	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.668	DMA_FCU_1101_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:42.677	0	AZC
+WENT UNACK Low	2024.08.06 07:21:02.680	DMA_FCU_1119_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:40.670	0	AZC
+WENT UNACK Med	2024.08.06 07:21:02.680	DMA_FCU_1111_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.08.06 07:24:42.690	0	AZC
+WENT UNACK Low	2024.08.06 07:21:03.629	DMA_FCU_1145_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable			2024.08.06 07:24:41.594	0	AZC
+WENT UNACK Med	2024.08.06 07:21:04.655	DMA_FCU_0115_16_FG	Fan Coil Unit - Function Group	Cooling unavailable!			2024.08.06 07:24:39.587	0	AZC
+CAME UNACK Low	2024.08.06 07:21:15.604	DMA_FCU_1127_FG	Fan Coil Unit - Function Group	Heating / cooling unavailable				0	AZC
+WENT UNACK Low	2024.08.06 07:24:29.562	DMA_DOR_B1_ST01_1	West Emergency Stairs - Concourse	Unauthorised access			2024.08.06 07:24:36.195	0	AZC
+ACK Low	2024.08.06 07:24:36.585	DMA_LFT_0003	Lift 3 FOH (B1 Basement to GF Gound Floor)	Lift General Fault	2024.08.06 08:10:28.460	kai_longley		0	AZC
+WENT UNACK Low	2024.08.06 07:24:59.554	PKV_DOR_B3_402-7_2	Security Door (B3 EAST)	Unauthorised access			2024.08.06 07:25:16.703	0	PKV
+WENT UNACK Med	2024.08.06 07:33:11.792	TNC-E-PSD-001	State Library Platform 2 Zone 1 PSD 01	Door control unit communication lost			2024.08.06 07:34:09.795	0	STL
+WENT UNACK Low	2024.08.06 07:36:23.935	PKV_DOR_B3_402-7_1	Security Door (B3 EAST)	Unauthorised access			2024.08.06 07:36:29.928	0	PKV
+WENT UNACK Low	2024.08.06 07:38:11.597	DMA-SPE-0673	GF, DMA-SPE-0673 LIFT 5 DMA-LFT-0005	Heat or smoke detector fault			2024.08.06 07:39:43.676	0	AZC
+WENT UNACK Low	2024.08.06 07:38:11.597	DMA-SPE-0807	GF, DMA-SPE-0807 Escalator 7 (GF Pit)	Heat or smoke detector fault			2024.08.06 07:39:43.677	0	AZC
+WENT UNACK Low	2024.08.06 07:38:14.536	DMA-SPE-0827	B1, DMA-SPE-0827 Escalator 7 (B1 Pit)	Heat or smoke detector fault			2024.08.06 07:39:46.476	0	AZC
+WENT UNACK Low	2024.08.06 07:39:49.153	AEN_DOR_B1_151-3_1	Concourse west - back of house corridor	Unauthorised access			2024.08.06 07:40:04.996	0	ARN
+ACK Low	2024.08.06 07:40:14.550	DMA-HTD-0112	B1, DMA-HTD-0112 OP MALE STAFF LCK 221-1	Heat or smoke detector fault	2024.08.06 08:25:21.711	emilio_ito		0	AZC
+ACK Low	2024.08.06 07:40:14.550	DMA-HTD-0128	B1, DMA-HTD-0128 OP MALE STAFF SH 227-1	Heat or smoke detector fault	2024.08.06 08:25:25.794	emilio_ito		0	AZC
+CAME UNACK Low	2024.08.06 07:43:12.862	AEN_DOR_B1_151-4_1	Concourse east  - back of house emergency corridor	Unauthorised access				0	ARN
+WENT UNACK High	2024.08.06 07:45:08.306	TSC-W-PSD-001	Town Hall Platform 1 Zone 1 PSD 01	Manual release activated!			2024.08.06 07:45:42.302	0	THL
+WENT UNACK Low	2024.08.06 07:46:00.304	TSC-W-PSD-001	Town Hall Platform 1 Zone 1 PSD 01	Maintenance mode activated			2024.08.06 07:49:14.301	0	THL
+CAME UNACK High	2024.08.06 07:46:36.305	TSC-W-PSD-001	Town Hall Platform 1 Zone 1 PSD 01	PSD Unscheduled Door Opening!				0	THL
+WENT UNACK High	2024.08.06 07:48:42.300	TSC-W-PSD-001	Town Hall Platform 1 Zone 1 PSD 01	PSD obstructed on opening or closing!			2024.08.06 07:49:26.305	0	THL
+WENT UNACK Low	2024.08.06 07:48:50.634	PKV_DOR_B2_PKV-S-02_1	Security Door (B2 EAST)	Unauthorised access			2024.08.06 07:50:10.980	0	PKV
+WENT UNACK High	2024.08.06 07:56:32.303	TSC-W-PSD-002	Town Hall Platform 1 Zone 1 PSD 02	Manual release activated!			2024.08.06 07:57:04.301	0	THL
+WENT UNACK Low	2024.08.06 07:57:18.301	TSC-W-PSD-002	Town Hall Platform 1 Zone 1 PSD 02	Maintenance mode activated			2024.08.06 07:59:08.308	0	THL
+CAME UNACK High	2024.08.06 07:57:30.308	TSC-W-PSD-002	Town Hall Platform 1 Zone 1 PSD 02	PSD Unscheduled Door Opening!				0	THL
+WENT UNACK High	2024.08.06 07:58:24.300	TSC-W-PSD-002	Town Hall Platform 1 Zone 1 PSD 02	PSD obstructed on opening or closing!			2024.08.06 07:58:46.302	0	THL
+CAME UNACK Low	2024.08.06 07:59:16.302	TSC-W-PSD-002	Town Hall Platform 1 Zone 1 PSD 02	PSD isolated				0	THL
+WENT UNACK Med	2024.08.06 08:01:03.531	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door alarm bypassed!			2024.08.06 08:01:25.534	0	ARN
+WENT UNACK High	2024.08.06 08:01:09.534	AEN-E-PED-002	Arden Platform 2 PED 02	Platform End Door opened!			2024.08.06 08:01:25.534	0	ARN
+CAME UNACK Low	2024.08.06 08:01:55.957	DMA_DOR_B1_ST01_2	West Emergency Stairs - Concourse	Unauthorised access				0	AZC
+WENT UNACK Low	2024.08.06 08:03:35.069	PKV_DOR_B2_151-10_1	Security Door (B2 EAST)	Unauthorised access			2024.08.06 08:03:38.564	0	PKV
+WENT UNACK Low	2024.08.06 08:04:45.566	PKV_DOR_B2_402-3_2	Security Door (B2 EAST)	Unauthorised access			2024.08.06 08:04:48.335	0	PKV
+WENT UNACK High	2024.08.06 08:05:36.300	TSC-W-PSD-003	Town Hall Platform 1 Zone 1 PSD 03	Manual release activated!			2024.08.06 08:06:12.308	0	THL
+WENT UNACK Low	2024.08.06 08:06:48.706	AEN_DOR_B2_ESC_STAIRS_03_2	Platform 1 west - double emergency door	Unauthorised access			2024.08.06 08:06:53.473	0	ARN
+WENT UNACK Low	2024.08.06 08:07:06.302	TSC-W-PSD-003	Town Hall Platform 1 Zone 1 PSD 03	Maintenance mode activated			2024.08.06 08:09:58.302	0	THL
+CAME UNACK High	2024.08.06 08:07:44.303	TSC-W-PSD-003	Town Hall Platform 1 Zone 1 PSD 03	PSD Unscheduled Door Opening!				0	THL
+WENT UNACK High	2024.08.06 08:09:00.305	TSC-W-PSD-003	Town Hall Platform 1 Zone 1 PSD 03	PSD obstructed on opening or closing!			2024.08.06 08:09:34.307	0	THL
+WENT UNACK Low	2024.08.06 08:09:37.169	PKV_DOR_B2_405-5_1	Security Door (B2 WEST)	Unauthorised access			2024.08.06 08:09:55.166	0	PKV
+CAME UNACK Low	2024.08.06 08:10:06.305	TSC-W-PSD-003	Town Hall Platform 1 Zone 1 PSD 03	PSD isolated				0	THL
+WENT UNACK Low	2024.08.06 08:12:11.021	DMA_DOR_B2_405-4_1	West Emergency Stairs - Platform	Unauthorised access			2024.08.06 08:12:16.640	0	AZC
+WENT UNACK Low	2024.08.06 08:15:52.426	DMA_DOR_B2_405-3_1	West Emergency Stairs - Platform	Unauthorised access			2024.08.06 08:16:01.034	0	AZC
+CAME UNACK Low	2024.08.06 08:16:16.761	DMA_DOR_B1_151-5_4	East BOH Corridor - Concourse	Unauthorised access				0	AZC
+WENT UNACK Low	2024.08.06 08:16:48.302	TSC-W-PSD-004	Town Hall Platform 1 Zone 1 PSD 04	Maintenance mode activated			2024.08.06 08:20:10.301	0	THL
+CAME UNACK High	2024.08.06 08:17:28.308	TSC-W-PSD-004	Town Hall Platform 1 Zone 1 PSD 04	PSD Unscheduled Door Opening!				0	THL
+WENT UNACK High	2024.08.06 08:19:10.307	TSC-W-PSD-004	Town Hall Platform 1 Zone 1 PSD 04	PSD obstructed on opening or closing!			2024.08.06 08:19:44.307	0	THL
+WENT UNACK High	2024.08.06 08:20:22.304	TSC-W-PSD-004	Town Hall Platform 1 Zone 1 PSD 04	Manual release activated!			2024.08.06 08:21:12.299	0	THL
+CAME UNACK Low	2024.08.06 08:20:50.300	TSC-W-PSD-004	Town Hall Platform 1 Zone 1 PSD 04	PSD isolated				0	THL
+WENT UNACK Low	2024.08.06 08:20:53.163	AEN_DOR_B2_ESC_STAIRS_03_1	Platform 2 west - single emergency door	Unauthorised access			2024.08.06 08:21:00.384	0	ARN
+WENT UNACK Low	2024.08.06 08:22:18.093	DMA_DOR_B1_151-5_3	East BOH Corridor - Concourse	Unauthorised access			2024.08.06 08:22:24.359	0	AZC
+WENT UNACK High	2024.08.06 08:27:52.306	TSC-W-PSD-005	Town Hall Platform 1 Zone 1 PSD 05	Manual release activated!			2024.08.06 08:28:28.301	0	THL
+WENT UNACK Low	2024.08.06 08:28:46.305	TSC-W-PSD-005	Town Hall Platform 1 Zone 1 PSD 05	Maintenance mode activated			2024.08.06 08:33:50.299	0	THL
+WENT UNACK Low	2024.08.06 08:30:45.452	PKV_DOR_GF_PKV-S-05_1	Security Door (PUBLIC REALM EAST)	Unauthorised access			2024.08.06 08:31:02.663	0	PKV
+CAME UNACK High	2024.08.06 08:31:40.304	TSC-W-PSD-005	Town Hall Platform 1 Zone 1 PSD 05	PSD Unscheduled Door Opening!				0	THL
+WENT UNACK Low	2024.08.06 08:32:30.223	PKV_DOR_B2_406-14_2	Security Door (B2 EAST)	Unauthorised access			2024.08.06 08:32:41.355	0	PKV
+WENT UNACK High	2024.08.06 08:33:16.300	TSC-W-PSD-005	Town Hall Platform 1 Zone 1 PSD 05	PSD obstructed on opening or closing!			2024.08.06 08:33:32.300	0	THL
+CAME UNACK Low	2024.08.06 08:34:00.305	TSC-W-PSD-005	Town Hall Platform 1 Zone 1 PSD 05	PSD isolated				0	THL
+CAME UNACK Low	2024.08.06 08:35:06.409	AEN-FIP-0001	Arden Main Fire Panel	Fire panels in the station have a fault				0	ARN
+WENT UNACK Low	2024.08.06 08:35:09.896	PKV_DOR_B2_151-15_1	Security Door (B2 EAST)	Unauthorised access			2024.08.06 08:35:20.118	0	PKV
+CAME UNACK Low	2024.08.06 08:35:24.216	AEN_DOR_GF_405-2_1	Ground floor east - emergency escape ramp	Unauthorised access				0	ARN
+WENT UNACK Low	2024.08.06 08:40:03.685	PKV_DOR_B1_PKV-S-02_2	Security Door (B1 EAST)	Unauthorised access			2024.08.06 08:40:08.351	0	PKV
+WENT UNACK High	2024.08.06 08:40:14.305	TSC-W-PSD-006	Town Hall Platform 1 Zone 1 PSD 06	Manual release activated!			2024.08.06 08:40:54.299	0	THL
+WENT UNACK Low	2024.08.06 08:40:25.577	DMA_DOR_B1_151-1_1	West Fire Escape Corridor - Concourse	Unauthorised access			2024.08.06 08:40:30.684	0	AZC
+CAME UNACK Low	2024.08.06 08:41:12.308	TSC-W-PSD-006	Town Hall Platform 1 Zone 1 PSD 06	Maintenance mode activated				0	THL
+CAME UNACK High	2024.08.06 08:42:00.305	TSC-W-PSD-006	Town Hall Platform 1 Zone 1 PSD 06	PSD Unscheduled Door Opening!				0	THL
