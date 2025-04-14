@@ -1,0 +1,437 @@
+Severity,Alarm Raised,Asset ID,Asset Name,Alarm Description,Acknowledged,By,Cleared,Comments,Location
+1,2025.04.15 07:26:19.497,PKV_SYS_0007,Parkville PSD connection status,All connections lost,"","",2025.04.15 07:26:19.607,0,PKV
+1,2025.04.15 07:26:19.497,PKV_SYS_0007,Parkville PSD connection status,PSS 2 connection 1 lost,"","",2025.04.15 07:26:19.607,0,PKV
+1,2025.04.15 07:26:19.494,PKV_SYS_0007,Parkville PSD connection status,PSS 1 connection 1 lost,"","",2025.04.15 07:26:19.636,0,PKV
+1,2025.04.15 07:26:18.708,TSC_SYS_0007,Town Hall PSD connection status,All connections lost,"","",2025.04.15 07:26:18.747,0,THL
+1,2025.04.15 07:26:18.708,TSC_SYS_0007,Town Hall PSD connection status,PSS 2 connection 1 lost,"","",2025.04.15 07:26:18.750,0,THL
+1,2025.04.15 07:26:18.705,TSC_SYS_0007,Town Hall PSD connection status,PSS 1 connection 1 lost,"","",2025.04.15 07:26:18.747,0,THL
+1,2025.04.15 07:26:15.035,TNC_SYS_0007,State Library PSD connection status,All connections lost,"","",2025.04.15 07:26:15.194,0,STL
+1,2025.04.15 07:26:15.035,TNC_SYS_0007,State Library PSD connection status,PSS 2 connection 1 lost,"","",2025.04.15 07:26:15.194,0,STL
+1,2025.04.15 07:26:15.032,TNC_SYS_0007,State Library PSD connection status,PSS 1 connection 1 lost,"","",2025.04.15 07:26:15.213,0,STL
+1,2025.04.15 07:26:12.918,AEN_SYS_0007,Arden PSD connection status,PSS 1 connection 1 lost,"","",2025.04.15 07:26:13.034,0,ARN
+1,2025.04.15 07:26:11.001,DMA_SYS_0007,Anzac PSD connection status,PSS 1 connection 1 lost,"","",2025.04.15 07:26:11.266,0,AZC
+1,2025.04.15 07:26:10.520,DMA_DOR_B1_151-5_3,Concourse East - Back of House East corridor,Unauthorised access,"","",2025.04.15 07:26:17.943,0,AZC
+1,2025.04.15 07:24:35.084,DMA_DOR_B1_406-3_2,Concourse - South fire lobby,Unauthorised access,"","",2025.04.15 07:24:41.769,0,AZC
+1,2025.04.14 20:28:07.729,TNC_OCN_0101_02_DS,Franklin St OCE shaft,All fans inoperative!,2025.04.15 07:14:38.438,kai_longley,"",0,SDU
+1,2025.04.14 20:28:01.754,TNC_OCN_0201_02_DS,Lt LaTrobe St OCE shaft,All fans inoperative!,2025.04.15 07:14:45.482,kai_longley,"",0,SDU
+1,2025.04.14 20:26:52.751,TNC_OFN_0001_03_DS,A’Beckett St OTE shaft,All fans inoperative!,2025.04.15 07:14:47.198,kai_longley,"",0,SDU
+1,2025.04.14 18:23:57.744,DMA_SSX_0001,TVCS Shaft Smoke Detection System 01,Smoke detected in shaft!,2025.04.15 07:14:52.154,kai_longley,"",0,SDU
+1,2025.04.14 18:23:57.744,DMA_SSX_0001,TVCS Shaft Smoke Detection System 01,Shaft smoke detection unavailable!,2025.04.15 07:14:50.762,kai_longley,"",0,SDU
+1,2025.04.14 18:16:59.477,TSC_SSX_0001,TVCS Shaft Smoke Detection System 01,Smoke detected in shaft!,2025.04.15 07:14:56.122,kai_longley,"",0,THL
+1,2025.04.14 18:16:59.477,TSC_SSX_0001,TVCS Shaft Smoke Detection System 01,Shaft smoke detection unavailable!,2025.04.15 07:14:54.779,kai_longley,"",0,THL
+1,2025.04.14 15:54:48.205,TSC_TEP_0303_04_DS,Tunnel Drainage Pump - Duty Selection,Risk of track flooding!,2025.04.15 07:14:57.378,kai_longley,"",0,SDU
+1,2025.04.14 15:52:11.451,PKV_SSX_0002,TVCS Shaft Smoke Detection System 02,Shaft smoke detection unavailable!,2025.04.15 07:15:00.853,kai_longley,"",0,SDU
+1,2025.04.14 15:33:01.484,DMA_SSX_0002,TVCS Shaft Smoke Detection System 02,Smoke detected in shaft!,2025.04.15 07:15:03.894,kai_longley,"",0,SDU
+1,2025.04.14 15:33:01.484,DMA_SSX_0002,TVCS Shaft Smoke Detection System 02,Shaft smoke detection unavailable!,2025.04.15 07:15:02.314,kai_longley,"",0,SDU
+1,2025.04.11 12:26:49.977,TNC-E-EED-014,State Library Platform 2 Zone 1 EED 14,EED Unscheduled Door Opening!,2025.04.11 12:35:18.413,kai_longley,"",0,STL
+1,2025.04.11 12:25:46.721,TNC-E-EED-012,State Library Platform 2 Zone 1 EED 12,EED Unscheduled Door Opening!,2025.04.11 12:35:20.510,kai_longley,"",0,STL
+1,2025.04.11 12:19:46.169,TNC-E-EED-011,State Library Platform 2 Zone 1 EED 11,EED Unscheduled Door Opening!,2025.04.11 12:35:21.938,kai_longley,"",0,STL
+1,2025.04.11 12:19:10.474,TNC-E-EED-010,State Library Platform 2 Zone 1 EED 10,EED Unscheduled Door Opening!,2025.04.11 12:35:26.705,kai_longley,"",0,STL
+1,2025.04.11 12:18:49.980,TNC-E-EED-009,State Library Platform 2 Zone 1 EED 09,EED Unscheduled Door Opening!,2025.04.11 12:35:28.239,kai_longley,"",0,STL
+1,2025.04.11 12:17:49.715,TNC-E-EED-008,State Library Platform 2 Zone 1 EED 08,EED Unscheduled Door Opening!,2025.04.11 12:35:29.544,kai_longley,"",0,STL
+1,2025.04.11 12:16:53.965,TNC-E-EED-007,State Library Platform 2 Zone 1 EED 07,EED Unscheduled Door Opening!,2025.04.11 12:35:31.079,kai_longley,"",0,STL
+1,2025.04.11 12:16:43.713,TNC-E-EED-006,State Library Platform 2 Zone 1 EED 06,EED Unscheduled Door Opening!,2025.04.11 12:35:32.354,kai_longley,"",0,STL
+1,2025.04.11 12:16:00.981,TNC-E-EED-004,State Library Platform 2 Zone 1 EED 04,EED Unscheduled Door Opening!,2025.04.11 12:35:33.855,kai_longley,"",0,STL
+1,2025.04.11 12:15:53.466,TNC-E-EED-005,State Library Platform 2 Zone 1 EED 05,EED Unscheduled Door Opening!,2025.04.11 12:35:35.158,kai_longley,"",0,STL
+1,2025.04.11 12:14:46.471,TNC-E-EED-003,State Library Platform 2 Zone 1 EED 03,EED Unscheduled Door Opening!,2025.04.11 12:35:36.724,kai_longley,"",0,STL
+1,2025.04.11 12:14:39.978,TNC-E-EED-002,State Library Platform 2 Zone 1 EED 02,EED Unscheduled Door Opening!,2025.04.11 12:35:41.104,kai_longley,"",0,STL
+1,2025.04.11 12:13:58.972,TNC-E-EED-001,State Library Platform 2 Zone 1 EED 01,EED Unscheduled Door Opening!,2025.04.11 12:35:45.330,kai_longley,"",0,STL
+1,2025.04.11 12:03:43.121,PKV-W-PSD-005,Parkville Platform 1 Zone 1 PSD 05,PSD Unscheduled Door Opening!,2025.04.11 12:03:48.301,shabnam_lal,"",0,PKV
+1,2025.04.11 11:58:01.872,PKV-E-PSD-026,Parkville Platform 2 Zone 3 PSD 26,PSD Unscheduled Door Opening!,2025.04.11 11:58:13.615,shabnam_lal,"",0,PKV
+1,2025.04.11 09:05:54.469,TNC-E-EED-013,State Library Platform 2 Zone 1 EED 13,EED Unscheduled Door Opening!,2025.04.11 12:35:58.191,kai_longley,"",0,STL
+1,2025.04.10 13:31:57.429,DMA_OFN_0201_02_DS,Bowen Ln OTE shaft,All fans inoperative!,2025.04.11 12:36:03.766,kai_longley,"",0,AZC
+1,2025.04.10 13:31:54.428,DMA_OFN_0101_02_DS,Albert Rd OTE shaft,All fans inoperative!,2025.04.11 12:36:05.459,kai_longley,"",0,AZC
+1,2025.04.10 13:30:36.440,DMA_TFN_0101_03_DS,Albert Rd TVF shaft,All fans inoperative!,2025.04.11 12:36:15.099,kai_longley,"",0,AZC
+1,2025.04.10 13:30:36.440,DMA_TFN_0201_03_DS,Bowen Ln TVF shaft,All fans inoperative!,2025.04.11 12:36:12.466,kai_longley,"",0,AZC
+1,2025.04.10 10:30:53.722,TNC-W-EED-001,State Library Platform 1 Zone 1 EED 01,EED Unscheduled Door Opening!,2025.04.10 10:36:46.022,kai_longley,"",0,STL
+1,2025.04.10 10:16:31.473,TNC-W-EED-003,State Library Platform 1 Zone 1 EED 03,EED Unscheduled Door Opening!,2025.04.11 12:36:16.563,kai_longley,"",0,STL
+1,2025.04.10 10:16:23.471,TNC-W-EED-002,State Library Platform 1 Zone 1 EED 02,EED Unscheduled Door Opening!,2025.04.11 12:36:19.195,kai_longley,"",0,STL
+1,2025.04.10 10:15:20.721,TNC-W-EED-005,State Library Platform 1 Zone 1 EED 05,EED Unscheduled Door Opening!,2025.04.11 12:36:20.652,kai_longley,"",0,STL
+1,2025.04.10 10:15:14.975,TNC-W-EED-004,State Library Platform 1 Zone 1 EED 04,EED Unscheduled Door Opening!,2025.04.11 12:36:22.084,kai_longley,"",0,STL
+1,2025.04.10 10:10:46.971,TNC-W-EED-007,State Library Platform 1 Zone 1 EED 07,EED Unscheduled Door Opening!,2025.04.11 12:36:23.508,kai_longley,"",0,STL
+1,2025.04.10 10:10:33.974,TNC-W-EED-006,State Library Platform 1 Zone 1 EED 06,EED Unscheduled Door Opening!,2025.04.11 12:36:24.737,kai_longley,"",0,STL
+1,2025.04.10 10:09:56.971,TNC-W-EED-008,State Library Platform 1 Zone 1 EED 08,EED Unscheduled Door Opening!,2025.04.11 12:36:26.468,kai_longley,"",0,STL
+1,2025.04.10 10:08:42.224,TNC-W-EED-009,State Library Platform 1 Zone 1 EED 09,EED Unscheduled Door Opening!,2025.04.11 12:36:31.324,kai_longley,"",0,STL
+1,2025.04.10 10:08:30.221,TNC-W-EED-010,State Library Platform 1 Zone 1 EED 10,EED Unscheduled Door Opening!,2025.04.11 12:36:34.236,kai_longley,"",0,STL
+1,2025.04.10 10:06:55.222,TNC-W-EED-011,State Library Platform 1 Zone 1 EED 11,EED Unscheduled Door Opening!,2025.04.11 12:36:35.665,kai_longley,"",0,STL
+1,2025.04.10 10:06:44.473,TNC-W-EED-012,State Library Platform 1 Zone 1 EED 12,EED Unscheduled Door Opening!,2025.04.11 12:36:38.768,kai_longley,"",0,STL
+1,2025.04.10 10:04:29.969,TNC-W-EED-014,State Library Platform 1 Zone 1 EED 14,EED Unscheduled Door Opening!,2025.04.11 12:36:40.248,kai_longley,"",0,STL
+1,2025.04.10 10:04:04.719,TNC-W-EED-013,State Library Platform 1 Zone 1 EED 13,EED Unscheduled Door Opening!,2025.04.11 12:36:41.974,kai_longley,"",0,STL
+1,2025.04.10 10:02:52.722,TNC-W-EED-015,State Library Platform 1 Zone 1 EED 15,EED Unscheduled Door Opening!,2025.04.11 12:37:07.918,kai_longley,"",0,STL
+1,2025.04.10 10:00:19.469,TNC-W-EED-017,State Library Platform 1 Zone 1 EED 17,EED Unscheduled Door Opening!,2025.04.11 12:37:16.829,kai_longley,"",0,STL
+1,2025.04.10 09:59:58.222,TNC-W-EED-016,State Library Platform 1 Zone 1 EED 16,EED Unscheduled Door Opening!,2025.04.11 12:39:04.117,kai_longley,"",0,STL
+1,2025.04.10 09:55:20.723,TNC-W-EED-019,State Library Platform 1 Zone 1 EED 19,EED Unscheduled Door Opening!,2025.04.11 12:39:31.088,kai_longley,"",0,STL
+1,2025.04.10 09:55:18.972,TNC-W-EED-018,State Library Platform 1 Zone 1 EED 18,EED Unscheduled Door Opening!,2025.04.11 12:39:34.255,kai_longley,"",0,STL
+1,2025.04.10 09:37:59.722,TNC-W-EED-020,State Library Platform 1 Zone 2 EED 20,EED Unscheduled Door Opening!,2025.04.11 12:39:37.075,kai_longley,"",0,STL
+1,2025.04.10 09:37:49.722,TNC-W-DDX-001,State Library Platform 1 Zone 2 DD 01,Driver Door Unscheduled Door Opening!,2025.04.11 12:39:39.944,kai_longley,"",0,STL
+1,2025.04.10 09:34:12.973,TNC-W-DDX-002,State Library Platform 1 Zone 2 DD 02,Driver Door Unscheduled Door Opening!,2025.04.11 12:39:27.353,kai_longley,"",0,STL
+1,2025.04.10 09:33:28.976,TNC-W-EED-021,State Library Platform 1 Zone 2 EED 21,EED Unscheduled Door Opening!,2025.04.11 12:40:57.099,kai_longley,"",0,STL
+1,2025.04.10 09:31:33.224,TNC-W-EED-023,State Library Platform 1 Zone 3 EED 23,EED Unscheduled Door Opening!,2025.04.11 12:39:19.498,kai_longley,"",0,STL
+1,2025.04.10 09:31:30.725,TNC-W-EED-022,State Library Platform 1 Zone 3 EED 22,EED Unscheduled Door Opening!,2025.04.11 12:39:14.807,kai_longley,"",0,STL
+1,2025.04.10 09:29:52.219,TNC-W-EED-025,State Library Platform 1 Zone 3 EED 25,EED Unscheduled Door Opening!,2025.04.11 12:39:09.688,kai_longley,"",0,STL
+1,2025.04.10 09:29:45.969,TNC-W-EED-024,State Library Platform 1 Zone 3 EED 24,EED Unscheduled Door Opening!,2025.04.11 12:39:07.889,kai_longley,"",0,STL
+1,2025.04.10 09:22:17.220,TNC-W-EED-028,State Library Platform 1 Zone 3 EED 28,EED Unscheduled Door Opening!,2025.04.11 12:39:11.161,kai_longley,"",0,STL
+1,2025.04.10 09:22:08.970,TNC-W-EED-027,State Library Platform 1 Zone 3 EED 27,EED Unscheduled Door Opening!,2025.04.11 12:39:17.785,kai_longley,"",0,STL
+1,2025.04.10 09:21:30.726,TNC-W-EED-026,State Library Platform 1 Zone 3 EED 26,EED Unscheduled Door Opening!,2025.04.11 12:39:25.716,kai_longley,"",0,STL
+1,2025.04.10 09:19:11.974,TNC-W-EED-029,State Library Platform 1 Zone 3 EED 29,EED Unscheduled Door Opening!,2025.04.11 12:39:13.241,kai_longley,"",0,STL
+1,2025.04.10 09:19:05.470,TNC-W-EED-030,State Library Platform 1 Zone 3 EED 30,EED Unscheduled Door Opening!,2025.04.11 12:40:58.506,kai_longley,"",0,STL
+1,2025.04.10 09:16:20.719,TNC-W-EED-031,State Library Platform 1 Zone 3 EED 31,EED Unscheduled Door Opening!,2025.04.11 12:39:16.496,kai_longley,"",0,STL
+1,2025.04.10 09:15:35.970,TNC-W-EED-032,State Library Platform 1 Zone 3 EED 32,EED Unscheduled Door Opening!,2025.04.11 12:39:24.508,kai_longley,"",0,STL
+1,2025.04.10 09:13:32.722,TNC-W-EED-033,State Library Platform 1 Zone 3 EED 33,EED Unscheduled Door Opening!,2025.04.11 12:41:02.062,kai_longley,"",0,STL
+1,2025.04.10 09:05:41.948,AEN_TFN_0201_03_DS,Laurens St TVF shaft,Tunnel Section 03 Arden End - Ventilation Unavailable!,2025.04.11 12:39:20.848,kai_longley,"",0,SDU
+1,2025.04.10 09:05:15.917,AEN_OFN_0201_02_DS,Laurens St OTE shaft,Arden - East End Over Track Ventilation Unavailable!,2025.04.11 12:41:03.462,kai_longley,"",0,SDU
+1,2025.04.10 09:04:59.972,AEN_OFN_0101_02_DS,Fogarty St OTE shaft,Arden - West End Over Track Ventilation Unavailable!,2025.04.11 12:41:05.257,kai_longley,"",0,SDU
+1,2025.04.10 09:04:53.944,AEN_TFN_0101_03_DS,Fogarty St TVF shaft,Tunnel Section 01 - Ventilation Unavailable!,2025.04.11 12:41:06.758,kai_longley,"",0,SDU
+1,2025.04.10 09:00:40.719,TNC-W-EED-034,State Library Platform 1 Zone 3 EED 34,EED Unscheduled Door Opening!,2025.04.11 12:41:08.083,kai_longley,"",0,STL
+1,2025.04.10 09:00:24.970,TNC-W-EED-035,State Library Platform 1 Zone 3 EED 35,EED Unscheduled Door Opening!,2025.04.11 12:41:09.444,kai_longley,"",0,STL
+1,2025.04.10 08:55:12.225,TNC-W-EED-036,State Library Platform 1 Zone 3 EED 36,EED Unscheduled Door Opening!,2025.04.11 12:41:11.157,kai_longley,"",0,STL
+1,2025.04.10 08:55:02.477,TNC-W-EED-037,State Library Platform 1 Zone 3 EED 37,EED Unscheduled Door Opening!,2025.04.11 12:41:14.301,kai_longley,"",0,STL
+1,2025.04.10 08:51:39.972,TNC-W-EED-038,State Library Platform 1 Zone 3 EED 38,EED Unscheduled Door Opening!,2025.04.11 12:41:15.848,kai_longley,"",0,STL
+1,2025.04.10 08:47:32.471,TNC-W-EED-039,State Library Platform 1 Zone 3 EED 39,EED Unscheduled Door Opening!,2025.04.11 12:41:18.773,kai_longley,"",0,STL
+1,2025.04.10 08:42:22.472,TNC-W-EED-040,State Library Platform 1 Zone 3 EED 40,EED Unscheduled Door Opening!,2025.04.11 12:41:20.249,kai_longley,"",0,STL
+1,2025.04.09 16:54:24.430,PKV_TFN_0201_03_DS,Leicester St TVF shaft,All fans inoperative!,2025.04.10 07:26:09.250,kai_longley,"",0,PKV
+1,2025.04.09 16:54:15.428,PKV_OFN_0001_03_DS,Kernot Rd OTE shaft,All fans inoperative!,2025.04.10 07:26:11.325,kai_longley,"",0,PKV
+1,2025.04.09 16:54:07.426,PKV_TFN_0101_03_DS,Barry St TVF shaft,All fans inoperative!,2025.04.10 07:26:12.522,kai_longley,"",0,PKV
+1,2025.04.09 14:14:12.706,TNC-E-EED-022,State Library Platform 2 Zone 3 EED 22,EED Unscheduled Door Opening!,2025.04.10 07:26:53.961,kai_longley,"",0,STL
+1,2025.04.09 14:02:46.223,TNC-E-EED-023,State Library Platform 2 Zone 3 EED 23,EED Unscheduled Door Opening!,2025.04.10 07:26:55.482,kai_longley,"",0,STL
+1,2025.04.09 13:54:20.206,TNC-E-EED-024,State Library Platform 2 Zone 3 EED 24,EED Unscheduled Door Opening!,2025.04.10 07:26:56.831,kai_longley,"",0,STL
+1,2025.04.09 13:52:32.722,TNC-E-EED-025,State Library Platform 2 Zone 3 EED 25,EED Unscheduled Door Opening!,2025.04.10 07:26:58.107,kai_longley,"",0,STL
+1,2025.04.09 13:50:13.960,TNC-E-EED-026,State Library Platform 2 Zone 3 EED 26,EED Unscheduled Door Opening!,2025.04.10 07:26:59.614,kai_longley,"",0,STL
+1,2025.04.09 13:33:40.458,TNC-E-EED-028,State Library Platform 2 Zone 3 EED 28,EED Unscheduled Door Opening!,2025.04.10 07:27:01.064,kai_longley,"",0,STL
+1,2025.04.09 13:33:33.213,TNC-E-EED-027,State Library Platform 2 Zone 3 EED 27,EED Unscheduled Door Opening!,2025.04.10 07:27:02.847,kai_longley,"",0,STL
+1,2025.04.09 13:31:09.961,TNC-E-EED-029,State Library Platform 2 Zone 3 EED 29,EED Unscheduled Door Opening!,2025.04.10 07:27:04.371,kai_longley,"",0,STL
+1,2025.04.09 13:30:20.461,TNC-E-EED-030,State Library Platform 2 Zone 3 EED 30,EED Unscheduled Door Opening!,2025.04.10 07:27:05.866,kai_longley,"",0,STL
+1,2025.04.09 13:24:23.714,TNC-E-EED-031,State Library Platform 2 Zone 3 EED 31,EED Unscheduled Door Opening!,2025.04.10 07:27:07.319,kai_longley,"",0,STL
+1,2025.04.09 13:13:05.961,TNC-E-EED-032,State Library Platform 2 Zone 3 EED 32,EED Unscheduled Door Opening!,2025.04.10 07:27:10.530,kai_longley,"",0,STL
+1,2025.04.09 13:07:41.710,TNC-E-EED-033,State Library Platform 2 Zone 3 EED 33,EED Unscheduled Door Opening!,2025.04.10 07:27:11.828,kai_longley,"",0,STL
+1,2025.04.09 13:04:28.462,TNC-E-EED-034,State Library Platform 2 Zone 3 EED 34,EED Unscheduled Door Opening!,2025.04.10 07:27:13.284,kai_longley,"",0,STL
+1,2025.04.09 13:02:04.712,TNC-E-EED-035,State Library Platform 2 Zone 3 EED 35,EED Unscheduled Door Opening!,2025.04.10 07:27:14.492,kai_longley,"",0,STL
+1,2025.04.09 12:36:34.466,TNC-E-EED-036,State Library Platform 2 Zone 3 EED 36,EED Unscheduled Door Opening!,2025.04.10 07:27:17.135,kai_longley,"",0,STL
+1,2025.04.09 12:12:38.956,TNC-E-EED-040,State Library Platform 2 Zone 3 EED 40,EED Unscheduled Door Opening!,2025.04.10 07:27:15.891,kai_longley,"",0,STL
+1,2025.04.09 08:55:50.218,TNC-E-EED-020,State Library Platform 2 Zone 2 EED 20,EED Unscheduled Door Opening!,2025.04.10 07:27:26.206,kai_longley,"",0,STL
+1,2025.04.08 18:34:03.487,TSC_SSX_0002,TVCS Shaft Smoke Detection System 02,Smoke detected in shaft!,2025.04.09 07:30:12.952,kai_longley,"",0,THL
+1,2025.04.08 18:34:03.487,TSC_SSX_0002,TVCS Shaft Smoke Detection System 02,Shaft smoke detection unavailable!,2025.04.09 07:30:11.358,kai_longley,"",0,THL
+1,2025.04.07 13:33:09.469,TNC-E-EED-015,State Library Platform 2 Zone 1 EED 15,EED Unscheduled Door Opening!,2025.04.07 14:29:46.572,kai_longley,"",0,STL
+1,2025.04.07 10:01:28.706,TNC-E-DDX-001,State Library Platform 2 Zone 2 DD 01,Driver Door Unscheduled Door Opening!,2025.04.07 11:52:39.064,kai_longley,"",0,STL
+1,2025.04.07 09:39:53.211,TNC-E-EED-021,State Library Platform 2 Zone 2 EED 21,EED Unscheduled Door Opening!,2025.04.07 09:40:07.698,kai_longley,"",0,STL
+1,2025.04.07 09:39:37.212,TNC-E-EED-038,State Library Platform 2 Zone 3 EED 38,EED Unscheduled Door Opening!,2025.04.07 09:39:38.338,kai_longley,"",0,STL
+1,2025.04.07 09:38:45.207,TNC-E-DDX-002,State Library Platform 2 Zone 2 DD 02,Driver Door Unscheduled Door Opening!,2025.04.07 09:38:46.430,kai_longley,"",0,STL
+1,2025.04.07 09:23:42.495,TNC-E-EED-037,State Library Platform 2 Zone 3 EED 37,EED Unscheduled Door Opening!,2025.04.07 09:38:08.818,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.517,TNC-W-PSD-030,State Library Platform 1 Zone 3 PSD 30,PSD Unscheduled Door Opening!,2025.04.07 09:38:25.522,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.496,TNC-W-PSD-028,State Library Platform 1 Zone 3 PSD 28,PSD Unscheduled Door Opening!,2025.04.07 09:38:26.778,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.496,TNC-W-PSD-029,State Library Platform 1 Zone 3 PSD 29,PSD Unscheduled Door Opening!,2025.04.07 09:38:28.136,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.492,TNC-W-PSD-027,State Library Platform 1 Zone 3 PSD 27,PSD Unscheduled Door Opening!,2025.04.07 09:38:29.586,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.487,TNC-W-PSD-026,State Library Platform 1 Zone 3 PSD 26,PSD Unscheduled Door Opening!,2025.04.07 09:38:31.038,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.483,TNC-W-PSD-025,State Library Platform 1 Zone 3 PSD 25,PSD Unscheduled Door Opening!,2025.04.07 09:38:32.302,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.478,TNC-W-PSD-024,State Library Platform 1 Zone 3 PSD 24,PSD Unscheduled Door Opening!,2025.04.07 09:38:34.028,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.473,TNC-W-PSD-023,State Library Platform 1 Zone 3 PSD 23,PSD Unscheduled Door Opening!,2025.04.07 09:38:35.818,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.469,TNC-W-PSD-022,State Library Platform 1 Zone 3 PSD 22,PSD Unscheduled Door Opening!,2025.04.07 09:38:37.415,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.464,TNC-W-PSD-021,State Library Platform 1 Zone 2 PSD 21,PSD Unscheduled Door Opening!,2025.04.07 09:38:41.491,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.459,TNC-W-PSD-020,State Library Platform 1 Zone 2 PSD 20,PSD Unscheduled Door Opening!,2025.04.07 09:38:40.321,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.454,TNC-W-PSD-019,State Library Platform 1 Zone 2 PSD 19,PSD Unscheduled Door Opening!,2025.04.07 09:38:42.732,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.451,TNC-W-PSD-018,State Library Platform 1 Zone 2 PSD 18,PSD Unscheduled Door Opening!,2025.04.07 09:38:43.854,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.450,TNC-W-PSD-017,State Library Platform 1 Zone 2 PSD 17,PSD Unscheduled Door Opening!,2025.04.07 09:38:45.228,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.447,TNC-W-PSD-016,State Library Platform 1 Zone 2 PSD 16,PSD Unscheduled Door Opening!,2025.04.07 09:38:50.015,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.443,TNC-W-PSD-015,State Library Platform 1 Zone 2 PSD 15,PSD Unscheduled Door Opening!,2025.04.07 09:38:51.416,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.441,TNC-W-PSD-014,State Library Platform 1 Zone 2 PSD 14,PSD Unscheduled Door Opening!,2025.04.07 09:38:53.053,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.437,TNC-W-PSD-013,State Library Platform 1 Zone 2 PSD 13,PSD Unscheduled Door Opening!,2025.04.07 09:38:54.405,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.434,TNC-W-PSD-012,State Library Platform 1 Zone 2 PSD 12,PSD Unscheduled Door Opening!,2025.04.07 09:38:55.830,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.407,TNC-W-PSD-011,State Library Platform 1 Zone 2 PSD 11,PSD Unscheduled Door Opening!,2025.04.07 09:38:57.236,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.405,TNC-W-PSD-010,State Library Platform 1 Zone 2 PSD 10,PSD Unscheduled Door Opening!,2025.04.07 09:38:58.466,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.399,TNC-W-PSD-008,State Library Platform 1 Zone 1 PSD 08,PSD Unscheduled Door Opening!,2025.04.07 09:38:59.623,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.374,TNC-W-PSD-007,State Library Platform 1 Zone 1 PSD 07,PSD Unscheduled Door Opening!,2025.04.07 09:39:00.939,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.315,TNC-W-PSD-006,State Library Platform 1 Zone 1 PSD 06,PSD Unscheduled Door Opening!,2025.04.07 09:39:02.148,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.291,TNC-W-PSD-005,State Library Platform 1 Zone 1 PSD 05,PSD Unscheduled Door Opening!,2025.04.07 09:39:03.641,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.286,TNC-W-PSD-004,State Library Platform 1 Zone 1 PSD 04,PSD Unscheduled Door Opening!,2025.04.07 09:39:04.852,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.281,TNC-W-PSD-003,State Library Platform 1 Zone 1 PSD 03,PSD Unscheduled Door Opening!,2025.04.07 09:39:06.094,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.277,TNC-W-PSD-002,State Library Platform 1 Zone 1 PSD 02,PSD Unscheduled Door Opening!,2025.04.07 09:39:07.488,kai_longley,"",0,STL
+1,2025.04.06 12:26:18.272,TNC-W-PSD-001,State Library Platform 1 Zone 1 PSD 01,PSD Unscheduled Door Opening!,2025.04.07 09:39:08.629,kai_longley,"",0,STL
+1,2025.04.05 11:50:52.462,TNC-W-PSD-009,State Library Platform 1 Zone 1 PSD 09,PSD Unscheduled Door Opening!,2025.04.07 09:39:09.773,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.536,TNC-E-PSD-030,State Library Platform 2 Zone 3 PSD 30,PSD Unscheduled Door Opening!,2025.04.07 09:39:10.907,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.535,TNC-E-PSD-029,State Library Platform 2 Zone 3 PSD 29,PSD Unscheduled Door Opening!,2025.04.07 09:39:13.769,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.533,TNC-E-PSD-028,State Library Platform 2 Zone 3 PSD 28,PSD Unscheduled Door Opening!,2025.04.07 09:39:14.936,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.531,TNC-E-PSD-026,State Library Platform 2 Zone 3 PSD 26,PSD Unscheduled Door Opening!,2025.04.07 09:39:16.216,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.531,TNC-E-PSD-027,State Library Platform 2 Zone 3 PSD 27,PSD Unscheduled Door Opening!,2025.04.07 09:39:17.361,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.529,TNC-E-PSD-025,State Library Platform 2 Zone 3 PSD 25,PSD Unscheduled Door Opening!,2025.04.07 09:39:18.536,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.523,TNC-E-PSD-023,State Library Platform 2 Zone 3 PSD 23,PSD Unscheduled Door Opening!,2025.04.07 09:39:19.770,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.523,TNC-E-PSD-024,State Library Platform 2 Zone 3 PSD 24,PSD Unscheduled Door Opening!,2025.04.07 09:39:20.855,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.521,TNC-E-PSD-021,State Library Platform 2 Zone 2 PSD 21,PSD Unscheduled Door Opening!,2025.04.07 09:39:22.029,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.521,TNC-E-PSD-022,State Library Platform 2 Zone 3 PSD 22,PSD Unscheduled Door Opening!,2025.04.07 09:39:23.249,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.519,TNC-E-PSD-020,State Library Platform 2 Zone 2 PSD 20,PSD Unscheduled Door Opening!,2025.04.07 09:39:24.370,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.518,TNC-E-PSD-019,State Library Platform 2 Zone 2 PSD 19,PSD Unscheduled Door Opening!,2025.04.07 09:39:25.442,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.517,TNC-E-PSD-018,State Library Platform 2 Zone 2 PSD 18,PSD Unscheduled Door Opening!,2025.04.07 09:39:26.684,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.516,TNC-E-PSD-017,State Library Platform 2 Zone 2 PSD 17,PSD Unscheduled Door Opening!,2025.04.07 09:39:27.819,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.514,TNC-E-PSD-015,State Library Platform 2 Zone 2 PSD 15,PSD Unscheduled Door Opening!,2025.04.07 09:39:28.997,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.514,TNC-E-PSD-016,State Library Platform 2 Zone 2 PSD 16,PSD Unscheduled Door Opening!,2025.04.07 09:39:30.535,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.513,TNC-E-PSD-014,State Library Platform 2 Zone 2 PSD 14,PSD Unscheduled Door Opening!,2025.04.07 09:39:31.935,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.511,TNC-E-PSD-012,State Library Platform 2 Zone 2 PSD 12,PSD Unscheduled Door Opening!,2025.04.07 09:39:34.443,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.511,TNC-E-PSD-013,State Library Platform 2 Zone 2 PSD 13,PSD Unscheduled Door Opening!,2025.04.07 09:39:36.008,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.510,TNC-E-PSD-011,State Library Platform 2 Zone 2 PSD 11,PSD Unscheduled Door Opening!,2025.04.07 09:39:41.845,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.508,TNC-E-PSD-010,State Library Platform 2 Zone 2 PSD 10,PSD Unscheduled Door Opening!,2025.04.07 09:39:42.992,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.507,TNC-E-PSD-009,State Library Platform 2 Zone 1 PSD 09,PSD Unscheduled Door Opening!,2025.04.07 09:39:44.092,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.505,TNC-E-PSD-008,State Library Platform 2 Zone 1 PSD 08,PSD Unscheduled Door Opening!,2025.04.07 09:39:45.209,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.504,TNC-E-PSD-007,State Library Platform 2 Zone 1 PSD 07,PSD Unscheduled Door Opening!,2025.04.07 09:39:46.423,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.503,TNC-E-PSD-006,State Library Platform 2 Zone 1 PSD 06,PSD Unscheduled Door Opening!,2025.04.07 09:39:47.574,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.500,TNC-E-PSD-005,State Library Platform 2 Zone 1 PSD 05,PSD Unscheduled Door Opening!,2025.04.07 09:39:48.684,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.499,TNC-E-PSD-004,State Library Platform 2 Zone 1 PSD 04,PSD Unscheduled Door Opening!,2025.04.07 09:39:49.723,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.497,TNC-E-PSD-003,State Library Platform 2 Zone 1 PSD 03,PSD Unscheduled Door Opening!,2025.04.07 09:39:50.847,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.496,TNC-E-PSD-002,State Library Platform 2 Zone 1 PSD 02,PSD Unscheduled Door Opening!,2025.04.07 09:39:59.356,kai_longley,"",0,STL
+1,2025.04.05 09:25:48.495,TNC-E-PSD-001,State Library Platform 2 Zone 1 PSD 01,PSD Unscheduled Door Opening!,2025.04.07 09:40:10.043,kai_longley,"",0,STL
+1,2025.04.04 12:24:28.871,TSC_OCN_0101_02_DS,Flinders Ln OTE shaft,All fans inoperative!,2025.04.04 15:21:41.506,kai_longley,"",0,THL
+1,2025.03.31 19:18:01.158,TNC_TFN_0101_03_DS,Franklin St TVF shaft,All fans inoperative!,2025.04.01 07:15:19.074,kai_longley,"",0,SDU
+1,2025.03.31 19:18:01.158,TNC_TFN_0201_03_DS,LaTrobe St TVF shaft,All fans inoperative!,2025.04.01 07:15:17.438,kai_longley,"",0,SDU
+1,2025.03.31 10:30:00.622,TNC_TEP_0305_06_DS,Tunnel Drainage Pump - Duty Selection,Risk of track flooding!,2025.03.31 12:29:57.158,kai_longley,"",0,SDU
+1,2025.03.31 10:30:00.595,TNC_TEP_0301_02_DS,Tunnel Drainage Pump - Duty Selection,Risk of track flooding!,2025.03.31 12:30:00.015,kai_longley,"",0,SDU
+1,2025.03.31 10:27:16.236,TSC_FOLLOWUP,Town Hall Follow up alarm,Town Hall station haven't ack'd an important alarm!,2025.03.31 12:30:08.649,kai_longley,"",0,THL
+1,2025.03.31 10:27:16.224,TNC_FOLLOWUP,State Library Follow up alarm,State Library station haven't ack'd an important alarm!,2025.03.31 12:30:10.148,kai_longley,"",0,STL
+1,2025.03.31 10:27:16.206,SSC_FOLLOWUP,Sunshine SCC Follow up alarm,Arden station haven't ack'd an important alarm!,2025.03.31 12:30:13.047,kai_longley,"",0,SSC
+1,2025.03.31 10:27:16.024,SDU_FOLLOWUP,Tunnels and Portals Follow up alarm,Anzac station haven't ack'd an important alarm!,2025.03.31 12:30:19.249,kai_longley,"",0,SDU
+1,2025.03.31 10:27:15.939,AEN_FOLLOWUP,Arden Follow up alarm,Arden station haven't ack'd an important alarm!,2025.03.31 10:53:22.098,dominic_dlasselle,"",0,ARN
+1,2025.03.31 10:27:12.036,PDM_ROL_RNERV_W,"RNERV Enclosure Door - Eastern Portal, West Tunnel",RNERV crane arm extended over tracks!,2025.03.31 12:30:20.587,kai_longley,"",0,SDU
+1,2025.03.31 10:21:45.204,TSC_TFN_0201_03_DS,Royston Pl TVF shaft,All fans inoperative!,2025.03.31 12:30:35.649,kai_longley,"",0,THL
+1,2025.03.31 10:21:44.544,TSC_TFN_0101_03_DS,Flinders Ln TVF shaft,All fans inoperative!,2025.03.31 12:30:45.349,kai_longley,"",0,THL
+1,2025.03.31 10:21:43.870,TSC_OFN_0001_03_DS,Royston Pl OTE shaft,All fans inoperative!,2025.03.31 12:30:51.010,kai_longley,"",0,THL
+1,2025.04.15 07:22:19.247,PKV-FIP-0006,Parkville Station SHCIE Panel 6,No modbus gateway connection,2025.04.15 07:26:12.981,kai_longley,"",0,PKV
+1,2025.04.15 07:22:17.565,PKV-FIP-0004,Parkville Station SHCIE Panel 4,No modbus gateway connection,2025.04.15 07:26:12.981,kai_longley,"",0,PKV
+1,2025.04.15 07:22:17.565,PKV-FIP-0005,Parkville Station SHCIE Panel 5,No modbus gateway connection,2025.04.15 07:26:12.981,kai_longley,"",0,PKV
+1,2025.04.15 07:19:32.405,DMA-FIP-0002,Anzac Station SHCIE Panel 2,No modbus gateway connection,2025.04.15 07:26:12.955,kai_longley,"",0,AZC
+1,2025.04.15 07:19:32.405,DMA-FIP-0003,Anzac Station SHCIE Panel 3,No modbus gateway connection,2025.04.15 07:26:12.955,kai_longley,"",0,AZC
+1,2025.04.15 07:19:32.405,DMA-FIP-0004,Anzac Station SHCIE Panel 4,No modbus gateway connection,2025.04.15 07:26:12.955,kai_longley,"",0,AZC
+1,2025.04.15 07:19:32.405,DMA-FIP-0005,Anzac Station SHCIE Panel 5,No modbus gateway connection,2025.04.15 07:26:12.955,kai_longley,"",0,AZC
+1,2025.04.15 07:19:32.405,DMA-FIP-0006,Anzac Station SHCIE Panel 6,No modbus gateway connection,2025.04.15 07:26:12.955,kai_longley,"",0,AZC
+1,2025.04.15 07:19:32.405,EPZ-FIP-0001,Eastern Portal Main Fire Panel,No modbus gateway connection,2025.04.15 07:26:12.955,kai_longley,"",0,SDU
+1,2025.04.15 07:19:32.405,EPZ-FIP-0002,Eastern Portal Station Fire Panel,No modbus gateway connection,2025.04.15 07:26:12.955,kai_longley,"",0,SDU
+1,2025.04.14 20:26:52.751,TNC_ModeSts,TVCS State Library Station Mode Status S06,Over Track Exhaust Unavailable,2025.04.15 07:15:23.741,kai_longley,"",0,SDU
+1,2025.04.14 08:01:11.025,AEN-S-STN,Arden Station PSD System,PSD lost connection to signalling system!,2025.04.14 08:12:53.068,oumadevi_mantilla,"",0,ARN
+1,2025.04.12 08:17:13.657,TNC_FCU_6603_FG,Fan Coil Unit - Function Group,Cooling unavailable!,2025.04.15 07:15:23.741,kai_longley,"",0,STL
+1,2025.04.11 12:45:10.843,PKV-S-STN,Parkville Station PSD System,PSD lost connection to signalling system!,2025.04.11 12:45:20.833,kai_longley,"",0,PKV
+1,2025.04.11 08:48:22.240,TSC-S-STN,Town Hall Station PSD System,PSD lost connection to signalling system!,2025.04.11 12:43:01.565,kai_longley,"",0,THL
+1,2025.04.10 13:31:57.429,DMA_ModeSts,TVCS Mode Status - Anzac Station S10,Over Track Exhaust Unavailable,2025.04.11 12:43:01.559,kai_longley,"",0,SDU
+1,2025.04.10 13:30:36.440,DMA_ModeSts,TVCS Mode Status - Anzac Station S10,Tunnel section ventilation unavailable,2025.04.11 12:43:01.559,kai_longley,"",0,SDU
+1,2025.04.10 12:31:39.702,TNC-S-STN,State Library Station PSD System,PSD lost connection to signalling system!,2025.04.11 12:43:01.678,kai_longley,"",0,STL
+1,2025.04.10 09:05:15.917,AEN_ModeSts,TVCS Section 02 Arden Station mode status,Station Ventilation (OTE) Unavailable,2025.04.11 12:43:01.524,kai_longley,"",0,SDU
+1,2025.04.10 09:04:53.944,AEN_ModeSts,TVCS Section 02 Arden Station mode status,Tunnel Section Ventilation (TVS) Unavailable,2025.04.11 12:43:01.524,kai_longley,"",0,SDU
+1,2025.04.10 08:49:25.629,DMA-S-STN,Anzac Station PSD System,PSD lost connection to signalling system!,2025.04.10 08:49:45.829,elizabeth_james,"",0,AZC
+1,2025.04.09 16:54:15.428,PKV_ModeSts,TVCS Section 04 Parkville Station mode status,Over Track Exhaust Unavailable,2025.04.10 07:29:10.535,kai_longley,"",0,SDU
+1,2025.04.09 16:54:07.426,PKV_ModeSts,TVCS Section 04 Parkville Station mode status,Tunnel section ventilation unavailable,2025.04.10 07:29:10.535,kai_longley,"",0,SDU
+1,2025.03.31 19:18:01.158,TNC_ModeSts,TVCS State Library Station Mode Status S06,Tunnel section ventilation unavailable,2025.04.01 07:16:13.123,kai_longley,"",0,SDU
+1,2025.03.31 11:48:43.704,_Conn_dist_1_2_to_dist_2_2,Distributed Server 2,Connection lost to Sunshine Server 2 - Link 1,2025.03.31 12:31:55.443,kai_longley,"",0,THL
+1,2025.03.31 11:48:43.702,_Conn_dist_1_2_to_dist_2_2,Distributed Server 2,Connection lost to Sunshine Server 2 - Link 0,2025.03.31 12:31:55.443,kai_longley,"",0,THL
+1,2025.03.31 11:48:43.700,_Conn_dist_1_1_to_dist_2_2,Distributed Server 1,Connection lost to Sunshine Server 2 - Link 1,2025.03.31 12:31:55.443,kai_longley,"",0,THL
+1,2025.03.31 11:48:43.697,_Conn_dist_1_1_to_dist_2_2,Distributed Server 1,Connection lost to Sunshine Server 2 - Link 0,2025.03.31 12:31:55.443,kai_longley,"",0,THL
+1,2025.03.31 11:48:43.694,_Conn_dist_1_2_to_dist_2_1,Distributed Server 2,Connection lost to Sunshine Server 1 - Link 1,2025.03.31 12:31:55.443,kai_longley,"",0,ARN
+1,2025.03.31 11:48:43.692,_Conn_dist_1_2_to_dist_2_1,Distributed Server 2,Connection lost to Sunshine Server 1 - Link 0,2025.03.31 12:31:55.443,kai_longley,"",0,ARN
+1,2025.03.31 11:48:43.690,_Conn_dist_1_1_to_dist_2_1,Distributed Server 1,Connection lost to Sunshine Server 1 - Link 1,2025.03.31 12:31:55.443,kai_longley,"",0,ARN
+1,2025.03.31 11:48:43.687,_Conn_dist_1_1_to_dist_2_1,Distributed Server 1,Connection lost to Sunshine Server 1 - Link 0,2025.03.31 12:31:55.443,kai_longley,"",0,ARN
+1,2025.03.31 10:23:10.155,TSC_ModeSts,TVCS Town Hall Station Mode Status S08,Tunnel section ventilation unavailable,2025.03.31 12:31:55.441,kai_longley,"",0,SDU
+1,2025.03.31 10:23:10.151,TSC_ModeSts,TVCS Town Hall Station Mode Status S08,Over Track Exhaust Unavailable,2025.03.31 12:31:55.441,kai_longley,"",0,SDU
+1,2025.03.31 10:21:55.627,TSC-FIP-0006,Town Hall Station SHCIE Panel 6,No modbus gateway connection,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:21:55.159,TSC-FIP-0005,Town Hall Station SHCIE Panel 5,No modbus gateway connection,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:21:54.689,TSC-FIP-0004,Town Hall Station SHCIE Panel 4,No modbus gateway connection,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:21:54.223,TSC-FIP-0003,Town Hall Station SHCIE Panel 3,No modbus gateway connection,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:21:53.753,TSC-FIP-0002,Town Hall Station SHCIE Panel 2,No modbus gateway connection,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:21:53.240,TNC-FIP-0008,State Library Station SHCIE Panel 8,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:21:52.696,TNC-FIP-0007,State Library Station SHCIE Panel 7,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:21:52.157,TNC-FIP-0006,State Library Station SHCIE Panel 6,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:21:51.617,TNC-FIP-0005,State Library Station SHCIE Panel 5,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:21:51.074,TNC-FIP-0004,State Library Station SHCIE Panel 4,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:21:50.537,TNC-FIP-0003,State Library Station SHCIE Panel 3,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:21:50.000,TNC-FIP-0002,State Library Station SHCIE Panel 2,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:21:49.593,SDU-FIP-0006,Cross Passage CDB North FDCIE Panel 2,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,SDU
+1,2025.03.31 10:21:49.581,SDU-FIP-0005,Cross Passage CDB North FDCIE Panel 1,No modbus gateway connection,2025.03.31 12:31:55.443,kai_longley,"",0,SDU
+1,2025.04.15 06:00:42.526,DMA_DOR_B1_212-1_1,Concourse - Office access,Unauthorised access,2025.04.15 06:13:19.671,frank_stanisic,"",0,AZC
+1,2025.04.15 05:12:32.010,AEN_StationFunc,TVCS Operator Fire Emergency Section 02 - Arden Station,Train Fire Ventilation Mode Still On Without An Active Train Fire,2025.04.15 07:15:23.738,kai_longley,"",0,SDU
+1,2025.04.15 01:34:17.950,TSC_LFT_0013,Lift 13 BOH (B4 Basement to GF Ground Floor),Lift safety feature fault,2025.04.15 07:15:23.660,kai_longley,"",0,THL
+1,2025.04.14 23:04:45.156,TNC_LFT_0012,Lift 12 BOH (B7 Basement to Ground Floor),Lift safety feature fault,2025.04.15 07:15:23.741,kai_longley,"",0,STL
+1,2025.04.14 19:32:35.013,AEN_StationSPDFunc,Operator Fire Emergency Speed Control Mode Selection - Arden Station,PSD data fault,2025.04.15 07:15:23.738,kai_longley,"",0,SDU
+1,2025.04.14 17:53:36.686,PKV_DOR_B2_406-14_2,East Fire Escape Corridor - Concourse,Unauthorised access,2025.04.14 18:02:58.657,andrew_hitchell,"",0,PKV
+1,2025.04.14 17:24:55.159,TNC_LFT_0002,Lift 2 FOH (B6 Basement to B5 Basement),Lift safety feature fault,2025.04.15 07:15:23.741,kai_longley,"",0,STL
+1,2025.04.14 17:24:42.287,TNC_LFT_0002,Lift 2 FOH (B6 Basement to B5 Basement),Lift General Fault,2025.04.15 07:15:23.741,kai_longley,"",0,STL
+1,2025.04.14 15:40:26.020,TNC_DOR_B3_CBN-S-04_1,Franklin West Emergency Stairs - B3,Unauthorised access,2025.04.15 07:15:23.750,kai_longley,"",0,STL
+1,2025.04.14 14:04:19.002,TNC_DOR_B4_CBN-S-04_1,Franklin West Emergency Stairs - B4,Unauthorised access,2025.04.15 07:15:23.750,kai_longley,"",0,STL
+1,2025.04.14 14:04:01.774,TSC_LFT_0013,Lift 13 BOH (B4 Basement to GF Ground Floor),Lift General Fault,2025.04.15 07:15:23.660,kai_longley,"",0,THL
+1,2025.04.14 11:50:15.054,PKV_DOR_B2_PKV-S-03_3,West Emergency Stairs - Concourse,Unauthorised access,2025.04.14 11:52:17.724,kira_scotland,"",0,PKV
+1,2025.04.14 09:22:39.628,TSC_LFT_0002,Lift 2 FOH (B4 Basement to B3 Basement),Lift General Fault,2025.04.15 07:15:23.660,kai_longley,"",0,THL
+1,2025.04.14 07:18:44.480,PAE-ASD-0006,"UB1, PAE-ASD-0006 Under Substations - F1",Aspirating smoke detector fault,2025.04.15 07:15:23.738,kai_longley,"",0,SDU
+1,2025.04.14 07:18:32.721,WPZ-FIP-0001,Western Portal Main Fire Panel,Fire panel(s) in the portal building have a fault,2025.04.15 07:15:23.738,kai_longley,"",0,SDU
+1,2025.04.14 07:16:23.181,TNC_DOR_GF_CBN-S-04_1,Franklin West Emergency Stairs - Ground Floor,Unauthorised access,2025.04.15 07:15:23.750,kai_longley,"",0,STL
+1,2025.04.14 07:13:29.689,TSC_LFT_0005,Lift 5 FOH (B3 Basement to GF Ground Floor),Lift General Fault,2025.04.15 07:15:23.660,kai_longley,"",0,THL
+1,2025.04.14 06:22:07.527,DMA_DOR_B1_151-5_4,Concourse East - Back of house East corridor,Unauthorised access,2025.04.14 06:23:28.449,frank_stanisic,"",0,AZC
+1,2025.04.13 10:04:52.521,PKV_LFT_0011,Lift 11 BOH (Street to Lower Ground),Lift General Fault,2025.04.13 10:18:26.335,kira_scotland,"",0,PKV
+1,2025.04.13 10:04:51.810,TSC_LFT_0012,Lift 12 BOH (B4 Basement to B3 Basement),Lift General Fault,2025.04.15 07:15:13.496,kai_longley,"",0,THL
+1,2025.04.13 10:03:11.338,TNC_LFT_0017,Lift 17 BOH (Ground Floor to Level 3),Lift General Fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.13 10:03:11.315,TNC_LFT_0004,Lift 4 FOH (B6 Basement to B4 Basement),Lift General Fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.13 10:01:29.857,TNC_LFT_0014,Lift 14 BOH (B5 Basement to Ground Floor),Lift General Fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.13 10:01:28.738,TSC_LFT_0006,Lift 6 FOH (B3 Basement to GF Ground Floor),Lift General Fault,2025.04.15 07:15:13.496,kai_longley,"",0,THL
+1,2025.04.13 09:58:11.507,DMA_LFT_0003,Lift 3 FOH (Street to Concourse),Lift General Fault,2025.04.13 09:59:48.566,elizabeth_james,"",0,AZC
+1,2025.04.13 09:58:10.712,TSC_LFT_0014,Lift 14 BOH (B6 Basement to B3 Basement),Lift General Fault,2025.04.15 07:15:13.496,kai_longley,"",0,THL
+1,2025.04.13 08:54:01.335,TNC_LFT_0011,Lift 11 BOH (B6 Basement to B5 Basement),Lift General Fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.13 08:54:00.633,TSC_LFT_0004,Lift 4 FOH (B4 Basement to B3 Basement),Lift General Fault,2025.04.15 07:15:13.496,kai_longley,"",0,THL
+1,2025.04.13 08:53:59.508,DMA_LFT_0009,Lift 9 BOH (Concourse to Platforms),Lift General Fault,2025.04.13 08:56:38.280,elizabeth_james,"",0,AZC
+1,2025.04.13 08:53:59.499,PKV_LFT_0005,Lift 5 FOH (Street to Concourse),Lift General Fault,2025.04.13 09:12:59.678,kira_scotland,"",0,PKV
+1,2025.04.13 08:53:58.750,TSC_LFT_0003,Lift 3 FOH (B4 Basement to B3 Basement),Lift General Fault,2025.04.15 07:15:13.496,kai_longley,"",0,THL
+1,2025.04.13 08:53:58.502,PKV_LFT_0007,Lift 7 FOH (Street to Concourse),Lift General Fault,2025.04.13 09:13:21.766,kira_scotland,"",0,PKV
+1,2025.04.13 08:53:13.846,AEN_ESC_0003,Escalator 3 Bank 3 (Concourse to Platforms),Escalator communications lost,2025.04.13 08:55:19.559,sandi_murphy,"",0,ARN
+1,2025.04.12 13:37:22.898,TNC_LFT_0012,Lift 12 BOH (B7 Basement to Ground Floor),Lift General Fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.12 13:15:54.096,TNC_LFT_0003,Lift 3 FOH (B6 Basement to B4 Basement),Lift safety feature fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.12 07:36:51.704,PKV_DOR_B4_PKV-S-02_3,East Emergency Stairs - Platform,Unauthorised access,2025.04.12 07:37:19.588,khondoker_hossain,"",0,PKV
+1,2025.04.12 07:35:34.437,TNC_LFT_0001,Lift 1 FOH (B6 Basement to B5 Basement),Lift General Fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.12 07:35:34.437,TNC_LFT_0001,Lift 1 FOH (B6 Basement to B5 Basement),Lift safety feature fault,2025.04.15 07:15:13.444,kai_longley,"",0,STL
+1,2025.04.11 12:49:03.678,TSC_LFT_0001,Lift 1 FOH (B4 Basement to B3 Basement),Lift General Fault,2025.04.15 07:15:13.496,kai_longley,"",0,THL
+1,2025.04.11 12:41:31.496,PKV_DOR_B2_402-3_2,East Emergency Stairs - Concourse,Unauthorised access,2025.04.11 12:43:01.576,kai_longley,"",0,PKV
+1,2025.04.11 11:15:01.142,TNC_LFT_0013,Lift 13 FOH (B6 Basement to B5 Basement),Lift safety feature fault,2025.04.11 12:43:01.678,kai_longley,"",0,STL
+1,2025.04.11 11:14:51.665,TNC_LFT_0013,Lift 13 FOH (B6 Basement to B5 Basement),Lift General Fault,2025.04.11 12:43:01.678,kai_longley,"",0,STL
+1,2025.04.11 09:54:09.176,PKV-SPE-0380,"B2, PKV-SPE-0380 Fire Corridor 402-5",Heat or smoke detector fault,2025.04.11 10:37:03.607,shabnam_lal,"",0,PKV
+1,2025.04.11 09:54:02.663,PKV-SPE-0382,"B2, PKV-SPE-0382 Fire Corridor 402-5",Heat or smoke detector fault,2025.04.11 10:37:05.640,shabnam_lal,"",0,PKV
+1,2025.04.11 09:54:01.280,PKV-SPE-1119,"B2, PKV-SPE-1119 Fire Corridor 402-5 C/S",Heat or smoke detector fault,2025.04.11 11:04:23.530,shabnam_lal,"",0,PKV
+1,2025.04.11 09:53:59.394,PKV-SPE-0495,"B2, PKV-SPE-0495 Fire Corridor 402-5",Heat or smoke detector fault,2025.04.11 11:04:56.101,shabnam_lal,"",0,PKV
+1,2025.04.11 09:51:58.164,PKV-SPE-0383,"B2, PKV-SPE-0383 RECYCLED WATER RM 889-1",Heat or smoke detector fault,2025.04.11 11:05:02.300,shabnam_lal,"",0,PKV
+1,2025.04.11 09:48:19.796,PKV-FIP-0001,Parkville Station FDCIE Panel ,Fire panel(s) in the station have a fault,2025.04.11 11:05:10.038,shabnam_lal,"",0,PKV
+1,2025.04.10 08:46:26.540,PKV_DOR_B3_PKV-S-03_1,West Upper Emergency Stairs - Basement,Unauthorised access,2025.04.10 09:05:06.420,alena_vu,"",0,PKV
+1,2025.04.10 08:22:48.744,TSC_ESC_0041,Escalator 41 Bank 14 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:08.991,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.744,TSC_ESC_0042,Escalator 42 Bank 14 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:08.991,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.744,TSC_ESC_0043,Escalator 43 Bank 15 (B3M Basement Mezzanine to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.744,TSC_ESC_0044,Escalator 44 Bank 15 (B3M Basement Mezzanine to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.743,TSC_ESC_0040,Escalator 40 Bank 14 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.733,TSC_ESC_0034,Escalator 34 Bank 12 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.733,TSC_ESC_0035,Escalator 35 Bank 13 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.733,TSC_ESC_0036,Escalator 36 Bank 13 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.733,TSC_ESC_0037,Escalator 37 Bank 13 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.733,TSC_ESC_0038,Escalator 38 Bank 13 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.733,TSC_ESC_0039,Escalator 39 Bank 14 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.722,TSC_ESC_0027,Escalator 27 Bank 10 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.722,TSC_ESC_0028,Escalator 28 Bank 10 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.722,TSC_ESC_0029,Escalator 29 Bank 10 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.722,TSC_ESC_0030,Escalator 30 Bank 12 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.722,TSC_ESC_0031,Escalator 31 Bank 12 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.722,TSC_ESC_0032,Escalator 32 Bank 12 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.722,TSC_ESC_0033,Escalator 33 Bank 12 (Street to B1 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.717,TSC_ESC_0025,Escalator 25 Bank 9 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.717,TSC_ESC_0026,Escalator 26 Bank 10 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.716,TSC_ESC_0024,Escalator 24 Bank 9 (B1 Basement to B2 Basement),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.706,TSC_ESC_0019,Escalator 19 Bank 7 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.706,TSC_ESC_0020,Escalator 20 Bank 7 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.706,TSC_ESC_0021,Escalator 21 Bank 8 (B1 Basement to B3M Basement Mezzanine),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.706,TSC_ESC_0022,Escalator 22 Bank 8 (B1 Basement to B3M Basement Mezzanine),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.706,TSC_ESC_0023,Escalator 23 Bank 8 (B1 Basement to B3M Basement Mezzanine),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.704,TSC_ESC_0018,Escalator 18 Bank 7 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.694,TSC_ESC_0013,Escalator 13 Bank 6 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.694,TSC_ESC_0014,Escalator 14 Bank 6 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.694,TSC_ESC_0015,Escalator 15 Bank 6 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.694,TSC_ESC_0016,Escalator 16 Bank 6 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:13.981,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.694,TSC_ESC_0017,Escalator 17 Bank 7 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.694,TSC_ESC_0012,Escalator 12 Bank 6 (B2 Basement to Concourse),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.682,TSC_ESC_0006,Escalator 6 Bank 4 (Concourse to Platforms),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.682,TSC_ESC_0007,Escalator 7 Bank 4 (Concourse to Platforms),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.682,TSC_ESC_0008,Escalator 8 Bank 4 (Concourse to Platforms),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.682,TSC_ESC_0009,Escalator 9 Bank 5 (Concourse to Platforms),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.682,TSC_ESC_0010,Escalator 10 Bank 5 (Concourse to Platforms),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:22:48.682,TSC_ESC_0011,Escalator 11 Bank 5 (Concourse to Platforms),Escalator communications lost,2025.04.11 12:43:18.529,kai_longley,"",0,THL
+1,2025.04.10 08:18:36.745,PAE_LFT_0001,Lift 1 BOH (B1 Basement to Level 1),Portal building lift General Fault,2025.04.11 12:43:18.470,kai_longley,"",0,SDU
+1,2025.04.10 07:54:05.565,TNC_LFT_0003,Lift 3 FOH (B6 Basement to B4 Basement),Lift General Fault,2025.04.11 12:43:18.530,kai_longley,"",0,STL
+1,2025.04.10 00:23:30.040,_ReduManager,Distributed Server 1,Server 1 - Set active automatically,2025.04.10 07:31:18.184,kai_longley,"",0,ARN
+1,2025.04.09 07:53:55.533,TNC_DOR_L2_CBN-S-04_1,Franklin West Emergency Stairs - L2,Unauthorised access,2025.04.10 07:29:10.608,kai_longley,"",0,STL
+1,2025.04.08 12:24:22.796,TSC_LFT_0015,Lift 15 BOH (B4 Basement to GF Ground Floor),Lift monitoring lost ,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:22.796,TSC_LFT_0016,Lift 16 FOH (B4 Basement to B3 Basement),Lift monitoring lost ,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:22.795,TSC_LFT_0010,Lift 10 FOH (B2 Basement to GF Ground Floor),Lift monitoring lost ,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:22.795,TSC_LFT_0011,Lift 11 FOH (B2 Basement to GF Ground Floor),Lift monitoring lost ,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:22.784,TSC_LFT_0007,Lift 7 FOH (B3 Basement to B2 Basement),Lift monitoring lost ,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:22.784,TSC_LFT_0008,Lift 8 FOH (B3 Basement to B2 Basement),Lift monitoring lost ,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:22.784,TSC_LFT_0009,Lift 9 FOH (B3 Basement to GF Ground Floor),Lift monitoring lost ,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.805,TSC_LFT_0015,Lift 15 BOH (B4 Basement to GF Ground Floor),Lift safety feature fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.805,TSC_LFT_0016,Lift 16 FOH (B4 Basement to B3 Basement),Lift safety feature fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.793,TSC_LFT_0007,Lift 7 FOH (B3 Basement to B2 Basement),Lift safety feature fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.793,TSC_LFT_0008,Lift 8 FOH (B3 Basement to B2 Basement),Lift safety feature fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.793,TSC_LFT_0009,Lift 9 FOH (B3 Basement to GF Ground Floor),Lift safety feature fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.793,TSC_LFT_0010,Lift 10 FOH (B2 Basement to GF Ground Floor),Lift safety feature fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.793,TSC_LFT_0011,Lift 11 FOH (B2 Basement to GF Ground Floor),Lift safety feature fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.681,TSC_ESC_0003,Escalator 3 Bank 3 (Concourse to Platforms),Escalator General Fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.681,TSC_ESC_0004,Escalator 4 Bank 3 (Concourse to Platforms),Escalator General Fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.670,TSC_ESC_0002,Escalator 2 Bank 2 (Concourse to Platforms),Escalator stopped (brake mechanism fault),2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.08 12:24:12.670,TSC_ESC_0002,Escalator 2 Bank 2 (Concourse to Platforms),Escalator General Fault,2025.04.09 07:30:59.380,kai_longley,"",0,THL
+1,2025.04.07 12:24:35.497,TNC_ESC_0007,Escalator 7 Bank 3 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.07 14:29:51.366,kai_longley,"",0,STL
+1,2025.04.07 12:24:22.585,TNC_ESC_0008,Escalator 8 Bank 3 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.07 14:29:51.366,kai_longley,"",0,STL
+1,2025.04.07 12:23:59.375,TNC_ESC_0009,Escalator 9 Bank 3 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.07 14:29:51.366,kai_longley,"",0,STL
+1,2025.04.07 12:16:07.567,TNC_ESC_0005,Escalator 5 Bank 2 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.07 14:29:51.366,kai_longley,"",0,STL
+1,2025.04.07 12:15:46.529,TNC_ESC_0006,Escalator 6 Bank 2 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.07 14:29:51.366,kai_longley,"",0,STL
+1,2025.04.07 12:14:51.300,TNC_ESC_0004,Escalator 4 Bank 2 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.07 14:29:51.366,kai_longley,"",0,STL
+1,2025.04.05 11:46:09.248,PKV_LFT_0004,Lift 4 FOH (Street to Concourse),Lift power lost,2025.04.05 11:46:22.947,alena_vu,"",0,PKV
+1,2025.04.05 08:46:19.217,PKV_ESC_0006,Escalator 6 Bank 3 (Concourse to Platforms),Escalator power lost,2025.04.05 08:53:19.363,alena_vu,"",0,PKV
+1,2025.04.05 08:44:58.263,PKV_ESC_0005,Escalator 5 Bank 3 (Concourse to Platforms),Escalator power lost,2025.04.05 08:53:21.662,alena_vu,"",0,PKV
+1,2025.04.04 09:56:49.167,PKV_DOR_B2_151-15_1,East BOH Corridor Entry - Concourse,Unauthorised access,2025.04.04 12:16:32.980,tauseef_mohammed,"",0,PKV
+1,2025.04.04 06:21:04.294,PKV_DOR_B3_151-18_1,West Fire Escape Corridor - Basement,Unauthorised access,2025.04.04 12:16:47.658,tauseef_mohammed,"",0,PKV
+1,2025.04.03 18:32:27.853,DMA_LFT_0006,Lift 6 FOH (Street to Concourse),Lift failed to enter secure mode,2025.04.04 13:15:58.298,dominic_dlasselle,"",0,AZC
+1,2025.04.03 11:51:41.685,AEN-ASD-0009,"L2, AEN-ASD-0009, Entrance C/S - F1",Aspirating smoke detector fault,2025.04.04 15:22:28.942,kai_longley,"",0,ARN
+1,2025.04.03 11:51:41.525,AEN-FIP-0001,Arden Main Fire Panel,Fire panel(s) in the station have a fault,2025.04.03 11:51:57.747,emilio_ito,"",0,ARN
+1,2025.04.03 09:10:00.241,PKV_ESC_0004,Escalator 4 Bank 2 (Concourse to Platforms),Escalator power lost,2025.04.03 09:29:31.808,kai_longley,"",0,PKV
+1,2025.04.03 09:08:57.213,PKV_ESC_0003,Escalator 3 Bank 2 (Concourse to Platforms),Escalator power lost,2025.04.03 09:29:31.808,kai_longley,"",0,PKV
+1,2025.04.02 13:50:42.651,TNC_ESC_0025,Escalator 25 Bank 7 (Street to B2 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.650,TNC_ESC_0024,Escalator 24 Bank 7 (Street to B2 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.640,TNC_ESC_0017,Escalator 17 Bank 5 (B2 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.640,TNC_ESC_0018,Escalator 18 Bank 6 (Street to B3 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.640,TNC_ESC_0019,Escalator 19 Bank 6 (Street to B3 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.640,TNC_ESC_0020,Escalator 20 Bank 6 (Street to B3 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.640,TNC_ESC_0021,Escalator 21 Bank 7 (Street to B2 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.640,TNC_ESC_0022,Escalator 22 Bank 7 (Street to B2 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.640,TNC_ESC_0023,Escalator 23 Bank 7 (Street to B2 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.638,TNC_ESC_0016,Escalator 16 Bank 5 (B2 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.628,TNC_ESC_0010,Escalator 10 Bank 4 (B3 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.628,TNC_ESC_0011,Escalator 11 Bank 4 (B3 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.628,TNC_ESC_0012,Escalator 12 Bank 4 (B3 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.628,TNC_ESC_0013,Escalator 13 Bank 5 (B2 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.628,TNC_ESC_0014,Escalator 14 Bank 5 (B2 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.628,TNC_ESC_0015,Escalator 15 Bank 5 (B2 Basement to B5 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.616,TNC_ESC_0001,Escalator 1 Bank 1 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.616,TNC_ESC_0002,Escalator 2 Bank 1 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.02 13:50:42.616,TNC_ESC_0003,Escalator 3 Bank 1 (B5 Basement to B6 Basement),Escalator communications lost,2025.04.03 09:29:31.799,kai_longley,"",0,STL
+1,2025.04.01 10:37:33.379,DMA_LFT_0006,Lift 6 FOH (Street to Concourse),Lift monitoring lost ,2025.04.01 10:38:51.967,elizabeth_james,"",0,AZC
+1,2025.03.31 15:13:51.808,DMA_LFT_0007,Lift 7 BOH (Street to Concourse),Lift monitoring lost ,2025.03.31 17:56:21.708,dominic_dlasselle,"",0,AZC
+1,2025.03.31 15:13:51.801,DMA_ESC_0011,Escalator 11 Bank 7 (Street to Concourse),Escalator communications lost,2025.03.31 17:56:46.724,dominic_dlasselle,"",0,AZC
+1,2025.03.31 15:13:51.801,DMA_ESC_0012,Escalator 12 Bank 7 (Street to Concourse),Escalator communications lost,2025.03.31 17:56:46.724,dominic_dlasselle,"",0,AZC
+1,2025.03.31 15:13:39.795,DMA_LFT_0006,Lift 6 FOH (Street to Concourse),Lift safety feature fault,2025.03.31 17:56:46.724,dominic_dlasselle,"",0,AZC
+1,2025.03.31 15:13:39.795,DMA_LFT_0007,Lift 7 BOH (Street to Concourse),Lift safety feature fault,2025.03.31 17:56:46.724,dominic_dlasselle,"",0,AZC
+1,2025.03.31 10:27:17.608,PKV_ROL_GF_PKV-RPDE_1,Royal Parade Entry Roller Door,Unauthorised access,2025.03.31 10:53:27.507,dominic_dlasselle,"",0,PKV
+1,2025.03.31 10:27:12.132,PKV_DOR_B3_PKV-S-03_3,West Upper Emergency Stairs - Basement,Unauthorised access,2025.03.31 11:46:23.693,kasturi_jathar,"",0,PKV
+1,2025.03.31 10:26:27.936,TNC_LFT_0019,Lift 19 BOH (B5 Basement to B7 Basement),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:27.761,TNC_LFT_0019,Lift 19 BOH (B5 Basement to B7 Basement),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:27.218,TNC_LFT_0016,Lift 16 BOH (B7 Basement to Level 1),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:27.034,TNC_LFT_0016,Lift 16 BOH (B7 Basement to Level 1),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:26.824,TNC_LFT_0015,Lift 15 BOH (B7 Basement to Ground Floor),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:26.654,TNC_LFT_0015,Lift 15 BOH (B7 Basement to Ground Floor),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:25.091,TNC_LFT_0010,Lift 10 FOH (B2 Basement to Ground Floor),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:24.918,TNC_LFT_0010,Lift 10 FOH (B2 Basement to Ground Floor),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:24.699,TNC_LFT_0009,Lift 9 FOH (B2 Basement to Ground Floor),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:24.524,TNC_LFT_0009,Lift 9 FOH (B2 Basement to Ground Floor),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:24.312,TNC_LFT_0008,Lift 8 FOH (B4 Basement to B1 Basement),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:24.137,TNC_LFT_0008,Lift 8 FOH (B4 Basement to B1 Basement),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:23.924,TNC_LFT_0007,Lift 7 FOH (B4 Basement to B1 Basement),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:23.752,TNC_LFT_0007,Lift 7 FOH (B4 Basement to B1 Basement),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:23.540,TNC_LFT_0006,Lift 6 FOH (B5 Basement to Ground Floor),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:23.367,TNC_LFT_0006,Lift 6 FOH (B5 Basement to Ground Floor),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:23.144,TNC_LFT_0005,Lift 5 FOH (B5 Basement to Ground Floor),Lift safety feature fault,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:26:22.970,TNC_LFT_0005,Lift 5 FOH (B5 Basement to Ground Floor),Lift monitoring lost ,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:25:07.572,PKV_LFT_0004,Lift 4 FOH (Street to Concourse),Lift General Fault,2025.03.31 11:46:48.885,kasturi_jathar,"",0,PKV
+1,2025.03.31 10:25:07.392,PKV_LFT_0003,Lift 3 FOH (Street to Concourse),Lift safety feature fault,2025.03.31 11:46:52.717,kasturi_jathar,"",0,PKV
+1,2025.03.31 10:25:07.274,PKV_LFT_0003,Lift 3 FOH (Street to Concourse),Lift General Fault,2025.03.31 11:46:54.876,kasturi_jathar,"",0,PKV
+1,2025.03.31 10:24:19.224,AEN_LFT_0006,Lift 6 BOH (Level 2 to Platforms),Lift monitoring lost ,2025.03.31 11:47:03.089,kasturi_jathar,"",0,ARN
+1,2025.03.31 10:23:16.626,PKV_ESC_0002,Escalator 2 Bank 1 (Concourse to Platforms),Escalator power lost,2025.03.31 11:45:21.275,kasturi_jathar,"",0,PKV
+1,2025.03.31 10:23:15.742,PKV_ESC_0001,Escalator 1 Bank 1 (Concourse to Platforms),Escalator power lost,2025.03.31 11:45:19.648,kasturi_jathar,"",0,PKV
+1,2025.03.31 10:23:10.119,AEN_ESC_0007,Escalator 7 Bank 5 (Street to Concourse),Escalator power lost,2025.03.31 11:45:24.299,kasturi_jathar,"",0,ARN
+1,2025.03.31 10:23:09.317,AEN_ESC_0006,Escalator 6 Bank 5 (Street to Concourse),Escalator power lost,2025.03.31 11:45:23.027,kasturi_jathar,"",0,ARN
+1,2025.03.31 10:23:08.538,AEN_ESC_0005,Escalator 5 Bank 5 (Street to Concourse),Escalator power lost,2025.03.31 11:45:27.273,kasturi_jathar,"",0,ARN
+1,2025.03.31 10:23:07.016,AEN_ESC_0003,Escalator 3 Bank 3 (Concourse to Platforms),Escalator General Fault,2025.03.31 11:45:25.939,kasturi_jathar,"",0,ARN
+1,2025.03.31 10:23:06.883,TSC_SYS_0003,Town Hall EWIS connection status,PSS 2 connection 2 lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.877,TSC_SYS_0003,Town Hall EWIS connection status,PSS 2 connection 1 lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.871,TSC_SYS_0003,Town Hall EWIS connection status,PSS 1 connection 2 lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.866,TSC_SYS_0003,Town Hall EWIS connection status,PSS 1 connection 1 lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.858,TSC_SYS_0003,Town Hall EWIS connection status,All connections lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.818,TSC_SYS_0001,Town Hall FDS (Modbus) connection status,PSS 2 connection 1 lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.810,TSC_SYS_0001,Town Hall FDS (Modbus) connection status,PSS 1 connection 1 lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.802,TSC_SYS_0001,Town Hall FDS (Modbus) connection status,All connections lost,2025.03.31 12:31:55.441,kai_longley,"",0,THL
+1,2025.03.31 10:23:06.534,AEN_ESC_0003,Escalator 3 Bank 3 (Concourse to Platforms),Escalator stopped (main drive chain top right),2025.03.31 11:45:29.274,kasturi_jathar,"",0,ARN
+1,2025.03.31 10:23:05.442,AEN_ESC_0001,Escalator 1 Bank 1 (Concourse to Platforms),Escalator General Fault,2025.03.31 11:45:30.618,kasturi_jathar,"",0,ARN
+1,2025.03.31 10:23:01.437,TNC_SYS_0003,State Library EWIS connection status,PSS 2 connection 2 lost,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:23:01.431,TNC_SYS_0003,State Library EWIS connection status,PSS 2 connection 1 lost,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:23:01.426,TNC_SYS_0003,State Library EWIS connection status,PSS 1 connection 2 lost,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:23:01.420,TNC_SYS_0003,State Library EWIS connection status,PSS 1 connection 1 lost,2025.03.31 12:31:55.443,kai_longley,"",0,STL
+1,2025.03.31 10:23:01.411,TNC_SYS_0003,State Library EWIS connection status,All connections lost,2025.03.31 12:31:55.443,kai_longley,"",0,STL
